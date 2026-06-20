@@ -1,0 +1,2177 @@
+{
+ "slug": "inglisuri-5-varianti-2022",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2022,
+ "variant": 5,
+ "kind": "test",
+ "title": "ინგლისური - 2022 წელი 5 ვარიანტი",
+ "num_questions": 46,
+ "num_content_blocks": 25,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<h2>Task 1: You are going to listen to five texts. For each of them answer the two questions given. Mark the correct answer A, B or C. You have 20 seconds to look through the task. You will hear the recording twice. (10 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/2022V5.mp3 \" type=\"audio/mpeg\"/> Your browser does not support the audio element. </audio>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 1</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "The speaker says that",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> David has been his friend since childhood.</span>",
+     "text": "David has been his friend since childhood."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> David had the same hobbies as the speaker.</span>",
+     "text": "David had the same hobbies as the speaker."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> David went to the same school with the speaker.</span>",
+     "text": "David went to the same school with the speaker."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "",
+   "stem_html": "What does the speaker say about fishing?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> It was David who taught him how to fish.</span>",
+     "text": "It was David who taught him how to fish."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Fishing became his hobby at high school.</span>",
+     "text": "Fishing became his hobby at high school."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He and David used to go fishing together.</span>",
+     "text": "He and David used to go fishing together."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 2</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "",
+   "stem_html": "We learn from the speaker that Mont Blanc is the",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> mountain on the border of Georgia.</span>",
+     "text": "mountain on the border of Georgia."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> highest mountain peak in the Caucasus.</span>",
+     "text": "highest mountain peak in the Caucasus."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> mountain on the border of France and Italy.</span>",
+     "text": "mountain on the border of France and Italy."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "",
+   "stem_html": "How many legends connected to the Caucasus Mountains are mentioned in the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> One.</span>",
+     "text": "One."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Two.</span>",
+     "text": "Two."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Three.</span>",
+     "text": "Three."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 3</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "",
+   "stem_html": "Harbin Festival in China is the",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> world’s biggest ice and snow festival.</span>",
+     "text": "world’s biggest ice and snow festival."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> major event in Japan.</span>",
+     "text": "major event in Japan."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> national Malaysian holiday.</span>",
+     "text": "national Malaysian holiday."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "",
+   "stem_html": "Where can the visitors see the ice sculptures?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> On the river bank.</span>",
+     "text": "On the river bank."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> All over the city.</span>",
+     "text": "All over the city."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Only in the city garden.</span>",
+     "text": "Only in the city garden."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 4</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "",
+   "stem_html": "How did Julius Caesar spend most of his time with the pirates?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He wrote poems.</span>",
+     "text": "He wrote poems."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He slept all the time.</span>",
+     "text": "He slept all the time."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He sailed to different islands.</span>",
+     "text": "He sailed to different islands."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "",
+   "stem_html": "What do we learn about Julius Caesar from the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He became the leader of the pirates.</span>",
+     "text": "He became the leader of the pirates."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He refused to stay alone on the pirates’ island.</span>",
+     "text": "He refused to stay alone on the pirates’ island."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He told his men to go and gather silver for the pirates.</span>",
+     "text": "He told his men to go and gather silver for the pirates."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 5</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "",
+   "stem_html": "When is Didgoroba celebrated?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> In May.</span>",
+     "text": "In May."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> In August.</span>",
+     "text": "In August."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> In September.</span>",
+     "text": "In September."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "",
+   "stem_html": "What is the text mostly about?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> The Georgian Golden Age.</span>",
+     "text": "The Georgian Golden Age."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> A famous battle in Georgia.</span>",
+     "text": "A famous battle in Georgia."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Festival of Didgoroba.</span>",
+     "text": "Festival of Didgoroba."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 2: You are going to listen to one text with eight questions. Mark the correct answer A, B or C. You now have 30 seconds to look through the task. You will then hear the recording twice. (8 points)</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 1,
+   "heading": "",
+   "stem_html": "The speaker has always expected that one day she may lose her",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> voice.</span>",
+     "text": "voice."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> talent.</span>",
+     "text": "talent."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> beauty.</span>",
+     "text": "beauty."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 2,
+   "heading": "",
+   "stem_html": "How did the speaker feel when she could not speak?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Bored.</span>",
+     "text": "Bored."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Miserable.</span>",
+     "text": "Miserable."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Indifferent.</span>",
+     "text": "Indifferent."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 3,
+   "heading": "",
+   "stem_html": "When the singer couldn’t speak, she had a lot of disagreements with",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> her partner.</span>",
+     "text": "her partner."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> her elder son.</span>",
+     "text": "her elder son."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> her younger son.</span>",
+     "text": "her younger son."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 4,
+   "heading": "",
+   "stem_html": "The speaker’s voice came back",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> after visiting religious places.</span>",
+     "text": "after visiting religious places."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> after the operation.</span>",
+     "text": "after the operation."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> without a surgery.</span>",
+     "text": "without a surgery."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 5,
+   "heading": "",
+   "stem_html": "The El Dorado Tour was unlike other tours because the speaker felt",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> that people liked her.</span>",
+     "text": "that people liked her."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> sure that she was a good singer.</span>",
+     "text": "sure that she was a good singer."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> the enjoyment of singing.</span>",
+     "text": "the enjoyment of singing."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 6,
+   "heading": "",
+   "stem_html": "What did the speaker find difficult when she was on tours?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> To leave Gerard alone.</span>",
+     "text": "To leave Gerard alone."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> To be away from her sons.</span>",
+     "text": "To be away from her sons."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> To watch her sons behaving badly.</span>",
+     "text": "To watch her sons behaving badly."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 7,
+   "heading": "",
+   "stem_html": "The speaker tells her sons about the",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> facts of their parents’ career.</span>",
+     "text": "facts of their parents’ career."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> details of their parents’ success.</span>",
+     "text": "details of their parents’ success."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> difficulties their parents have faced.</span>",
+     "text": "difficulties their parents have faced."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 8,
+   "heading": "",
+   "stem_html": "The speaker wants her children to understand that",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> the life is sometimes hard.</span>",
+     "text": "the life is sometimes hard."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> everything happens as planned.</span>",
+     "text": "everything happens as planned."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> they should not be confused at her shows.</span>",
+     "text": "they should not be confused at her shows."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 3: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>(8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Which paragraph</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> 1. mentions experts’ recommendations to students on how to prepare for exams? <br/> 2. mentions the number of pieces of chewing gum chewed per year? <br/> 3. explains how chewing gum helps improve memory? <br/> 4. gives information about the time that is good for studying? <br/> 5. describes the experiment to see if chewing gum improves memory? <br/> 6. explains why American soldiers are given chewing gums? <br/> 7. could have the title: ‘Chew and get slim’? <br/> 8. could have the title: ‘An amazing discovery’? </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2> Good and bad sides of chewing gum </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b>Do you know that chewing gum is not something that is new to the human race? The surprising fact is that chewing gum as old as 9,000 years have been found recently! The archaeologists say that this gum may be the oldest found in the world. It was among findings at an excavation of a small stone-age community in western Sweden. So clearly, there is something about the chewing gum that makes it so popular even after so many years! Chewing gum is loved by many people, especially children who love bubble-gum’s sugary flavours. Although chewing gum can make students healthier, a lot of schools still don’t like that their students chew gums. So, if you are one of those who love or hate chewing gum, just get more information and learn about the advantages and disadvantages of this habit. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> Without any doubt, chewing gum is very popular. Annual income from selling gum in the USA is over two billion dollars. But perhaps this is not surprising when you learn that one American on average chews about 300 pieces annually - that’s a lot of gum. Why is chewing gum so popular? One manufacturer says that it not only helps you relax more, but it also helps you stay awake This is the reason why the American armed forces have been giving chewing gum to their soldiers since the First World War. People also chew gum after a meal to have fresh breath. It can help fight tooth decay too, which may mean fewer visits to the dentist. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> But did you know that chewing gum has another benefit? Scientists say that chewing gum can help you improve memory. How do scientists know that? The scientists divided 75 people into three groups. One third chewed real gum, one third chewed imaginary gum, and the last third didn’t chew anything at all. Then the scientists gave each group a memory test to do. The results were very interesting. The people with the real gum did better than the people with the imaginary gum. And the people with imaginary gum did better than those who didn’t have any gum at all. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b>How does chewing gum help memory? One possible reason is that when people chew, a certain area of the brain becomes more active which is important for good memory. Another possible reason is that while chewing a piece of gum, the heart beats faster and, so, more oxygen goes to the brain. So, the experiment carried out on the three groups of people mentioned above showed that chewing gum in basic terms wakes up your brain and allows you to concentrate better. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> The experts from Chicago recommend students to use chewing gum while getting ready for the exams. They say that students are under a lot of pressure to get good grades and this advice might help them in a way. They also suggest that students should study during the day when they can concentrate better, not at night. While studying in a comfortable place they should listen to their favourite music. Finally students should chew gum to help them relax. If it also helps improve memory, start to chew a piece of gum. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> Another advantage you can get from chewing gum is the possible weight loss. A lot of chewing gum brands are packed with calories and sugar, which may lead to weight gain. But then, some studies claim that chewing gum, particularly the sugar-free one, lowers the appetite. It has been recognised that while chewing the gum you probably eat less sweets and snacks. It has been proved that gum chewers actually burn about five percent more calories than non-gum chewers. </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<h2> Task 4: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D) (8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>This is a story of a boy who lives in Brighton, a famous seaside city on the southern coast of England. </i><br/> ‘Four years ago I packed up my things and made the big move from home to university – I moved from the south London suburbs to Brighton to study at the University of Sussex. I graduated last year, but I started to love this beautiful seaside city so much that I decided to stay. I got a good job in an advertising agency and soon I could afford to rent a flat in central Brighton. There are so many reasons to love Brighton. So, here I am living my dream life in the city which is full of things to see and do. Nicknamed ‘London-by-the-Sea,’ Brighton has something for everyone. It is always full of artists, musicians and people having great fun at the seaside. There’s always something going on – festivals, concerts, shows and sports events. There are lots of great restaurants in the city too, but I think my favourite place to eat out is a little café five or six kilometres from the city centre. It’s on the beach, on the other side of the harbour. I go there in the mornings for a coffee and a sandwich. It’s a great start of the day, before I go to the office. Brighton is located about seventy-six kilometres south of London. In fact, you can hop on a train and be in London in less than an hour. This makes it easy for people living in London to enjoy the relaxed lifestyle in Brighton while still working in the capital. Brighton is quite small, so it’s easy to get around the city on foot or by bike. There are endless hidden wonders to discover in the city. I used to cycle everywhere, but since my bike was stolen five months ago, I’ve used a skateboard instead. I can carry it into shops with me, or into the office. If I need to, I can take my skateboard on the bus. I don’t drive. None of my friends do, because it’s so hard to find places to park a car. Brighton’s history dates all the way back to 3000 BC and is full of stories of Celts, Romans and Anglo-Saxons. The area first became popular in the 18th century. A doctor there started telling his patients that the sea air was good for their health. Soon the little fishing village became a fashionable tourist resort! Even King George IV spent much of his time in Brighton. He loved the place so much that he made the Royal Pavilion at Brighton his summer residence from 1786 to 1827. People have historically come to Brighton to love life. Maybe that’s why I love this town so much. Brighton’s Royal Pavilion is not like any other royal palace in the UK or in Europe. British architect John Nash gave the palace an Indian style with Chinese interior decorations. The Royal Pavilion now houses a museum and art gallery and the Brighton Dome concert hall. In winter the Royal Pavilion opens its outdoor ice-skating rink. I never miss a chance to go skating there for the special Christmas experience. But when I need time to recover my energy I take a quiet stroll along the beach towards the Brighton Palace Pier* and watch the sunset. And when I need to make plans for the future, I sit on the rocks and watch the waves breathing in the magical, salty air that you can only find by the sea. Brighton really is the place where I feel at home and I don’t think I’d be happier living anywhere else.’ <br/> <br/> *pier: ზღვაში შეჭრილი კონსტრუქცია, რომელზედაც განთავსებულია გასართობი ადგილები და კაფეები. </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 1,
+   "heading": "",
+   "stem_html": "This is a story about",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> an unforgettable visit to Brighton.</span>",
+     "text": "an unforgettable visit to Brighton."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> the history of Brighton through the ages.</span>",
+     "text": "the history of Brighton through the ages."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> the most popular attractions of Brighton.</span>",
+     "text": "the most popular attractions of Brighton."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> the things that make Brighton special for the author.</span>",
+     "text": "the things that make Brighton special for the author."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 2,
+   "heading": "",
+   "stem_html": "The author decided to stay in Brighton because he",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> fell in love with the city.</span>",
+     "text": "fell in love with the city."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> bought a flat in Brighton.</span>",
+     "text": "bought a flat in Brighton."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> hoped to find a good job there.</span>",
+     "text": "hoped to find a good job there."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> wanted to teach at the University of Sussex.</span>",
+     "text": "wanted to teach at the University of Sussex."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 3,
+   "heading": "",
+   "stem_html": "How does the author start his day?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He visits his favourite restaurant.</span>",
+     "text": "He visits his favourite restaurant."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He goes straight to his office.</span>",
+     "text": "He goes straight to his office."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He has breakfast at the beach café.</span>",
+     "text": "He has breakfast at the beach café."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> He goes to a little café in the city centre.</span>",
+     "text": "He goes to a little café in the city centre."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 4,
+   "heading": "",
+   "stem_html": "Which is true about Brighton?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> It is a big coastal city.</span>",
+     "text": "It is a big coastal city."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> It is not popular with Londoners.</span>",
+     "text": "It is not popular with Londoners."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> It is a two-hour train-ride from London.</span>",
+     "text": "It is a two-hour train-ride from London."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> It is full of interesting places to explore.</span>",
+     "text": "It is full of interesting places to explore."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 5,
+   "heading": "",
+   "stem_html": "How does the author get around the city?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He drives a car.</span>",
+     "text": "He drives a car."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He rides his bike.</span>",
+     "text": "He rides his bike."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He uses a skateboard.</span>",
+     "text": "He uses a skateboard."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> He goes everywhere on foot.</span>",
+     "text": "He goes everywhere on foot."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 6,
+   "heading": "",
+   "stem_html": "The Royal Pavilion",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> was built in 1827.</span>",
+     "text": "was built in 1827."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> is a typical royal palace.</span>",
+     "text": "is a typical royal palace."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> was designed by King George IV.</span>",
+     "text": "was designed by King George IV."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> once served as the king’s residence.</span>",
+     "text": "once served as the king’s residence."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 7,
+   "heading": "",
+   "stem_html": "What does the author do to relax?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He takes an evening walk along the beach.</span>",
+     "text": "He takes an evening walk along the beach."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He visits the museum and art gallery.</span>",
+     "text": "He visits the museum and art gallery."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He goes skating on the famous ice rink.</span>",
+     "text": "He goes skating on the famous ice rink."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> He goes to the sea to watch the waves.</span>",
+     "text": "He goes to the sea to watch the waves."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 8,
+   "heading": "",
+   "stem_html": "Which of the following would be the best title for the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> The British royals</span>",
+     "text": "The British royals"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> The city I love</span>",
+     "text": "The city I love"
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Christmas in Brighton</span>",
+     "text": "Christmas in Brighton"
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> Getting around Brighton</span>",
+     "text": "Getting around Brighton"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 5: Read the text and fill the gaps with the words given. Use each word only once. Two words are extra. (12 points) </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>building (A) damage (B) dangerous (C) explained (D) follows (E) lucky (F) noise (G) outside (H) recommended (I) reduce (J) region (K) time (L) tropical (M) understand (N)</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Lightning</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>In ancient times people believed that angry gods threw lightning bolts from the heavens. It was not until the 1700s that scientists …… (1) what lightning was. They found out that lightning is electricity which is released from the Earth’s atmosphere during thunderstorms. The loud boom that …… (2) lightning is called thunder. The electricity from the lightning heats the gases in the air. As the gases expand, they make a loud …… (3). Lightning is most common in …… (4) countries. However, thunderstorms with lightning happen in almost every…… (5) of the world. Lightning can …… (6) buildings, ships and airplanes when it strikes. A big spark of electricity that goes from the sky down to the earth is a great danger for people. It can also kill or seriously injure a person. During a thunderstorm people are safer inside a …… (7) or a car. It is…… (8) to stay away from electrical equipment, open doors and windows. One should never swim or stay in a boat during a thunderstorm as lightning goes easily through water. People who are …… (9) during a thunderstorm should stay away from trees, as that can be the most …… (10) place to hide from the lightning. However, this did not concern Ray Sullivan, who was a park ranger in Shenandoah National Park in Virginia, USA. Though unbelievable, it is a fact that between 1942 and 1977 Ray Sullivan was hit by lightning seven times but survived each of them. Sullivan was extremely …… (11) to survive lightning hits since it is known that lightning kills almost everyone the first …… (12) it hits them. <br/> <br/> <br/> <br/> </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ზ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ნ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ლ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q42",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ი"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q43",
+   "number": 9,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "თ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q44",
+   "number": 10,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q45",
+   "number": 11,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q46",
+   "number": 12,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "მ"
+  }
+ ]
+}

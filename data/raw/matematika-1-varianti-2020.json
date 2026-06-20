@@ -1,0 +1,1038 @@
+{
+ "slug": "matematika-1-varianti-2020",
+ "url": "",
+ "subject": "math",
+ "subject_ka": "მათემატიკა",
+ "year": 2020,
+ "variant": 1,
+ "kind": "test",
+ "title": "მათემატიკის ტესტი 1 ვარიანტი 2020 წელი",
+ "num_questions": 35,
+ "num_content_blocks": 0,
+ "has_audio": false,
+ "blocks": [
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "ამოცანა 1",
+   "stem_html": "<p>$ \\Large 2\\frac{3}{8} - 0.6 $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 0,31 </span>",
+     "text": "0,31"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 0,32</span>",
+     "text": "0,32"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{7}{4} $</span>",
+     "text": "$ \\Large \\frac{7}{4} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{71}{40} $</span>",
+     "text": "$ \\Large \\frac{71}{40} $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "ამოცანა 2",
+   "stem_html": "<p> იპოვეთ 34 -ის და 51-ის უმცირესი საერთო ჯერადი. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 17 </span>",
+     "text": "17"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 85 </span>",
+     "text": "85"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 102</span>",
+     "text": "102"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 1734 </span>",
+     "text": "1734"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "ამოცანა 3",
+   "stem_html": "<p>გიას ხელფასი 20 %-ის ტოლი საშემოსავლო გადასახადის დაქვითვის შემდეგ შეადგენს 1500 ლარს. რისი ტოლია გიას ხელფასი დაქვითვამდე? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 1700 ლარი </span>",
+     "text": "1700 ლარი"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 1800 ლარი </span>",
+     "text": "1800 ლარი"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 1875 ლარი </span>",
+     "text": "1875 ლარი"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 1900 ლარი </span>",
+     "text": "1900 ლარი"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "ამოცანა 4",
+   "stem_html": "<p>სამკუთხედის გვერდისა და მისი პარალელური შუახაზის სიგრძეთა ჯამი 15 სმ-ის ტოლია. იპოვეთ ამ შუახაზის სიგრძე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 3 სმ</span>",
+     "text": "3 სმ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 5 სმ</span>",
+     "text": "5 სმ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 6 სმ</span>",
+     "text": "6 სმ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 7 სმ</span>",
+     "text": "7 სმ"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "ამოცანა 5",
+   "stem_html": "<p>პარალელოგრამის ორი კუთხის ჯამი 150° -ის ტოლია. რას უდრის პარალელოგრამის ბლაგვი კუთხე? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 105° </span>",
+     "text": "105°"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 110°</span>",
+     "text": "110°"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 115° </span>",
+     "text": "115°"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 120° </span>",
+     "text": "120°"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "ამოცანა 6",
+   "stem_html": "<p>$ \\Large \\frac{a^3-b^3}{a^2+a b+b^2} $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) a-b </span>",
+     "text": "a-b"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) a+b </span>",
+     "text": "a+b"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) (a-b)<sup>2</sup> </span>",
+     "text": "(a-b)2"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) (a+b)<sup>2</sup> </span>",
+     "text": "(a+b)2"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "ამოცანა 7",
+   "stem_html": "<p>ორ ქალაქს შორის მანძილი 120 კილომეტრია. რა მანძილია ამ ქალაქებს შორის რუკაზე, რომლის მასშტაბია 1:500000 ? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 24 სმ </span>",
+     "text": "24 სმ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 2,4 სმ </span>",
+     "text": "2,4 სმ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large 41 \\frac{2}{3} $ სმ </span>",
+     "text": "$ \\Large 41 \\frac{2}{3} $ სმ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large 4 \\frac{1}{6} $ სმ </span>",
+     "text": "$ \\Large 4 \\frac{1}{6} $ სმ"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "ამოცანა 8",
+   "stem_html": "<p>O სათავის მქონე რიცხვით ღერძზე მონიშნულია m n, და p რიცხვების შესაბამისი წერტილები (იხ. სურათი). <br/> </p> <p> ქვემოთ მოცემული უტოლობებიდან რომელია <b>მცდარი</b>? </p>",
+   "figures": [
+    "media/graph23415.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large (n-m) \\cdot p > 0 $ </span>",
+     "text": "$ \\Large (n-m) \\cdot p > 0 $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large mn > 0 $ </span>",
+     "text": "$ \\Large mn > 0 $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{1}{m} > \\frac{1}{n} $ </span>",
+     "text": "$ \\Large \\frac{1}{m} > \\frac{1}{n} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large p - m < p $ </span>",
+     "text": "$ \\Large p - m"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "ამოცანა 9",
+   "stem_html": "<p>ოჯახის მიერ დეკემბერში, იანვარსა და თებერვალში მოხმარებული ბუნებრივი აირი (კუბურ მეტრებში) წარმოდგენილია სვეტოვანი დიაგრამის სახით (იხ. სურათი). იგივე მონაცემები რომ წარმოადგინოთ წრიული დიაგრამის სახით, რამდენი გრადუსის ტოლი ცენტრალური კუთხე ექნება დეკემბრის თვის შესაბამის წრიულ სექტორს? </p>",
+   "figures": [
+    "media/graph41256.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 72°</span>",
+     "text": "72°"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) </span> $ \\Large \\left(\\frac{540}{7}\\right)^\\circ $",
+     "text": "$ \\Large \\left(\\frac{540}{7}\\right)^\\circ $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) </span>$ \\Large \\left(\\frac{720}{7}\\right)^\\circ $",
+     "text": "$ \\Large \\left(\\frac{720}{7}\\right)^\\circ $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) </span> 144°",
+     "text": "144°"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "ამოცანა 10",
+   "stem_html": "<p>ამოხსენით უტოლობა $ \\Large x^2 - 16 > (x-3)^2 $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\left(\\frac{25}{6} ; \\infty\\right) $ </span>",
+     "text": "$ \\left(\\frac{25}{6} ; \\infty\\right) $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\left(-\\infty ; \\frac{25}{6}\\right) $ </span>",
+     "text": "$ \\left(-\\infty ; \\frac{25}{6}\\right) $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) (3; 16) </span>",
+     "text": "(3; 16)"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) ამონახსნი არ აქვს</span>",
+     "text": "ამონახსნი არ აქვს"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "ამოცანა 11",
+   "stem_html": "<p>იპოვეთ 11; 2; 35; 2; 11; 3 რიცხვითი მონაცემების მედიანა.</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 17,5</span>",
+     "text": "17,5"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 16,5</span>",
+     "text": "16,5"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 7</span>",
+     "text": "7"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 14</span>",
+     "text": "14"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "ამოცანა 12",
+   "stem_html": "<p>დაალაგეთ ზრდის მიხედვით რიცხვები: $ \\sqrt{2}, \\sqrt[3]{3}, \\sqrt[6]{6} $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\sqrt{2}, \\sqrt[3]{3}, \\sqrt[6]{6} $ </span>",
+     "text": "$ \\sqrt{2}, \\sqrt[3]{3}, \\sqrt[6]{6} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\sqrt[6]{6}, \\sqrt{2}, \\sqrt[3]{3} $ </span>",
+     "text": "$ \\sqrt[6]{6}, \\sqrt{2}, \\sqrt[3]{3} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\sqrt[6]{6}, \\sqrt[3]{3}, \\sqrt{2} $ </span>",
+     "text": "$ \\sqrt[6]{6}, \\sqrt[3]{3}, \\sqrt{2} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\sqrt[3]{3}, \\sqrt[6]{6}, \\sqrt{2} $</span>",
+     "text": "$ \\sqrt[3]{3}, \\sqrt[6]{6}, \\sqrt{2} $"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "ამოცანა 13",
+   "stem_html": "<p>პრიზმას აქვს 36 წიბო. რამდენი გვერდი აქვს პრიზმის ფუძეს?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 10 </span>",
+     "text": "10"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 12 </span>",
+     "text": "12"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 16</span>",
+     "text": "16"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 18 </span>",
+     "text": "18"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "ამოცანა 14",
+   "stem_html": "<p>კლასი შედგება 10 ვაჟისაგან და 15 გოგონასაგან. 4 მოსწავლის შერჩევის რამდენი ისეთი ვარიანტი არსებობს, რომ თითოეულ ვარიანტში 3 ვაჟი და 1 გოგონა იყოს? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 10 ⋅ 13 ⋅ 14 </span>",
+     "text": "10 ⋅ 13 ⋅ 14"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 3 ⋅ 10 ⋅ 15 </span>",
+     "text": "3 ⋅ 10 ⋅ 15"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 4 ⋅ 10 ⋅ 15 </span>",
+     "text": "4 ⋅ 10 ⋅ 15"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 10 ⋅ 12 ⋅ 15 </span>",
+     "text": "10 ⋅ 12 ⋅ 15"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "ამოცანა 15",
+   "stem_html": "<p>ABC სამკუთხედი მართკუთხა საკოორდინატო სიბრტყის მეორე მეოთხედში მდებარეობს. A<sub>1</sub>B<sub>1</sub>C<sub>1</sub> სამკუთხედი წარმოადგენს ABC სამკუთხედის სიმეტრიულ ფიგურას კოორდინატთა სათავის მიმართ. რომელ მეოთხედში მდებარეობს A<sub>1</sub>B<sub>1</sub>C<sub>1</sub> სამკუთხედის სიმეტრიული ფიგურა ორდინატთა ღერძის მიმართ? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) პირველ მეოთხედში;</span>",
+     "text": "პირველ მეოთხედში;"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) მეორე მეოთხედში;</span>",
+     "text": "მეორე მეოთხედში;"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) მესამე მეოთხედში;</span>",
+     "text": "მესამე მეოთხედში;"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) მეოთხე მეოთხედში. </span>",
+     "text": "მეოთხე მეოთხედში."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "ამოცანა 16",
+   "stem_html": "<p>10 სმ სიგრძის AB მონაკვეთზე აღებულია ორი წერტილი C და D ისე, რომ AC = 4 სმ და DB = 7 სმ. იპოვეთ ალბათობა იმისა, რომ AB მონაკვეთიდან შემთხვევით არჩეული წერტილი ეკუთვნის CD მონაკვეთს. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 0,1 </span>",
+     "text": "0,1"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 0,3 </span>",
+     "text": "0,3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 0,5 </span>",
+     "text": "0,5"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 0,6 </span>",
+     "text": "0,6"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 17,
+   "heading": "ამოცანა 17",
+   "stem_html": "<p>$ f(x) = 3^x $ ფუნქციის მნიშვნელობა x<sub>1</sub> წერტილში 27-ჯერ მეტია ფუნქციის მნიშვნელობაზე 2 x<sub>2</sub> წერტილში. რას უდრის x<sub>2</sub>-x<sub>1</sub>? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) -9 </span>",
+     "text": "-9"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) -3 </span>",
+     "text": "-3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 3 </span>",
+     "text": "3"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 9 </span>",
+     "text": "9"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 18,
+   "heading": "ამოცანა 18",
+   "stem_html": "<p>ABCD პარალელოგრამის შიგნით მდებარე K წერტილი შეერთებულია პარალელოგრამის წვეროებთან (იხ. სურათი). იპოვეთ ABK სამკუთხედის ფართობი, თუ ცნობილია, რომ ABCD პარალელოგრამის ფართობი არის 20 სმ2 , ხოლო CKD სამკუთხედის ფართობია 27 სმ<sup>2</sup> . </p>",
+   "figures": [
+    "media/rectangle123214.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $10 - 2\\sqrt{7}$ სმ <sup>2</sup> </span>",
+     "text": "$10 - 2\\sqrt{7}$ სმ 2"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $10 - \\sqrt{7}$ სმ <sup>2</sup> </span>",
+     "text": "$10 - \\sqrt{7}$ სმ 2"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $\\sqrt{13}$ სმ <sup>2</sup> </span>",
+     "text": "$\\sqrt{13}$ სმ 2"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $3 + \\sqrt{7}$ სმ <sup>2</sup> </span>",
+     "text": "$3 + \\sqrt{7}$ სმ 2"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 19,
+   "heading": "ამოცანა 19",
+   "stem_html": "<p>მოცემულია $\\vec{a}(x; -2)$ და $\\vec{b}(1; -1)$ ურთიერთმართობული ვექტორები. იპოვეთ a ვექტორის სიგრძე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $2\\sqrt{2}$ </span>",
+     "text": "$2\\sqrt{2}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 3 </span>",
+     "text": "3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $3\\sqrt{2}$ </span>",
+     "text": "$3\\sqrt{2}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $2\\sqrt{7}$ </span>",
+     "text": "$2\\sqrt{7}$"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 20,
+   "heading": "ამოცანა 20",
+   "stem_html": "<p>კონუსის ფუძის რადიუსის სიგრძე 7 სმ-ია. მისი მსახველი ფუძის სიბრტყესთან ადგენს 30° -ის ტოლ კუთხეს. იპოვეთ კონუსის ღერძული კვეთის ფართობი. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{49}{3} $ სმ<sup>2</sup> </span>",
+     "text": "$ \\Large \\frac{49}{3} $ სმ2"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $\\frac{\\sqrt{3} \\times 49}{2}$ სმ<sup>2</sup> </span>",
+     "text": "$\\frac{\\sqrt{3} \\times 49}{2}$ სმ2"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $\\frac{49}{\\sqrt{3}}$ სმ<sup>2</sup> </span>",
+     "text": "$\\frac{49}{\\sqrt{3}}$ სმ2"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $49 \\sqrt{3}$ სმ<sup>2</sup> </span>",
+     "text": "$49 \\sqrt{3}$ სმ2"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 21,
+   "heading": "ამოცანა 21",
+   "stem_html": "<p>წრის სექტორის რკალის სიგრძე 7 სმ-ია, ხოლო ამ სექტორის ფართობი 7 სმ2-ია. იპოვეთ წრის რადიუსი. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $2\\sqrt{2}$ </span>",
+     "text": "$2\\sqrt{2}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{7}{2} $ </span>",
+     "text": "$ \\Large \\frac{7}{2} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{7}{π} $ </span>",
+     "text": "$ \\Large \\frac{7}{π} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 2 </span>",
+     "text": "2"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 22,
+   "heading": "ამოცანა 22",
+   "stem_html": "<p>სურათზე გამოსახულია [0; 2π ] შუალედზე განსაზღვრული <div> <p>$ f(x) = a \\sin(x) $</p> <p>$ \\text{and} $</p> <p>$ g(x) = b + \\cos(x) $</p> </div> <p> ფუნქციების გრაფიკები, სადაც a და b ნამდვილი რიცხვებია. სურათის მიხედვით იპოვეთ a + b გამოსახულების მნიშვნელობა. </p> </p>",
+   "figures": [
+    "media/graph42155.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 4 </span>",
+     "text": "4"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 3 </span>",
+     "text": "3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 2 </span>",
+     "text": "2"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 1 </span>",
+     "text": "1"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 23,
+   "heading": "ამოცანა 23",
+   "stem_html": "<p>Oxy საკოორდინატო სიბრტყეზე ჰომოთეტიას ცენტრით M წერტილში და $ \\Large \\frac{4}{3} $ -ის ტოლი კოეფიციენტით, A(5; -3) წერტილი გადაყავს B( -2; 4) წერტილში. იპოვეთ M წერტილის კოორდინატები. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) (20; -21 ) </span>",
+     "text": "(20; -21 )"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) (26; -24 ) </span>",
+     "text": "(26; -24 )"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) (15; -20 ) </span>",
+     "text": "(15; -20 )"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) (18; -24) </span>",
+     "text": "(18; -24)"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 24,
+   "heading": "ამოცანა 24",
+   "stem_html": "<p>f ფუნქციის განსაზღვრის არეა [−3; 1] შუალედი, რომელზეც ის მოცემულია $ f(x) = \\log_2(x^2 + 4x + 12) $ ტოლობით. იპოვეთ ამ ფუნქციის უმცირესი მნიშვნელობა. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $\\log_2 9$ </span>",
+     "text": "$\\log_2 9$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 4 </span>",
+     "text": "4"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 3 </span>",
+     "text": "3"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $\\log_2 17$ </span>",
+     "text": "$\\log_2 17$"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 25,
+   "heading": "ამოცანა 25",
+   "stem_html": "<p> ABC მახვილკუთხა სამკუთხედზე შემოხაზულია წრეწირი, რომლის ცენტრია O წერტილი, ხოლო რადიუსი R-ის ტოლია. იპოვეთ AC გვერდის სიგრძე, თუ $\\small \\angle OAB = \\alpha \\quad \\text{და} \\quad \\angle OCB = \\beta$ . </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ 2 R \\cos (\\alpha+\\beta) $ </span>",
+     "text": "$ 2 R \\cos (\\alpha+\\beta) $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ R \\sin (\\alpha+\\beta) $ </span>",
+     "text": "$ R \\sin (\\alpha+\\beta) $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ 2 R \\sin \\alpha \\cdot \\sin \\beta $ </span>",
+     "text": "$ 2 R \\sin \\alpha \\cdot \\sin \\beta $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ 2 R \\sin (\\alpha+\\beta) $ </span>",
+     "text": "$ 2 R \\sin (\\alpha+\\beta) $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 26,
+   "heading": "ამოცანა 26",
+   "stem_html": "<p>იპოვეთ $\\small \\lg \\frac{3-x}{x-5} \\leq \\lg (3-x) - \\lg (x-5)$ უტოლობის ამონახსნთა სიმრავლე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ (-\\infty ; +\\infty) $ </span>",
+     "text": "$ (-\\infty ; +\\infty) $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ (3 ; 5) $ </span>",
+     "text": "$ (3 ; 5) $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ (-\\infty ; 3) \\cup (5 ; +\\infty) $ </span>",
+     "text": "$ (-\\infty ; 3) \\cup (5 ; +\\infty) $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\varnothing $ </span>",
+     "text": "$ \\varnothing $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 27,
+   "heading": "ამოცანა 27",
+   "stem_html": "<p>$a_1, a_2, \\ldots, a_{50}$ გეომეტრიულ პროგრესიაში პირველი წევრი 2-ის, ხოლო მნიშვნელი $ \\Large \\frac{1}{3} $ -ის ტოლია. ქვემოთ ჩამოთვლილთაგან რომელ ინტერვალს ეკუთვნის ამ პროგრესიის ყველა წევრის ჯამი? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ (2 ; 3) $ </span>",
+     "text": "$ (2 ; 3) $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ [3 ; 4) $ </span>",
+     "text": "$ [3 ; 4) $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ [4 ; 5) $ </span>",
+     "text": "$ [4 ; 5) $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ [5 ; \\infty) $ </span>",
+     "text": "$ [5 ; \\infty) $"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 28,
+   "heading": "ამოცანა 28",
+   "stem_html": "<p>იპოვეთ $\\sin\\left(\\frac{\\pi}{6} x\\right) = \\frac{1}{2}$ განტოლების [0; 15] შუალედში მოთავსებული ამონახსნების ჯამი. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 6 </span>",
+     "text": "6"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 16 </span>",
+     "text": "16"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 19 </span>",
+     "text": "19"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 20 </span>",
+     "text": "20"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 29,
+   "heading": "ამოცანა 29",
+   "stem_html": "<p>გარკვეული ნივთიერების მასის ცვლილება რადიოაქტიური დაშლის დროს აღიწერება ფორმულით $m(t) = m_0 \\cdot 2^{-0.5t}$ , სადაც m<sub>0</sub> საწყისი მასაა, ხოლო m(t) არის t საათის გასვლის შემდეგ დარჩენილი ნივთიერების მასა. რამდენ საათში შეიცვლება ნივთიერების მასა m<sub>0</sub> -დან $\\frac{m_0}{3}$ -მდე? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ 0.5 \\log_3 2 $ </span>",
+     "text": "$ 0.5 \\log_3 2 $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ 0.5 \\log_2 3 $ </span>",
+     "text": "$ 0.5 \\log_2 3 $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\log_3 4 $ </span>",
+     "text": "$ \\log_3 4 $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ 2 \\log_2 3 $ </span>",
+     "text": "$ 2 \\log_2 3 $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 30,
+   "heading": "ამოცანა 30",
+   "stem_html": "<p>მართ სამკუთხა პრიზმაში ყველა წიბო ერთმანეთის ტოლია. იპოვეთ ამ პრიზმის მოცულობა, თუ მისი გვერდითი ზედაპირის ფართობი 9 სმ<sup>2</sup>-ია. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\frac{9\\sqrt{3}}{4} \\mathrm{სმ}^3 $ </span>",
+     "text": "$ \\frac{9\\sqrt{3}}{4} \\mathrm{სმ}^3 $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{27}{4} $ სმ<sup>3</sup> </span>",
+     "text": "$ \\Large \\frac{27}{4} $ სმ3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{9}{4} $ სმ<sup>3</sup> </span>",
+     "text": "$ \\Large \\frac{9}{4} $ სმ3"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{3}{4} $ სმ<sup>3</sup> </span>",
+     "text": "$ \\Large \\frac{3}{4} $ სმ3"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q31",
+   "number": 31,
+   "heading": "ამოცანა 31",
+   "stem_html": "<p>ამოხსენით განტოლებათა სისტემა $$ \\left\\{ \\begin{array}{l} 2x + 3y = 7 \\\\ 5x - 4y = 11 \\end{array} \\right. $$ </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q32",
+   "number": 32,
+   "heading": "ამოცანა 32",
+   "stem_html": "<p>ღვინის მწარმოებელი ფირმა ღვინოს ყიდის პარტიებად შემდეგი წესით: x ბოთლისგან შედგენილი პარტიის ყიდვის შემთხვევაში, სადაც $x \\leq 4900$ , თითოეული ბოთლი ღვინის ფასი იქნება 500-0,1x ლარი. სულ მცირე, რამდენი ბოთლი ღვინო იყიდა მყიდველმა, თუ მან თითოეულ ბოთლ ღვინოში 15 ლარზე ნაკლები გადაიხადა? </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q33",
+   "number": 33,
+   "heading": "ამოცანა 33",
+   "stem_html": "<p>იპოვეთ ABC მართკუთხა სამკუთხედის უმცირესი კუთხის ტანგენსი, თუ $\\angle ACB = 90^\\circ, AB = 2\\sqrt{5}$ და BC=4. </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q34",
+   "number": 34,
+   "heading": "ამოცანა 34",
+   "stem_html": "<p>იპოვეთ x-ის ყველა შესაძლო მნიშვნელობა, თუ 1; -3; 10; ; 5; 4 რიცხვითი მონაცემების გაბნევის დიაპაზონი 17-ის ტოლია. </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q35",
+   "number": 35,
+   "heading": "ამოცანა 35",
+   "stem_html": "<p>მოცემულია (a<sub>n</sub>) არითმეტიკული პროგრესია, რომლის სხვაობა განსხვავებულია ნულისაგან. იპოვეთ ისეთი k და m ნომრები, რომ k+m =13 და $2a_k + a_3 = a_m + 2a_7$ </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  }
+ ]
+}

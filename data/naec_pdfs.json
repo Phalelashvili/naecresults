@@ -1,0 +1,72 @@
+{
+ "matematika-1-varianti-2020": {
+  "test": "https://naec.ge/uploads/postData/20-20/მათემატიკის ტესტები/მათემატიკა - I ვარიანტი.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-20/ეროვნულები-სწორი პასუხები/მათემატიკა - სწორი პასუხები - ვარიანტი 1.pdf",
+  "note": "2020 v1; matched by variant. From NAEC post 2174. Tests in 'მათემატიკის ტესტები/', answers in 'ეროვნულები-სწორი პასუხები/'."
+ },
+ "matematika-2-varianti-2020": {
+  "test": "https://naec.ge/uploads/postData/20-20/მათემატიკის ტესტები/მათემატიკა - II ვარიანტი.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-20/ეროვნულები-სწორი პასუხები/მათემატიკა - სწორი პასუხები - ვარიანტი 2.pdf",
+  "note": "2020 v2; matched by variant. From NAEC post 2174."
+ },
+ "matematika-1-varianti-2021": {
+  "test": "https://naec.ge/uploads/postData/20-21/მათემატიკა - ტესტები 2021/I ვარიანტი.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-21/მათემატიკა - ტესტები 2021/შეფასების სქემა - ვარიანტი I.pdf",
+  "note": "2021 v1; matched by variant. From NAEC post 2455. NAEC has 3 official variants this year."
+ },
+ "matematika-2-varianti-2021": {
+  "test": "https://naec.ge/uploads/postData/20-21/მათემატიკა - ტესტები 2021/II ვარიანტი.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-21/მათემატიკა - ტესტები 2021/შეფასების სქემა - ვარიანტი II.pdf",
+  "note": "2021 v2; matched by variant. From NAEC post 2455."
+ },
+ "matematika-3-varianti-2021": {
+  "test": "https://naec.ge/uploads/postData/20-21/მათემატიკა - ტესტები 2021/III ვარიანტი.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-21/მათემატიკა - ტესტები 2021/შეფასების სქემა - ვარიანტი 3.pdf",
+  "note": "2021 v3; matched by variant. From NAEC post 2455."
+ },
+ "matematika-1-varianti-2022": {
+  "test": "https://naec.ge/uploads/postData/20-22/ტესტები-2022/მათემატიკა/I.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-22/აბიტურიენტები - ტესტები 2022/მათემატიკა/შეფასების სქემა - I ვარიანტი.pdf",
+  "note": "2022 v1; matched by variant. From NAEC post 2733. NOTE: test file is in folder 'ტესტები-2022/მათემატიკა/' while the scheme is in folder 'აბიტურიენტები - ტესტები 2022/მათემატიკა/' (two different folders). NAEC has 3 official variants this year."
+ },
+ "matematika-2-varianti-2022": {
+  "test": "https://naec.ge/uploads/postData/20-22/ტესტები-2022/მათემატიკა/II.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-22/აბიტურიენტები - ტესტები 2022/მათემატიკა/შეფასების სქემა - II ვარიანტი.pdf",
+  "note": "2022 v2; matched by variant. From NAEC post 2733."
+ },
+ "matematika-3-varianti-2022": {
+  "test": "https://naec.ge/uploads/postData/20-22/ტესტები-2022/მათემატიკა/III.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-22/აბიტურიენტები - ტესტები 2022/მათემატიკა/შეფასების სქემა - III ვარიანტი.pdf",
+  "note": "2022 v3; matched by variant. From NAEC post 2733."
+ },
+ "matematika-1-varianti-2023": {
+  "test": "https://naec.ge/uploads/postData/20-23/ერთიანი ეროვნული გამოცდები - ტესტები/მათემატიკა/Version_1.pdf",
+  "answers": null,
+  "note": "2023 v1; matched by variant. From NAEC post 2993. NAEC has 2 main variants (Version_1/2) plus a 'დამატებითი' extra-session test. | answer-scheme link removed: NAEC's file for this slug is a mismatched variant; official solutions were re-derived & verified."
+ },
+ "matematika-2-varianti-2023": {
+  "test": "https://naec.ge/uploads/postData/20-23/ერთიანი ეროვნული გამოცდები - ტესტები/მათემატიკა/Version_2.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-23/ერთიანი ეროვნული გამოცდები - ტესტები/მათემატიკა/ვარიანტი_II_შეფასების სქემა_2023.pdf",
+  "note": "2023 v2; matched by variant. From NAEC post 2993."
+ },
+ "matematika-1-varianti-2024": {
+  "test": "https://naec.ge/uploads/postData/20-24/აბიტურიენტები 2024 - ტესტები/მათემატიკა 1.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-24/აბიტურიენტები 2024 - ტესტები/შეფასების სქემები/მათემატიკა/შეფასების სქემა - I ვარიანტი.pdf",
+  "note": "2024 v1; matched by variant. From NAEC post 3216. Scheme is in nested 'შეფასების სქემები/მათემატიკა/' subfolder. NAEC has 2 main variants plus an extra-session test."
+ },
+ "matematika-2-varianti-2024": {
+  "test": "https://naec.ge/uploads/postData/20-24/აბიტურიენტები 2024 - ტესტები/მათემატიკა 2.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-24/აბიტურიენტები 2024 - ტესტები/შეფასების სქემები/მათემატიკა/შეფასების სქემა - II ვარიანტი.pdf",
+  "note": "2024 v2; matched by variant. From NAEC post 3216."
+ },
+ "matematika-1-varianti-2025": {
+  "test": "https://naec.ge/uploads/postData/20-25/აბიტურიენტები - გამოყენებული ტესტები 2025/მათემატიკა/Version_1_2025.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-25/აბიტურიენტები - გამოყენებული ტესტები 2025/მათემატიკა/I ვარიანტი_შეფასების სქემა_2025.pdf",
+  "note": "2025 v1; matched by variant. From NAEC post 3407. 2025 lives under PERIOD '20-25', folder 'აბიტურიენტები - გამოყენებული ტესტები 2025'. NAEC has 2 main variants plus an extra-session test."
+ },
+ "matematika-2-varianti-2025": {
+  "test": "https://naec.ge/uploads/postData/20-25/აბიტურიენტები - გამოყენებული ტესტები 2025/მათემატიკა/Version_2_2025.pdf",
+  "answers": "https://naec.ge/uploads/postData/20-25/აბიტურიენტები - გამოყენებული ტესტები 2025/მათემატიკა/II ვარიანტი_შეფასების სქემა_2025.pdf",
+  "note": "2025 v2; matched by variant. From NAEC post 3407."
+ }
+}

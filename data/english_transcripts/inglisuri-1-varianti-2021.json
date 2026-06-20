@@ -1,0 +1,1284 @@
+{
+"sentences": [
+{
+"text": "Task 1. You are going to listen to five texts.",
+"start": 28.19
+},
+{
+"text": "For each of them, answer the two questions given.",
+"start": 33.7
+},
+{
+"text": "Mark the correct answer A, B, or C.",
+"start": 36.92
+},
+{
+"text": "You have 20 seconds to look through the task.",
+"start": 40.46
+},
+{
+"text": "You will hear the recording twice.",
+"start": 43.32
+},
+{
+"text": "Text 1. My name is Sandro Tavadze.",
+"start": 65.53
+},
+{
+"text": "I come from Kutaisi, which is in the west part of Georgia.",
+"start": 69.91
+},
+{
+"text": "I am 20 years old.",
+"start": 74.65
+},
+{
+"text": "I finished school two years ago.",
+"start": 76.47
+},
+{
+"text": "Now I live in Tbilisi.",
+"start": 78.87
+},
+{
+"text": "I am studying at Tbilisi Medical University.",
+"start": 80.61
+},
+{
+"text": "I like the professors there and really enjoy their classes.",
+"start": 83.47
+},
+{
+"text": "I want to become a pediatrician, which means children's doctor.",
+"start": 87.43
+},
+{
+"text": "My father is an actor.",
+"start": 91.47
+},
+{
+"text": "He works in a theater.",
+"start": 92.79
+},
+{
+"text": "My mother is an English teacher.",
+"start": 94.15
+},
+{
+"text": "She works at school number three in Kutaisi.",
+"start": 95.97
+},
+{
+"text": "And my elder sister is an economist.",
+"start": 98.73
+},
+{
+"text": "She works in a bank.",
+"start": 100.93
+},
+{
+"text": "In my free time, I work at one of the bookshops in the central part of Tbilisi.",
+"start": 102.53
+},
+{
+"text": "I'm a consultant there.",
+"start": 106.93
+},
+{
+"text": "I work only at the weekends, so I don't miss my university classes.",
+"start": 108.51
+},
+{
+"text": "I enjoy my life in Tbilisi a lot.",
+"start": 112.83
+},
+{
+"text": "My name is Sandro Tavadze.",
+"start": 115.83
+},
+{
+"text": "I come from Kutaisi, which is in the west part of Georgia.",
+"start": 123.18
+},
+{
+"text": "I am 20 years old.",
+"start": 127.18
+},
+{
+"text": "I finished school two years ago.",
+"start": 129.18
+},
+{
+"text": "Now I live in Tbilisi.",
+"start": 131.18
+},
+{
+"text": "I'm studying at Tbilisi Medical University.",
+"start": 133.18
+},
+{
+"text": "I like the professors there and really enjoy their classes.",
+"start": 136.18
+},
+{
+"text": "I want to become a pediatrician, which means children's doctor.",
+"start": 140.18
+},
+{
+"text": "My father is an actor.",
+"start": 144.18
+},
+{
+"text": "He works in a theater.",
+"start": 145.18
+},
+{
+"text": "My mother is an actress.",
+"start": 146.18
+},
+{
+"text": "My mother is an English teacher.",
+"start": 148.18
+},
+{
+"text": "She works at school number three in Kutaisi.",
+"start": 150.18
+},
+{
+"text": "And my elder sister is an economist.",
+"start": 152.18
+},
+{
+"text": "She works in a bank.",
+"start": 154.18
+},
+{
+"text": "In my free time, I work at one of the bookshops in the central part of Tbilisi.",
+"start": 156.18
+},
+{
+"text": "I'm a consultant there.",
+"start": 160.18
+},
+{
+"text": "I work only at the weekends, so I don't miss my university classes.",
+"start": 162.18
+},
+{
+"text": "I enjoy my life in Tbilisi a lot.",
+"start": 166.18
+},
+{
+"text": "Text 2",
+"start": 173.98
+},
+{
+"text": "Agatha Christie is one of the world's top-selling authors.",
+"start": 175.98
+},
+{
+"text": "She is often called the queen of crime.",
+"start": 179.98
+},
+{
+"text": "But Christie was not a thief or a murderer and never even worked as a detective.",
+"start": 182.98
+},
+{
+"text": "She was given this name because she wrote some of the most popular detective novels and stories,",
+"start": 187.98
+},
+{
+"text": "such as, for example, Murder on the Orient Express.",
+"start": 193.98
+},
+{
+"text": "Agatha Christie wrote her first short story when she was 18.",
+"start": 197.98
+},
+{
+"text": "Her first novel was published in 1920 when she was 30.",
+"start": 201.98
+},
+{
+"text": "The story focused on the murder of a rich young woman",
+"start": 205.98
+},
+{
+"text": "and introduced readers to one of Christie's most famous characters,",
+"start": 207.98
+},
+{
+"text": "Belgian detective Hercule Poirot.",
+"start": 211.98
+},
+{
+"text": "Soon after, in 1926, Agatha Christie's novel The Murder of Roger Ackroyd was published.",
+"start": 214.98
+},
+{
+"text": "This was the book that made her famous.",
+"start": 221.98
+},
+{
+"text": "Agatha Christie remains the most translated author.",
+"start": 223.98
+},
+{
+"text": "Her works have been translated into more than 100 languages.",
+"start": 226.98
+},
+{
+"text": "Agatha Christie is one of the world's top-selling authors.",
+"start": 230.98
+},
+{
+"text": "She is often called the queen of crime.",
+"start": 239.34
+},
+{
+"text": "But Christie was not a thief or a murderer and never even worked as a detective.",
+"start": 242.34
+},
+{
+"text": "She was given this name because she wrote some of the most popular detective novels and stories,",
+"start": 247.34
+},
+{
+"text": "such as, for example, Murder on the Orient Express.",
+"start": 252.34
+},
+{
+"text": "Agatha Christie wrote her first short story when she was 18.",
+"start": 256.34
+},
+{
+"text": "Her first novel was published in 1920 when she was 30.",
+"start": 260.34
+},
+{
+"text": "The story focused on the murder of a rich young woman",
+"start": 264.34
+},
+{
+"text": "and introduced readers to one of Christie's most famous characters,",
+"start": 267.34
+},
+{
+"text": "Belgian detective Hercule Poirot.",
+"start": 270.34
+},
+{
+"text": "Soon after, in 1926, Agatha Christie's novel The Murder of Roger Ackroyd was published.",
+"start": 273.34
+},
+{
+"text": "This was the book that made her famous.",
+"start": 280.34
+},
+{
+"text": "Agatha Christie remains the most translated author.",
+"start": 283.34
+},
+{
+"text": "Her works have been translated into more than 100 languages.",
+"start": 286.34
+},
+{
+"text": "Text 3",
+"start": 294.72
+},
+{
+"text": "The Cannes Film Festival is an annual film festival held in Cannes, France.",
+"start": 298.22
+},
+{
+"text": "Like the Berlin International Film Festival,",
+"start": 303.22
+},
+{
+"text": "the Cannes Festival has become a very popular event for cinema lovers.",
+"start": 304.22
+},
+{
+"text": "The festival shows new films of all genres including documentaries",
+"start": 309.22
+},
+{
+"text": "and attracts hundreds of film producers from all over the world.",
+"start": 313.22
+},
+{
+"text": "The most important part of the Cannes Film Festival is an award-giving ceremony",
+"start": 316.22
+},
+{
+"text": "when winners for different nominations are announced.",
+"start": 321.22
+},
+{
+"text": "The most prestigious award given out at Cannes is the Golden Palm for the Best Feature Film.",
+"start": 324.22
+},
+{
+"text": "In 2019, the film named Parasite,",
+"start": 329.22
+},
+{
+"text": "directed by a South Korean film director,",
+"start": 332.22
+},
+{
+"text": "was awarded the Golden Palm.",
+"start": 335.22
+},
+{
+"text": "The award for the Best Short Film went to the film",
+"start": 337.22
+},
+{
+"text": "The Distance Between the Sky and Us, directed by a Greek,",
+"start": 340.22
+},
+{
+"text": "and the Best Actor award went to a Spanish star, Antonio Banderas.",
+"start": 344.22
+},
+{
+"text": "The Cannes Film Festival is an annual film festival held in Cannes, France.",
+"start": 348.22
+},
+{
+"text": "Like the Berlin International Film Festival,",
+"start": 357.58
+},
+{
+"text": "the Cannes Festival has become a very popular event for cinema lovers.",
+"start": 360.58
+},
+{
+"text": "The festival shows new films of all genres including documentaries",
+"start": 363.58
+},
+{
+"text": "and attracts hundreds of film producers from all over the world.",
+"start": 367.58
+},
+{
+"text": "The most important part of the Cannes Film Festival is an award-giving ceremony",
+"start": 371.58
+},
+{
+"text": "when winners for different nominations are announced.",
+"start": 376.58
+},
+{
+"text": "The most prestigious award given out at Cannes is the Golden Palm for the Best Feature Film.",
+"start": 379.58
+},
+{
+"text": "In 2019, the film named Parasite,",
+"start": 384.58
+},
+{
+"text": "directed by a South Korean film director,",
+"start": 387.58
+},
+{
+"text": "was awarded the Golden Palm.",
+"start": 390.58
+},
+{
+"text": "The award for the Best Short Film went to the film",
+"start": 391.58
+},
+{
+"text": "The Distance Between the Sky and Us, directed by a Greek,",
+"start": 395.58
+},
+{
+"text": "and the Best Actor award went to a Spanish star, Antonio Banderas.",
+"start": 399.58
+},
+{
+"text": "Text 4",
+"start": 403.58
+},
+{
+"text": "London is one of the few cities in the world which has four UNESCO World Heritage Sites.",
+"start": 411.47
+},
+{
+"text": "One of them is the Palace of Westminster together with Westminster Abbey.",
+"start": 417.47
+},
+{
+"text": "The Palace of Westminster was originally the site of a royal palace",
+"start": 422.47
+},
+{
+"text": "and the most important London residence of English monarchs from the 11th century until 1512,",
+"start": 426.47
+},
+{
+"text": "when a fire destroyed much of the complex.",
+"start": 432.47
+},
+{
+"text": "Today, the Palace of Westminster is more commonly called the Houses of Parliament,",
+"start": 435.47
+},
+{
+"text": "as it is home to the British Parliament.",
+"start": 439.47
+},
+{
+"text": "Its well-known clock tower, known as Big Ben,",
+"start": 441.47
+},
+{
+"text": "makes the Palace of Westminster one of the most popular tourist attractions in London.",
+"start": 444.47
+},
+{
+"text": "With a rich history of royal coronations, burials and weddings,",
+"start": 449.47
+},
+{
+"text": "Westminster Abbey is one of the most recognizable churches in the world.",
+"start": 453.47
+},
+{
+"text": "People worldwide watch the wedding of the Duke and Duchess of Cambridge held at Westminster Abbey in 2011.",
+"start": 456.47
+},
+{
+"text": "London is one of the few cities in the world which has four UNESCO World Heritage Sites.",
+"start": 467.37
+},
+{
+"text": "One of them is the Palace of Westminster together with Westminster Abbey.",
+"start": 473.37
+},
+{
+"text": "The Palace of Westminster was originally the site of a royal palace",
+"start": 478.37
+},
+{
+"text": "and the most important London residence of English monarchs from the 11th century until 1512,",
+"start": 482.37
+},
+{
+"text": "when a fire destroyed much of the complex.",
+"start": 487.37
+},
+{
+"text": "Today, the Palace of Westminster is more commonly called the Houses of Parliament,",
+"start": 490.37
+},
+{
+"text": "as it is home to the British Parliament.",
+"start": 494.37
+},
+{
+"text": "Its well-known clock tower, known as Big Ben,",
+"start": 497.37
+},
+{
+"text": "makes the Palace of Westminster one of the most popular tourist attractions in London.",
+"start": 500.37
+},
+{
+"text": "With a rich history of royal coronations, burials and weddings,",
+"start": 504.37
+},
+{
+"text": "Westminster Abbey is one of the most recognizable churches in the world.",
+"start": 508.37
+},
+{
+"text": "People worldwide watch the wedding of the Duke and Duchess of Cambridge held at Westminster Abbey in 2011.",
+"start": 512.37
+},
+{
+"text": "Text 5",
+"start": 522.75
+},
+{
+"text": "From the 8th to the 11th century,",
+"start": 526.32
+},
+{
+"text": "the Vikings, also known as the Northern Warriors,",
+"start": 529.32
+},
+{
+"text": "managed to spread across Europe and further.",
+"start": 532.32
+},
+{
+"text": "Their skillfully made wooden boats allowed them to travel greater distances on the sea.",
+"start": 535.32
+},
+{
+"text": "Vikings managed to reach the shores of Georgia, too.",
+"start": 540.32
+},
+{
+"text": "In the first half of the 11th century,",
+"start": 543.32
+},
+{
+"text": "there was an armed conflict between King Bagrat IV and Liparit Bagvashi,",
+"start": 545.32
+},
+{
+"text": "a powerful duke of Kildecari.",
+"start": 551.32
+},
+{
+"text": "Both sides used foreign forces against each other.",
+"start": 553.32
+},
+{
+"text": "Liparit Bagvashi was supported by the Byzantine army,",
+"start": 556.32
+},
+{
+"text": "while King Bagrat IV hired the Vikings.",
+"start": 559.32
+},
+{
+"text": "The king invited 3,000 Vikings,",
+"start": 562.32
+},
+{
+"text": "but only 1,000 Swedish Vikings participated in the final battle,",
+"start": 565.32
+},
+{
+"text": "known as Sassureti battle, in 1042.",
+"start": 569.32
+},
+{
+"text": "The king was expecting additional forces from Meschete,",
+"start": 572.32
+},
+{
+"text": "but the Vikings, confident in their power,",
+"start": 576.32
+},
+{
+"text": "didn't wait for them and attacked the enemy's army.",
+"start": 579.32
+},
+{
+"text": "This was a mistake because the Vikings lost the battle.",
+"start": 581.32
+},
+{
+"text": "This was the first and last time Vikings came to Georgia.",
+"start": 585.32
+},
+{
+"text": "From the 8th to the 11th century,",
+"start": 593.38
+},
+{
+"text": "the Vikings, also known as the Northern Warriors,",
+"start": 596.38
+},
+{
+"text": "managed to spread across Europe and further.",
+"start": 599.38
+},
+{
+"text": "Their skillfully made wooden boats allowed them to travel greater distances on the sea.",
+"start": 602.38
+},
+{
+"text": "Vikings managed to reach the shores of Georgia, too.",
+"start": 607.38
+},
+{
+"text": "In the first half of the 11th century,",
+"start": 610.38
+},
+{
+"text": "there was an armed conflict between King Bagrat IV",
+"start": 612.38
+},
+{
+"text": "and Liparit Bagvashi, a powerful duke of Kldekari.",
+"start": 616.38
+},
+{
+"text": "Both sides used foreign forces against each other.",
+"start": 620.38
+},
+{
+"text": "Liparit Bagvashi was supported by the Byzantine army,",
+"start": 624.38
+},
+{
+"text": "while King Bagrat IV hired the Vikings.",
+"start": 627.38
+},
+{
+"text": "The king invited 3,000 Vikings,",
+"start": 630.38
+},
+{
+"text": "but only 1,000 Swedish Vikings participated in the final battle,",
+"start": 632.38
+},
+{
+"text": "known as Sassureti battle, in 1042.",
+"start": 636.38
+},
+{
+"text": "The king was expecting additional forces from Mescheti,",
+"start": 639.38
+},
+{
+"text": "but the Vikings, confident in their power,",
+"start": 643.38
+},
+{
+"text": "didn't wait for them and attacked the enemy's army.",
+"start": 646.38
+},
+{
+"text": "This was a mistake because the Vikings lost the battle.",
+"start": 649.38
+},
+{
+"text": "This was the first and last time Vikings came to Georgia.",
+"start": 652.38
+},
+{
+"text": "Task 2",
+"start": 655.38
+},
+{
+"text": "You are going to listen to one text with eight questions.",
+"start": 678.37
+},
+{
+"text": "Mark the correct answer A, B, or C.",
+"start": 682.37
+},
+{
+"text": "You now have 30 seconds to look through the task.",
+"start": 685.37
+},
+{
+"text": "You will then hear the recording twice.",
+"start": 688.37
+},
+{
+"text": "Good morning, adventurous visitors.",
+"start": 720.36
+},
+{
+"text": "Welcome to the New York City Tour.",
+"start": 722.36
+},
+{
+"text": "I'm your guide, and my name is Steve.",
+"start": 724.36
+},
+{
+"text": "I was born in Austria, and I immigrated here in 2001,",
+"start": 727.36
+},
+{
+"text": "but I consider myself a true New Yorker.",
+"start": 731.36
+},
+{
+"text": "I love this magic city.",
+"start": 734.36
+},
+{
+"text": "During today's walking tour, I'll tell you some exciting facts",
+"start": 736.36
+},
+{
+"text": "connected to Times Square and Broadway,",
+"start": 739.36
+},
+{
+"text": "my favorite places in New York.",
+"start": 741.36
+},
+{
+"text": "The tour to Central Park is planned for tomorrow,",
+"start": 743.36
+},
+{
+"text": "so you can join me then as well.",
+"start": 746.36
+},
+{
+"text": "We are at Times Square now,",
+"start": 747.36
+},
+{
+"text": "which is one of the world's most crowded tourist attractions",
+"start": 750.36
+},
+{
+"text": "with about 50 million visitors annually.",
+"start": 753.36
+},
+{
+"text": "Broadway and Seventh Avenue meet here, at Times Square.",
+"start": 756.36
+},
+{
+"text": "For this and for many other reasons,",
+"start": 760.36
+},
+{
+"text": "this place is often called the heart of the world.",
+"start": 762.36
+},
+{
+"text": "Approximately 330,000 people pass through Times Square daily.",
+"start": 766.36
+},
+{
+"text": "The Broadway Theater District,",
+"start": 771.36
+},
+{
+"text": "a major world center for the entertainment industry,",
+"start": 773.36
+},
+{
+"text": "starts here at Times Square.",
+"start": 775.36
+},
+{
+"text": "We're now moving towards the street called Broadway,",
+"start": 778.36
+},
+{
+"text": "which is famous for its theaters and fantastic shows.",
+"start": 782.36
+},
+{
+"text": "There are currently 41 Broadway theaters in New York.",
+"start": 785.36
+},
+{
+"text": "It may surprise you that the term Broadway Theater",
+"start": 789.36
+},
+{
+"text": "is generally used for only those theaters",
+"start": 792.36
+},
+{
+"text": "which have at least 500 seats.",
+"start": 795.36
+},
+{
+"text": "Smaller theaters, with seating 100 to 500,",
+"start": 797.36
+},
+{
+"text": "are called Off-Broadway theaters,",
+"start": 801.36
+},
+{
+"text": "and very small ones, with less than 100 seats,",
+"start": 803.36
+},
+{
+"text": "are called Off-Off-Broadway theaters.",
+"start": 807.36
+},
+{
+"text": "As you see, a theater may be located on Broadway,",
+"start": 810.36
+},
+{
+"text": "but it may be called Off-Broadway theater.",
+"start": 814.36
+},
+{
+"text": "The smallest of the Broadway theaters",
+"start": 817.36
+},
+{
+"text": "is the 597-seat Hayes Theater,",
+"start": 820.36
+},
+{
+"text": "while the biggest is the 1,933-seat Gershwin Theater.",
+"start": 823.36
+},
+{
+"text": "It may also surprise you that while Broadway theaters",
+"start": 829.36
+},
+{
+"text": "are usually considered to be on Broadway,",
+"start": 831.36
+},
+{
+"text": "only three active Broadway theaters",
+"start": 834.36
+},
+{
+"text": "are physically on Broadway.",
+"start": 837.36
+},
+{
+"text": "Others are located on neighboring streets.",
+"start": 839.36
+},
+{
+"text": "Now this way, please.",
+"start": 842.36
+},
+{
+"text": "I want to show you my favorite Broadway theater.",
+"start": 844.36
+},
+{
+"text": "It is the Lyceum Theater,",
+"start": 846.36
+},
+{
+"text": "built in 1903 by a theater producer, Daniel Frohman,",
+"start": 848.36
+},
+{
+"text": "especially for his wife,",
+"start": 852.36
+},
+{
+"text": "who was a well-known actress then.",
+"start": 854.36
+},
+{
+"text": "The funny history behind the Lyceum Theater,",
+"start": 856.36
+},
+{
+"text": "which actually makes it my favorite,",
+"start": 858.36
+},
+{
+"text": "is that this theater producer had an apartment",
+"start": 859.36
+},
+{
+"text": "at the top floor of the theater,",
+"start": 862.36
+},
+{
+"text": "and he had a window in it",
+"start": 864.36
+},
+{
+"text": "from which he could watch his wife performing down on stage.",
+"start": 866.36
+},
+{
+"text": "Funny, isn't it?",
+"start": 869.36
+},
+{
+"text": "You probably know that most Broadway shows are musical shows.",
+"start": 871.36
+},
+{
+"text": "Musicals have played a huge role",
+"start": 874.36
+},
+{
+"text": "in making our city the cultural capital of the world.",
+"start": 876.36
+},
+{
+"text": "For the 2019-2020 season, before COVID-19,",
+"start": 879.36
+},
+{
+"text": "more than 14 million people saw Broadway musical shows,",
+"start": 884.36
+},
+{
+"text": "and the total amount of income from those shows was $2 billion.",
+"start": 887.36
+},
+{
+"text": "Do you know which Broadway musical has been the most popular,",
+"start": 893.36
+},
+{
+"text": "and also most successful commercially?",
+"start": 897.36
+},
+{
+"text": "It's The Lion King,",
+"start": 900.36
+},
+{
+"text": "Broadway's third-longest running show in history.",
+"start": 902.36
+},
+{
+"text": "This musical is based on Walt Disney Studios' film of the same name,",
+"start": 905.36
+},
+{
+"text": "and the music is by Elton John,",
+"start": 909.36
+},
+{
+"text": "a well-known British singer and composer.",
+"start": 911.36
+},
+{
+"text": "Over 100 million people have seen The Lion King,",
+"start": 914.36
+},
+{
+"text": "this musical has earned more than $1 billion,",
+"start": 916.36
+},
+{
+"text": "the highest amount any Broadway show has ever earned.",
+"start": 920.36
+},
+{
+"text": "I love this show, have seen it five times.",
+"start": 924.36
+},
+{
+"text": "The tickets are not easy to get, but you can try.",
+"start": 927.36
+},
+{
+"text": "The ticket booths are just across the street on Times Square.",
+"start": 930.36
+},
+{
+"text": "Good morning, adventurous visitors.",
+"start": 934.36
+},
+{
+"text": "Welcome to the New York City Tour.",
+"start": 956.3
+},
+{
+"text": "I'm your guide, and my name is Steve.",
+"start": 958.3
+},
+{
+"text": "I was born in Austria, and I immigrated here in 2001,",
+"start": 961.3
+},
+{
+"text": "but I consider myself a true New Yorker.",
+"start": 964.3
+},
+{
+"text": "I love this magic city.",
+"start": 967.3
+},
+{
+"text": "During today's walking tour,",
+"start": 969.3
+},
+{
+"text": "I'll tell you some exciting facts connected to Times Square and Broadway,",
+"start": 971.3
+},
+{
+"text": "my favorite places in New York.",
+"start": 975.3
+},
+{
+"text": "The tour to Central Park is planned for tomorrow,",
+"start": 977.3
+},
+{
+"text": "so you can join me then as well.",
+"start": 980.3
+},
+{
+"text": "We are at Times Square now,",
+"start": 982.3
+},
+{
+"text": "which is one of the world's most crowded tourist attractions,",
+"start": 984.3
+},
+{
+"text": "with about 50 million visitors annually.",
+"start": 987.3
+},
+{
+"text": "Broadway and Seventh Avenue meet here,",
+"start": 990.3
+},
+{
+"text": "at Times Square.",
+"start": 992.3
+},
+{
+"text": "For this, and for many other reasons,",
+"start": 994.3
+},
+{
+"text": "this place is often called the heart of the world.",
+"start": 996.3
+},
+{
+"text": "Approximately 330,000 people pass through Times Square daily.",
+"start": 1000.3
+},
+{
+"text": "The Broadway Theater District,",
+"start": 1005.3
+},
+{
+"text": "a major world center for the entertainment industry,",
+"start": 1007.3
+},
+{
+"text": "starts here at Times Square.",
+"start": 1010.3
+},
+{
+"text": "We're now moving towards the street called Broadway,",
+"start": 1013.3
+},
+{
+"text": "which is famous for its theaters and fantastic shows.",
+"start": 1016.3
+},
+{
+"text": "There are currently 41 Broadway theaters in New York.",
+"start": 1019.3
+},
+{
+"text": "It may surprise you that the term Broadway theater",
+"start": 1024.3
+},
+{
+"text": "is generally used for only those theaters",
+"start": 1027.3
+},
+{
+"text": "which have at least 500 seats.",
+"start": 1030.3
+},
+{
+"text": "Smaller theaters, with seating 100 to 500,",
+"start": 1032.3
+},
+{
+"text": "are called Off-Broadway theaters,",
+"start": 1036.3
+},
+{
+"text": "and very small ones, with less than 100 seats,",
+"start": 1038.3
+},
+{
+"text": "are called Off-Off-Broadway theaters.",
+"start": 1042.3
+},
+{
+"text": "As you see, a theater may be located on Broadway,",
+"start": 1045.3
+},
+{
+"text": "but it may be called Off-Broadway theater.",
+"start": 1048.3
+},
+{
+"text": "The smallest of the Broadway theaters",
+"start": 1051.3
+},
+{
+"text": "is the 597-seat Hayes Theater,",
+"start": 1054.3
+},
+{
+"text": "while the biggest is the 1,933-seat Gershwin Theater.",
+"start": 1057.3
+},
+{
+"text": "It may also surprise you that while Broadway theaters",
+"start": 1063.3
+},
+{
+"text": "are usually considered to be on Broadway,",
+"start": 1066.3
+},
+{
+"text": "only three active Broadway theaters are physically on Broadway.",
+"start": 1069.3
+},
+{
+"text": "Others are located on neighboring streets.",
+"start": 1073.3
+},
+{
+"text": "Now this way, please.",
+"start": 1076.3
+},
+{
+"text": "I want to show you my favorite Broadway theater.",
+"start": 1078.3
+},
+{
+"text": "It is the Lyceum Theater,",
+"start": 1081.3
+},
+{
+"text": "built in 1903 by a theater producer, Daniel Frohman,",
+"start": 1083.3
+},
+{
+"text": "especially for his wife,",
+"start": 1087.3
+},
+{
+"text": "who was a well-known actress then.",
+"start": 1089.3
+},
+{
+"text": "The funny history behind the Lyceum Theater,",
+"start": 1091.3
+},
+{
+"text": "which actually makes it my favorite,",
+"start": 1093.3
+},
+{
+"text": "is that this theater producer had an apartment",
+"start": 1095.3
+},
+{
+"text": "at the top floor of the theater,",
+"start": 1098.3
+},
+{
+"text": "and he had a window in it",
+"start": 1100.3
+},
+{
+"text": "from which he could watch his wife performing down on stage.",
+"start": 1102.3
+},
+{
+"text": "Funny, isn't it?",
+"start": 1105.3
+},
+{
+"text": "You probably know that most Broadway shows are musical shows.",
+"start": 1106.3
+},
+{
+"text": "Musicals have played a huge role",
+"start": 1109.3
+},
+{
+"text": "in making our city the cultural capital of the world.",
+"start": 1111.3
+},
+{
+"text": "For the 2019-2020 season,",
+"start": 1114.3
+},
+{
+"text": "before COVID-19,",
+"start": 1117.3
+},
+{
+"text": "more than 14 million people saw Broadway musical shows,",
+"start": 1119.3
+},
+{
+"text": "and the total amount of income from those shows",
+"start": 1123.3
+},
+{
+"text": "was 2 billion U.S. dollars.",
+"start": 1126.3
+},
+{
+"text": "Do you know which Broadway musical has been the most popular",
+"start": 1128.3
+},
+{
+"text": "and also most successful commercially?",
+"start": 1131.3
+},
+{
+"text": "It's The Lion King.",
+"start": 1134.3
+},
+{
+"text": "Broadway's third longest-running show in history.",
+"start": 1136.3
+},
+{
+"text": "This musical is based on Walt Disney Studios' film of the same name,",
+"start": 1139.3
+},
+{
+"text": "and the music is by Elton John,",
+"start": 1143.3
+},
+{
+"text": "a well-known British singer and composer.",
+"start": 1145.3
+},
+{
+"text": "Over 100 million people have seen The Lion King.",
+"start": 1148.3
+},
+{
+"text": "This musical has earned more than 1 billion dollars,",
+"start": 1152.3
+},
+{
+"text": "the highest amount any Broadway show has ever earned.",
+"start": 1155.3
+},
+{
+"text": "I love this show.",
+"start": 1158.3
+},
+{
+"text": "Have seen it five times.",
+"start": 1160.3
+},
+{
+"text": "The tickets are not easy to get,",
+"start": 1162.3
+},
+{
+"text": "but you can try.",
+"start": 1164.3
+},
+{
+"text": "Ticket booths are just across the street on Times Square.",
+"start": 1165.3
+},
+{
+"text": "This is the end of the listening part.",
+"start": 1188.85
+}
+]
+}

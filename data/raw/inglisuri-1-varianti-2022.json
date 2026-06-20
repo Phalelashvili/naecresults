@@ -1,0 +1,2205 @@
+{
+ "slug": "inglisuri-1-varianti-2022",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2022,
+ "variant": 1,
+ "kind": "test",
+ "title": "ინგლისურის ეროვნული გამოცდების ტესტები - 2022 წელი 1 ვარიანტი",
+ "num_questions": 46,
+ "num_content_blocks": 32,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<h2>Task 1: You are going to listen to five texts. For each of them answer the two questions given. Mark the correct answer A, B or C. You have 20 seconds to look through the task. You will hear the recording twice.</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>(10 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/ENG2022_1.mp3\" type=\"audio/mpeg\"/> Your browser does not support the audio element. </audio>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 1</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "What does the speaker say about Jane?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> She likes her job.</span>",
+     "text": "She likes her job."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> She wants to have a better job. </span>",
+     "text": "She wants to have a better job."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> She doesn’t have to pay for her studies. </span>",
+     "text": "She doesn’t have to pay for her studies."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "",
+   "stem_html": "After the interview in a bank Jane feels",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A. </b>nervous.</span>",
+     "text": "nervous."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> worried.</span>",
+     "text": "worried."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> hopeful.</span>",
+     "text": "hopeful."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 2</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "",
+   "stem_html": "What kind of works by Elene Akhvlediani were displayed at the gallery?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Book illustrations.</span>",
+     "text": "Book illustrations."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Works never seen before. </span>",
+     "text": "Works never seen before."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Set designs of a theatre.</span>",
+     "text": "Set designs of a theatre."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "",
+   "stem_html": "At the exhibition visitors could buy",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> books with Akhvlediani’s illustrations. </span>",
+     "text": "books with Akhvlediani’s illustrations."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> any of the displayed works. </span>",
+     "text": "any of the displayed works."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> only some of the exhibited works.</span>",
+     "text": "only some of the exhibited works."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 3</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "",
+   "stem_html": "From the text we learn that Elias",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> is a robot-teacher. </span>",
+     "text": "is a robot-teacher."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> gives dancing classes.</span>",
+     "text": "gives dancing classes."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> gets angry with children. </span>",
+     "text": "gets angry with children."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "",
+   "stem_html": "It is difficult for Elias to",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> speak different languages.</span>",
+     "text": "speak different languages."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> control children at primary school. </span>",
+     "text": "control children at primary school."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> notice children’s problems. </span>",
+     "text": "notice children’s problems."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 4</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "",
+   "stem_html": "In his diary Samuel Pepys frankly described the negative sides of .",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> other men. .</span>",
+     "text": "other men. ."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> himself.</span>",
+     "text": "himself."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> the writers. </span>",
+     "text": "the writers."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "",
+   "stem_html": "What is the best reason for keeping a diary?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> To earn money.</span>",
+     "text": "To earn money."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> To become famous. </span>",
+     "text": "To become famous."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> To bring back past memories.</span>",
+     "text": "To bring back past memories."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 5</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "",
+   "stem_html": "Living on university campus is necessary for",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> first-year students.</span>",
+     "text": "first-year students."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> second-year students. </span>",
+     "text": "second-year students."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> third-year students.</span>",
+     "text": "third-year students."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "",
+   "stem_html": "What is the text mostly about?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Mark Zuckerberg.</span>",
+     "text": "Mark Zuckerberg."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> The main university gate. </span>",
+     "text": "The main university gate."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> History of Harvard University.</span>",
+     "text": "History of Harvard University."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 2: You are going to listen to one text with eight questions. Mark the correct answer A, B or C. You now have 30 seconds to look through the task. You will then hear the recording twice.</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>(8 points)</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 1,
+   "heading": "",
+   "stem_html": "What do we learn about the speaker from the start?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He was born in London.</span>",
+     "text": "He was born in London."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> His name is Samuel Johnson. </span>",
+     "text": "His name is Samuel Johnson."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He is tired of living in London.</span>",
+     "text": "He is tired of living in London."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 2,
+   "heading": "",
+   "stem_html": "What do we learn about London?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> It was never ruled by the Romans.</span>",
+     "text": "It was never ruled by the Romans."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> It was built far from the River Thames. </span>",
+     "text": "It was built far from the River Thames."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> The Romans called it Londinium.</span>",
+     "text": "The Romans called it Londinium."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 3,
+   "heading": "",
+   "stem_html": "One surprising fact mentioned by the speaker is that",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> an amphitheater was used for theatre performances. </span>",
+     "text": "an amphitheater was used for theatre performances."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> gladiator fights were held in Londinium. </span>",
+     "text": "gladiator fights were held in Londinium."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> no sign from the Roman period can be found in London.</span>",
+     "text": "no sign from the Roman period can be found in London."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 4,
+   "heading": "",
+   "stem_html": "The City of London is one of the",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> most modern districts of London.</span>",
+     "text": "most modern districts of London."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> largest districts of London by area. </span>",
+     "text": "largest districts of London by area."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> world’s wealthiest financial districts.</span>",
+     "text": "world’s wealthiest financial districts."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 5,
+   "heading": "",
+   "stem_html": "What does the speaker say about Sir Christopher Wren?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He designed St Paul’s Cathedral in London.</span>",
+     "text": "He designed St Paul’s Cathedral in London."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> All of his churches are still there in London. </span>",
+     "text": "All of his churches are still there in London."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> The Great Fire of London destroyed many of his churches.</span>",
+     "text": "The Great Fire of London destroyed many of his churches."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 6,
+   "heading": "",
+   "stem_html": "The Great Fire of London started because of",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> a strong wind.</span>",
+     "text": "a strong wind."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> a careless mistake. </span>",
+     "text": "a careless mistake."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> a baker’s secret plan. </span>",
+     "text": "a baker’s secret plan."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 7,
+   "heading": "",
+   "stem_html": "You will be awarded a certificate if you",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> walk sixty-two metres to the baker’s shop.</span>",
+     "text": "walk sixty-two metres to the baker’s shop."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> take amazing photos of the city’s best views. </span>",
+     "text": "take amazing photos of the city’s best views."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> get to the top of the Monument to the Great Fire of London.</span>",
+     "text": "get to the top of the Monument to the Great Fire of London."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 8,
+   "heading": "",
+   "stem_html": "Where does the tour guide finish his tour?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> At London Bridge.</span>",
+     "text": "At London Bridge."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> At Tower Bridge of London. </span>",
+     "text": "At Tower Bridge of London."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> At the Monument to the Great Fire of London.</span>",
+     "text": "At the Monument to the Great Fire of London."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 3: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question.</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>(8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Which paragraph</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> 1. states that the project was saved by a big investment?<br/> 2. explains why initially the project did not impress the architect?<br/> 3. mentions the view you can enjoy from the top of the Shard on a clear day?<br/> 4. mentions the old and new buildings standing side by side?<br/> 5. says that the Shard is designed in such a way that it saves energy?<br/> 6. specifies the exact location of the famous skyscraper in London?<br/> 7. could have the title: ‘A moment of sudden inspiration’?<br/> 8. could have the title: ‘The story behind the name’?<br/> </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>The tallest building in the United Kingdom</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> Take one look over London and it’s easy to tell that the city has a rich history that exists well along with modern progress. The grand old sights of Big Ben and Parliament stand shoulder to shoulder with the Millennium Dome and the London Eye – the modern marvels* of engineering. Look the other direction and you can see the famous 128-year-old Tower Bridge with some of the world’s most advanced skyscrapers in the background. These great historic structures are now joined by a new masterpiece of the twenty-first century architecture – the Shard. The Shard is a 95-storey skyscraper, the tallest building in the United Kingdom. It stands in the heart of London on the South Bank of the River Thames, stretching for more than 309 metres into the air. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> The Shard was designed by a famous Italian architect, Renzo Piano, who has built some of the world’s most beautiful buildings, including the famous Pompidou Centre in Paris. Since it opened in 2012, the Shard has quickly become an important monument in London’s famous skyline. Renzo Piano came up with the name for the building ‘the Shard’, which means a sharp piece of broken glass, after the critics of the project said that his design was like ‘a shard of glass through the heart of historic London’. But the architect liked this idea of the building resembling a shard and so the name remained. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> The story of the Shard started in April 2000 when a real estate* developer, Irvine Seller, flew all the way to Berlin where the award-winning architect, Renzo Piano, was attending an exhibition. Irvine invited Renzo Piano to lunch at a Berlin restaurant where he told the architect about his project and described his dream of creating a building that would provide multiple areas for offices, restaurants, a hotel, shopping malls and private apartments. Renzo Piano’s first reaction was not very positive. He didn’t like the idea of a building of that size in London. ‘You know, I hate tall buildings,’ Piano said, ‘they are arrogant and aggressive, like fortresses.’ Irvine Steller thought it was going to be a short lunch. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b>However, over the course of the meal, Renzo Piano began to understand the point of the project. Most of all he liked the idea of making a building like one little town – a ‘vertical city’ where people could live, work and relax. Suddenly, as if by magic, something caught his imagination. The architect turned over the restaurant menu and began sketching an outline of a building which he saw as a giant sail of a ship or an iceberg rising from the river. Irvine Seller was delighted. As Renzo sketched, he said, ‘you’ve got it, you’ve now got my vision.’ By the end of the meal the decision was made. So, they shook hands and the Shard journey began. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> The Shard had many funding and architectural difficulties since its construction phase from 2002 to 2012. However, in 2008 the State of Qatar rescued the project when it invested in the Shard a big amount of money. The building was finally completed in July 2012. The great architect designed the building to be extremely environmentally friendly. The skyscraper is built with 95 per cent recycled materials and requires 30 per cent less energy than typical tall buildings, making it the greenest building in London. The extra-white glass used on the Shard allows the skyscraper to reflect the sunlight and the sky above, so that the colour and the mood of the building are constantly changing according to different times of the day, the weather and the season. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> Today, the Shard contains offices, a 5-star hotel, several fine restaurants and exclusive private apartments. However, the absolute highlight of any trip to the Shard is the impressive open-air view from the observation tower on the 72nd floor. It’s London’s highest viewing platform – in fine weather, you can see for up to 65 km across London. The best part of the 360° panorama lies across the River Thames to the north with a fantastic view of the sights such as St Paul’s Cathedral, the Tower of London, Big Ben and more. With over a million people visiting the viewing platform in just its first year, and over 6,000 visitors a day, the Shard has become a modern phenomenon of architecture demonstrating the energy and modernity of the great city. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>*marvel: საოცრება *real estate: უძრავი ქონება</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 19,
+   "heading": "",
+   "stem_html": "<p><b>1.</b> states that the project was saved by a big investment?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 20,
+   "heading": "",
+   "stem_html": "<p><b>2.</b> explains why initially the project did not impress the architect?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 21,
+   "heading": "",
+   "stem_html": "<p><b>3.</b> mentions the view you can enjoy from the top of the Shard on a clear day? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 22,
+   "heading": "",
+   "stem_html": "<p><b>4.</b> mentions the old and new buildings standing side by side? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 23,
+   "heading": "",
+   "stem_html": "<p><b>5.</b> says that the Shard is designed in such a way that it saves energy? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 24,
+   "heading": "",
+   "stem_html": "<p><b>6.</b> specifies the exact location of the famous skyscraper in London?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 25,
+   "heading": "",
+   "stem_html": "<p><b>7.</b> could have the title: ‘A moment of sudden inspiration’?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 26,
+   "heading": "",
+   "stem_html": "<p><b>8.</b> could have the title: ‘The story behind the name’?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2> Task 4 :Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). (8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>This is a true story told by Jamie Oliver, a British chef, restaurateur and author. <p>‘I’m Jamie Oliver, a British chef. I’m often asked how I got interested in cooking. Well, in fact cooking is in my blood. I grew up in a restaurant in the countryside, which was owned and run by my parents. My grandparents also lived not far from us. I didn’t like school much and I would often stay with them to skip classes. I showed an early interest in cooking. I was working with the staff at my parents’ restaurant peeling potatoes, removing shells from peas and so on by the time I was eight. At the age of eleven I cooked my first full meal – roast chicken. My parents said it was delicious and I knew this was what I wanted to do, so at the age of sixteen I left school and went to London to train as a chef. There I got to know a girl of my age called Jools, who was a model and we started going out together. In spite of our young age this was the beginning of a lasting relationship – we eventually got married. Then I went on to work at The River Café, one of London’s top restaurants. Then something wonderful happened to me. While I was working in The River Café, a TV crew came to make a programme about the restaurant. I only appeared on it for a minute or two, but I was perhaps so impressive that the morning after it was shown, I got phone calls from five top producers asking me if I’d be interested in making a television series of my own. I was overjoyed with happiness. And that was when my career really took off. I appeared in my own TV show. The show was successful because I cooked simple dishes with high-quality ingredients rather than using complicated techniques. The series was an overnight success and attracted the kind of young, trendy audience that wouldn’t normally watch food programmes. People especially liked my food because it was inspired by Italian cooking and seemed to reflect a modern casual lifestyle. I was filmed riding a scooter and hosting parties for my friends. Then, following my TV series, I had another great success. I wrote a cookery book which went straight to the top of the best-seller lists as number one and remained there for more than 12 weeks. In 2000 I married my girlfriend Jools in the small town where my parents still live. I was awake at five in the morning on the day of my wedding cooking the food for the guests myself with my father and a bunch of friends. Although Jools and I live in London, I’m still close with my parents and I have now followed family tradition by opening my own restaurant. This is a very special project for me. I invited a group of teenagers to work at my restaurant – they were all unemployed, and none of them had any experience in the restaurant business. I taught them how to prepare food which has been praised from even the most severe food critics. But life isn’t all work. I still find time to play in a band called Scarlet Division, made up of my high school friends and I. We sound like a band of ‘Catatonia and Texas with a harder edge’. And although I’m now a family man with five children, I still travel around London on my scooter.’ </p></h3>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 1,
+   "heading": "",
+   "stem_html": "What is the text mostly about?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Jamie Oliver’s married life.</span>",
+     "text": "Jamie Oliver’s married life."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B.Jamie Oliver’s relations with his parents.</span>",
+     "text": "Jamie Oliver’s relations with his parents."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C.How Jamie Oliver became a famous chef.</span>",
+     "text": "How Jamie Oliver became a famous chef."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D.What Jamie Oliver liked to do in his childhood.</span>",
+     "text": "What Jamie Oliver liked to do in his childhood."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 2,
+   "heading": "",
+   "stem_html": "How did Jamie Oliver become interested in cooking?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A.He was taught cooking at school. </span>",
+     "text": "He was taught cooking at school."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B.He learnt cooking from his granny. </span>",
+     "text": "He learnt cooking from his granny."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C.He watched his mother cooking at home.</span>",
+     "text": "He watched his mother cooking at home."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D.He spent most of his time in his parents’ restaurant. </span>",
+     "text": "He spent most of his time in his parents’ restaurant."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 3,
+   "heading": "",
+   "stem_html": "What happened when Jamie Oliver became sixteen?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He married his girlfriend. </span>",
+     "text": "He married his girlfriend."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He became a chef at a restaurant.</span>",
+     "text": "He became a chef at a restaurant."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. He started building a chef’s career. </span>",
+     "text": "He started building a chef’s career."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He was praised for the dish he prepared.</span>",
+     "text": "He was praised for the dish he prepared."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 4,
+   "heading": "",
+   "stem_html": "How did Jamie Oliver feel when he was offered to make a TV show of his own?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Happy. </span>",
+     "text": "Happy."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Worried.</span>",
+     "text": "Worried."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Concerned.</span>",
+     "text": "Concerned."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Responsible. </span>",
+     "text": "Responsible."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 5,
+   "heading": "",
+   "stem_html": "What made Jamie Oliver’s programme successful?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Characteristics of British cuisine.</span>",
+     "text": "Characteristics of British cuisine."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Simplicity of cooking.</span>",
+     "text": "Simplicity of cooking."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Traditional lifestyle it showed.</span>",
+     "text": "Traditional lifestyle it showed."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Complex technology of cooking. </span>",
+     "text": "Complex technology of cooking."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 6,
+   "heading": "",
+   "stem_html": "What was Jamie Oliver’s another success after his TV show?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He became the bestseller author. </span>",
+     "text": "He became the bestseller author."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He wrote a cookbook with Italian recipes. </span>",
+     "text": "He wrote a cookbook with Italian recipes."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The film about his wedding was a success. </span>",
+     "text": "The film about his wedding was a success."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. His films about scooter riding became popular.</span>",
+     "text": "His films about scooter riding became popular."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 7,
+   "heading": "",
+   "stem_html": "Jamie Oliver’s own restaurant is unusual because he runs it",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. all alone. </span>",
+     "text": "all alone."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. with experienced staff. </span>",
+     "text": "with experienced staff."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. together with his parents. </span>",
+     "text": "together with his parents."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. together with a group of youngsters. </span>",
+     "text": "together with a group of youngsters."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 8,
+   "heading": "",
+   "stem_html": "What would be a good title for the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. A project for teenagers</span>",
+     "text": "A project for teenagers"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. A wise career decision</span>",
+     "text": "A wise career decision"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The best restaurant ever </span>",
+     "text": "The best restaurant ever"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Not all dreams come true </span>",
+     "text": "Not all dreams come true"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 5: Read the text and fill the gaps with the words given. Use each word only once. Two words are extra. (12 points) </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>almost (A) centuries (B) citizens (C) darkness (D) dying (E) dust (F) located (G) original (H) pleased (I) squares (J) site (K) taught (L) walked (M) well-known (N) </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>The life and death of Pompei</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>In the beginning of the first century AD, the city of Pompei, .….. (1) about eight kilometers from Mount Vesuvius, was a flourishing resort for Rome’s most famous .….. (2). Elegant houses and villas for wealthy people were lined alongside the paved streets. Townspeople, visitors and merchants .….. (3) busily in and out of taverns, workshops and bathhouses. People gathered in the twenty-thousand-seat arena and spent their leisure time in the open-air .…... (4) and marketplaces. On the eve of that tragic day, when a volcano erupted from Mount Vesuvius, there were about twelve thousand people living in Pompei and …… (5) as many in the surrounding villages. A volcano has erupted from Mount Vesuvius more than fifty times, but the one which took place in the year 79 AD, is the most ……. (6). The ancient city of Pompei was completely buried under the thick .….. (7) of the volcanic ash. According to one historian of those times ‘the dust spread across the land like a flood and left the city in complete …… (8).’ Two thousand people died and the city was abandoned for many …… (9). When a group of explorers rediscovered the .….. (10) in 1748, they were surprised to find that under a thick layer of dust, Pompei was kept in its .….. (11) state. The buildings, artifacts and skeletons left behind in the buried city of Pompei have …… (12) us a lot about everyday life of the ancient world. </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ზ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ნ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "კ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ო"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q42",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q43",
+   "number": 9,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q44",
+   "number": 10,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ლ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q45",
+   "number": 11,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "თ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q46",
+   "number": 12,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "მ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 6: Read the text and fill the gaps with one of the following: article, preposition, conjunction or relative pronoun. Insert only ONE word. Do not copy the extra words from the text on the answer sheet. (12 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>The National Trust Organisation</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> Great Britain is known for its beautiful large country houses. Many of them were built hundreds …… (1) years ago. Very rich families lived in these houses in …… (2) past. Today, many of them are owned …… (3) the organisation called The National Trust for Places of Historic Interest or Natural Beauty. This organisation is commonly known as the National Trust. The National Trust is a charity organisation for conservation of cultural heritage* in England, Wales …… (4) Northern Ireland. The organisation was created to look …… (5) hundreds of houses, almost a million objects, vast areas of coastline, countryside and green spaces. The old country houses are kept …... (6) perfect condition and visitors are allowed to enter. The visitors are interested to learn how different life in …… (7) typical British old house was. Products were not kept in fridges, …… (8) they did not have any. Before the invention of a washing machine, all the washing was done by hand. Surprisingly enough, people still live …… (9) some of these houses. In these cases, visitors are only shown part of the house, while private rooms are kept closed to the public. These houses often have beautiful gardens …… (10) are looked after by professional gardeners. One usually has to pay to look around the National Trust houses. The founders of the National Trust believed …… (11) it was important to take care of historic, beautiful and, of course, natural places. The natural world gives us fresh air, clean water and clear seas. Millions of people are given the chance to see what life in an old country house was like and …… (12) the same time enjoy the beauty of the nature and explore unforgettable scenery.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>*cultural heritage: კულტურული მემკვიდრეობა</p>"
+  }
+ ]
+}

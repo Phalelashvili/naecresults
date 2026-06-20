@@ -1,0 +1,981 @@
+{
+ "slug": "matematika-1-varianti-2022",
+ "url": "",
+ "subject": "math",
+ "subject_ka": "მათემატიკა",
+ "year": 2022,
+ "variant": 1,
+ "kind": "test",
+ "title": "მათემატიკის ტესტი 1 ვარიანტი 2022 წელი",
+ "num_questions": 35,
+ "num_content_blocks": 0,
+ "has_audio": false,
+ "blocks": [
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "ამოცანა 1",
+   "stem_html": "<p>$ \\Large 1\\frac{1}{3} + \\frac{2}{3} \\times 0.3 $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large 1\\frac{8}{15} $ </span>",
+     "text": "$ \\Large 1\\frac{8}{15} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{5}{8} $</span>",
+     "text": "$ \\Large \\frac{5}{8} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 1,5</span>",
+     "text": "1,5"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 0,6</span>",
+     "text": "0,6"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "ამოცანა 2",
+   "stem_html": "<p> 0,0072 = </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 7,2 ⋅ 10<sup>-3</sup> </span>",
+     "text": "7,2 ⋅ 10-3"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 72 ⋅ 10<sup>-3</sup></span>",
+     "text": "72 ⋅ 10-3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 0,72 ⋅ 10<sup>-4</sup></span>",
+     "text": "0,72 ⋅ 10-4"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 7,2 ⋅ 10<sup>-1</sup></span>",
+     "text": "7,2 ⋅ 10-1"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "ამოცანა 3",
+   "stem_html": "<p>სპილენძისა და ვერცხლის შენადნობში ვერცხლის მასა სპილენძის მასის 25%-ს შეადგენს. შენადნობის მასის რამდენ პროცენტს შეადგენს სპილენძის მასა?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 60% </span>",
+     "text": "60%"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 75%</span>",
+     "text": "75%"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 80%</span>",
+     "text": "80%"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 84%</span>",
+     "text": "84%"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "ამოცანა 4",
+   "stem_html": "<p>ტოლფერდა სამკუთხედის ერთ-ერთი კუთხის მოსაზღვრე კუთხის სიდიდე 25°-ის ტოლია. იპოვეთ ამ სამკუთხედის ფუძესთან მდებარე კუთხის სიდიდე.</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 155°</span>",
+     "text": "155°"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 77,5°</span>",
+     "text": "77,5°"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 25°</span>",
+     "text": "25°"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 12,5°</span>",
+     "text": "12,5°"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "ამოცანა 5",
+   "stem_html": "<p>წესიერ ექვსკუთხედზე შემოხაზული წრეწირის სიგრძეა 24π სმ. იპოვეთ ამ ექვსკუთხედის გვერდის სიგრძე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 12 სმ</span>",
+     "text": "12 სმ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 8 სმ</span>",
+     "text": "8 სმ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 6 სმ</span>",
+     "text": "6 სმ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 2 სმ</span>",
+     "text": "2 სმ"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "ამოცანა 6",
+   "stem_html": "<p>$ \\LARGE \\frac{2}{\\sqrt{3} - 1} $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\sqrt{3} - 1 $ </span>",
+     "text": "$ \\Large \\sqrt{3} - 1 $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\sqrt{3} + 1 $ </span>",
+     "text": "$ \\Large \\sqrt{3} + 1 $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large 2\\sqrt{3} $ </span>",
+     "text": "$ \\Large 2\\sqrt{3} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\sqrt{3} + \\sqrt{2} $ </span>",
+     "text": "$ \\Large \\sqrt{3} + \\sqrt{2} $"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "ამოცანა 7",
+   "stem_html": "<p>$ \\LARGE \\frac{a^3 - 27}{a^2 + 3a + 9} $</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) a-3</span>",
+     "text": "a-3"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{a - 3}{a + 3} $</span>",
+     "text": "$ \\Large \\frac{a - 3}{a + 3} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) −3</span>",
+     "text": "−3"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) a + 3 </span>",
+     "text": "a + 3"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "ამოცანა 8",
+   "stem_html": "<p>რამდენი უარყოფითი მთელი ამონახსნი აქვს $ \\Large \\frac{3}{11}x + 2 > 0.3 $ უტოლობას? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 5</span>",
+     "text": "5"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 6</span>",
+     "text": "6"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 7</span>",
+     "text": "7"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 8</span>",
+     "text": "8"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "ამოცანა 9",
+   "stem_html": "<p>საკოორდინატო ბადით დაფარულ სიბრტყეზე მოცემულია [ -4;4] შუალედზე განსაზღვრული y = f (x) ფუნქციის გრაფიკი, რომელიც აბსცისათა ღერძს კვეთს მთელი კოორდინატების მქონე წერტილებში (იხ. სურათი). იპოვეთ f(x) &gt; 0 უტოლობის ამონახსნთა სიმრავლე. </p>",
+   "figures": [
+    "media/graph23012.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) (-4 ; -1)</span>",
+     "text": "(-4 ; -1)"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) </span> (-1 ; 2)",
+     "text": "(-1 ; 2)"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) </span>(0 ; 4)",
+     "text": "(0 ; 4)"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) </span> (-4 ; -1) ∪ (2 ; 4)",
+     "text": "(-4 ; -1) ∪ (2 ; 4)"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "ამოცანა 10",
+   "stem_html": "<p>იპოვეთ a პარამეტრის მნიშვნელობა, თუ ცნობილია, რომ $ \\Large 2x^2 - ax + 3 = 0 $ განტოლების ამონახსნთა ჯამი 7-ის ტოლია. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 14</span>",
+     "text": "14"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) -14</span>",
+     "text": "-14"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{14}{3} $ </span>",
+     "text": "$ \\Large \\frac{14}{3} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 7</span>",
+     "text": "7"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "ამოცანა 11",
+   "stem_html": "<p>იპოვეთ x , თუ ცნობილია, რომ 4; 9; 1; 3; 12; x რიცხვითი მონაცემების მედიანა 5,5-ის ტოლია.</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 3</span>",
+     "text": "3"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 4</span>",
+     "text": "4"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 5,5</span>",
+     "text": "5,5"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 7</span>",
+     "text": "7"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "ამოცანა 12",
+   "stem_html": "<p>სურათზე მოცემულია ქვემოთ ჩამოთვლილი მრავალწახნაგებიდან ერთ-ერთის შლილი. დაასახელეთ ეს მრავალწახნაგა. </p>",
+   "figures": [
+    "media/figure02313.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) სამკუთხა პირამიდა; </span>",
+     "text": "სამკუთხა პირამიდა;"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) ოთხკუთხა პირამიდა; </span>",
+     "text": "ოთხკუთხა პირამიდა;"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) სამკუთხა პრიზმა; </span>",
+     "text": "სამკუთხა პრიზმა;"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) ოთხკუთხა პრიზმა.</span>",
+     "text": "ოთხკუთხა პრიზმა."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "ამოცანა 13",
+   "stem_html": "<p>Oxy საკოორდინატო სიბრტყეზე y = -x წრფის მიმართ ( -3; 4)წერტილის სიმეტრიული წერტილია</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) (−4; 3) </span>",
+     "text": "(−4; 3)"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) (−3; -4) </span>",
+     "text": "(−3; -4)"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) (3; -4)</span>",
+     "text": "(3; -4)"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) (4; -3) </span>",
+     "text": "(4; -3)"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "ამოცანა 14",
+   "stem_html": "<p>სულ რამდენი ათნიშნა ლუწი რიცხვი არსებობს, რომლის ჩანაწერში ოთხი ციფრია „2“, ხოლო ექვსი ციფრია „9“? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 128 </span>",
+     "text": "128"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 96 </span>",
+     "text": "96"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 84 </span>",
+     "text": "84"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 64 </span>",
+     "text": "64"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "ამოცანა 15",
+   "stem_html": "<p>არითმეტიკულ პროგრესიაში პირველი ცხრა წევრის ჯამი m-ის ტოლია, ხოლო მეორე წევრიდან მეათე წევრის ჩათვლით პროგრესიის წევრთა ჯამი n-ის ტოლია (m ≠ n ). იპოვეთ ამ პროგრესიის სხვაობა. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{m - n}{10} $</span>",
+     "text": "$ \\Large \\frac{m - n}{10} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{m - n}{9} $</span>",
+     "text": "$ \\Large \\frac{m - n}{9} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{n - m}{10} $</span>",
+     "text": "$ \\Large \\frac{n - m}{10} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{n - m}{9} $</span>",
+     "text": "$ \\Large \\frac{n - m}{9} $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "ამოცანა 16",
+   "stem_html": "<p>რას უდრის იმის ალბათობა, რომ სამი კამათლის გაგორებისას მოსული რიცხვების ჯამი მეტი იქნება 16-ზე? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{53}{54} $ </span>",
+     "text": "$ \\Large \\frac{53}{54} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{1}{54} $ </span>",
+     "text": "$ \\Large \\frac{1}{54} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{17}{18} $ </span>",
+     "text": "$ \\Large \\frac{17}{18} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{1}{18} $ </span>",
+     "text": "$ \\Large \\frac{1}{18} $"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 17,
+   "heading": "ამოცანა 17",
+   "stem_html": "<p>A(0; 3) და B(4 ; $ \\Large \\frac{3}{2} $ ) წერტილები მდებარეობს f(x)= a ⋅ 2<sup>bx</sup> ფუნქციის გრაფიკზე (იხ. სურათი). იპოვეთ a + b . </p>",
+   "figures": [
+    "media/graph32135.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{5}{2} $ </span>",
+     "text": "$ \\Large \\frac{5}{2} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{11}{4} $</span>",
+     "text": "$ \\Large \\frac{11}{4} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 3</span>",
+     "text": "3"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) -1.</span>",
+     "text": "-1."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 18,
+   "heading": "ამოცანა 18",
+   "stem_html": "<p>ABC სამკუთხედში ∠A=60° და ∠B= 45°. ქვემოთ ჩამოთვლილი გამონათქვამებიდან რომელია ჭეშმარიტი?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{BC}{AC} = \\frac{\\sqrt{3}}{2} $ </span>",
+     "text": "$ \\Large \\frac{BC}{AC} = \\frac{\\sqrt{3}}{2} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{BC}{AC} < \\sqrt{2} $ </span>",
+     "text": "$ \\Large \\frac{BC}{AC}"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{BC}{AC} > \\sqrt{2} $ </span>",
+     "text": "$ \\Large \\frac{BC}{AC} > \\sqrt{2} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{BC}{AC} = \\sqrt{\\frac{2}{3}} $ </span>",
+     "text": "$ \\Large \\frac{BC}{AC} = \\sqrt{\\frac{2}{3}} $"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 19,
+   "heading": "ამოცანა 19",
+   "stem_html": "<p>ქვემოთ ჩამოთვლილთაგან რომელი გამოსახულებაა ყოველთვის ჭეშმარიტი $ \\Large \\vec{a} $ და $ \\Large \\vec{b} $ არანულოვანი ვექტორებისთვის?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\vec{a} $ ⋅ $ \\Large \\vec{b} $ = 0 </span>",
+     "text": "$ \\Large \\vec{a} $ ⋅ $ \\Large \\vec{b} $ = 0"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\vec{a} $ ⋅ $ \\Large \\vec{b} $ ≠ 0 </span>",
+     "text": "$ \\Large \\vec{a} $ ⋅ $ \\Large \\vec{b} $ ≠ 0"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) | $ \\Large \\vec{a} $ ⋅ $ \\Large \\vec{b} $ | ≤ 1 </span>",
+     "text": "| $ \\Large \\vec{a} $ ⋅ $ \\Large \\vec{b} $ | ≤ 1"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large -1 \\leq \\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{a}| \\cdot |\\vec{b}|} \\leq 1 $ </span>",
+     "text": "$ \\Large -1 \\leq \\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{a}| \\cdot |\\vec{b}|} \\leq 1 $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 20,
+   "heading": "ამოცანა 20",
+   "stem_html": "<p>იპოვეთ k პარამეტრის ყველა ნამდვილი მნიშვნელობა, რომელთაგან თითოეულისათვის $ \\Large |3x + 4| - 7 + k = 0 $ განტოლებას არ გააჩნია ამონახსნი.</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large (-\\frac{4}{3}; \\infty) $</span>",
+     "text": "$ \\Large (-\\frac{4}{3}; \\infty) $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large (-7; \\infty) $ </span>",
+     "text": "$ \\Large (-7; \\infty) $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large (7; \\infty) $ </span>",
+     "text": "$ \\Large (7; \\infty) $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large (-\\infty; \\infty) $ </span>",
+     "text": "$ \\Large (-\\infty; \\infty) $"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 21,
+   "heading": "ამოცანა 21",
+   "stem_html": "<p>სურათზე გამოსახულია ქვემოთ ჩამოთვლილი ფუნქციებიდან ერთ-ერთის გრაფიკი. რომელია ეს ფუნქცია? </p>",
+   "figures": [
+    "media/graph231345.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large f(x) = \\sqrt{|x - 1|} $ </span>",
+     "text": "$ \\Large f(x) = \\sqrt{|x - 1|} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large f(x) = \\sqrt{|x|} - 1 $ </span>",
+     "text": "$ \\Large f(x) = \\sqrt{|x|} - 1 $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large f(x) = \\sqrt{|x + 1|} $</span>",
+     "text": "$ \\Large f(x) = \\sqrt{|x + 1|} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large f(x) = \\sqrt{|x| - 1} $ </span>",
+     "text": "$ \\Large f(x) = \\sqrt{|x| - 1} $"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 22,
+   "heading": "ამოცანა 22",
+   "stem_html": "<p>ქვემოთ ჩამოთვლილი უტოლობებიდან, რომელია ჭეშმარიტი ყოველი α რიცხვისათვის $ \\Large (\\frac{\\pi}{3}; \\frac{\\pi}{2}) $ შუალედიდან? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\sin(a) < \\frac{1}{2} $ </span>",
+     "text": "$ \\Large \\sin(a)"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\cos(a) < \\frac{\\sqrt{2}}{2} $ </span>",
+     "text": "$ \\Large \\cos(a)"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\cos(a) > \\frac{\\sqrt{3}}{2} $ </span>",
+     "text": "$ \\Large \\cos(a) > \\frac{\\sqrt{3}}{2} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\sin(a) > \\frac{3\\sqrt{3}}{4} $ </span>",
+     "text": "$ \\Large \\sin(a) > \\frac{3\\sqrt{3}}{4} $"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 23,
+   "heading": "ამოცანა 23",
+   "stem_html": "<p>Oxy მართკუთხა საკოორდინატო სიბრტყეში O წერტილის მიმართ α მახვილი კუთხით მობრუნებას (3; 1) წერტილი გადაჰყავს წერტილში, რომლის აბსცისა 1-ის ტოლია. იპოვეთ α კუთხის რადიანული ზომა.</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{\\pi}{3} $ </span>",
+     "text": "$ \\Large \\frac{\\pi}{3} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{\\pi}{6} $ </span>",
+     "text": "$ \\Large \\frac{\\pi}{6} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\arctan\\left(\\frac{2}{3}\\right) $ </span>",
+     "text": "$ \\Large \\arctan\\left(\\frac{2}{3}\\right) $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\arctan(3) - \\arctan\\left(\\frac{1}{3}\\right) $ </span>",
+     "text": "$ \\Large \\arctan(3) - \\arctan\\left(\\frac{1}{3}\\right) $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 24,
+   "heading": "ამოცანა 24",
+   "stem_html": "<p>იპოვეთ უმცირესი მთელი რიცხვი, რომელიც მეტია $ \\Large \\log_{2} 11 $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 2 </span>",
+     "text": "2"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 3 </span>",
+     "text": "3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 4 </span>",
+     "text": "4"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 5 </span>",
+     "text": "5"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 25,
+   "heading": "ამოცანა 25",
+   "stem_html": "<p>ABCD კვადრატის გვერდი $ \\Large \\sqrt{3} $ -ის ტოლია. წრეწირი ცენტრით A წერტილში, კვადრატის BC და CD გვერდებს კვეთს შესაბამისად M და N წერტილებში ისე, რომ BM=DN=1 (იხ. სურათი). იპოვეთ ABCD კვადრატის შიგნით მდებარე MN რკალის გრადუსული ზომა. </p>",
+   "figures": [
+    "media/circle23123.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 60°</span>",
+     "text": "60°"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 45°</span>",
+     "text": "45°"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 30°</span>",
+     "text": "30°"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 15° </span>",
+     "text": "15°"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 26,
+   "heading": "ამოცანა 26",
+   "stem_html": "<p>იპოვეთ $ \\Large f(x) = 2^{x^2 - 2x} $ ფუნქციის მნიშვნელობათა სიმრავლე, თუ $ \\Large x \\in [0; 3] $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large [1; 8] $ </span>",
+     "text": "$ \\Large [1; 8] $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large [ \\frac{1}{2} ; 8] $ </span>",
+     "text": "$ \\Large [ \\frac{1}{2} ; 8] $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large (0; 8] $ </span>",
+     "text": "$ \\Large (0; 8] $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\{1; 8\\} $ </span>",
+     "text": "$ \\Large \\{1; 8\\} $"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 27,
+   "heading": "ამოცანა 27",
+   "stem_html": "<p>იპოვეთ კონუსის მსახველის სიგრძე, თუ მისი ფუძის ფართობია 3π სმ<sup>2</sup>, ხოლო გვერდითი ზედაპირის ფართობია 6π სმ<sup>2</sup>.</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 2 სმ</span>",
+     "text": "2 სმ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 3 სმ</span>",
+     "text": "3 სმ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large 2\\sqrt{3} $ სმ </span>",
+     "text": "$ \\Large 2\\sqrt{3} $ სმ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large 3\\sqrt{2} $ სმ</span>",
+     "text": "$ \\Large 3\\sqrt{2} $ სმ"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q28",
+   "number": 28,
+   "heading": "ამოცანა 28",
+   "stem_html": "<p>ამოხსენით განტოლებათა სისტემა: $$ \\Large \\begin{cases} x - 2y = 3 \\\\ 4x - 3y = 0 \\end{cases} $$ </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q29",
+   "number": 29,
+   "heading": "ამოცანა 29",
+   "stem_html": "<p>საათი აჩვენებს 2 საათსა და 20 წუთს. იპოვეთ კუთხის სიდიდე წუთებისა და საათების ისრებს შორის. </p>",
+   "figures": [
+    "media/watch21313.png"
+   ],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q30",
+   "number": 30,
+   "heading": "ამოცანა 30",
+   "stem_html": "<p>ABCD კვადრატის BC გვერდზე აღებულია E წერტილი ისე, რომ ∠ADE=60°. იპოვეთ ABCD კვადრატის ფართობი, თუ ECD სამკუთხედის ფართობი S -ის ტოლია.</p>",
+   "figures": [
+    "media/rectangle23134.png"
+   ],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q31",
+   "number": 31,
+   "heading": "ამოცანა 31",
+   "stem_html": "<p>b<sub>n</sub> გეომეტრიული პროგრესიის წევრები განსაზღვრულია ფორმულით $ \\Large b_n = -2 \\cdot \\left(\\frac{2}{3}\\right)^{n-1} $. იპოვეთ ამ პროგრესიის პირველი 10 წევრის ჯამი. </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q32",
+   "number": 32,
+   "heading": "ამოცანა 32",
+   "stem_html": "<p>იპოვეთ x -ის ყველა იმ მნიშვნელობათა სიმრავლე, რომელთათვისაც კუთხე </p><div> $$ \\LARGE \\vec{a} = (x+1, 2x) \\quad \\text{and} \\quad \\vec{b} = (3x, -x+1) $$ </div> <p>ვექტორებს შორის ეკუთვნის [0° ; 90°) შუალედს.</p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q33",
+   "number": 33,
+   "heading": "ამოცანა 33",
+   "stem_html": "<p>DABC პირამიდაში ∠ACD =∠ACB =∠BCD =60°. იპოვეთ პირამიდის DH სიმაღლე, თუ CD = 6 სმ.</p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q34",
+   "number": 34,
+   "heading": "ამოცანა 34",
+   "stem_html": "<p>ორმა მორბენალმა წრიული ფორმის სარბენი ბილიკის ერთი და იმავე ადგილიდან ურთიერთსაწინააღმდეგო მიმართულებით მუდმივი სიჩქარეებით ერთდროულად დაიწყო სირბილი და პირველად ერთმანეთს 6 წუთის შემდეგ შეხვდნენ. იმავე სიჩქარეებით სირბილისას პირველი მორბენალი 5 წუთით უფრო ჩქარა შემოურბენს სარბენ ბილიკს, ვიდრე მეორე მორბენალი. რამდენ წუთში შემოურბენს სარბენ ბილიკს პირველი მორბენალი?</p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q35",
+   "number": 35,
+   "heading": "ამოცანა 35",
+   "stem_html": "<p>იპოვეთ a პარამეტრის ყველა იმ მნიშვნელობათა სიმრავლე, რომელთათვისაც </p><div> $ \\LARGE x^2 \\leq a - 2 \\quad \\text{და} \\quad x^2 + 4x \\leq 1 - a $ </div> <p>უტოლობების ამონახსნთა სიმრავლეებს აქვს ზუსტად ერთი საერთო ელემენტი. </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  }
+ ]
+}

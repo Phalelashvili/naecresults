@@ -26,3 +26,18 @@ npm-debug.log*
 
 # OS
 Thumbs.db
+
+# Python (data pipeline tooling)
+__pycache__/
+*.py[cod]
+
+# Data-pipeline tooling — NOT committed. The app ships only the built public/data/;
+# build_data.py et al. run locally to regenerate it. (`npm run build` = vite only.)
+/tools/
+data/_*
+data/index.json
+
+# NOTE: shipped data is committed and the app needs nothing else to run:
+#   public/data/  (questions, explanations, bank, results 2025.json)
+#   public/media/ (figures)
+# data/raw/ and the other data/ inputs are kept for local rebuilds (no external refs).

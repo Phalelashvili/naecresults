@@ -1,0 +1,979 @@
+{
+ "slug": "inglisuri-4-varianti-2025",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2025,
+ "variant": 4,
+ "kind": "test",
+ "title": "2025 წლის ინგლისურის ტესტი 4 ვარიანტი | Testebi.ge",
+ "num_questions": 24,
+ "num_content_blocks": 29,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<p>Task 1: Listen to the text and for each question mark the correct answer A, B, C or D. You now have 40 seconds to look through the task. You will then hear the recording twice. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/ENGABIT2025V4.mp3\" type=\"audio/mpeg\"/> </audio>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Who knew about the speaker's dream to live in the USA? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Nobody.</span>",
+     "text": "Nobody."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Her father.</span>",
+     "text": "Her father."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Her mother.</span>",
+     "text": "Her mother."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Exchange students.</span>",
+     "text": "Exchange students."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> The speaker mentions the Seeds of Peace camp because she </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. was accepted there.</span>",
+     "text": "was accepted there."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. spent a year there.</span>",
+     "text": "spent a year there."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. didn't want to go there.</span>",
+     "text": "didn't want to go there."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. failed the interview there.</span>",
+     "text": "failed the interview there."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> How did the speaker's parents initially react to her studying abroad for a year? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. They were indifferent.</span>",
+     "text": "They were indifferent."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. They weren't very enthusiastic about the idea.</span>",
+     "text": "They weren't very enthusiastic about the idea."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. They were immediately supportive.</span>",
+     "text": "They were immediately supportive."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. They let their daughter make the decision herself.</span>",
+     "text": "They let their daughter make the decision herself."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> When the speaker was accepted as an exchange student, her parents were </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. disappointed.</span>",
+     "text": "disappointed."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. concerned.</span>",
+     "text": "concerned."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. unhappy.</span>",
+     "text": "unhappy."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. proud.</span>",
+     "text": "proud."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> What did the speaker and her host family do during the Thanksgiving break? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Explored national parks.</span>",
+     "text": "Explored national parks."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Attended music festivals.</span>",
+     "text": "Attended music festivals."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Went to Disneyland.</span>",
+     "text": "Went to Disneyland."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Participated in cultural events.</span>",
+     "text": "Participated in cultural events."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> Which activity was the speaker involved in during her exchange year in the USA? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Giving presentations.</span>",
+     "text": "Giving presentations."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Exploring historical sites.</span>",
+     "text": "Exploring historical sites."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Learning a new language.</span>",
+     "text": "Learning a new language."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Developing new skills.</span>",
+     "text": "Developing new skills."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> How did the speaker feel as the departure date approached? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Very excited.</span>",
+     "text": "Very excited."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Indifferent.</span>",
+     "text": "Indifferent."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Unconfident.</span>",
+     "text": "Unconfident."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Sad but grateful.</span>",
+     "text": "Sad but grateful."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Now that the speaker's back home, she wants to </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. start an English club.</span>",
+     "text": "start an English club."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. become the school president.</span>",
+     "text": "become the school president."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. participate in a new programme.</span>",
+     "text": "participate in a new programme."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. become an English language teacher.</span>",
+     "text": "become an English language teacher."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Charming Parisian</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> Legendary French actress Sarah Bernhardt won the hearts of theatregoers around the world but always remained faithful to Paris, the city of her birth and her very first triumphs. She has often been called 'the most famous actress in the history of the world'. Sarah Bernhardt made her fame on the stages of Europe in the 1870s, and was soon working in Europe and the United States. She developed a reputation as a serious actress, getting the nickname 'The Divine* Sarah.'</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> One hundred years after her death, Sarah Bernhardt is still remembered as a star, well-known from Sydney to New York and from Cairo to Rio de Janeiro. Her talent as a tragic actress, along with what Victor Hugo called her 'golden voice,' earned her worldwide recognition. Sarah Bernhardt was also skilled at attracting people's attention, posing expertly for newspapers, photographers and gossip writers. Her enduring impact comes from her ability to create a captivating public image, making her one of the most interesting figures in theatre history. 5</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> Sarah was born in Paris in 1844. She spent much of her early childhood in a monastery near Versailles. It was only when she turned fourteen that she left the monastery to live with her mother. Her mother wanted her to get married at an early age, as she couldn't afford to keep Sarah and her sister at home. But Sarah categorically refused. When her mother's friend recommended Sarah to enroll in the acting school near her mother's home, it seemed like an excellent decision. From 1860 to 1862 Sarah showed interest in drama and was finally accepted by a theatre called the Comédie-Française. But just a few months later, in 1863, she was fired for having hit a famous actress who had violently pushed her little sister. To survive, Sarah took on small roles at the theatre called Théâtre du Gymnase.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b> Finally, in 1869 Sarah Bernhardt experienced her first triumph. It was at the theatre Odéon, where her performance was praised as graceful and charming. However, soon afterwards her home caught fire and she lost all of her belongings. To somehow help the actress, the Odéon organised an event in Sarah Bernhardt's honour which raised enough money for her to find a new place to live. When the Franco-Prussian War broke out in 1870, theatres closed down. But once peace was restored, Sarah Bernhardt again triumphed at the Odéon, this time in the leading role.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> After this success, the Comédie-Française hired Sarah Bernhardt again and she soon became wealthy enough to build a Renaissancestyle house. The mansion, which is a large expensive house, was built around her studio, where Sarah developed her sculpting skills. One of her works of art, After the Storm, was shown at what is now the Grand Palais. The studio was filled with paintings of herself in different roles, as well as strange things, like a skeleton named Lazare and a collection of stuffed bats and tigers. Sarah fulfilled all of her unusual desires; she even hired a balloon to fly over Paris during the World's Fair in 1878.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> Despite all her success, Sarah spent more than she earned and in 1885 she had to sell her big house. She moved to a new home where she once again created her fantastic universe with the possessions she had saved from sale, including a painted ceiling by a famous artist. Despite a serious knee injury, she continued to perform on stage and even acted as the director of several Paris theatres. In 1915 her right leg was amputated, but she continued to perform until the very end. On March 26, 1923 the theatre legend died at her home. A huge crowd followed her funeral procession to Père Lachaise cemetery.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>* divine: ღვთაებრივი</i></p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Which paragraph mentions where Sarah Bernhardt lived before joining her mother? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> Which paragraph names the city Sarah Bernhardt was most devoted to? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Which paragraph describes Sarah Bernhardt's strange lifestyle? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> Which paragraph highlights Sarah Bernhardt's continuing international fame up to now? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Which paragraph mentions Sarah Bernhardt's first success at the Odéon? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> Which paragraph gives the reason why Sarah Bernhardt had to sell her big house? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> Which paragraph can have the title: 'Sarah Bernhardt's early struggles'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which paragraph can have the title: 'The support from the theatre community'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 3: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>This is a true story told by Susan Evans who used to raise money for a children's home.</i></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>My family belonged to the middle class, and I was lucky enough to have all of my needs satisfied when I was growing up. However, I know that not everyone is as fortunate as I am. Even though it is impossible to help everyone, I firmly believe that kindness has the power to significantly improve the lives of those who are less fortunate. There are a lot of people who need financial and moral support. Just recently, I initiated a heartwarming fundraising* activity for a children's home, which filled me with a great desire to make a positive difference in the lives of children who have experienced the loss of their parents. My dream was simple but strong: to provide these kids with more than just the things they need, like love, care and the opportunities they deserve. It was a straightforward but powerful dream. With this in mind, I reached out to members of my community, friends and colleagues, sharing the story of the children's home and the wonderful work that is being done there. My discovery that people are naturally generous and eager to make a difference in the world came as a complete surprise to me.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Fundraising became a way to unite people around a common goal. From organising charity marathons and selling homemade cookies to initiating online campaigns and collecting donations, each effort brought us closer to our goal. The response was incredible - people from different social classes came together, showing that people are kind to each other no matter what. One remarkable success story was the renovation of the children's home, which became a safe place for a young girl named Sarah. Even though Sarah had gone through a lot of problems, she was able to access high-quality education with the additional financial support which we raised. It was truly inspiring to see how she was changing from a shy, uncertain child into a confident, ambitious young woman. Her story strengthened the belief that even a small effort can have a significant impact on a child's life. As the funds grew, I saw how the children's home started to transform. Thanks to the generosity of others, living conditions improved, educational opportunities expanded and a caring environment full of hope and optimism became possible. This experience served as a powerful reminder of the positive change that can happen when people work together to support those in need. Through this journey, I've learned that raising funds is about more than just financial support; it's about building a network of kind individuals committed to making a difference.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>In conclusion, raising funds for the children's home has been an incredibly meaningful experience. It has strengthened my trust in the kindness of others, as I've seen how naturally people are willing to help, and in our collective ability to create a better future for those who need it most. As I continue on this path, I'm filled with gratitude for the opportunity to contribute to the well-being and happiness of these amazing children, knowing that our efforts are paving the way for a brighter tomorrow.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>* fundraising – ფულადი სახსრების მოზიდვა</i></p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Why did Susan decide to gather funds for a children's home? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. She came from a poor family.</span>",
+     "text": "She came from a poor family."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. She wanted to assist poor families.</span>",
+     "text": "She wanted to assist poor families."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. She wanted to help children in need.</span>",
+     "text": "She wanted to help children in need."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. She was brought up in a children's home.</span>",
+     "text": "She was brought up in a children's home."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> When Susan shared her story with her friends, she was surprised that people </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. refused to help.</span>",
+     "text": "refused to help."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. were willing to help.</span>",
+     "text": "were willing to help."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. didn't care about children's needs.</span>",
+     "text": "didn't care about children's needs."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. doubted the children's home existed.</span>",
+     "text": "doubted the children's home existed."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> How did people react to the fundraising initiative? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. People ignored it.</span>",
+     "text": "People ignored it."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. It led to social divisions.</span>",
+     "text": "It led to social divisions."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Only wealthy people participated.</span>",
+     "text": "Only wealthy people participated."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It united people from different social groups.</span>",
+     "text": "It united people from different social groups."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> The additional finances raised were used for </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. helping Sarah find a new home.</span>",
+     "text": "helping Sarah find a new home."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. buying an apartment for Sarah.</span>",
+     "text": "buying an apartment for Sarah."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. inspiring Sarah to support other kids.</span>",
+     "text": "inspiring Sarah to support other kids."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. giving Sarah a good education.</span>",
+     "text": "giving Sarah a good education."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> The community believed their fundraising made a difference because Sarah </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. transformed so much.</span>",
+     "text": "transformed so much."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. worked hard.</span>",
+     "text": "worked hard."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. had future plans.</span>",
+     "text": "had future plans."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. was devoted to learning.</span>",
+     "text": "was devoted to learning."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> What happened to the children's home when it started to receive more money? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Stayed the same.</span>",
+     "text": "Stayed the same."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Changed for the better.</span>",
+     "text": "Changed for the better."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Received less support.</span>",
+     "text": "Received less support."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Still had problems with money.</span>",
+     "text": "Still had problems with money."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> How did Susan feel about her fundraising experience? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. She felt it was really important.</span>",
+     "text": "She felt it was really important."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. She didn't really understand it.</span>",
+     "text": "She didn't really understand it."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. She only did it because she had to.</span>",
+     "text": "She only did it because she had to."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. She realised it was a waste of time.</span>",
+     "text": "She realised it was a waste of time."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which of the following would be the best title for the text? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Challenges in fundraising</span>",
+     "text": "Challenges in fundraising"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Fundraiser's hard job</span>",
+     "text": "Fundraiser's hard job"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The power of kindness</span>",
+     "text": "The power of kindness"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Charity doesn't always work</span>",
+     "text": "Charity doesn't always work"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> <span>ability (A)</span> <span>achieve (B)</span> <span>citizens (C)</span> <span>creating (D)</span> <span>discovered (E)</span> <span>draw (F)</span> <span>drawings (G)</span> <span>encourages (H)</span> <span>famous (I)</span> <span>generations (J)</span> <span>manner (K)</span> <span>memory (L)</span> <span>unusual (M)</span> <span>worldwide (N)</span> </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>The strongest memory in the world</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 5: Read the text and mark the correct choice A, B, C or D. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>The story of the Nike logo</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. Two sentences are extra. <span>(6 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>At the university</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>Katie:</b> Oh look, Sam! The professor is posting the exam results on the noticeboard. But I'm too nervous to go and see them.<br/><b>Sam:</b> What are you worried about? You studied hard, didn't you?<br/><b>Katie:</b> <b>1.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sam:</b> Well, we won't know our marks unless we check the results ourselves.<br/><b>Katie:</b> <b>2.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sam:</b> All right, stay here; I'll go and check.<br/><b>Katie:</b> <b>3.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sam:</b> Cheer up, Katie! I've got great news for you - there's really no need to panic. It looks like our exam preparation plan has worked for both of us.<br/><b>Katie:</b> <b>4.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sam:</b> Yes, we did!<br/><b>Katie:</b> <b>5.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sam:</b> So was I, and it's definitely more than just a pass! How would you feel about being top of the class with 96%?<br/><b>Katie:</b> <b>6.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sam:</b> That's exactly what you got! You're first in the class and I'm right behind you! I'm so happy for both of us!</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> So Sam, is it too bad?<br/><b>B.</b> That would be amazing! I couldn't dream of a better result!<br/><b>C.</b> I did. In fact, I really did my best, but you never know.<br/><b>D.</b> So, you mean we passed?<br/><b>E.</b> Yes, it's the hardest exam I've ever taken.<br/><b>F.</b> I know, but I'm too nervous. Why don't YOU go and find out how we did?<br/><b>G.</b> That's great, but I was hoping for more than just a pass.<br/><b>H.</b> Sure, I'm so happy I got the highest score on the exam!</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  }
+ ]
+}

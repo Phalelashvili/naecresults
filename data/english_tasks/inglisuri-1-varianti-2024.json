@@ -1,0 +1,1736 @@
+{
+  "blocks": [
+    {
+      "kind": "content",
+      "html": "<h3>Task 4: Read the text and fill the gaps with the words given (A-N). (12 points)</h3>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "words",
+      "words": [
+        {
+          "letter": "A",
+          "text": "accompanied"
+        },
+        {
+          "letter": "B",
+          "text": "became"
+        },
+        {
+          "letter": "C",
+          "text": "campaign"
+        },
+        {
+          "letter": "D",
+          "text": "end"
+        },
+        {
+          "letter": "E",
+          "text": "interesting"
+        },
+        {
+          "letter": "F",
+          "text": "master"
+        },
+        {
+          "letter": "G",
+          "text": "named"
+        },
+        {
+          "letter": "H",
+          "text": "ordered"
+        },
+        {
+          "letter": "I",
+          "text": "organise"
+        },
+        {
+          "letter": "J",
+          "text": "realised"
+        },
+        {
+          "letter": "K",
+          "text": "refused"
+        },
+        {
+          "letter": "L",
+          "text": "tells"
+        },
+        {
+          "letter": "M",
+          "text": "train"
+        },
+        {
+          "letter": "N",
+          "text": "years"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "html": "<p>Plutarch, a famous Greek historian, was Alexander the Great&rsquo;s biographer. In Alexander&rsquo;s biography he <b>(1)</b> a famous story of love between a man and a horse. When Alexander was ten years old his father, Phillip, was offered a large and magnificent horse which he bought for 13 talents, an ancient unit of money. The horse originally came from Thessaly in Greece. However, the animal <b>(2)</b> to be trained. Phillip got very angry and <b>(3)</b> his servants to take the horse away. But Alexander insisted that he could ride the wild animal. Alexander soon <b>(4)</b> that the animal&rsquo;s fear was caused by its own shadow and, in the end, he managed to <b>(5)</b> the horse. Because of the white mark on the horse&rsquo;s forehead, Alexander gave it the name Bucephalus, which means ox-head. The two <b>(6)</b> inseparable and when Alexander started his legendary <b>(7)</b> against Persia, he chose Bucephalus as his war horse. Bucephalus <b>(8)</b> Alexander through many battles and followed his <b>(9)</b> everywhere. Finally, in distant India, Bucephalus&rsquo; journey came to an <b>(10)</b>. Around 326 BC after the big battle Bucephalus died from wounds or possibly from old age. To honour his companion, Alexander built a city on the banks of the Hydaspes River and <b>(11)</b> it Bucephala. It&rsquo;s also <b>(12)</b> to note that Alexander built another city and gave it the name of his favourite dog Peritas. Both cities were in Asia.</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "L"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "K"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "H"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "J"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "M"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 7,
+      "stem_html": "<span class=\"gap-label\">Gap 7</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 8,
+      "stem_html": "<span class=\"gap-label\">Gap 8</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 9,
+      "stem_html": "<span class=\"gap-label\">Gap 9</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "F"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 10,
+      "stem_html": "<span class=\"gap-label\">Gap 10</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 11,
+      "stem_html": "<span class=\"gap-label\">Gap 11</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "G"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 12,
+      "stem_html": "<span class=\"gap-label\">Gap 12</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accompanied",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "became",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "campaign",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "end",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "interesting",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "master",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "named",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "ordered",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "organise",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "realised",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "refused",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "tells",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "train",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "years",
+          "html": ""
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<h4>Could the Beatles read music?</h4><p>The answer is NO. John Lennon admitted this in one of his interviews. He said: &lsquo;None of us could read music. None of us can write it but, <b>(1)</b> pure musicians, we are as good as anybody.&rsquo; This fact became widely known only after the band officially broke <b>(2)</b> in 1970. The Beatles are not the exception. Elvis Presley, The King of Rock and Roll, played the guitar, bass and piano all by ear. He could not read or write musical notes, <b>(3)</b> could play the melody after hearing it only once. Stevie Wonder, who has been blind <b>(4)</b> birth, has played multiple instruments including harmonica and drums from <b>(5)</b> early age, without being able to read the musical notes. A talented multi-instrumentalist Taylor Swift became popular with her first album <b>(6)</b> the age of seventeen. She revealed in one of her interviews <b>(7)</b> she does not read music at all. Bob Dylan, one of the greatest songwriters <b>(8)</b> all time, was welcomed into the Rock &amp; Roll Hall of Fame without knowing how to read music. Ella Fitzgerald, the Queen of Jazz, also sang by ear. Eric Clapton, English rock and blues guitarist, is ranked second <b>(9)</b> the list of the 100 Greatest Guitarists ever, <b>(10)</b> the fact that he could not read music. Singer and songwriter Jimi Hendrix learned to play the electric guitar by ear but would use words and colours to express <b>(11)</b> he wanted the music to sound. You&rsquo;d be surprised to find <b>(12)</b> how many more famous singers perform without being able to read music.</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 1,
+      "stem_html": "<p><span class=\"gap-label\">Gap 1</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "while",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "as",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "whereas",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "because",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 2,
+      "stem_html": "<p><span class=\"gap-label\">Gap 2</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "out",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "up",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "through",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 3,
+      "stem_html": "<p><span class=\"gap-label\">Gap 3</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "until",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "so",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "as",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "but",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 4,
+      "stem_html": "<p><span class=\"gap-label\">Gap 4</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "since",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "till",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 5,
+      "stem_html": "<p><span class=\"gap-label\">Gap 5</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "an",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "the",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 6,
+      "stem_html": "<p><span class=\"gap-label\">Gap 6</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "when",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "during",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "since",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 7,
+      "stem_html": "<p><span class=\"gap-label\">Gap 7</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "and",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "because",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "but",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 8,
+      "stem_html": "<p><span class=\"gap-label\">Gap 8</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "during",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "in",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 9,
+      "stem_html": "<p><span class=\"gap-label\">Gap 9</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "inside",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 10,
+      "stem_html": "<p><span class=\"gap-label\">Gap 10</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "against",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "despite",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "in spite",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "although",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 11,
+      "stem_html": "<p><span class=\"gap-label\">Gap 11</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "when",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "who",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "how",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 12,
+      "stem_html": "<p><span class=\"gap-label\">Gap 12</span></p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "out",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "up",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "in",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. (6 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p><b>Professor and student talking</b></p><p><b>Student:</b> Excuse me, professor. Would it be possible to arrange a meeting with you sometime this week? I need your advice concerning my project.</p><p><b>Professor:</b> <b>(1)</b></p><p><b>Student:</b> Do you mean the one on the second floor of the main university building?</p><p><b>Professor:</b> <b>(2)</b></p><p><b>Student:</b> I&rsquo;ll definitely keep you informed, professor, but I hope this won&rsquo;t happen.</p><p><b>Professor:</b> <b>(3)</b></p><p><b>Student:</b> I had some personal problems that led to missing two of your lectures and that&rsquo;s the reason.</p><p><b>Professor:</b> <b>(4)</b></p><p><b>Student:</b> I did go through them but I would still appreciate some clarification.</p><p><b>Professor:</b> <b>(5)</b></p><p><b>Student:</b> Thank you. I&rsquo;ll do that. But does this mean that I won&rsquo;t be able to submit my project this week?</p><p><b>Professor:</b> <b>(6)</b></p><p><b>Student:</b> Excellent! Thank you so much, professor. I&rsquo;ll do my best to meet the new deadline.</p>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "sentences",
+      "words": [
+        {
+          "letter": "A",
+          "text": "It&rsquo;s a pity you couldn&rsquo;t meet the project deadline on time."
+        },
+        {
+          "letter": "B",
+          "text": "Well, in that case, I&rsquo;ll be giving the same lecture for group B on Wednesday. Why don&rsquo;t you attend it?"
+        },
+        {
+          "letter": "C",
+          "text": "Let me check my schedule. How about this Friday at 3 pm? Can we meet in the physics lab?"
+        },
+        {
+          "letter": "D",
+          "text": "Sure, we can meet any time. I have some free time this Friday noon."
+        },
+        {
+          "letter": "E",
+          "text": "The deadline for submitting late projects is at the end of next week, so don&rsquo;t worry about that."
+        },
+        {
+          "letter": "F",
+          "text": "I understand. Can you check with other students about the online resources I recommended for the project?"
+        },
+        {
+          "letter": "G",
+          "text": "Really? What is it that you couldn&rsquo;t quite understand - the theory or something else?"
+        },
+        {
+          "letter": "H",
+          "text": "Exactly. Please don&rsquo;t forget to give me a call if you need to reschedule the meeting."
+        }
+      ]
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It&rsquo;s a pity you couldn&rsquo;t meet the project deadline on time.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, in that case, I&rsquo;ll be giving the same lecture for group B on Wednesday. Why don&rsquo;t you attend it?",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Let me check my schedule. How about this Friday at 3 pm? Can we meet in the physics lab?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sure, we can meet any time. I have some free time this Friday noon.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "The deadline for submitting late projects is at the end of next week, so don&rsquo;t worry about that.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I understand. Can you check with other students about the online resources I recommended for the project?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Really? What is it that you couldn&rsquo;t quite understand - the theory or something else?",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Exactly. Please don&rsquo;t forget to give me a call if you need to reschedule the meeting.",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It&rsquo;s a pity you couldn&rsquo;t meet the project deadline on time.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, in that case, I&rsquo;ll be giving the same lecture for group B on Wednesday. Why don&rsquo;t you attend it?",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Let me check my schedule. How about this Friday at 3 pm? Can we meet in the physics lab?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sure, we can meet any time. I have some free time this Friday noon.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "The deadline for submitting late projects is at the end of next week, so don&rsquo;t worry about that.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I understand. Can you check with other students about the online resources I recommended for the project?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Really? What is it that you couldn&rsquo;t quite understand - the theory or something else?",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Exactly. Please don&rsquo;t forget to give me a call if you need to reschedule the meeting.",
+          "html": ""
+        }
+      ],
+      "correct": "H"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It&rsquo;s a pity you couldn&rsquo;t meet the project deadline on time.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, in that case, I&rsquo;ll be giving the same lecture for group B on Wednesday. Why don&rsquo;t you attend it?",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Let me check my schedule. How about this Friday at 3 pm? Can we meet in the physics lab?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sure, we can meet any time. I have some free time this Friday noon.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "The deadline for submitting late projects is at the end of next week, so don&rsquo;t worry about that.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I understand. Can you check with other students about the online resources I recommended for the project?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Really? What is it that you couldn&rsquo;t quite understand - the theory or something else?",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Exactly. Please don&rsquo;t forget to give me a call if you need to reschedule the meeting.",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It&rsquo;s a pity you couldn&rsquo;t meet the project deadline on time.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, in that case, I&rsquo;ll be giving the same lecture for group B on Wednesday. Why don&rsquo;t you attend it?",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Let me check my schedule. How about this Friday at 3 pm? Can we meet in the physics lab?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sure, we can meet any time. I have some free time this Friday noon.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "The deadline for submitting late projects is at the end of next week, so don&rsquo;t worry about that.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I understand. Can you check with other students about the online resources I recommended for the project?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Really? What is it that you couldn&rsquo;t quite understand - the theory or something else?",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Exactly. Please don&rsquo;t forget to give me a call if you need to reschedule the meeting.",
+          "html": ""
+        }
+      ],
+      "correct": "F"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It&rsquo;s a pity you couldn&rsquo;t meet the project deadline on time.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, in that case, I&rsquo;ll be giving the same lecture for group B on Wednesday. Why don&rsquo;t you attend it?",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Let me check my schedule. How about this Friday at 3 pm? Can we meet in the physics lab?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sure, we can meet any time. I have some free time this Friday noon.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "The deadline for submitting late projects is at the end of next week, so don&rsquo;t worry about that.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I understand. Can you check with other students about the online resources I recommended for the project?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Really? What is it that you couldn&rsquo;t quite understand - the theory or something else?",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Exactly. Please don&rsquo;t forget to give me a call if you need to reschedule the meeting.",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It&rsquo;s a pity you couldn&rsquo;t meet the project deadline on time.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, in that case, I&rsquo;ll be giving the same lecture for group B on Wednesday. Why don&rsquo;t you attend it?",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Let me check my schedule. How about this Friday at 3 pm? Can we meet in the physics lab?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sure, we can meet any time. I have some free time this Friday noon.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "The deadline for submitting late projects is at the end of next week, so don&rsquo;t worry about that.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I understand. Can you check with other students about the online resources I recommended for the project?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Really? What is it that you couldn&rsquo;t quite understand - the theory or something else?",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Exactly. Please don&rsquo;t forget to give me a call if you need to reschedule the meeting.",
+          "html": ""
+        }
+      ],
+      "correct": "E"
+    }
+  ]
+}

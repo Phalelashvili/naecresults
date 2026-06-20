@@ -1,0 +1,975 @@
+{
+ "slug": "inglisuri-1-varianti-2025",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2025,
+ "variant": 1,
+ "kind": "test",
+ "title": "2025 წლის ინგლისურის ტესტი 1 ვარიანტი | Testebi.ge",
+ "num_questions": 24,
+ "num_content_blocks": 28,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<p>Task 1: Listen to the text and for each question mark the correct answer A, B, C or D. You now have 40 seconds to look through the task. You will then hear the recording twice. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/ENGABIT2025V1.mp3\" type=\"audio/mpeg\"/> </audio>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> What is the lecture about? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. The city of Oxford.</span>",
+     "text": "The city of Oxford."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. One of the universities.</span>",
+     "text": "One of the universities."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. British education system.</span>",
+     "text": "British education system."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Examination system in Oxford.</span>",
+     "text": "Examination system in Oxford."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> Which is the oldest university in the world? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. The University of Cambridge.</span>",
+     "text": "The University of Cambridge."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. The University of Oxford.</span>",
+     "text": "The University of Oxford."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The University of St Andrews.</span>",
+     "text": "The University of St Andrews."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. The University of Bologna.</span>",
+     "text": "The University of Bologna."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Oxford University grew rapidly in the 12th century because </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. it was popular among British people.</span>",
+     "text": "it was popular among British people."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. it consisted of independent colleges.</span>",
+     "text": "it consisted of independent colleges."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. the king made a specific decision.</span>",
+     "text": "the king made a specific decision."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. students liked studying there.</span>",
+     "text": "students liked studying there."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> What does the speaker say about the Department of Biology? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. It is the newest.</span>",
+     "text": "It is the newest."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. It is the oldest.</span>",
+     "text": "It is the oldest."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. It is the largest.</span>",
+     "text": "It is the largest."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It is the best.</span>",
+     "text": "It is the best."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Why do students meet with their tutor at Oxford University? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. To learn more about university life.</span>",
+     "text": "To learn more about university life."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. To get advice on their subject.</span>",
+     "text": "To get advice on their subject."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. To discuss personal matters.</span>",
+     "text": "To discuss personal matters."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. To meet other students.</span>",
+     "text": "To meet other students."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> The number 3,300 is mentioned in relation to </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. the students studying at Oxford.</span>",
+     "text": "the students studying at Oxford."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. the population of the city of Oxford.</span>",
+     "text": "the population of the city of Oxford."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. the places for undergraduate students.</span>",
+     "text": "the places for undergraduate students."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. the students graduating from Oxford each year.</span>",
+     "text": "the students graduating from Oxford each year."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> What do we learn about the Bodleian Library? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. It has fewer printed items than the British Library.</span>",
+     "text": "It has fewer printed items than the British Library."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. It has rare documents only from Britain.</span>",
+     "text": "It has rare documents only from Britain."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Its foundation year is not known.</span>",
+     "text": "Its foundation year is not known."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It is the largest library in Britain.</span>",
+     "text": "It is the largest library in Britain."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> From the recording we learn that Marjory Wardrop </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. was a British diplomat.</span>",
+     "text": "was a British diplomat."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. collected 1,454 items for the library.</span>",
+     "text": "collected 1,454 items for the library."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. translated a Georgian poem into English.</span>",
+     "text": "translated a Georgian poem into English."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. published a Georgian poem.</span>",
+     "text": "published a Georgian poem."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>The magic behind a novel</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> One of the most interesting authors of the 20th century, J.R.R. Tolkien became famous through his very creative fantasy novel The Lord of the Rings, which is still read and enjoyed worldwide. Tolkien was born in Bloemfontein, an Afrikaans-speaking area of South Africa, in 1892. After the death of his father, four-year-old Tolkien, with his mother and younger brother, moved to England and settled near Birmingham. Tolkien later attended Oxford University. After serving in World War I, he became a professor of Anglo-Saxon and English Language and Literature at Oxford University.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> The three books of The Lord of the Rings were written between 1936 and 1949. It took Tolkien so many years to complete the novel due to his duties as a professor and the problems caused by World War II. The novel is about a battle between good and evil trying to get a magical ring that has the power to rule the world. The books were published in 1965 and they soon became very popular, especially among young people. By the late 1960s, about twenty years after this unusual novel was written, young people had become interested in the mythology and legends Tolkien had created and started to study them.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> The Lord of the Rings is set in a world called Middle Earth, populated by good and evil creatures - dwarves, elves, monsters, wizards and some humans. The author created a large number of characters, each with a distinct and unique personality. He based these characters on mythological tales from Greece and Northern Europe, creating a fantasy world with its own unique and magic history, geography, culture and language. The novel is so rich in characters and so full of unusual facts that it can be hard to understand without careful attention from readers.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b> People often ask whether Ethiopia, a country in Africa, had influenced Tolkien's creation of Middle Earth. That's what some writers and Lord of the Rings bloggers think. Their theory is based on the fact that so many of the place names in this classic fantasy are surprisingly similar to the names of Ethiopian places, like Gondor in the novel and Gondar in Ethiopia. Despite the fact that Tolkien never visited this country, his African birthplace inspired parts of the novel, even though he lived in England while writing it.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> Many readers and scholars have analysed J.R.R. Tolkien's works, particularly The Lord of the Rings, and have tried to connect them with his real-life experiences from both World War I and World War II. However, the author never agreed with this opinion. He stated that during his university years his main goal was to create myths and legends about elves and their languages. The novel mentions several invented languages, but only two of them are well-described by the author. They are Quenya and Sindarin - both used by the elves. Tolkien was very careful with inventing a new language and paid a lot of attention to its every detail.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> The production of The Lord of the Rings film series, directed by Peter Jackson, was both a big challenge and a huge success. All three films were shot at the same time in Peter Jackson's native New Zealand and were shown in the movie theatres between 2001 and 2003. The series won numerous prestigious awards and is considered one of the most influential film series ever made. Disney Studios refused to produce an animated version of the novel, noting that it would be very expensive to make. In fact, the real reason was the fact that Tolkien found Walt Disney's movies 'terrible' and didn't want to 'let Disney touch The Lord of the Rings'. This shows how much Tolkien wanted to protect his story.</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Which paragraph specifies why it took the author so long to write The Lord of the Rings? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> Which paragraph lists the creatures who live in Middle Earth? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Which paragraph says that the names of some places in the novel are related to real locations? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> Which paragraph mentions Tolkien's educational background? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Which paragraph states the reason why an animated version of Tolkien's novel was not made? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> Which paragraph names the countries' mythology which helped Tolkien to create his characters? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> Which paragraph could have the title 'The languages spoken by elves'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which paragraph could have the title: 'Africa - a big inspiration'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 3: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>This is a personal story told by Daniel Smithson, an American student.</i></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>When I graduated from high school in a small town in Texas, USA, it felt like the end of an era. I had spent the last four years of high school studying doing sports and hanging out with friends. But now, all of that was behind me. As I stood on stage in my cap and gown, shaking hands with the school principal and receiving my diploma, I couldn't help but feel excited and nervous about what was coming next – university. I had always dreamed of going to university, and after months of sending applications and waiting, I finally received an acceptance letter from the Massachusetts Institute of Technology, or MIT, one of the top universities in the country. It was a real surprise for me. I knew that getting into MIT would be incredibly hard as a lot of young people try to get accepted there. I could hardly believe it! What fascinated me was the fact that MIT, like no other university, encourages students to conduct research or participate in it. I really liked this idea! I also discovered through their website that MIT is known for its strong programmes in political science and urban studies – two areas I could choose as electives.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>As summer passed and the start of the academic year approached, I began to feel anxious. I was excited about the opportunities ahead, but the idea of moving hundreds of miles away to a city where I knew no one stressed me out. I'd lived in the same small town my entire life, surrounded by familiar faces and places. My parents were incredibly supportive, reminding me that feeling nervous before such a big change is normal. My mom, in particular, seemed to understand exactly how I felt. 'It's okay to be scared,' she told me one evening as I was packing my suitcase. 'But this is your chance to explore new things, meet new people and grow into the person you're meant to be.' To calm my nerves, I spent time researching my future university. I knew well it was very prestigious, but I took a risk of applying there because of its reputation for engineering - the exact field I wanted to follow. On their website I looked up clubs and nearby hangout places. I even reached out to a few fellow students who would be living in the same dorm. Slowly, my excitement began to overshadow my fear.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>The day I left for university was emotional. I hugged my parents tightly before loading my bags into the car. When I arrived, I saw that the campus was even more beautiful than I had imagined - wide green lawns, tall red brick buildings and students bustling everywhere. During orientation week I met other first-year students who were just as nervous as I was. We talked about our majors, where we were from and what we hoped to achieve. As we laughed and shared our stories, I began to feel more at ease. What helped me relax was realising that I wasn't alone - everyone was going through the same emotions. By the end of the first week, I realised that while it was hard to leave home, it was also exciting to begin this new chapter of life. I still missed my family, but I knew this was where I needed to be. University was going to be an adventure and for the first time in weeks, I felt ready for it.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>elective: არჩევითი საგანი dorm: საერთო საცხოვრებელი</i></p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Why was Daniel surprised when he received the acceptance letter from MIT? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He knew many other people were applying.</span>",
+     "text": "He knew many other people were applying."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He was sure he wouldn't be accepted.</span>",
+     "text": "He was sure he wouldn't be accepted."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. He had never dreamt of going there.</span>",
+     "text": "He had never dreamt of going there."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He had never heard of MIT.</span>",
+     "text": "He had never heard of MIT."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> What do we learn about the political science and urban studies programmes? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Daniel wants to do research in them.</span>",
+     "text": "Daniel wants to do research in them."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Daniel has no interest in studying them.</span>",
+     "text": "Daniel has no interest in studying them."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Daniel could take them as electives at MIT.</span>",
+     "text": "Daniel could take them as electives at MIT."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. They are Daniel's main areas of interest.</span>",
+     "text": "They are Daniel's main areas of interest."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Why did Daniel feel nervous about moving to another city? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He doubted his academic abilities.</span>",
+     "text": "He doubted his academic abilities."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He didn't want to leave his parents.</span>",
+     "text": "He didn't want to leave his parents."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. He worried about making new friends.</span>",
+     "text": "He worried about making new friends."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He was moving to a completely new place.</span>",
+     "text": "He was moving to a completely new place."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> When Daniel's mother spoke to him, she sounded </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. indifferent.</span>",
+     "text": "indifferent."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. confused.</span>",
+     "text": "confused."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. supportive.</span>",
+     "text": "supportive."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. emotional.</span>",
+     "text": "emotional."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> What was the main reason Daniel applied to MIT? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Its location in a large city.</span>",
+     "text": "Its location in a large city."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Its reputation in a specific field.</span>",
+     "text": "Its reputation in a specific field."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Its students' social life.</span>",
+     "text": "Its students' social life."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. His interest in university life.</span>",
+     "text": "His interest in university life."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> How did Daniel overcome his nervousness during the orientation week? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He spent more time on social media.</span>",
+     "text": "He spent more time on social media."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He shared his personal story with his family.</span>",
+     "text": "He shared his personal story with his family."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. He took long walks around the University campus.</span>",
+     "text": "He took long walks around the University campus."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He realised that other students felt the same way.</span>",
+     "text": "He realised that other students felt the same way."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> By the end of the first week at university, Daniel felt </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. ready for the new adventure.</span>",
+     "text": "ready for the new adventure."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. uncertain about his decision.</span>",
+     "text": "uncertain about his decision."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. eager to go back home.</span>",
+     "text": "eager to go back home."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. overtired by the workload.</span>",
+     "text": "overtired by the workload."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which of the following would be the best title for the text? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Family first</span>",
+     "text": "Family first"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. A step into a grown-up life</span>",
+     "text": "A step into a grown-up life"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. How to overcome laziness</span>",
+     "text": "How to overcome laziness"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. How to make friends</span>",
+     "text": "How to make friends"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> <span>anything (A)</span> <span>boat (B)</span> <span>depth (C)</span> <span>drowns (D)</span> <span>gave (E)</span> <span>grab (F)</span> <span>gratitude (G)</span> <span>hit (H)</span> <span>net (I)</span> <span>realised (J)</span> <span>role (K)</span> <span>something (L)</span> <span>surface (M)</span> <span>surprise (N)</span> </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>An Italian diver rescued a dolphin</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 5: Read the text and mark the correct choice A, B, C or D. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>The youngest football player</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. Two sentences are extra. <span>(6 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Students talking about the exams</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>Daniel:</b> Hi Lucy. How are things with your exams? Is there anything in particular I can help you with?<br/><b>Lucy:</b> <b>1.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Daniel:</b> Have you tried breaking each topic down into smaller sections and concentrating on major things only?<br/><b>Lucy:</b> <b>2.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Daniel:</b> What about having a short rest? Like, step away for a while, clear your head, then come back.<br/><b>Lucy:</b> <b>3.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Daniel:</b> An hour's rest won't make you fall behind. Sometimes when I feel overtired, I go play the guitar and when I come back, the problem doesn't seem as bad.<br/><b>Lucy:</b> <b>4.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Daniel:</b> Even that might help. The point is to reset. Your brain needs some rest, too.<br/><b>Lucy:</b> <b>5.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Daniel:</b> You're one of the smartest people I know. Just don't overwork yourself. You'll pass that exam, no doubt.<br/><b>Lucy:</b> <b>6.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Daniel:</b> Thank YOU for taking my advice. It helps to be encouraged, believe me.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> I wish I could play the guitar. I prefer to just scroll through my phone if I take a break.<br/><b>B.</b> Thanks for offering me your help. I'll let you know if I have some problem.<br/><b>C.</b> Everybody's brain needs that, actually. You're right, Daniel. Psychologists give the same advice.<br/><b>D.</b> I haven't really thought of having a short rest while studying. I just don't want to fall behind.<br/><b>E.</b> Thanks a lot, Daniel. I'm really worried about my economics exam. I feel like I don't understand some topics fully.<br/><b>F.</b> I hope I will. Thank you for encouraging me.<br/><b>G.</b> This is actually a nice way to relax and restart yourself.<br/><b>H.</b> Yes, I've been doing that. I make flashcards for the key questions and try to connect them, but then I get lost in all the details. It's frustrating.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  }
+ ]
+}

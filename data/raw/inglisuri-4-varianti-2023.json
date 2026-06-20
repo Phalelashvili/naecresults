@@ -1,0 +1,2615 @@
+{
+ "slug": "inglisuri-4-varianti-2023",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2023,
+ "variant": 4,
+ "kind": "test",
+ "title": "ინგლისურის ეროვნული გამოცდების ტესტები - 2023 წელი 4 ვარიანტი",
+ "num_questions": 54,
+ "num_content_blocks": 18,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/ENG2023_4.mp3\" type=\"audio/mpeg\"/> Your browser does not support the audio element. </audio>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "From the start we learn that the speaker",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> is a tourist in Florence.</span>",
+     "text": "is a tourist in Florence."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> enjoys living in Florence. </span>",
+     "text": "enjoys living in Florence."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> has always lived in Florence. </span>",
+     "text": "has always lived in Florence."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> dreams about living in Florence. </span>",
+     "text": "dreams about living in Florence."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "",
+   "stem_html": "The speaker says that Leonardo da Vinci",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A. </b>learned to paint in Florence.</span>",
+     "text": "learned to paint in Florence."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> is his least favourite artist.</span>",
+     "text": "is his least favourite artist."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> was Italy’s greatest poet.</span>",
+     "text": "was Italy’s greatest poet."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> said the Earth moved around the sun.</span>",
+     "text": "said the Earth moved around the sun."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "",
+   "stem_html": "What the speaker likes most about his job is",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> following guidebooks closely.</span>",
+     "text": "following guidebooks closely."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> taking tourists to the city’s top attractions. </span>",
+     "text": "taking tourists to the city’s top attractions."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> exploring the online-recommended sights.</span>",
+     "text": "exploring the online-recommended sights."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> showing tourists the unknown side of the city.</span>",
+     "text": "showing tourists the unknown side of the city."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "",
+   "stem_html": "When did Florence become best known?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b>As soon as it was founded. </span>",
+     "text": "As soon as it was founded."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> During the time of Julius Caesar.</span>",
+     "text": "During the time of Julius Caesar."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> During the Italian Renaissance.</span>",
+     "text": "During the Italian Renaissance."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> After the Italian Renaissance. </span>",
+     "text": "After the Italian Renaissance."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "",
+   "stem_html": "When the speaker sees the city from the Florence Cathedral dome he feels",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> proud. </span>",
+     "text": "proud."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> impressed.</span>",
+     "text": "impressed."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> frightened.</span>",
+     "text": "frightened."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> disappointed.</span>",
+     "text": "disappointed."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "",
+   "stem_html": "What does the speaker say about the Florence Cathedral?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> It’s the largest cathedral in the world.</span>",
+     "text": "It’s the largest cathedral in the world."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> It’s located outside of the centre of Florence. </span>",
+     "text": "It’s located outside of the centre of Florence."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b>There are 600 steps to the top of the cathedral.</span>",
+     "text": "There are 600 steps to the top of the cathedral."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b>You don’t have to pay to visit it. </span>",
+     "text": "You don’t have to pay to visit it."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "",
+   "stem_html": "The Medici Villa of Castello .",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> was built in 1477. .</span>",
+     "text": "was built in 1477. ."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> is situated in the city centre.</span>",
+     "text": "is situated in the city centre."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> used to belong to the Medici family. </span>",
+     "text": "used to belong to the Medici family."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> is the most-visited Florence attraction.</span>",
+     "text": "is the most-visited Florence attraction."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "",
+   "stem_html": "What is true about Michelangelo’s original statue of David?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> It is displayed inside the Accademia Gallery.</span>",
+     "text": "It is displayed inside the Accademia Gallery."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> It does not attract a large number of visitors. </span>",
+     "text": "It does not attract a large number of visitors."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Michelangelo spent 26 years working on it.</span>",
+     "text": "Michelangelo spent 26 years working on it."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> It stands outside, in the open air.</span>",
+     "text": "It stands outside, in the open air."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. (8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Which paragraph</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "",
+   "stem_html": "<p><b>1.</b> explains why the Statue was gifted to Americans?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "",
+   "stem_html": "<p><b>2.</b> mentions that Bartholdi was influenced by his mother? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "",
+   "stem_html": "<p><b>3.</b> specifies the location from where the best view on the Statue opens?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "",
+   "stem_html": "<p><b>4.</b> explains why the way to the torch is closed to the visitors? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "",
+   "stem_html": "<p><b>5.</b> explains the reason why the colour of the Statue changed?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "",
+   "stem_html": "<p><b>6.</b> specifies the name of the person who changed the initial design of the Statue?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "",
+   "stem_html": "<p><b>7.</b> could have the title: ‘Raising money for good reason’? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "",
+   "stem_html": "<p><b>8.</b> could have the title: ‘One of the USA’s most recognizable symbols’? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<div><h2>The woman who built the Brooklyn Bridge</h2><p><b>A.</b> On July 4, 1884 France presented the United States with an incredible birthday gift: the Statue of Liberty. Without its base the Statue is as tall as a fifteen-storey building. The world-famous Statue of Liberty, which stands in New York Harbour, represents the United States, though it was constructed in France and shipped across the Atlantic Ocean in large boxes. The Statue, which was a symbol for freedom among immigrants, is now one of the most famous icons of the USA. The Statue depicts Libertas, the Roman goddess of liberty. Interestingly, however, the Statue of Liberty looks different from the way the designer first intended. </p> <p><b>B.</b> The idea for the Statue came from a French poet, Édouard de Laboulaye. He wanted to mark the end of the American Civil War with a gift and also celebrate the end of slavery. So, Édouard de Laboulaye raised funds and hired a sculptor, Frédéric-Auguste Bartholdi, to design the Statue. Bartholdi later employed the French engineer Gustave Eiffel to design the Statue’s structure. At that time Gustave Eiffel was already a well-known designer of railway bridges. So he knew how to build structures that would not break easily and that were flexible as well as safe in strong winds. This feature was necessary because the winds in New York Harbour are extremely strong.</p> <p><b>C.</b> Gustave Eiffel designed the Statue to be built around a massive metal skeleton, similar to the Eiffel Tower, which stands in Paris. Huge pieces of copper were fixed onto the skeleton to form its shape. The Statue was covered with a thin layer of copper, which eventually turned blue-green with age due to the chemical reaction between the metal and water. The recently discovered original plans, calculations and drawings of the Statue showed that the arm of the Statue of Liberty was thick and vertical in Gustave Eiffel’s drawings, but in reality it turned out to be slimmer, less upright and more attractive. It was obvious that some parts of Gustave Eiffel’s initial plans of the Statue had been changed. </p> <p><b>D.</b>The changes in the plans of the Statue are dated July 28, 1887, after the construction of the Eiffel Tower had begun. We don’t know what Gustave Eiffel thought of these changes. By then, Gustave Eiffel was working on other projects, and only his assistants were working with Bartholdi in New York. Frédéric-Auguste Bartholdi knew he wanted to build a giant copper goddess. Some historians say that the Statue’s face was modelled after the sculptor’s mother, who had a great influence on her son throughout his life. </p> <p><b>E.</b> The changes in the plans of the Statue of Liberty made it more attractive, though it made it weaker as well and this has created problems over the years. Initially, visitors were able to climb a stairway to the torch in the Statue’s arm, however, in 1916 an explosion on a nearby island damaged the structure. This made the Statue’s torch and arm unsafe. As a result, the stairway to the torch has been closed ever since. Entering the torch requires climbing a forty-foot staircase and it is accessible only to staff. </p> <p><b>F.</b> During the restoration in the 1980s, engineers noticed that the structure inside the Statue of Liberty’s head, shoulders and arm were different from how they were shown on Gustave Eiffel’s plans of the Statue. They thought that the builders had made mistakes, but some historians believed that Bartholdi had changed Eiffel’s plans. The newly discovered documents prove this theory. In 2022 about four million people visited the island where the Statue of Liberty stands and many more viewed the Statue from the water. Tourists often find that the Statue’s majestic appearance is best noticed and appreciated from the water. </p> </div>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2> Task 3:Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). (8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>This is a true story told by Lionel Messi, a well-known Argentinian footballer. </h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>‘I was born in Argentina to a poor family. My father Jorge Messi was a factory steel worker and my mother - Celia María Cuccittini worked as a part-time cleaner. As for me, I was passionate about football from a very young age. I used to play football with my older brothers Rodrigo and Matías and our cousins Maximiliano and Emanuel Biancucchi, both of whom became professional footballers. At the age of five I started playing football for a local club Grandoli coached by my father. A little bit later, when I was eight, I joined Newell Old Boys Club and was coached by Ernesto Vecchio. Since then I feel inseparable from football. My dream to become a professional football player started to fall apart when I was diagnosed with growth hormone deficiency*. This meant that I was physically unable to grow unless I received special expensive therapy that cost 900 USD a month. Unfortunately, my parents couldn’t afford it. And the club that I was playing for, refused to pay for the therapy. Despite my medical condition, which was a problem, I didn’t give up football. Gradually, football clubs started noticing me. I remember Football Club River Plate showed a lot of interest in me, but lacked the money to sponsor my medical treatment, so in the end the Club River Plate rejected me. Fortunately, I was soon noticed by the coach of Football Club Barcelona who sent an offer to my family. In order to see if I was worth it, he proposed a trial - a period which would show how effective I was as a footballer. If I passed the football trial, Football Club Barcelona would cover my medical bills. Luckily, the coach seemed to be satisfied with my abilities. I was twelve years old then and extremely happy. I felt I was definitely born to play football. He offered me to sign a contract on the only thing that was available at that moment – a paper napkin at the Club de Tennis Pompeia cafeteria. Who would believe that my first Barcelona contract was actually written on a napkin? Barcelona technical secretary Carles Rexach was at the meeting alongside the football agent and my representative.I’ll never forget the emotions I had when I scored my first goal for Barcelona on May 1, 2005. I was able to score more than a hundred goals for Football Club Barcelona in my first six years there. Until leaving in 2021, I had spent my entire professional career with that great club. I made the greatest sacrifice by leaving Argentina a long time ago. I left my family to start a new life of hard work and great determination. Everything I did, I did for football to achieve my dream. That’s why I didn’t go out partying, or do a lot of other things. I believe there are so many lessons to be learned from life. Therefore, I would like to encourage everybody who wishes to succeed. I am the man who despite my health problems, despite poor financial background and all the rejection I faced, was still determined to achieve my dream and never give up. You can also be the one who will achieve success. I did my best, worked hard and at age 22, I won the FIFA World Player of the Year award. You have to sacrifice and work hard for all these things. I strongly believe that because of my determination and countless hours of hard work I was able to receive the 92nd championship title with Argentina’s victory at the FIFA World Cup in Qatar on December 18, 2022.’ </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 1,
+   "heading": "",
+   "stem_html": "What is the text mostly about?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Incurable disease.</span>",
+     "text": "Incurable disease."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Prestigious awards.</span>",
+     "text": "Prestigious awards."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Football Club Barcelona.</span>",
+     "text": "Football Club Barcelona."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. The life of a famous sportsman.</span>",
+     "text": "The life of a famous sportsman."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 2,
+   "heading": "",
+   "stem_html": "In a local club Messi was trained by his",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. father Jorge Messi.</span>",
+     "text": "father Jorge Messi."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. coach Ernesto Vecchio. </span>",
+     "text": "coach Ernesto Vecchio."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. brothers Rodrigo and Matías.</span>",
+     "text": "brothers Rodrigo and Matías."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. cousin Maximiliano Biancucchi. </span>",
+     "text": "cousin Maximiliano Biancucchi."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 3,
+   "heading": "",
+   "stem_html": "Lionel Messi’s parents were unable to pay for",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. training by local coaches. </span>",
+     "text": "training by local coaches."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. expensive medical treatment.</span>",
+     "text": "expensive medical treatment."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. football tournaments in Argentina. </span>",
+     "text": "football tournaments in Argentina."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. membership of Newell Old Boys Club.</span>",
+     "text": "membership of Newell Old Boys Club."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 4,
+   "heading": "",
+   "stem_html": "River Plate Club did not accept Messi because",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. he couldn’t play football. </span>",
+     "text": "he couldn’t play football."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. his disease was incurable.</span>",
+     "text": "his disease was incurable."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. nobody noticed his talent.</span>",
+     "text": "nobody noticed his talent."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. it couldn’t pay for his treatment. </span>",
+     "text": "it couldn’t pay for his treatment."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 5,
+   "heading": "",
+   "stem_html": "Football Club Barcelona would pay for Messi’s medical treatment only if he",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. agreed to join the club.</span>",
+     "text": "agreed to join the club."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. signed the contract with the club.</span>",
+     "text": "signed the contract with the club."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. showed his skills during the trial.</span>",
+     "text": "showed his skills during the trial."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. could recover from his illness. </span>",
+     "text": "could recover from his illness."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 6,
+   "heading": "",
+   "stem_html": "What did Messi do to achieve success and recognition?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Never left his home-country. </span>",
+     "text": "Never left his home-country."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Worked hard purposefully. </span>",
+     "text": "Worked hard purposefully."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Never signed any contract. </span>",
+     "text": "Never signed any contract."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. was treated badly by the country’s government.</span>",
+     "text": "was treated badly by the country’s government."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 7,
+   "heading": "",
+   "stem_html": "Messi encourages others to",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. never give up their dream. </span>",
+     "text": "never give up their dream."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. take care of their health. </span>",
+     "text": "take care of their health."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. find a financial supporter. </span>",
+     "text": "find a financial supporter."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. have successful friends. </span>",
+     "text": "have successful friends."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 8,
+   "heading": "",
+   "stem_html": "Which of the following would be the best title for the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. The first goal</span>",
+     "text": "The first goal"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Difficult life</span>",
+     "text": "Difficult life"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Determined to succeed </span>",
+     "text": "Determined to succeed"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. An award-winning match </span>",
+     "text": "An award-winning match"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points) </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>arrived (A) built (B) flooded (C) important (D) leave (E) means (F) offers (G) past (H) proved (I) regarding (J) remains (K) search (L) used (M) writings (N) </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>The ancient city of Dwarka</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>The ancient Indian city of Dwarka is known to have been the great city of Krishna - one of the most popular and respected gods in Hinduism. Early Hindu …… (1) say that when Krishna left the Earth to join the spiritual world, a disaster happened there. Some parts of the wealthy city of Dwarka were …… (2) by the sea and most of its inhabitants died. The city of Dwarka is an important religious and archaeological site. Nowadays it is one of the seven sacred cities of India. The …… (3) for its underwater part began in the 1930s, and the first archaeological excavation took place there in 1963. During the excavation led by an underwater archaeologist, numerous artefacts and the flooded …… (4) of the ancient city of Dwarka were found. The archaeologists discovered the ground on which the ancient city walls must have been …… (5) along the river banks. The archaeologists also found stone blocks, which the builders …… (6) for the construction. However, the debate …… (7) the dating of the ruins is still ongoing. The size of the flooded part of the ancient city suggests that Dwarka must have been an …… (8) trading place. It had huge significance as a trade port in the …… (9). The word ‘dwarka’ …… (10) ‘door’ or ‘gate’ in Sanskrit - an ancient language of India. So, this ancient port city could have been a gate for foreign sailors who …… (11) in India. Discoveries made by the Archaeological Survey of India …… (12) that the mythical city of Dwarka really existed. </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ო"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "მ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ლ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ნ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "კ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 9,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "თ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 10,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 11,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 12,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ი"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>A man for eternity</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> Anyone can be famous for fifteen seconds, ...... (1) some people remain famous for ever. Such a man was Leonardo da Vinci, an Italian artist, scientist and writer ...... (2) has been rightly called ‘a man for eternity’. Distinguished ...... (3) appearance, Leonardo was also a genius in all the sciences and arts of his time. He is considered one of the most celebrated figures of humanity. Although he is best known ...... (4) his dramatic and expressive artwork, Leonardo da Vinci also created advanced inventions that were groundbreaking for the time. He came close to being a ‘universal man’ due ...... (5) the completeness of his knowledge. Leonardo da Vinci’s great passion was to explain everything in the universe. He spent all his life observing things ...... (6) testing them scientifically in his laboratory. He wanted to solve the mysteries of life and to educate ...... (7) world. Unfortunately, many of his projects were never carried ...... (8). His 5000 manuscript pages ...... (9) notes and drawings show many important discoveries and inventions. Those discoveries are the circulation of blood in the body, the design of a flying machine, a parachute and excellent plans ...... (10) cities. Surprisingly, all these pages lay untouched ...... (11) centuries. Leonardo da Vinci’s imagination was so far ahead of his time that people had to later find ...... (12) about many of the things that Leonardo da Vinci had already discovered.</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. because </span>",
+     "text": "because"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. as </span>",
+     "text": "as"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. but</span>",
+     "text": "but"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. since</span>",
+     "text": "since"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. who </span>",
+     "text": "who"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. which</span>",
+     "text": "which"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. whose</span>",
+     "text": "whose"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. whom</span>",
+     "text": "whom"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. into</span>",
+     "text": "into"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. of</span>",
+     "text": "of"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. from </span>",
+     "text": "from"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. in</span>",
+     "text": "in"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. as</span>",
+     "text": "as"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. for </span>",
+     "text": "for"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. because </span>",
+     "text": "because"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. among</span>",
+     "text": "among"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q42",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. because</span>",
+     "text": "because"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. for</span>",
+     "text": "for"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. by </span>",
+     "text": "by"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. to</span>",
+     "text": "to"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q43",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. as</span>",
+     "text": "as"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. and</span>",
+     "text": "and"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. though</span>",
+     "text": "though"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. so</span>",
+     "text": "so"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q44",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. that</span>",
+     "text": "that"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. an </span>",
+     "text": "an"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. a </span>",
+     "text": "a"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. the</span>",
+     "text": "the"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q45",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. out </span>",
+     "text": "out"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. by</span>",
+     "text": "by"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. of </span>",
+     "text": "of"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q46",
+   "number": 9,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. by</span>",
+     "text": "by"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. out </span>",
+     "text": "out"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. of</span>",
+     "text": "of"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. off</span>",
+     "text": "off"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q47",
+   "number": 10,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. by </span>",
+     "text": "by"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. for </span>",
+     "text": "for"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. after</span>",
+     "text": "after"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. with</span>",
+     "text": "with"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q48",
+   "number": 11,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. with </span>",
+     "text": "with"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. of </span>",
+     "text": "of"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. for</span>",
+     "text": "for"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. from</span>",
+     "text": "from"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q49",
+   "number": 12,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. out </span>",
+     "text": "out"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. among </span>",
+     "text": "among"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. on</span>",
+     "text": "on"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. in</span>",
+     "text": "in"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 6: Complete the conversation. For questions 1-6, mark the correct letter A-H. Two sentences are extra. (6 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Students talking</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>Paul:</b> What are you doing after classes? Let’s have a cup of coffee together. <br/> <b>Ann:</b> ..... (1) <br/> <b>Paul:</b> Really? I didn’t know you were a musician. It’s a real surprise for me. <br/> <b>Tina:</b> ..... (2) <br/> <b>Paul:</b> When did you start playing? <br/> <b>Ann:</b> ..... (3) <br/> <b>Paul:</b> That’s great! I wish I had learnt how to play the piano when I was young. <br/> <b>Ann:</b> ..... (4) <br/> <b>Paul:</b> There is one more thing I’d like to ask. How did the literature class go yesterday? <br/> <b>Ann:</b> ..... (5) <br/> <b>Paul:</b> Why? What do you mean? <br/> <b>Ann:</b> ..... (6) <br/> <b>Paul:</b> Her classes are often dull, aren’t they? <br/> </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> Well, I’m not a professional musician. I’m just an amateur. I play the violin in the university orchestra. <br/> <b>B.</b> It was quite interesting, indeed. <br/> <b>C.</b> It’s never too late to learn but it needs dedication and hard work. <br/> <b>D.</b> I mean that it was boring! The teacher talked about the same topic all the time. <br/> <b>E.</b> When I was seven. My elementary school had an orchestra programme and I became interested then. <br/> <b>F.</b> Sounds great, but I have to go to orchestra practice from 5 to 7pm. <br/> <b>G.</b> Actually, I remember many interesting facts from the literature class. <br/> <b>H.</b> To my mind, it was a real waste of time. </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q50",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q51",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q52",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q53",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q54",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "თ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q55",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "დ"
+  }
+ ]
+}

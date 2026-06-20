@@ -1,0 +1,1640 @@
+{
+ "sentences": [
+  {
+   "text": "We had a beautiful and inexpensive hotel room in the Latin Quarter.",
+   "start": 83.41
+  },
+  {
+   "text": "We had a balcony with a wonderful view.",
+   "start": 87.01
+  },
+  {
+   "text": "We visited many famous tourist places.",
+   "start": 90.47
+  },
+  {
+   "text": "The Louvre, a well-known museum, was my favorite.",
+   "start": 93.47
+  },
+  {
+   "text": "The museum is so huge, you could spend weeks there.",
+   "start": 98.11
+  },
+  {
+   "text": "We took lots of breaks and sat in cafes along the River Seine.",
+   "start": 102.23
+  },
+  {
+   "text": "The French food we ate was delicious.",
+   "start": 107.03
+  },
+  {
+   "text": "The wines were tasty too.",
+   "start": 110.11
+  },
+  {
+   "text": "What Anna enjoyed the most was the food.",
+   "start": 112.37
+  },
+  {
+   "text": "What Anna enjoyed most during the vacation was the breakfast in the hotel.",
+   "start": 113.39
+  },
+  {
+   "text": "She said she would be happy if she could eat croissants like those every day.",
+   "start": 117.75
+  },
+  {
+   "text": "We had so much fun that we're already talking about our next vacation.",
+   "start": 122.11
+  },
+  {
+   "text": "My friend Anna and I just returned from the greatest summer vacation ever.",
+   "start": 131.74
+  },
+  {
+   "text": "We spent eight days in Paris, France.",
+   "start": 136.5
+  },
+  {
+   "text": "After researching many hotels, we decided on one from TripAdvisor, a travel website.",
+   "start": 139.32
+  },
+  {
+   "text": "We booked a beautiful and inexpensive hotel,",
+   "start": 145.42
+  },
+  {
+   "text": "and we went to the hotel room in the Latin Quarter.",
+   "start": 148.28
+  },
+  {
+   "text": "We had a balcony with a wonderful view.",
+   "start": 150.52
+  },
+  {
+   "text": "We visited many famous tourist places.",
+   "start": 153.86
+  },
+  {
+   "text": "The Louvre, a well-known museum, was my favorite.",
+   "start": 156.92
+  },
+  {
+   "text": "The museum is so huge, you could spend weeks there.",
+   "start": 161.58
+  },
+  {
+   "text": "We took lots of breaks and sat in cafes along the River Seine.",
+   "start": 165.68
+  },
+  {
+   "text": "The French food we ate was delicious.",
+   "start": 170.54
+  },
+  {
+   "text": "The wines were tasty too.",
+   "start": 173.64
+  },
+  {
+   "text": "What Anna enjoyed most during the vacation was...",
+   "start": 175.68
+  },
+  {
+   "text": "the breakfast in the hotel.",
+   "start": 178.28
+  },
+  {
+   "text": "She said she would be happy if she could eat croissants like those every day.",
+   "start": 180.28
+  },
+  {
+   "text": "We had so much fun that we're already talking about our next vacation.",
+   "start": 184.28
+  },
+  {
+   "text": "Text 2.",
+   "start": 189.28
+  },
+  {
+   "text": "Celebrated on February 14th,",
+   "start": 197.4
+  },
+  {
+   "text": "Valentine's Day has become a significant cultural, religious, and commercial celebration of romance and love in many parts of the world.",
+   "start": 201.38
+  },
+  {
+   "text": "In the United States, most Americans spend the holiday with their loved ones.",
+   "start": 210.38
+  },
+  {
+   "text": "In the United States, most Americans spend the holiday with their loved ones.",
+   "start": 215.38
+  },
+  {
+   "text": "Exchange of chocolates, flowers, and gifts, as well as accompanying greeting cards,",
+   "start": 216.38
+  },
+  {
+   "text": "are the most essential components of Valentine's Day.",
+   "start": 221.38
+  },
+  {
+   "text": "Valentine's Day is often associated with red and pink colors.",
+   "start": 225.38
+  },
+  {
+   "text": "Many individuals, instead of celebrating romantically,",
+   "start": 229.38
+  },
+  {
+   "text": "spend the holiday with their friends and family members.",
+   "start": 233.38
+  },
+  {
+   "text": "Although Valentine's Day in America",
+   "start": 236.38
+  },
+  {
+   "text": "is recognized by the vast majority of the population,",
+   "start": 238.38
+  },
+  {
+   "text": "it isn't a public holiday.",
+   "start": 241.68
+  },
+  {
+   "text": "means that offices, stores, schools, and other organizations are open as usual",
+   "start": 244.38
+  },
+  {
+   "text": "and public transport run on their usual schedules on this day.",
+   "start": 249.38
+  },
+  {
+   "text": "Celebrated on February 14th, Valentine's Day has become a significant cultural, religious,",
+   "start": 258.68
+  },
+  {
+   "text": "and commercial celebration of romance and love in many parts of the world.",
+   "start": 265.48
+  },
+  {
+   "text": "In the United States, most Americans spend the holiday with their loved ones.",
+   "start": 269.56
+  },
+  {
+   "text": "The exchange of chocolates, flowers, and gifts, as well as accompanying greeting cards,",
+   "start": 274.2
+  },
+  {
+   "text": "are the most essential components of Valentine's Day.",
+   "start": 279.7
+  },
+  {
+   "text": "Valentine's Day is often associated with red and pink colors.",
+   "start": 283.5
+  },
+  {
+   "text": "Many individuals, instead of celebrating romantically,",
+   "start": 287.78
+  },
+  {
+   "text": "spend the holiday with their friends and family members.",
+   "start": 291.24
+  },
+  {
+   "text": "Although Valentine's Day in America is recognized by the vast majority of the population,",
+   "start": 294.76
+  },
+  {
+   "text": "it isn't a public holiday.",
+   "start": 300.16
+  },
+  {
+   "text": "It means that offices,",
+   "start": 301.6
+  },
+  {
+   "text": "stores, schools, and other organizations are open as usual",
+   "start": 304.2
+  },
+  {
+   "text": "and public transport run on their usual schedules on this day.",
+   "start": 307.96
+  },
+  {
+   "text": "Text 3",
+   "start": 316.79
+  },
+  {
+   "text": "In the United States, a 16-year-old person can work,",
+   "start": 317.43
+  },
+  {
+   "text": "get a driver's license, and live away from their parents.",
+   "start": 323.61
+  },
+  {
+   "text": "Many high school students learn to drive and get part-time jobs",
+   "start": 327.93
+  },
+  {
+   "text": "soon after they've had their 16th birthday.",
+   "start": 332.27
+  },
+  {
+   "text": "At the age of 18,",
+   "start": 334.63
+  },
+  {
+   "text": "people in the U.S. and other countries",
+   "start": 337.89
+  },
+  {
+   "text": "are allowed to join the Army and vote in elections,",
+   "start": 338.59
+  },
+  {
+   "text": "but they are not allowed to go to nightclubs,",
+   "start": 342.21
+  },
+  {
+   "text": "buy wine or cigarettes until they are 21.",
+   "start": 345.63
+  },
+  {
+   "text": "One of the most significant cities in the U.S. is New York.",
+   "start": 349.29
+  },
+  {
+   "text": "Every day, thousands of airplanes land",
+   "start": 353.19
+  },
+  {
+   "text": "in John F. Kennedy International Airport in New York,",
+   "start": 355.55
+  },
+  {
+   "text": "bringing tens of thousands of tourists.",
+   "start": 359.37
+  },
+  {
+   "text": "They love to see the skyscrapers there.",
+   "start": 361.87
+  },
+  {
+   "text": "One of them is Central Park Tower,",
+   "start": 364.61
+  },
+  {
+   "text": "which is the second-largest skyscraper in the U.S.",
+   "start": 367.77
+  },
+  {
+   "text": "It's the second-tallest building in New York,",
+   "start": 368.57
+  },
+  {
+   "text": "attracting millions of visitors.",
+   "start": 370.11
+  },
+  {
+   "text": "People also go to New York to see the Statue of Liberty,",
+   "start": 372.27
+  },
+  {
+   "text": "which is considered the most attractive site of the city.",
+   "start": 375.47
+  },
+  {
+   "text": "It is common for American families to visit it",
+   "start": 379.27
+  },
+  {
+   "text": "with their children when they are still very young.",
+   "start": 382.13
+  },
+  {
+   "text": "In the United States, a 16-year-old person can work,",
+   "start": 389.74
+  },
+  {
+   "text": "get a driver's license, and live away from their parents.",
+   "start": 394.08
+  },
+  {
+   "text": "Many high school students learn to drive and get part-time jobs",
+   "start": 398.16
+  },
+  {
+   "text": "soon after they've had their 16th birthday.",
+   "start": 402.82
+  },
+  {
+   "text": "At the age of 18, people in the U.S. are allowed to join the Army",
+   "start": 406.3
+  },
+  {
+   "text": "and vote in elections,",
+   "start": 410.96
+  },
+  {
+   "text": "but they are not allowed to go to nightclubs,",
+   "start": 412.68
+  },
+  {
+   "text": "buy wine or cigarettes until they are 21.",
+   "start": 416.12
+  },
+  {
+   "text": "One of the most significant cities in the U.S. is New York.",
+   "start": 419.76
+  },
+  {
+   "text": "Every day, thousands of airplanes land",
+   "start": 423.66
+  },
+  {
+   "text": "in John F. Kennedy International Airport in New York,",
+   "start": 426.04
+  },
+  {
+   "text": "bringing tens of thousands of tourists.",
+   "start": 429.4
+  },
+  {
+   "text": "Love to see the skyscrapers there.",
+   "start": 432.82
+  },
+  {
+   "text": "One of them is Central Park Tower,",
+   "start": 435.5
+  },
+  {
+   "text": "which is the second tallest building in New York,",
+   "start": 438.3
+  },
+  {
+   "text": "attracting millions of visitors.",
+   "start": 440.6
+  },
+  {
+   "text": "People also go to New York to see the Statue of Liberty,",
+   "start": 442.74
+  },
+  {
+   "text": "which is considered the most attractive site of the city.",
+   "start": 445.98
+  },
+  {
+   "text": "It is common for American families to visit it",
+   "start": 449.7
+  },
+  {
+   "text": "with their children when they are still very young.",
+   "start": 452.62
+  },
+  {
+   "text": "Text 4.",
+   "start": 460.86
+  },
+  {
+   "text": "Scientists are concerned by the fact",
+   "start": 463.74
+  },
+  {
+   "text": "that increasing numbers of people in the world",
+   "start": 465.74
+  },
+  {
+   "text": "are becoming dependent on computer games.",
+   "start": 467.86
+  },
+  {
+   "text": "But the media thinks differently.",
+   "start": 471.3
+  },
+  {
+   "text": "They emphasize the positive side of computer games,",
+   "start": 474.32
+  },
+  {
+   "text": "such as how entertaining they are.",
+   "start": 478.06
+  },
+  {
+   "text": "Unfortunately, recent studies found that about 6% of users",
+   "start": 481.1
+  },
+  {
+   "text": "spend hours of their time sitting at their computers",
+   "start": 485.26
+  },
+  {
+   "text": "or playing video games non-stop for the whole weekend.",
+   "start": 488.02
+  },
+  {
+   "text": "Sooner or later, this becomes bad for their personal lives and health.",
+   "start": 492.26
+  },
+  {
+   "text": "Though journalists believe that computer games are a good thing,",
+   "start": 496.58
+  },
+  {
+   "text": "they are not.",
+   "start": 497.58
+  },
+  {
+   "text": "While some believe that computer games can help people develop skills",
+   "start": 497.64
+  },
+  {
+   "text": "such as concentration and problem solving,",
+   "start": 500.28
+  },
+  {
+   "text": "others are certain that a person who cannot stop playing computer games",
+   "start": 503.74
+  },
+  {
+   "text": "is very similar to a drug user.",
+   "start": 507.34
+  },
+  {
+   "text": "When a person becomes dependent on computer games,",
+   "start": 510.44
+  },
+  {
+   "text": "then he needs some kind of help.",
+   "start": 513.66
+  },
+  {
+   "text": "In some cases, the addicted player can break the dependence",
+   "start": 516.46
+  },
+  {
+   "text": "by stopping playing computer games immediately.",
+   "start": 519.72
+  },
+  {
+   "text": "In the worst cases,",
+   "start": 523.28
+  },
+  {
+   "text": "they need to be taken to a special clinic for a period of time.",
+   "start": 524.42
+  },
+  {
+   "text": "This is the most common case.",
+   "start": 527.62
+  },
+  {
+   "text": "The most common case is that a person who is addicted to computer games",
+   "start": 528.1
+  },
+  {
+   "text": "is addicted to computer games.",
+   "start": 534.02
+  },
+  {
+   "text": "Scientists are concerned by the fact that increasing numbers of people in the world",
+   "start": 534.04
+  },
+  {
+   "text": "are becoming dependent on computer games.",
+   "start": 538.22
+  },
+  {
+   "text": "But the media thinks differently.",
+   "start": 541.62
+  },
+  {
+   "text": "They emphasize the positive side of computer games,",
+   "start": 544.66
+  },
+  {
+   "text": "such as how entertaining they are.",
+   "start": 548.1
+  },
+  {
+   "text": "Unfortunately, recent studies found that about 6% of users",
+   "start": 551.46
+  },
+  {
+   "text": "spend hours of their time sitting at their computers",
+   "start": 555.64
+  },
+  {
+   "text": "or playing video games non-stop for the whole weekend.",
+   "start": 558.44
+  },
+  {
+   "text": "Sooner or later, this becomes bad for their personal lives and health.",
+   "start": 561.6
+  },
+  {
+   "text": "Though journalists believe that computer games can help people develop skills",
+   "start": 567.02
+  },
+  {
+   "text": "such as concentration and problem solving,",
+   "start": 570.66
+  },
+  {
+   "text": "others are certain that a person who cannot stop playing computer games",
+   "start": 574.16
+  },
+  {
+   "text": "is very similar to a drug user.",
+   "start": 577.7
+  },
+  {
+   "text": "When a person becomes dependent on computer games,",
+   "start": 580.84
+  },
+  {
+   "text": "then he needs some kind of help.",
+   "start": 584.02
+  },
+  {
+   "text": "In some cases, the addicted player can break the dependence",
+   "start": 586.42
+  },
+  {
+   "text": "by stopping playing computer games.",
+   "start": 590.16
+  },
+  {
+   "text": "In the worst cases, they need to be taken to a special clinic",
+   "start": 591.6
+  },
+  {
+   "text": "for a period of treatment.",
+   "start": 597.12
+  },
+  {
+   "text": "Text 5",
+   "start": 604.06
+  },
+  {
+   "text": "Villaroy & Bach is a German manufacturer of ceramics.",
+   "start": 604.86
+  },
+  {
+   "text": "The company has been in the Georgian market for 10 years.",
+   "start": 612.48
+  },
+  {
+   "text": "On the 10th anniversary of the company,",
+   "start": 616.48
+  },
+  {
+   "text": "the Georgian representation of Villaroy & Bach",
+   "start": 619.24
+  },
+  {
+   "text": "decided to produce some unusual products.",
+   "start": 621.98
+  },
+  {
+   "text": "In particular, the company made a new product,",
+   "start": 625.74
+  },
+  {
+   "text": "a new manufactured products decorated with the masterpieces",
+   "start": 628.32
+  },
+  {
+   "text": "by well-known Georgian contemporary artist,",
+   "start": 631.9
+  },
+  {
+   "text": "Rusudan Petvyashvili.",
+   "start": 635.66
+  },
+  {
+   "text": "The limited number of Villaroy & Bach products",
+   "start": 637.76
+  },
+  {
+   "text": "painted by the Georgian artist is called",
+   "start": 640.74
+  },
+  {
+   "text": "Love and Harmony in Relationship.",
+   "start": 643.46
+  },
+  {
+   "text": "Nicholas Villaroy, one of the leaders of the company,",
+   "start": 647.3
+  },
+  {
+   "text": "was impressed with the colors and painting technique of the artist.",
+   "start": 650.5
+  },
+  {
+   "text": "The artist stated that Villaroy & Bach was her favorite brand,",
+   "start": 654.24
+  },
+  {
+   "text": "but she could never ever think of such a collaboration.",
+   "start": 658.32
+  },
+  {
+   "text": "The project turned out to be a big success,",
+   "start": 663.12
+  },
+  {
+   "text": "so who knows, perhaps the brand will start to manufacture products",
+   "start": 666.14
+  },
+  {
+   "text": "decorated by Rusudan Petvyashvili's artworks in larger quantities.",
+   "start": 670.32
+  },
+  {
+   "text": "Rusudan Petvyashvili creates paintings using unique technique.",
+   "start": 676.48
+  },
+  {
+   "text": "The entire piece is performed in one touch.",
+   "start": 681.54
+  },
+  {
+   "text": "Villaroy & Bach is a German manufacturer of ceramics.",
+   "start": 689.4
+  },
+  {
+   "text": "The company has been in the Georgian market for 10 years.",
+   "start": 692.74
+  },
+  {
+   "text": "On the 10th anniversary of the company,",
+   "start": 698.3
+  },
+  {
+   "text": "the Georgian representation of Villaroy & Bach",
+   "start": 701.06
+  },
+  {
+   "text": "decided to produce some unusual products.",
+   "start": 703.72
+  },
+  {
+   "text": "In particular, the company manufactured products",
+   "start": 708.1
+  },
+  {
+   "text": "decorated with the masterpieces",
+   "start": 711.6
+  },
+  {
+   "text": "by well-known Georgian contemporary artist,",
+   "start": 713.58
+  },
+  {
+   "text": "Rusudan Petvyashvili.",
+   "start": 717.4
+  },
+  {
+   "text": "The limited number of Villaroy & Bach products",
+   "start": 719.42
+  },
+  {
+   "text": "painted by the Georgian artist is called",
+   "start": 722.48
+  },
+  {
+   "text": "Love and Harmony in Relationship.",
+   "start": 725.2
+  },
+  {
+   "text": "Nicholas Villaroy, one of the leaders of the company,",
+   "start": 729.06
+  },
+  {
+   "text": "was impressed with the colors and painting technique of the artist.",
+   "start": 731.8
+  },
+  {
+   "text": "The artist stated that Villaroy & Bach was her favorite brand,",
+   "start": 736.48
+  },
+  {
+   "text": "but she could never ever think of such a collaboration.",
+   "start": 740.38
+  },
+  {
+   "text": "The project turned out to be a big success,",
+   "start": 744.34
+  },
+  {
+   "text": "so who knows, perhaps the brand will start to manufacture products",
+   "start": 747.88
+  },
+  {
+   "text": "decorated by Rusudan Petvyashvili's artworks in larger quantities.",
+   "start": 752.0
+  },
+  {
+   "text": "Rusudan Petvyashvili creates paintings using unique technique.",
+   "start": 758.2
+  },
+  {
+   "text": "The entire piece is performed in one touch.",
+   "start": 763.26
+  },
+  {
+   "text": "Task 2",
+   "start": 785.83
+  },
+  {
+   "text": "You are going to listen to one text with eight questions.",
+   "start": 786.55
+  },
+  {
+   "text": "Mark the correct answer A, B or C.",
+   "start": 791.99
+  },
+  {
+   "text": "You now have 30 seconds to look through the task.",
+   "start": 795.89
+  },
+  {
+   "text": "You will then hear the recording.",
+   "start": 799.07
+  },
+  {
+   "text": "I love New York.",
+   "start": 801.23
+  },
+  {
+   "text": "I've loved this city since I was a little girl.",
+   "start": 832.81
+  },
+  {
+   "text": "And now that I've called it home for eight years,",
+   "start": 835.59
+  },
+  {
+   "text": "I can honestly say that I still love living here.",
+   "start": 838.27
+  },
+  {
+   "text": "You might ask, what do you love about it?",
+   "start": 841.91
+  },
+  {
+   "text": "Well, there are probably at least 100 reasons",
+   "start": 845.49
+  },
+  {
+   "text": "to love living in New York City.",
+   "start": 848.67
+  },
+  {
+   "text": "And for me, to make a complete list, I'd need a few days.",
+   "start": 851.05
+  },
+  {
+   "text": "With over 8 million residents,",
+   "start": 855.47
+  },
+  {
+   "text": "New York has something for everyone.",
+   "start": 857.87
+  },
+  {
+   "text": "New York is often called the capital city of the world.",
+   "start": 860.25
+  },
+  {
+   "text": "And it certainly feels that way.",
+   "start": 864.15
+  },
+  {
+   "text": "But in the center of this exciting, noisy, polluted city,",
+   "start": 866.67
+  },
+  {
+   "text": "there is a place to find peace and quiet.",
+   "start": 870.75
+  },
+  {
+   "text": "This place is Central Park.",
+   "start": 873.69
+  },
+  {
+   "text": "It is my favorite place in the city,",
+   "start": 876.17
+  },
+  {
+   "text": "where I always take my friends when they come visit me.",
+   "start": 878.51
+  },
+  {
+   "text": "Central Park is the green heart of New York.",
+   "start": 882.19
+  },
+  {
+   "text": "And over 42 million people come here every year",
+   "start": 885.67
+  },
+  {
+   "text": "to get away from the busy city.",
+   "start": 888.67
+  },
+  {
+   "text": "New York is the place where you can find peace and quiet.",
+   "start": 889.85
+  },
+  {
+   "text": "New York is the place where you can find peace and quiet.",
+   "start": 889.87
+  },
+  {
+   "text": "New York is the place where you can find peace and quiet.",
+   "start": 889.95
+  },
+  {
+   "text": "New York is the place where you can find peace and quiet.",
+   "start": 890.01
+  },
+  {
+   "text": "And it's not just for people.",
+   "start": 890.25
+  },
+  {
+   "text": "Over 235 different species of birds",
+   "start": 893.97
+  },
+  {
+   "text": "have made the park their home.",
+   "start": 896.81
+  },
+  {
+   "text": "Early mornings and late afternoons",
+   "start": 899.79
+  },
+  {
+   "text": "are the best times to go birdwatching in Central Park.",
+   "start": 901.85
+  },
+  {
+   "text": "Get your binoculars ready to see native species",
+   "start": 907.21
+  },
+  {
+   "text": "as well as exotic birds",
+   "start": 909.71
+  },
+  {
+   "text": "that pass through during their migration.",
+   "start": 911.43
+  },
+  {
+   "text": "You can also run, swim, climb,",
+   "start": 914.71
+  },
+  {
+   "text": "or simply sit and read a book",
+   "start": 917.83
+  },
+  {
+   "text": "in the huge park's different places.",
+   "start": 919.61
+  },
+  {
+   "text": "Although it looks completely natural,",
+   "start": 923.15
+  },
+  {
+   "text": "the park is man-made,",
+   "start": 925.71
+  },
+  {
+   "text": "created over 160 years ago.",
+   "start": 927.39
+  },
+  {
+   "text": "Frederick Law Olmsted and Calvert Vaux",
+   "start": 930.91
+  },
+  {
+   "text": "designed the park in the center of New York",
+   "start": 933.17
+  },
+  {
+   "text": "at a time when the city was very crowded",
+   "start": 935.65
+  },
+  {
+   "text": "and unhealthy place to live.",
+   "start": 938.33
+  },
+  {
+   "text": "They wanted to make a place",
+   "start": 941.29
+  },
+  {
+   "text": "where people of all backgrounds,",
+   "start": 943.03
+  },
+  {
+   "text": "rich and poor,",
+   "start": 945.73
+  },
+  {
+   "text": "could find fresh air in the dirty city.",
+   "start": 947.33
+  },
+  {
+   "text": "It does the same job today.",
+   "start": 950.47
+  },
+  {
+   "text": "As a friend of mine always tells me,",
+   "start": 953.39
+  },
+  {
+   "text": "life in New York would be impossible",
+   "start": 956.41
+  },
+  {
+   "text": "without Central Park.",
+   "start": 958.39
+  },
+  {
+   "text": "You shouldn't leave Central Park",
+   "start": 960.91
+  },
+  {
+   "text": "without visiting the area of the park",
+   "start": 962.41
+  },
+  {
+   "text": "named Strawberry Fields,",
+   "start": 964.49
+  },
+  {
+   "text": "which was created to remember",
+   "start": 966.55
+  },
+  {
+   "text": "the British rock musician",
+   "start": 968.13
+  },
+  {
+   "text": "and founder of the Beatles, John Lennon.",
+   "start": 969.51
+  },
+  {
+   "text": "In the center of Strawberry Fields,",
+   "start": 973.11
+  },
+  {
+   "text": "there is the famous black and white mosaic",
+   "start": 974.79
+  },
+  {
+   "text": "which contains a single word.",
+   "start": 977.57
+  },
+  {
+   "text": "The title of one of Lennon's",
+   "start": 979.99
+  },
+  {
+   "text": "most famous songs, Imagine.",
+   "start": 981.69
+  },
+  {
+   "text": "There, on the Imagine mosaic,",
+   "start": 984.85
+  },
+  {
+   "text": "you can often find flowers and strawberries,",
+   "start": 987.21
+  },
+  {
+   "text": "guitars and handwritten notes",
+   "start": 990.19
+  },
+  {
+   "text": "from Lennon's fans.",
+   "start": 991.85
+  },
+  {
+   "text": "I've noticed that when people talk about New York City,",
+   "start": 994.09
+  },
+  {
+   "text": "they're really just talking about",
+   "start": 997.53
+  },
+  {
+   "text": "the island of Manhattan,",
+   "start": 999.01
+  },
+  {
+   "text": "the oldest and the most famous part of the city.",
+   "start": 1000.95
+  },
+  {
+   "text": "But New York City is made up of five districts,",
+   "start": 1004.83
+  },
+  {
+   "text": "Manhattan,",
+   "start": 1008.97
+  },
+  {
+   "text": "Brooklyn,",
+   "start": 1009.61
+  },
+  {
+   "text": "the Bronx,",
+   "start": 1010.89
+  },
+  {
+   "text": "Queens,",
+   "start": 1011.95
+  },
+  {
+   "text": "and Staten Island,",
+   "start": 1012.87
+  },
+  {
+   "text": "each with its own distinct personality and flavor.",
+   "start": 1014.35
+  },
+  {
+   "text": "The Brooklyn Bridge is a must",
+   "start": 1017.93
+  },
+  {
+   "text": "when someone visits me in New York.",
+   "start": 1019.81
+  },
+  {
+   "text": "The bridge is an iconic landmark",
+   "start": 1022.53
+  },
+  {
+   "text": "linking Manhattan to Brooklyn",
+   "start": 1024.29
+  },
+  {
+   "text": "since it was built in 1883.",
+   "start": 1026.13
+  },
+  {
+   "text": "While it's a great experience",
+   "start": 1029.45
+  },
+  {
+   "text": "walking in either direction",
+   "start": 1031.21
+  },
+  {
+   "text": "at any time of the day,",
+   "start": 1032.55
+  },
+  {
+   "text": "I prefer heading westward",
+   "start": 1033.91
+  },
+  {
+   "text": "from Brooklyn to Manhattan",
+   "start": 1035.81
+  },
+  {
+   "text": "as the sun begins to set,",
+   "start": 1037.25
+  },
+  {
+   "text": "over the Manhattan skyline.",
+   "start": 1039.61
+  },
+  {
+   "text": "It never fails to take my breath away,",
+   "start": 1041.15
+  },
+  {
+   "text": "no matter how many times I do it,",
+   "start": 1044.15
+  },
+  {
+   "text": "and my guests are always equally impressed.",
+   "start": 1046.27
+  },
+  {
+   "text": "And of course,",
+   "start": 1049.49
+  },
+  {
+   "text": "no trip to New York City is complete",
+   "start": 1051.07
+  },
+  {
+   "text": "without getting a great view of the Statue of Liberty.",
+   "start": 1053.99
+  },
+  {
+   "text": "A gift of friendship from the people of France",
+   "start": 1056.89
+  },
+  {
+   "text": "to the people of America,",
+   "start": 1060.09
+  },
+  {
+   "text": "the Statue of Liberty arrived in the New York Harbor",
+   "start": 1061.89
+  },
+  {
+   "text": "on June 17th, 1885,",
+   "start": 1065.33
+  },
+  {
+   "text": "after being lost in the middle of the night,",
+   "start": 1068.55
+  },
+  {
+   "text": "and the city was completely destroyed.",
+   "start": 1068.89
+  },
+  {
+   "text": "The New York City was the first city",
+   "start": 1069.39
+  },
+  {
+   "text": "to be built in the 18th century,",
+   "start": 1070.39
+  },
+  {
+   "text": "after being shipped across the Atlantic Ocean",
+   "start": 1071.39
+  },
+  {
+   "text": "in 350 individual pieces,",
+   "start": 1072.39
+  },
+  {
+   "text": "packed in 214 cases.",
+   "start": 1074.39
+  },
+  {
+   "text": "It took four months to put the statue together",
+   "start": 1076.39
+  },
+  {
+   "text": "and place it on the pedestal.",
+   "start": 1079.39
+  },
+  {
+   "text": "Since then, it's become a symbol",
+   "start": 1081.39
+  },
+  {
+   "text": "of American freedom and independence.",
+   "start": 1084.39
+  },
+  {
+   "text": "So, as you see, New York offers endless variety,",
+   "start": 1086.39
+  },
+  {
+   "text": "and that's the beauty of living here.",
+   "start": 1091.39
+  },
+  {
+   "text": "I love New York.",
+   "start": 1093.39
+  },
+  {
+   "text": "I've loved this city since I was a little girl.",
+   "start": 1114.91
+  },
+  {
+   "text": "And now that I've called it home,",
+   "start": 1116.91
+  },
+  {
+   "text": "for eight years,",
+   "start": 1118.91
+  },
+  {
+   "text": "I can honestly say that I still love living here.",
+   "start": 1119.91
+  },
+  {
+   "text": "You might ask,",
+   "start": 1123.91
+  },
+  {
+   "text": "what do you love about it?",
+   "start": 1124.91
+  },
+  {
+   "text": "Well, there are probably at least 100 reasons",
+   "start": 1126.91
+  },
+  {
+   "text": "to love living in New York City.",
+   "start": 1129.91
+  },
+  {
+   "text": "And for me, to make a complete list,",
+   "start": 1132.91
+  },
+  {
+   "text": "I'd need a few days.",
+   "start": 1134.91
+  },
+  {
+   "text": "With over 8 million residents,",
+   "start": 1136.91
+  },
+  {
+   "text": "New York has something for everyone.",
+   "start": 1139.91
+  },
+  {
+   "text": "New York is often called the capital city of the world,",
+   "start": 1141.91
+  },
+  {
+   "text": "and it certainly feels that way.",
+   "start": 1145.91
+  },
+  {
+   "text": "But in the center of this exciting, noisy, polluted city,",
+   "start": 1147.91
+  },
+  {
+   "text": "there is a place to find peace and quiet.",
+   "start": 1151.91
+  },
+  {
+   "text": "This place is Central Park.",
+   "start": 1154.91
+  },
+  {
+   "text": "It is my favorite place in the city,",
+   "start": 1156.91
+  },
+  {
+   "text": "where I always take my friends when they come visit me.",
+   "start": 1159.91
+  },
+  {
+   "text": "Central Park is the green heart of New York,",
+   "start": 1162.91
+  },
+  {
+   "text": "and over 42 million people come here every year",
+   "start": 1166.91
+  },
+  {
+   "text": "to get away from the busy city.",
+   "start": 1169.91
+  },
+  {
+   "text": "And it's not just for people.",
+   "start": 1172.91
+  },
+  {
+   "text": "Over 235 different species of animals,",
+   "start": 1174.91
+  },
+  {
+   "text": "over 235 different species of birds,",
+   "start": 1175.91
+  },
+  {
+   "text": "have made the park their home.",
+   "start": 1178.91
+  },
+  {
+   "text": "Early mornings and late afternoons",
+   "start": 1180.91
+  },
+  {
+   "text": "are the best times to go birdwatching in Central Park.",
+   "start": 1183.91
+  },
+  {
+   "text": "Get your binoculars ready to see native species",
+   "start": 1188.91
+  },
+  {
+   "text": "as well as exotic birds",
+   "start": 1191.91
+  },
+  {
+   "text": "that pass through during their migration.",
+   "start": 1193.91
+  },
+  {
+   "text": "You can also run, swim, climb,",
+   "start": 1196.91
+  },
+  {
+   "text": "or simply sit and read a book",
+   "start": 1199.91
+  },
+  {
+   "text": "in the huge park's different places.",
+   "start": 1201.91
+  },
+  {
+   "text": "Although it looks completely natural,",
+   "start": 1204.91
+  },
+  {
+   "text": "the park is man-made,",
+   "start": 1206.91
+  },
+  {
+   "text": "created over 160 years ago.",
+   "start": 1208.91
+  },
+  {
+   "text": "Frederick Law Olmsted and Calvert Vaux",
+   "start": 1211.91
+  },
+  {
+   "text": "designed the park in the center of New York",
+   "start": 1214.91
+  },
+  {
+   "text": "at a time when the city was very crowded",
+   "start": 1217.91
+  },
+  {
+   "text": "and an unhealthy place to live.",
+   "start": 1219.91
+  },
+  {
+   "text": "They wanted to make a place",
+   "start": 1222.91
+  },
+  {
+   "text": "where people of all backgrounds,",
+   "start": 1224.91
+  },
+  {
+   "text": "rich and poor,",
+   "start": 1226.91
+  },
+  {
+   "text": "could find fresh air in the dirty city.",
+   "start": 1228.91
+  },
+  {
+   "text": "It does the same job today.",
+   "start": 1231.91
+  },
+  {
+   "text": "As a friend of mine always tells me,",
+   "start": 1234.91
+  },
+  {
+   "text": "life in New York would be impossible",
+   "start": 1237.91
+  },
+  {
+   "text": "without Central Park.",
+   "start": 1239.91
+  },
+  {
+   "text": "You shouldn't leave Central Park",
+   "start": 1241.91
+  },
+  {
+   "text": "without visiting the area of the park",
+   "start": 1243.91
+  },
+  {
+   "text": "named Strawberry Fields,",
+   "start": 1245.91
+  },
+  {
+   "text": "which was created to remember",
+   "start": 1247.91
+  },
+  {
+   "text": "the British rock musician",
+   "start": 1249.91
+  },
+  {
+   "text": "and founder of the Beatles, John Lennon.",
+   "start": 1251.91
+  },
+  {
+   "text": "In the center of Strawberry Fields,",
+   "start": 1253.91
+  },
+  {
+   "text": "there is the famous black and white mosaic",
+   "start": 1256.91
+  },
+  {
+   "text": "which contains a single word,",
+   "start": 1259.91
+  },
+  {
+   "text": "the title of one of Lennon's most famous songs,",
+   "start": 1261.91
+  },
+  {
+   "text": "Imagine.",
+   "start": 1263.91
+  },
+  {
+   "text": "There, on the Imagine mosaic,",
+   "start": 1265.91
+  },
+  {
+   "text": "you can often find flowers and strawberries,",
+   "start": 1267.91
+  },
+  {
+   "text": "guitars and handwritten notes",
+   "start": 1270.91
+  },
+  {
+   "text": "from Lennon's fans.",
+   "start": 1272.91
+  },
+  {
+   "text": "I've noticed that when people talk about New York City,",
+   "start": 1274.91
+  },
+  {
+   "text": "they're really just talking about",
+   "start": 1277.91
+  },
+  {
+   "text": "the island of Manhattan,",
+   "start": 1279.91
+  },
+  {
+   "text": "the oldest and the most famous part of the city.",
+   "start": 1281.91
+  },
+  {
+   "text": "But New York City is made up of five districts,",
+   "start": 1285.91
+  },
+  {
+   "text": "Manhattan, Brooklyn, the Bronx,",
+   "start": 1289.91
+  },
+  {
+   "text": "Queens, and Staten Island,",
+   "start": 1292.91
+  },
+  {
+   "text": "each with its own distinct personality and flavor.",
+   "start": 1295.91
+  },
+  {
+   "text": "The Brooklyn Bridge is a must",
+   "start": 1298.91
+  },
+  {
+   "text": "when someone visits me in New York.",
+   "start": 1300.91
+  },
+  {
+   "text": "The bridge is an iconic landmark",
+   "start": 1303.91
+  },
+  {
+   "text": "linking Manhattan to Brooklyn",
+   "start": 1305.91
+  },
+  {
+   "text": "since it was built in 1883.",
+   "start": 1307.91
+  },
+  {
+   "text": "While it's a great experience",
+   "start": 1310.91
+  },
+  {
+   "text": "walking in either direction at any time of the day,",
+   "start": 1312.91
+  },
+  {
+   "text": "I prefer heading westward from Brooklyn to Manhattan",
+   "start": 1315.91
+  },
+  {
+   "text": "as the sun begins to set over the Manhattan skyline.",
+   "start": 1318.91
+  },
+  {
+   "text": "It never fails to take my breath away,",
+   "start": 1322.91
+  },
+  {
+   "text": "no matter how many times I do it,",
+   "start": 1325.91
+  },
+  {
+   "text": "and my guests are always equally impressed.",
+   "start": 1327.91
+  },
+  {
+   "text": "And of course,",
+   "start": 1330.91
+  },
+  {
+   "text": "no trip to New York City is complete",
+   "start": 1332.91
+  },
+  {
+   "text": "without getting a great view of the Statue of Liberty.",
+   "start": 1335.91
+  },
+  {
+   "text": "A gift of friendship from the people of France",
+   "start": 1338.91
+  },
+  {
+   "text": "to the people of America,",
+   "start": 1341.91
+  },
+  {
+   "text": "the Statue of Liberty arrived in the New York Harbor",
+   "start": 1343.91
+  },
+  {
+   "text": "on June 17, 1885,",
+   "start": 1346.91
+  },
+  {
+   "text": "after being shipped across the Atlantic Ocean.",
+   "start": 1349.91
+  },
+  {
+   "text": "It was a great experience.",
+   "start": 1352.91
+  },
+  {
+   "text": "It was a great experience for me",
+   "start": 1354.91
+  },
+  {
+   "text": "to be able to see the New York Ocean",
+   "start": 1356.91
+  },
+  {
+   "text": "in 350 individual pieces",
+   "start": 1358.91
+  },
+  {
+   "text": "packed in 214 cases.",
+   "start": 1360.91
+  },
+  {
+   "text": "It took four months to put the Statue together",
+   "start": 1362.91
+  },
+  {
+   "text": "and place it on the pedestal.",
+   "start": 1365.91
+  },
+  {
+   "text": "Since then, it's become a symbol",
+   "start": 1367.91
+  },
+  {
+   "text": "of American freedom and independence.",
+   "start": 1369.91
+  },
+  {
+   "text": "So, as you see,",
+   "start": 1372.91
+  },
+  {
+   "text": "New York offers endless variety",
+   "start": 1374.91
+  },
+  {
+   "text": "and that's the beauty of living here.",
+   "start": 1395.18
+  },
+  {
+   "text": "This is the end of the listening task.",
+   "start": 1397.18
+  }
+ ]
+}

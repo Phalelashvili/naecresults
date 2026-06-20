@@ -1,0 +1,1736 @@
+{
+  "blocks": [
+    {
+      "kind": "content",
+      "html": "<h3>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points)</h3>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "words",
+      "words": [
+        {
+          "letter": "A",
+          "text": "between"
+        },
+        {
+          "letter": "B",
+          "text": "cloudy"
+        },
+        {
+          "letter": "C",
+          "text": "exploration"
+        },
+        {
+          "letter": "D",
+          "text": "helped"
+        },
+        {
+          "letter": "E",
+          "text": "invented"
+        },
+        {
+          "letter": "F",
+          "text": "period"
+        },
+        {
+          "letter": "G",
+          "text": "possible"
+        },
+        {
+          "letter": "H",
+          "text": "qualities"
+        },
+        {
+          "letter": "I",
+          "text": "road"
+        },
+        {
+          "letter": "J",
+          "text": "seemed"
+        },
+        {
+          "letter": "K",
+          "text": "spread"
+        },
+        {
+          "letter": "L",
+          "text": "understand"
+        },
+        {
+          "letter": "M",
+          "text": "valuable"
+        },
+        {
+          "letter": "N",
+          "text": "way"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "html": "<p><strong>The importance of the compass</strong></p><p>A long time ago before the invention of the compass, sailors used the stars to find their <b>(1)</b>. However, this method didn’t work during the day or on <b>(2)</b> nights, which made travelling far from land, dangerous. The first compass was <b>(3)</b> in China during the Han dynasty, <b>(4)</b> the 2nd century BC and the 1st century AD. It was made from lodestone, a type of rock that has special natural <b>(5)</b>. People had been studying this rock for a long time. However, the compass wasn’t used for sailing until the Song dynasty, around the 11th and 12th centuries.</p><p>Soon after, compass technology <b>(6)</b> to the West through the contacts with other sailors. The compass <b>(7)</b> sailors travel safely far from land, making global trade and <b>(8)</b> possible. The compass played a key role in making possible the Age of Discovery, which was the <b>(9)</b> of worldwide exploration by Europeans between the 15th and 18th centuries. The invention of the compass made it <b>(10)</b> to travel throughout the year, rather than only being able to travel for just a few months. Today, despite technological advancements, the compass is still a <b>(11)</b> tool. It is still an important and widely used tool that has definitely changed the way we <b>(12)</b> and explore the world.</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "N"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "H"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "K"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 7,
+      "stem_html": "<span class=\"gap-label\">Gap 7</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 8,
+      "stem_html": "<span class=\"gap-label\">Gap 8</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 9,
+      "stem_html": "<span class=\"gap-label\">Gap 9</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "F"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 10,
+      "stem_html": "<span class=\"gap-label\">Gap 10</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "G"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 11,
+      "stem_html": "<span class=\"gap-label\">Gap 11</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "M"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 12,
+      "stem_html": "<span class=\"gap-label\">Gap 12</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "between",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "cloudy",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "exploration",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "helped",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "invented",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "period",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "possible",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "qualities",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "road",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "seemed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "spread",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "understand",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "valuable",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "way",
+          "html": ""
+        }
+      ],
+      "correct": "L"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p><strong>The deepest cave</strong></p><p>Caves, mysterious natural formations shaped by water, wind or volcanic activity, reveal secrets about the natural world. Caves have fascinated people <b>(1)</b> centuries. These natural wonders are filled with secrets about Earth’s history and are home to unique ecosystems <b>(2)</b> scientists are still exploring. One <b>(3)</b> the most incredible places to study is the Arabika mountain range in Abkhazeti, where some of the deepest caves in the world are found. Among these is <b>(4)</b> deepest cave ever recorded, reaching an amazing depth of 2,212 meters. Exploring such caves is not an easy task. For instance, this deepest cave, which was discovered in 1968, required decades of dangerous expeditions to fully reveal <b>(5)</b> depth. Explorers had to go down the cave thousands of metres, dealing <b>(6)</b> freezing temperature and water-filled passages. Yet, the difficult conditions haven’t stopped scientists <b>(7)</b> continuing to explore. They hope to learn more <b>(8)</b> the cave’s history, collect rare fossils, and even discover new species of microorganisms that might help <b>(9)</b> developing new medicines. Additionally, caves show some important facts <b>(10)</b> climate change processes, helping researchers understand environmental history. Despite the challenges, the caves of the Arabika mountain range in Abkhazeti still continue to fascinate both explorers <b>(11)</b> researchers. Their huge and unexplored passages suggest that there are still many things left <b>(12)</b> future discoveries.</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 1,
+      "stem_html": "<p>Caves have fascinated people <b>(1)</b> centuries.</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "about",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "from",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 2,
+      "stem_html": "<p>… home to unique ecosystems <b>(2)</b> scientists are still exploring.</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "yet",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "but",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "and",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 3,
+      "stem_html": "<p>One <b>(3)</b> the most incredible places to study is the Arabika mountain range…</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "off",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "of",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 4,
+      "stem_html": "<p>Among these is <b>(4)</b> deepest cave ever recorded…</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "this",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 5,
+      "stem_html": "<p>… required decades of dangerous expeditions to fully reveal <b>(5)</b> depth.</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "theirs",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "it",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "its",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "their",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 6,
+      "stem_html": "<p>Explorers had to go down the cave thousands of metres, dealing <b>(6)</b> freezing temperature…</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "with",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 7,
+      "stem_html": "<p>… the difficult conditions haven’t stopped scientists <b>(7)</b> continuing to explore.</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "about",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "for",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 8,
+      "stem_html": "<p>They hope to learn more <b>(8)</b> the cave’s history…</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "about",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "around",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "inside",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 9,
+      "stem_html": "<p>… new species of microorganisms that might help <b>(9)</b> developing new medicines.</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 10,
+      "stem_html": "<p>Additionally, caves show some important facts <b>(10)</b> climate change processes…</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "inside",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "off",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "about",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 11,
+      "stem_html": "<p>… still continue to fascinate both explorers <b>(11)</b> researchers.</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "also",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "and",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "but",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "or",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 12,
+      "stem_html": "<p>… there are still many things left <b>(12)</b> future discoveries.</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "through",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. Two sentences are extra. (6 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p><strong>Brother and sister talking</strong></p><p><b>Brother:</b> Emily, have you seen my headphones? I can’t find them. I’ve looked all over the place - under the couch, in my pockets, everywhere!</p><p><b>Sister:</b> <b>(1)</b></p><p><b>Brother:</b> Yes, I already did. They’re not there now.</p><p><b>Sister:</b> <b>(2)</b></p><p><b>Brother:</b> I already checked my room. I’m sure I left them in the living room last night after watching that show. I was using them before I went to bed.</p><p><b>Sister:</b> <b>(3)</b></p><p><b>Brother:</b> Good idea. I’ll ask her. By the way, do you want to watch a movie tonight?</p><p><b>Sister:</b> <b>(4)</b></p><p><b>Brother:</b> I was thinking about that new comedy everyone’s talking about. What about watching it today?</p><p><b>Sister:</b> <b>(5)</b></p><p><b>Brother:</b> Great! I’ll ask Mom about my headphones now. Thanks, Emily!</p><p><b>Sister:</b> <b>(6)</b></p><p><b>Brother:</b> All right!</p>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "sentences",
+      "words": [
+        {
+          "letter": "A",
+          "text": "You borrowed them some time ago and left them at my friend’s house."
+        },
+        {
+          "letter": "B",
+          "text": "If you were a bit more organised, this wouldn’t keep happening. Did you ask Mom? She might’ve moved them when she was cleaning."
+        },
+        {
+          "letter": "C",
+          "text": "Hmm, I think I saw them on the kitchen table this morning. Did you check there?"
+        },
+        {
+          "letter": "D",
+          "text": "Documentaries are my favourite, they show a real world around us. Comedies are just for entertainment."
+        },
+        {
+          "letter": "E",
+          "text": "Sounds good! Let me know when you find them!"
+        },
+        {
+          "letter": "F",
+          "text": "That sounds fun! What do you want to watch?"
+        },
+        {
+          "letter": "G",
+          "text": "You always leave your things lying around and then you lose them easily. Maybe you left them in your room."
+        },
+        {
+          "letter": "H",
+          "text": "Oh, I’ve heard about that one! Sure, let’s watch it after dinner. We can make some popcorn, too."
+        }
+      ]
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You borrowed them some time ago and left them at my friend’s house.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "If you were a bit more organised, this wouldn’t keep happening. Did you ask Mom? She might’ve moved them when she was cleaning.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hmm, I think I saw them on the kitchen table this morning. Did you check there?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Documentaries are my favourite, they show a real world around us. Comedies are just for entertainment.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Sounds good! Let me know when you find them!",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "That sounds fun! What do you want to watch?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "You always leave your things lying around and then you lose them easily. Maybe you left them in your room.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Oh, I’ve heard about that one! Sure, let’s watch it after dinner. We can make some popcorn, too.",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You borrowed them some time ago and left them at my friend’s house.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "If you were a bit more organised, this wouldn’t keep happening. Did you ask Mom? She might’ve moved them when she was cleaning.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hmm, I think I saw them on the kitchen table this morning. Did you check there?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Documentaries are my favourite, they show a real world around us. Comedies are just for entertainment.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Sounds good! Let me know when you find them!",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "That sounds fun! What do you want to watch?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "You always leave your things lying around and then you lose them easily. Maybe you left them in your room.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Oh, I’ve heard about that one! Sure, let’s watch it after dinner. We can make some popcorn, too.",
+          "html": ""
+        }
+      ],
+      "correct": "G"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You borrowed them some time ago and left them at my friend’s house.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "If you were a bit more organised, this wouldn’t keep happening. Did you ask Mom? She might’ve moved them when she was cleaning.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hmm, I think I saw them on the kitchen table this morning. Did you check there?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Documentaries are my favourite, they show a real world around us. Comedies are just for entertainment.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Sounds good! Let me know when you find them!",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "That sounds fun! What do you want to watch?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "You always leave your things lying around and then you lose them easily. Maybe you left them in your room.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Oh, I’ve heard about that one! Sure, let’s watch it after dinner. We can make some popcorn, too.",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You borrowed them some time ago and left them at my friend’s house.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "If you were a bit more organised, this wouldn’t keep happening. Did you ask Mom? She might’ve moved them when she was cleaning.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hmm, I think I saw them on the kitchen table this morning. Did you check there?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Documentaries are my favourite, they show a real world around us. Comedies are just for entertainment.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Sounds good! Let me know when you find them!",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "That sounds fun! What do you want to watch?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "You always leave your things lying around and then you lose them easily. Maybe you left them in your room.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Oh, I’ve heard about that one! Sure, let’s watch it after dinner. We can make some popcorn, too.",
+          "html": ""
+        }
+      ],
+      "correct": "F"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You borrowed them some time ago and left them at my friend’s house.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "If you were a bit more organised, this wouldn’t keep happening. Did you ask Mom? She might’ve moved them when she was cleaning.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hmm, I think I saw them on the kitchen table this morning. Did you check there?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Documentaries are my favourite, they show a real world around us. Comedies are just for entertainment.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Sounds good! Let me know when you find them!",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "That sounds fun! What do you want to watch?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "You always leave your things lying around and then you lose them easily. Maybe you left them in your room.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Oh, I’ve heard about that one! Sure, let’s watch it after dinner. We can make some popcorn, too.",
+          "html": ""
+        }
+      ],
+      "correct": "H"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You borrowed them some time ago and left them at my friend’s house.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "If you were a bit more organised, this wouldn’t keep happening. Did you ask Mom? She might’ve moved them when she was cleaning.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hmm, I think I saw them on the kitchen table this morning. Did you check there?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Documentaries are my favourite, they show a real world around us. Comedies are just for entertainment.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Sounds good! Let me know when you find them!",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "That sounds fun! What do you want to watch?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "You always leave your things lying around and then you lose them easily. Maybe you left them in your room.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Oh, I’ve heard about that one! Sure, let’s watch it after dinner. We can make some popcorn, too.",
+          "html": ""
+        }
+      ],
+      "correct": "E"
+    }
+  ]
+}

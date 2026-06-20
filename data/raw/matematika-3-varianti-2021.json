@@ -1,0 +1,973 @@
+{
+ "slug": "matematika-3-varianti-2021",
+ "url": "",
+ "subject": "math",
+ "subject_ka": "მათემატიკა",
+ "year": 2021,
+ "variant": 3,
+ "kind": "test",
+ "title": "მათემატიკის ტესტი 3 ვარიანტი 2021 წელი",
+ "num_questions": 35,
+ "num_content_blocks": 0,
+ "has_audio": false,
+ "blocks": [
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "ამოცანა 1",
+   "stem_html": "<p>$ \\Large (1 - \\frac{1}{5}) \\cdot \\frac{5}{8} $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 0,5 </span>",
+     "text": "0,5"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 0,4</span>",
+     "text": "0,4"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 0,2</span>",
+     "text": "0,2"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 0,8</span>",
+     "text": "0,8"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "ამოცანა 2",
+   "stem_html": "<p> ერთმანეთის მომდევნო 5 ნატურალური რიცხვის ჯამი 35-ის ტოლია. რის ტოლია ამ რიცხვებს შორის უმცირესი? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 3</span>",
+     "text": "3"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 6 </span>",
+     "text": "6"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 4</span>",
+     "text": "4"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 5 </span>",
+     "text": "5"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "ამოცანა 3",
+   "stem_html": "<p>მატარებელი თბილისიდან გავიდა დილის 08:00 სთ-ზე და ბათუმში ჩავიდა იმავე დღის 13:20 სთ-ზე. იპოვეთ მატარებლის საშუალო სიჩქარე, თუ მანძილი თბილისიდან ბათუმამდე 400 კმ-ია. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 75 კმ/სთ </span>",
+     "text": "75 კმ/სთ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 60 კმ/სთ </span>",
+     "text": "60 კმ/სთ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 55 კმ/სთ </span>",
+     "text": "55 კმ/სთ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 50 კმ/სთ </span>",
+     "text": "50 კმ/სთ"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "ამოცანა 4",
+   "stem_html": "<p>ABC სამკუთხედში AB=BC და ∠ABC=80°.იპოვეთ A წვეროსთან მდებარე გარე კუთხის სიდიდე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 130°</span>",
+     "text": "130°"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 120°</span>",
+     "text": "120°"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 140°</span>",
+     "text": "140°"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 100°</span>",
+     "text": "100°"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "ამოცანა 5",
+   "stem_html": "<p>მართკუთხედის გვერდებია 5 სმ და 12 სმ. იპოვეთ მართკუთხედის დიაგონალის სიგრძე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 13 სმ </span>",
+     "text": "13 სმ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 14 სმ</span>",
+     "text": "14 სმ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 15 სმ</span>",
+     "text": "15 სმ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 16 სმ</span>",
+     "text": "16 სმ"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "ამოცანა 6",
+   "stem_html": "<p>$ \\Large a \\cdot \\sqrt[3]{a} $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large a^{\\frac{3}{2}} $ </span>",
+     "text": "$ \\Large a^{\\frac{3}{2}} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large a^{\\frac{5}{3}} $ </span>",
+     "text": "$ \\Large a^{\\frac{5}{3}} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large a^{\\frac{4}{3}} $ </span>",
+     "text": "$ \\Large a^{\\frac{4}{3}} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large a^{\\frac{5}{4}} $ </span>",
+     "text": "$ \\Large a^{\\frac{5}{4}} $"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "ამოცანა 7",
+   "stem_html": "<p>თუ a და b ნამდვილი რიცხვებისთვის სამართლიანია 0 &lt; a &lt; b უტოლობა, მაშინ ქვემოთ ჩამოთვლილი უტოლობებიდან რომელია აუცილებლად ჭეშმარიტი? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{1}{a} < \\frac{1}{b} $ </span>",
+     "text": "$ \\Large \\frac{1}{a}"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{1}{a} > b $ </span>",
+     "text": "$ \\Large \\frac{1}{a} > b $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large a < \\frac{1}{b} $ </span>",
+     "text": "$ \\Large a"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{1}{a} > \\frac{1}{b} $ </span>",
+     "text": "$ \\Large \\frac{1}{a} > \\frac{1}{b} $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "ამოცანა 8",
+   "stem_html": "<p>პირველი მილით ცარიელი ავზი ივსება 12 წუთში, ხოლო მეორე მილით - 18 წუთში. რამდენ წუთში აივსება ავზის ნახევარი ორივე მილით? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 3 წთ </span>",
+     "text": "3 წთ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 3,6 წთ </span>",
+     "text": "3,6 წთ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 4,2 წთ </span>",
+     "text": "4,2 წთ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 4,6 წთ </span>",
+     "text": "4,6 წთ"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "ამოცანა 9",
+   "stem_html": "<p>გუნდმა ტურნირზე ჩატარებული 27 თამაშიდან 15 მოიგო, ხოლო 12 წააგო. გუნდის ვებგვერდზე მისი მოგებებისა და წაგებების რაოდენობრივი განაწილება წრიული დიაგრამით არის წარმოდგენილი. რამდენი გრადუსით მეტია ამ წრიულ დიაგრამაზე მოგებების შესაბამისი სექტორის ცენტრალური კუთხის სიდიდე წაგებების შესაბამისი სექტორის ცენტრალური კუთხის სიდიდეზე? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 41° -ით</span>",
+     "text": "41° -ით"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) </span> 40° -ით",
+     "text": "40° -ით"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) </span>39,3° -ით",
+     "text": "39,3° -ით"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) </span> 36° -ით",
+     "text": "36° -ით"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "ამოცანა 10",
+   "stem_html": "<p>a -ს რა მნიშვნელობისთვის გააჩნია $ \\Large 9x^2 - ax + 2 = 0 $ განტოლებას $ \\Large x = \\frac{1}{3} $ -ის ტოლი ფესვი? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large -\\frac{2}{9} $ </span>",
+     "text": "$ \\Large -\\frac{2}{9} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{1}{3} $ </span>",
+     "text": "$ \\Large \\frac{1}{3} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 12 </span>",
+     "text": "12"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 9</span>",
+     "text": "9"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "ამოცანა 11",
+   "stem_html": "<p>ათი რიცხვიდან ერთ-ერთი გაზარდეს 1 ერთეულით. როგორ შეიცვალა ამ რიცხვების საშუალო?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) გაიზარდა 1-ით;</span>",
+     "text": "გაიზარდა 1-ით;"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) გაიზარდა 0,1 -ით;</span>",
+     "text": "გაიზარდა 0,1 -ით;"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) გაიზარდა 1,1 -ით;</span>",
+     "text": "გაიზარდა 1,1 -ით;"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) გაიზარდა 1,01 -ით.</span>",
+     "text": "გაიზარდა 1,01 -ით."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "ამოცანა 12",
+   "stem_html": "<p>40 კმ სიგრძის გზის წრფივი მონაკვეთი გარკვეული მასშტაბის რუკაზე გამოსახულია 8 სმ სიგრძის მონაკვეთით. რა სიგრძის მონაკვეთით იქნება გამოსახული ამ რუკაზე 55 კმ სიგრძის გზის წრფივი მონაკვეთი? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 9 სმ </span>",
+     "text": "9 სმ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 10 სმ </span>",
+     "text": "10 სმ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 12 სმ </span>",
+     "text": "12 სმ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 11 სმ</span>",
+     "text": "11 სმ"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "ამოცანა 13",
+   "stem_html": "<p>რამდენი სიმეტრიის ღერძი აქვს წესიერ ხუთკუთხედს?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 1 </span>",
+     "text": "1"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 3 </span>",
+     "text": "3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 5</span>",
+     "text": "5"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 10 </span>",
+     "text": "10"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "ამოცანა 14",
+   "stem_html": "<p>ლატარიის ბილეთების ნომრები 0, 1, 2, ... ,9 ციფრებისგან შემდგარ ნებისმიერ 4 წევრიან მიმდევრობას წარმოადგენს. მომგებიანია მხოლოდ ის ბილეთები, რომლელთა ნომრები შეიცავს ციფრების მიმდევრობას „777“. სულ რამდენი მომგებიანი ბილეთია ამ ლატარიაში? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 18 </span>",
+     "text": "18"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 19 </span>",
+     "text": "19"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 20 </span>",
+     "text": "20"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 21 </span>",
+     "text": "21"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "ამოცანა 15",
+   "stem_html": "<p>თუ q მნიშვნელის მქონე b<sub>1</sub>, b<sub>2</sub>, ... გეომეტრიულ პროგრესიაში b<sub>2019</sub>&lt; b<sub>2021</sub> და b<sub>2021</sub>&lt; b<sub>2020</sub>, მაშინ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) b<sub>1</sub>&lt; 0 და q &lt; -1</span>",
+     "text": "b1&lt; 0 და q &lt; -1"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) b<sub>1</sub>&gt; 0 და q ∈ (-1 ; 0)</span>",
+     "text": "b1&gt; 0 და q ∈ (-1 ; 0)"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) b<sub>1</sub>&lt; 0 და q ∈ (0 ; 1)</span>",
+     "text": "b1&lt; 0 და q ∈ (0 ; 1)"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) b<sub>1</sub>&lt; 0 და q ∈ (-1 ; 0) </span>",
+     "text": "b1&lt; 0 და q ∈ (-1 ; 0)"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "ამოცანა 16",
+   "stem_html": "<p>ურნაში მოთავსებულია 8 წითელი და 7 თეთრი ერთნაირი ბურთულა. რას უდრის იმის ალბათობა, რომ ამ ურნიდან შემთხვევით ამოღებული ორი ბურთულა ერთი ფერის აღმოჩნდება? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{15}{56} $ </span>",
+     "text": "$ \\Large \\frac{15}{56} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{1}{56} $ </span>",
+     "text": "$ \\Large \\frac{1}{56} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{7}{15} $ </span>",
+     "text": "$ \\Large \\frac{7}{15} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{8}{15} $ </span>",
+     "text": "$ \\Large \\frac{8}{15} $"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 17,
+   "heading": "ამოცანა 17",
+   "stem_html": "<p>იპოვეთ $ \\Large 3^{2 \\log_3{x}} = x $ განტოლების ამონახსნთა სიმრავლე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\{0\\} $ </span>",
+     "text": "$ \\Large \\{0\\} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\{\\frac{1}{3}\\} $ </span>",
+     "text": "$ \\Large \\{\\frac{1}{3}\\} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\{1\\} $ </span>",
+     "text": "$ \\Large \\{1\\} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\left\\{ \\frac{2}{3}, 1 \\right\\} $ </span>",
+     "text": "$ \\Large \\left\\{ \\frac{2}{3}, 1 \\right\\} $"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 18,
+   "heading": "ამოცანა 18",
+   "stem_html": "<p>ABC მართკუთხა სამკუთხედში ∠C=90° და ∠A=30° . BC კათეტზე, როგორც დიამეტრზე, შემოხაზულია წრეწირი, რომელიც ჰიპოტენუზას კვეთს D წერტილში. იპოვეთ $ \\Large \\frac{AD}{BD} $ . </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{1}{\\sqrt{3}} $ </span>",
+     "text": "$ \\Large \\frac{1}{\\sqrt{3}} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{1}{3} $ </span>",
+     "text": "$ \\Large \\frac{1}{3} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 1,5 </span>",
+     "text": "1,5"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 3 </span>",
+     "text": "3"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 19,
+   "heading": "ამოცანა 19",
+   "stem_html": "<p>არანულოვანი $ \\Large \\vec{a}(x ; x) \\quad \\text{და} \\quad \\vec{b} $ ვექტორები ურთიერთმართობულია. იპოვეთ x , თუ $ \\vec{a} - \\vec{b} $ ვექტორის კოორდინატებია (1; -6 ). </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) -5 </span>",
+     "text": "-5"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) -3 </span>",
+     "text": "-3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large -\\frac{5}{2} $ </span>",
+     "text": "$ \\Large -\\frac{5}{2} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 3 </span>",
+     "text": "3"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 20,
+   "heading": "ამოცანა 20",
+   "stem_html": "<p>ორი ნატურალური რიცხვის ნამრავლი ტოლია 144-ის. ქვემოთ ჩამოთვლილთაგან რის ტოლი არ შეიძლება იყოს ამ ორი რიცხვის საერთო გამყოფი? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 8 </span>",
+     "text": "8"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 6 </span>",
+     "text": "6"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 4 </span>",
+     "text": "4"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 12 </span>",
+     "text": "12"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 21,
+   "heading": "ამოცანა 21",
+   "stem_html": "<p>თუ ax+b = 0 განტოლებას, სადაც a და b ნამდვილი კოეფიციენტებია, x ცვლადის მიმართ არ გააჩნია ამონახსნი, მაშინ: </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large a \\neq 0, \\quad b = 0 $ </span>",
+     "text": "$ \\Large a \\neq 0, \\quad b = 0 $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large a = 0, \\quad b = 0 $ </span>",
+     "text": "$ \\Large a = 0, \\quad b = 0 $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large a = 0, \\quad b \\neq 0 $ </span>",
+     "text": "$ \\Large a = 0, \\quad b \\neq 0 $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large a \\neq 0, \\quad b \\neq 0 $ </span>",
+     "text": "$ \\Large a \\neq 0, \\quad b \\neq 0 $"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 22,
+   "heading": "ამოცანა 22",
+   "stem_html": "<p>იპოვეთ tga , თუ $ \\Large \\frac{\\sin(a) - \\cos(a)}{2\\sin(a) + 3\\cos(a)} = 2 $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large -\\frac{7}{3} $ </span>",
+     "text": "$ \\Large -\\frac{7}{3} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large -\\frac{2}{5} $ </span>",
+     "text": "$ \\Large -\\frac{2}{5} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{1}{3} $ </span>",
+     "text": "$ \\Large \\frac{1}{3} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{1}{2} $ </span>",
+     "text": "$ \\Large \\frac{1}{2} $"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 23,
+   "heading": "ამოცანა 23",
+   "stem_html": "<p>Oxy საკოორდინატო სიბრტყეზე ჰომოთეტიას ცენტრით კოორდინატთა სათავეში A(1; -4) წერტილი გადაყავს B(3; -12) წერტილში. მაშინ ეს ჰომოთეტია AB მონაკვეთის შუაწერტილს გადაიყვანს წერტილში, რომლის კოორდინატებია: </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) (6; -8) </span>",
+     "text": "(6; -8)"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) (6; -24) </span>",
+     "text": "(6; -24)"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) (12; -24) </span>",
+     "text": "(12; -24)"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) (8; -12) </span>",
+     "text": "(8; -12)"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 24,
+   "heading": "ამოცანა 24",
+   "stem_html": "<p>$ \\Large 4^{\\log_4 72 - \\log_2 6} = $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 4 </span>",
+     "text": "4"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\sqrt{2} $ </span>",
+     "text": "$ \\sqrt{2} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 2 </span>",
+     "text": "2"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 6 </span>",
+     "text": "6"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 25,
+   "heading": "ამოცანა 25",
+   "stem_html": "<p>ABCD კვადრატის გვერდი $ \\sqrt{6} $ -ის ტოლია. E წერტილი წარმოადგენს BC გვერდის შუა წერტილს. ED მონაკვეთი AC დიაგონალს F წერტილში კვეთს. იპოვეთ ABEF ოთხკუთხედის ფართობი. </p>",
+   "figures": [
+    "media/cube4124.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{5}{2} $ </span>",
+     "text": "$ \\Large \\frac{5}{2} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{2\\sqrt{6}}{3} $ </span>",
+     "text": "$ \\Large \\frac{2\\sqrt{6}}{3} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $2 \\sqrt{2}$ </span>",
+     "text": "$2 \\sqrt{2}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $2 \\sqrt{3}$ </span>",
+     "text": "$2 \\sqrt{3}$"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 26,
+   "heading": "ამოცანა 26",
+   "stem_html": "<p>გარკვეული a და b ნამდვილი რიცხვებისათვის $ \\Large ax^2 + bx - 1 \\geq 0 $ კვადრატული უტოლობის ამონახსნთა სიმრავლეა [1;5] სეგმენტი. ქვემოთ ჩამოთვლილი შუალედებიდან რომელზეა $ \\Large f(x) = ax^2 + bx + 4 $ ფუნქცია კლებადი? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) [ 1;1] </span>",
+     "text": "[ 1;1]"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) [1,5;2,5] </span>",
+     "text": "[1,5;2,5]"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) [2;4] </span>",
+     "text": "[2;4]"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) [4; 7] </span>",
+     "text": "[4; 7]"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 27,
+   "heading": "ამოცანა 27",
+   "stem_html": "<p>კონუსის ფუძის ცენტრიდან მსახველზე დაშვებული OA მართობი მსახველს შუაზე ყოფს. იპოვეთ კონუსის მოცულობა, თუ OA მონაკვეთის სიგრძე 3 სმ-ის ტოლია. </p>",
+   "figures": [
+    "media/konusi4551.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large 9\\pi \\sqrt{3} \\, \\text{სმ}^3 $ </span>",
+     "text": "$ \\Large 9\\pi \\sqrt{3} \\, \\text{სმ}^3 $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large 18\\pi \\sqrt{2} \\, \\text{სმ}^3 $ </span>",
+     "text": "$ \\Large 18\\pi \\sqrt{2} \\, \\text{სმ}^3 $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large 24\\pi \\sqrt{2} \\, \\text{სმ}^3 $ </span>",
+     "text": "$ \\Large 24\\pi \\sqrt{2} \\, \\text{სმ}^3 $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large 24\\pi \\sqrt{3} \\, \\text{სმ}^3 $ </span>",
+     "text": "$ \\Large 24\\pi \\sqrt{3} \\, \\text{სმ}^3 $"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q28",
+   "number": 28,
+   "heading": "ამოცანა 28",
+   "stem_html": "<p>ამოხსენით განტოლებათა სისტემა: $$ \\begin{cases} \\Large 3x - 2y = 1 \\\\ \\Large 12 - 4x = 3y \\end{cases} $$ </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q29",
+   "number": 29,
+   "heading": "ამოცანა 29",
+   "stem_html": "<p>v კმ/სთ სიჩქარით მოძრავი ავტომობილი მუხრუჭის ამოქმედებიდან სრულ გაჩერებამდე გადის $ \\Large s = kv^2 $ მეტრ მანძილს, სადაც k მუდმივი სიდიდეა. ცნობილია, რომ 60 კმ/სთ სიჩქარით მოძრავი ავტომობილი მუხრუჭის ამოქმედებიდან სრულ გაჩერებამდე გადის 45 მეტრს. რა მანძილს გაივლის 90 კმ/სთ სიჩქარით მოძრავი ავტომობილი მუხრუჭის ამოქმედებიდან სრულ გაჩერებამდე? </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q30",
+   "number": 30,
+   "heading": "ამოცანა 30",
+   "stem_html": "<p>ABCD კვადრატის AB და BC გვერდებზე აგებულია ორი ტოლგვერდა სამკუთხედი ისე, როგორც სურათზეა მითითებული. იპოვეთ სამკუთხედების თანაკვეთით შექმნილი გამუქებული ფიგურის ფართობი, თუ კვადრატის გვერდი a-ს ტოლია. </p>",
+   "figures": [
+    "media/cube2314.png"
+   ],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q31",
+   "number": 31,
+   "heading": "ამოცანა 31",
+   "stem_html": "<p>იპოვეთ $ \\Large b_1, b_2, \\ldots, b_n $ გეომეტრიული პროგრესიის მნიშვნელი, თუ $ \\Large b_1 + b_2 + b_3 = -54 $ და $ \\Large b_4 + b_5 + b_6 = 2 \\quad \\text{.} $ </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q32",
+   "number": 32,
+   "heading": "ამოცანა 32",
+   "stem_html": "<p>ამოხსენით განტოლება: $ \\Large 12x - 8\\sqrt{x} + 1 = 0 $ </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q33",
+   "number": 33,
+   "heading": "ამოცანა 33",
+   "stem_html": "<p>პირამიდის ფუძე არის რომბი, რომლის დიაგონალები ტოლია 30 სმ-ის და 40 სმ-ის. პირამიდის სიმაღლის ფუძე არის რომბის დიაგონალების გადაკვეთის წერტილი. იპოვეთ პირამიდის გვერდითი ზედაპირის ფართობი, თუ პირამიდის სიმაღლე 24 სმ-ის ტოლია. </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q34",
+   "number": 34,
+   "heading": "ამოცანა 34",
+   "stem_html": "<p>ორმა ქვეითმა M და N პუნქტებიდან ამ პუნქტების შემაერთებელი ბილიკის გასწვრივ, ერთმანეთის შემხვედრი მიმართულებით მუდმივი სიჩქარეებით, ერთდროულად დაიწყეს მოძრაობა. ისინი პირველად ერთმანეთს შეხვდნენ მაშინ, როდესაც M პუნქტიდან გამოსულ ქვეითს გავლილი ჰქონდა 1600 მეტრი. მათ გააგრძელეს მოძრაობა, ჩავიდნენ შესაბამისად N და M პუნქტებში, შეუჩერებლად გამობრუნდნენ უკან და იმავე სიჩქარეებით გააგრძელეს მოძრაობა. მეორედ ქვეითები ერთმანეთს შეხვდნენ N პუნქტიდან 900 მეტრ მანძილზე. იპოვეთ M და N პუნქტების შემაერთებელი ბილიკის სიგრძე. </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q35",
+   "number": 35,
+   "heading": "ამოცანა 35",
+   "stem_html": "<p>იპოვეთ a პარამეტრის ყველა იმ მნიშვნელობათა სიმრავლე, რომელთათვისაც <div> $ \\LARGE 4^x - a \\cdot 2^x + a + 2 = 0 $ </div><p> განტოლებას გააჩნია ერთადერთი ამონახსნი.</p> </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  }
+ ]
+}

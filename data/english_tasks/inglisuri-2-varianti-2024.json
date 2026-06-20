@@ -1,0 +1,1736 @@
+{
+  "blocks": [
+    {
+      "kind": "content",
+      "html": "<h3>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points)</h3>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "words",
+      "words": [
+        {
+          "letter": "A",
+          "text": "adult"
+        },
+        {
+          "letter": "B",
+          "text": "earn"
+        },
+        {
+          "letter": "C",
+          "text": "eating"
+        },
+        {
+          "letter": "D",
+          "text": "expressed"
+        },
+        {
+          "letter": "E",
+          "text": "feeding"
+        },
+        {
+          "letter": "F",
+          "text": "figures"
+        },
+        {
+          "letter": "G",
+          "text": "memory"
+        },
+        {
+          "letter": "H",
+          "text": "needed"
+        },
+        {
+          "letter": "I",
+          "text": "nickname"
+        },
+        {
+          "letter": "J",
+          "text": "noticed"
+        },
+        {
+          "letter": "K",
+          "text": "offered"
+        },
+        {
+          "letter": "L",
+          "text": "themselves"
+        },
+        {
+          "letter": "M",
+          "text": "time"
+        },
+        {
+          "letter": "N",
+          "text": "used"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "html": "<p>Father of Jazz</p><p>In 1908 a Jewish family, the Karnofskys, who had immigrated from Lithuania to the USA, felt sympathy for a seven-year-old poor boy and brought him to their home. They soon began <b>(1)</b> him with hot meals and even <b>(2)</b> him a bed to sleep in. The boy was treated with love and kindness by every member of this family. The Karnofskys gave him a job and, therefore, they gave him the chance to <b>(3)</b> his own money. Having <b>(4)</b> the boy’s musical talent and being music lovers <b>(5)</b>, the family helped the boy to buy his first musical instrument. Over <b>(6)</b>, the boy became like an unofficially adopted son to this family. Later, as the boy grew into a professional musician and composer, he <b>(7)</b> Jewish melodies in such compositions as Go Down Moses and St James’ Infirmary. As an <b>(8)</b>, he also wrote a book about the Karnofskys in which he <b>(9)</b> his respect and gratitude to them. Later, in <b>(10)</b> of this family he composed the song Star of David, declaring that in this family he learned ‘how to live a real life and be determined.’ This little boy’s name was Louis Armstrong - one of the most influential <b>(11)</b> in jazz. He was lovingly known as Louis ‘Satchmo’ Armstrong. Louis Armstrong spoke Yiddish almost fluently and ‘Satchmo’ in Yiddish means ‘big cheeks’, a <b>(12)</b>, some say, was given to him by Mrs Karnofsky.</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "K"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "J"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "L"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "M"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 7,
+      "stem_html": "<span class=\"gap-label\">Gap 7</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "N"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 8,
+      "stem_html": "<span class=\"gap-label\">Gap 8</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 9,
+      "stem_html": "<span class=\"gap-label\">Gap 9</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 10,
+      "stem_html": "<span class=\"gap-label\">Gap 10</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "G"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 11,
+      "stem_html": "<span class=\"gap-label\">Gap 11</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "F"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 12,
+      "stem_html": "<span class=\"gap-label\">Gap 12</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "adult",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "earn",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "eating",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "expressed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "feeding",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "figures",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "needed",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "nickname",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "noticed",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "offered",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "themselves",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "time",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "used",
+          "html": ""
+        }
+      ],
+      "correct": "I"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p>Origin of the Earth</p><p>It is now thought that the Universe started to exist about 20,000 million years ago. We shall never really know <b>(1)</b> this happened. According to the widely accepted hypothesis, the planets and moons in the solar system, including Earth, were formed <b>(2)</b> a huge cloud of gas and dust. But <b>(3)</b> most popular explanation is the ‘Big Bang’ theory. According to this theory, there was a massive explosion in the universe <b>(4)</b> sent gases and particles out in all directions. Gradually, this very fast-moving mass gave rise to galaxies <b>(5)</b> solar systems but the Sun might have eventually formed about 5,000 million years ago.</p><p>Scientists think that the earth was formed 4,600 million years ago like a ball of molten rock, which is a kind of lava. Then, it was probably <b>(6)</b> hot as 4,000 degrees Celsius. It took many millions of years for the Earth to cool <b>(7)</b> enough to form its crust or the Earth’s outer part. The early Earth probably had no atmosphere, just like most <b>(8)</b> the other planets now. However, gases were thrown <b>(9)</b> from volcanoes all over the surface, and a primitive atmosphere was built up. This early atmosphere had no oxygen. The first forms <b>(10)</b> life are believed to date from 3,500 million years ago, and they lived <b>(11)</b> oxygen. Oxygen came much later, as it is mainly produced <b>(12)</b> plants.</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 1,
+      "stem_html": "<p>Gap 1</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "as",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "what",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "how",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 2,
+      "stem_html": "<p>Gap 2</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "with",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "off",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 3,
+      "stem_html": "<p>Gap 3</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "an",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "a",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "the",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "this",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 4,
+      "stem_html": "<p>Gap 4</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "what",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "when",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "why",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 5,
+      "stem_html": "<p>Gap 5</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "but",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "and",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "as",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "so",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 6,
+      "stem_html": "<p>Gap 6</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "than",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "as",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "such",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 7,
+      "stem_html": "<p>Gap 7</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "up",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "down",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "over",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "out",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 8,
+      "stem_html": "<p>Gap 8</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "off",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "of",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 9,
+      "stem_html": "<p>Gap 9</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "out",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "over",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "with",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 10,
+      "stem_html": "<p>Gap 10</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "with",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "from",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 11,
+      "stem_html": "<p>Gap 11</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "without",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 12,
+      "stem_html": "<p>Gap 12</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "out",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "with",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 6: Complete the conversation. For questions 1-6, mark the correct letter A-H. Two sentences are extra. (6 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p>Friends talking</p><p><b>Bob:</b> Annie, why don’t we organise an outdoor basketball tournament between the universities in spring? <br/><b>Annie:</b> <b>(1)</b> <br/><b>Bob:</b> Right. We spend so much time online that a basketball tournament will make a serious difference. What should we start with? <br/><b>Annie:</b> <b>(2)</b> <br/><b>Bob:</b> You’re right. Who will do that? <br/><b>Annie:</b> <b>(3)</b> <br/><b>Bob:</b> OK. Agreed. Once we know which universities will participate, we can send out the invitations. I wonder how our university team will perform? <br/><b>Annie:</b> <b>(4)</b> <br/><b>Bob:</b> Very good. You know what? I can ask Zaza Pachulia to greet the tournament participants. <br/><b>Annie:</b> <b>(5)</b> <br/><b>Bob:</b> Yes, but what shall we do if the weather is bad? Will the tournament still take place? <br/><b>Annie:</b> <b>(6)</b> <br/><b>Bob:</b> It’s clever of you to think about the other option.</p>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "sentences",
+      "words": [
+        {
+          "letter": "A",
+          "text": "I was told they are in good shape this season. No doubt they will win."
+        },
+        {
+          "letter": "B",
+          "text": "That’s an idea! It would be a great way to get students involved in sports activities."
+        },
+        {
+          "letter": "C",
+          "text": "I agree that we shouldn’t forget to invite the parents to the tournament."
+        },
+        {
+          "letter": "D",
+          "text": "Really? That would be amazing! A well-known person will make the event more exciting."
+        },
+        {
+          "letter": "E",
+          "text": "Well... I think we should first contact the university authorities to see who wants to participate."
+        },
+        {
+          "letter": "F",
+          "text": "We should have another plan in that case. For example, we could use our gym instead."
+        },
+        {
+          "letter": "G",
+          "text": "Why not you? You can contact the universities and gather the information from them."
+        },
+        {
+          "letter": "H",
+          "text": "Do you think it would be wise to have the tournament held outdoors?"
+        }
+      ]
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I was told they are in good shape this season. No doubt they will win.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That’s an idea! It would be a great way to get students involved in sports activities.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I agree that we shouldn’t forget to invite the parents to the tournament.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Really? That would be amazing! A well-known person will make the event more exciting.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Well... I think we should first contact the university authorities to see who wants to participate.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "We should have another plan in that case. For example, we could use our gym instead.",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Why not you? You can contact the universities and gather the information from them.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Do you think it would be wise to have the tournament held outdoors?",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I was told they are in good shape this season. No doubt they will win.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That’s an idea! It would be a great way to get students involved in sports activities.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I agree that we shouldn’t forget to invite the parents to the tournament.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Really? That would be amazing! A well-known person will make the event more exciting.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Well... I think we should first contact the university authorities to see who wants to participate.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "We should have another plan in that case. For example, we could use our gym instead.",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Why not you? You can contact the universities and gather the information from them.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Do you think it would be wise to have the tournament held outdoors?",
+          "html": ""
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I was told they are in good shape this season. No doubt they will win.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That’s an idea! It would be a great way to get students involved in sports activities.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I agree that we shouldn’t forget to invite the parents to the tournament.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Really? That would be amazing! A well-known person will make the event more exciting.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Well... I think we should first contact the university authorities to see who wants to participate.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "We should have another plan in that case. For example, we could use our gym instead.",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Why not you? You can contact the universities and gather the information from them.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Do you think it would be wise to have the tournament held outdoors?",
+          "html": ""
+        }
+      ],
+      "correct": "G"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I was told they are in good shape this season. No doubt they will win.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That’s an idea! It would be a great way to get students involved in sports activities.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I agree that we shouldn’t forget to invite the parents to the tournament.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Really? That would be amazing! A well-known person will make the event more exciting.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Well... I think we should first contact the university authorities to see who wants to participate.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "We should have another plan in that case. For example, we could use our gym instead.",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Why not you? You can contact the universities and gather the information from them.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Do you think it would be wise to have the tournament held outdoors?",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I was told they are in good shape this season. No doubt they will win.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That’s an idea! It would be a great way to get students involved in sports activities.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I agree that we shouldn’t forget to invite the parents to the tournament.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Really? That would be amazing! A well-known person will make the event more exciting.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Well... I think we should first contact the university authorities to see who wants to participate.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "We should have another plan in that case. For example, we could use our gym instead.",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Why not you? You can contact the universities and gather the information from them.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Do you think it would be wise to have the tournament held outdoors?",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I was told they are in good shape this season. No doubt they will win.",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That’s an idea! It would be a great way to get students involved in sports activities.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I agree that we shouldn’t forget to invite the parents to the tournament.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Really? That would be amazing! A well-known person will make the event more exciting.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Well... I think we should first contact the university authorities to see who wants to participate.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "We should have another plan in that case. For example, we could use our gym instead.",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Why not you? You can contact the universities and gather the information from them.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Do you think it would be wise to have the tournament held outdoors?",
+          "html": ""
+        }
+      ],
+      "correct": "F"
+    }
+  ]
+}

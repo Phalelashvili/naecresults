@@ -1,0 +1,884 @@
+{
+"sentences": [
+{
+"text": "Task 1.",
+"start": 30.03
+},
+{
+"text": "You are going to listen to five texts.",
+"start": 31.21
+},
+{
+"text": "For each of them, answer the two questions given.",
+"start": 35.31
+},
+{
+"text": "Mark the correct answer A, B, or C.",
+"start": 38.85
+},
+{
+"text": "You have 20 seconds to look through the task.",
+"start": 43.05
+},
+{
+"text": "You will hear the recording twice.",
+"start": 46.53
+},
+{
+"text": "Text 1.",
+"start": 68.26
+},
+{
+"text": "I want to tell you about my neighbor Jane.",
+"start": 71.34
+},
+{
+"text": "Jane is a student, but she also works in a shop.",
+"start": 74.3
+},
+{
+"text": "She doesn't like her job,",
+"start": 78.44
+},
+{
+"text": "because she doesn't earn enough money.",
+"start": 80.58
+},
+{
+"text": "Jane needs a better job, because she has to pay for her studies herself.",
+"start": 81.92
+},
+{
+"text": "Unfortunately, neither her mother nor her uncle can help her pay for her studies,",
+"start": 88.86
+},
+{
+"text": "as neither of them work.",
+"start": 93.9
+},
+{
+"text": "The other day, she had job interviews at a supermarket, and a hotel,",
+"start": 96.26
+},
+{
+"text": "but she wasn't able to get a job.",
+"start": 101.18
+},
+{
+"text": "But luckily, the job interview Jane had yesterday in a bank, went well.",
+"start": 103.94
+},
+{
+"text": "She is looking forward to their decision at the moment.",
+"start": 109.3
+},
+{
+"text": "She hopes, she'll get the job.",
+"start": 112.44
+},
+{
+"text": "If Jane starts working at the bank, she won't have to worry about her university fee.",
+"start": 115.6
+},
+{
+"text": "I want to tell you about my neighbor Jane.",
+"start": 121.6
+},
+{
+"text": "Jane is a student, but she also works in a shop.",
+"start": 129.59
+},
+{
+"text": "She doesn't like her job, because she doesn't earn enough money.",
+"start": 133.59
+},
+{
+"text": "Jane needs a better job, because she has to pay for her studies herself.",
+"start": 138.59
+},
+{
+"text": "Unfortunately, neither her mother nor her uncle can help her pay for her studies.",
+"start": 143.59
+},
+{
+"text": "Neither her mother nor her uncle can help her pay for her studies,",
+"start": 146.91
+},
+{
+"text": "as neither of them work.",
+"start": 150.31
+},
+{
+"text": "The other day, she had job interviews at a supermarket, and a hotel,",
+"start": 153.31
+},
+{
+"text": "but she wasn't able to get a job.",
+"start": 157.19
+},
+{
+"text": "But luckily, the job interview Jane had yesterday in a bank, went well.",
+"start": 159.83
+},
+{
+"text": "She is looking forward to their decision at the moment.",
+"start": 165.43
+},
+{
+"text": "She hopes, she'll get the job.",
+"start": 169.23
+},
+{
+"text": "If Jane starts working at the bank,",
+"start": 172.95
+},
+{
+"text": "she won't have to worry about her university fee.",
+"start": 174.79
+},
+{
+"text": "The first private art gallery in post-Soviet Tbilisi, the Beja Gallery, was established in",
+"start": 176.91
+},
+{
+"text": "1993. The gallery exhibits works by young artists, as well as previously unknown pictures by well-known",
+"start": 192.79
+},
+{
+"text": "painters. On the birthday of the outstanding Georgian painter Elena Akhvlediani, the gallery",
+"start": 199.67
+},
+{
+"text": "displayed a selection of previously unseen paintings, collected from the individual",
+"start": 205.57
+},
+{
+"text": "collectors. Elena Akhvlediani is best known, for her paintings of Georgian towns, for her",
+"start": 209.95
+},
+{
+"text": "illustrations in books by Georgian writers, and for designing sets for the Marjani Shwili",
+"start": 215.85
+},
+{
+"text": "theater plays. The visitors had a chance not only to view Elena Akhvlediani's masterpieces,",
+"start": 220.43
+},
+{
+"text": "but also to buy some of the displayed paintings. The exhibition held at the Beja Gallery,",
+"start": 226.53
+},
+{
+"text": "presented Elena Akhvlediani's paintings created from 1920 to the 1970s.",
+"start": 231.57
+},
+{
+"text": "The first private art gallery in post-Soviet Tbilisi, the Beja Gallery, was established in",
+"start": 242.2
+},
+{
+"text": "1993. The gallery exhibits works by young artists, as well as previously unknown pictures by well-known",
+"start": 244.48
+},
+{
+"text": "painters. On the birthday of the outstanding Georgian painter Elena Akhvlediani, the gallery",
+"start": 254.48
+},
+{
+"text": "displayed a selection of previously unseen paintings, collected from the individual",
+"start": 260.38
+},
+{
+"text": "collectors. Elena Akhvlediani is best known, for her paintings of Georgian towns, for her",
+"start": 264.72
+},
+{
+"text": "illustrations in books by Georgian writers, and for designing sets for the Marjani Shwili theater plays.",
+"start": 270.66
+},
+{
+"text": "The visitors had a chance not only to view Elena Akhvlediani's masterpieces,",
+"start": 274.48
+},
+{
+"text": "but also to buy some of the displayed paintings. The exhibition held at the Beja Gallery,",
+"start": 281.32
+},
+{
+"text": "presented Elena Akhvlediani's paintings created from 1920 to the 1970s.",
+"start": 286.36
+},
+{
+"text": "Text 3. Elias, the new language teacher at a Finnish primary school, is a very patient teacher.",
+"start": 297.74
+},
+{
+"text": "Elias can repeat questions many times, and never gets out of the way.",
+"start": 308.39
+},
+{
+"text": "Don't be surprised, Elias is not a human, it is a robot teacher.",
+"start": 312.03
+},
+{
+"text": "Unlike usual experienced teachers, Elias can even dance at the lessons.",
+"start": 320.11
+},
+{
+"text": "It has special equipment, that allows it to encourage schoolchildren, to learn new things.",
+"start": 325.91
+},
+{
+"text": "It gives feedback to teachers about a schoolchild's possible problems.",
+"start": 332.21
+},
+{
+"text": "The robot also recognizes the child's skill levels,",
+"start": 336.59
+},
+{
+"text": "and changes its questions.",
+"start": 340.71
+},
+{
+"text": "Accordingly, the robot is able to understand, and speak 23 languages.",
+"start": 342.03
+},
+{
+"text": "Some of the human teachers see it, as a new way to engage children in learning.",
+"start": 349.39
+},
+{
+"text": "Despite its skills in languages and mathematics, however, the robot is not able to keep discipline",
+"start": 355.69
+},
+{
+"text": "among primary school children. It means that, for the time being at least, the human teachers",
+"start": 361.89
+},
+{
+"text": "are not at risk, to lose their jobs.",
+"start": 368.39
+},
+{
+"text": "Elias, the new language teacher at a Finnish primary school, is a very patient teacher.",
+"start": 376.34
+},
+{
+"text": "Hell of a teacher, and teenager, they do math too often, slaves, and share errado n the",
+"start": 376.96
+},
+{
+"text": "children too, they hate being a robot, they don't know why they should be allowed to",
+"start": 377.82
+},
+{
+"text": "dance, they hate fishing and dancing, he is an artificial child, he neither",
+"start": 379.42
+},
+{
+"text": "sees his own city way, nor can he rest in peace, so, Elias gives the child ideas to",
+"start": 394.8
+},
+{
+"text": "teach them a lesson.",
+"start": 403.22
+},
+{
+"text": "This means that they can teach use salah inании, either by건valuh or by weilong bu",
+"start": 404.26
+},
+{
+"text": "or almost automatically, but we don't take in the basic idea yet.",
+"start": 406.08
+},
+{
+"text": "It gives feedback to teachers about a school child's possible problems.",
+"start": 406.3
+},
+{
+"text": "The robot also recognizes the child's skill levels, and changes its questions accordingly.",
+"start": 411.94
+},
+{
+"text": "The robot, is able to understand, and speak 23 languages.",
+"start": 418.68
+},
+{
+"text": "Some of the human teachers see it, as a new way to engage children in learning.",
+"start": 424.42
+},
+{
+"text": "Despite its skills in languages and mathematics, however, the robot is not able to keep discipline among primary school children.",
+"start": 429.26
+},
+{
+"text": "It means that, for the time being at least, the human teachers are not at risk, to lose their jobs.",
+"start": 439.36
+},
+{
+"text": "Text 4",
+"start": 450.68
+},
+{
+"text": "Samuel Pepys was one of the world's greatest writers of diaries.",
+"start": 451.66
+},
+{
+"text": "For almost 10 years, Pepys recorded his daily life.",
+"start": 458.93
+},
+{
+"text": "He frankly described all his weaknesses,",
+"start": 462.31
+},
+{
+"text": "that many men wouldn't admit even to themselves.",
+"start": 464.97
+},
+{
+"text": "Apart from recording his own life, Pepys wrote about the world around him,",
+"start": 468.67
+},
+{
+"text": "giving a detailed description of life in London in the 1660s,",
+"start": 473.23
+},
+{
+"text": "including the Great Fire of London, and the pandemics of plague, a very serious disease.",
+"start": 477.47
+},
+{
+"text": "Publishing a diary can help you make money if you're a celebrity or a politician.",
+"start": 483.57
+},
+{
+"text": "However, the best reason for keeping a diary is that, it can be great to remember an event in the future.",
+"start": 488.43
+},
+{
+"text": "While your memory can keep only a limited amount of information, a diary can record all the details,",
+"start": 494.97
+},
+{
+"text": "and remind you of people and events that you'd forgotten about.",
+"start": 501.11
+},
+{
+"text": "After the Bible and James Boswell's life of Samuel Johnson,",
+"start": 504.81
+},
+{
+"text": "Pepys' Diary is the best bedside book in the English language.",
+"start": 508.67
+},
+{
+"text": "Samuel Pepys was one of the world's greatest writers of diaries.",
+"start": 518.29
+},
+{
+"text": "For almost 10 years, Pepys recorded his daily life.",
+"start": 522.69
+},
+{
+"text": "He frankly described all his weaknesses,",
+"start": 526.57
+},
+{
+"text": "that many men wouldn't admit even to themselves.",
+"start": 529.05
+},
+{
+"text": "wouldn't admit even to themselves. Apart from recording his own life, Pepe's wrote about the",
+"start": 529.95
+},
+{
+"text": "world around him, giving a detailed description of life in London in the 1660s, including the",
+"start": 535.89
+},
+{
+"text": "Great Fire of London and the pandemics of plague, a very serious disease. Publishing a diary can",
+"start": 541.91
+},
+{
+"text": "help you make money if you're a celebrity or a politician. However, the best reason for keeping",
+"start": 548.71
+},
+{
+"text": "a diary is that, it can be great to remember an event in the future. While your memory can keep",
+"start": 554.63
+},
+{
+"text": "only a limited amount of information, a diary can record all the details, and remind you of people",
+"start": 560.47
+},
+{
+"text": "and events that you've forgotten about. After the Bible and James Boswell's life of Samuel Johnson,",
+"start": 566.27
+},
+{
+"text": "Pepe's diary is the best bedside book in the English language.",
+"start": 572.81
+},
+{
+"text": "Text 5. There are many funny facts connected with Harvard University.",
+"start": 581.55
+},
+{
+"text": "It refers to Johnson's",
+"start": 589.88
+},
+{
+"text": "gate 2, which is considered the main gate of the university. Despite being the main gate,",
+"start": 591.48
+},
+{
+"text": "it is closed for most of the year. Harvard University has many other gates, which are",
+"start": 598.34
+},
+{
+"text": "open 24 hours every day. So, anyone could visit the campus anytime. But Harvard students should",
+"start": 604.82
+},
+{
+"text": "pass through Johnston Gate only twice. Once, when they first arrive at the university campus during",
+"start": 613.22
+},
+{
+"text": "their freshman year.",
+"start": 620.62
+},
+{
+"text": "And a second time after they graduate. It's considered bad luck if they go through it more",
+"start": 621.48
+},
+{
+"text": "than those two times. Another fact is connected with the campus. During their first year at the",
+"start": 628.82
+},
+{
+"text": "university, students are required to live on campus. However, they can move out when they",
+"start": 636.0
+},
+{
+"text": "become second or third year students. So naturally, all famous people who attended Harvard University",
+"start": 643.14
+},
+{
+"text": "live in the dormitory, which is a building where students live. Mark Zuckerberg, the founder of",
+"start": 651.48
+},
+{
+"text": "Facebook, was not an exception either. Text 6. There are many funny facts connected with Harvard",
+"start": 657.8
+},
+{
+"text": "University. It refers to Johnston Gate 2, which is considered the main gate of the university.",
+"start": 668.19
+},
+{
+"text": "Despite being the main gate, it is closed for most of the year. Harvard University has many other",
+"start": 676.03
+},
+{
+"text": "gates, which are open 24 hours every day. So, anyone could visit the campus anytime.",
+"start": 683.41
+},
+{
+"text": "But Harvard students should pass through Johnston Gate only twice.",
+"start": 691.55
+},
+{
+"text": "Once, when they first arrive at the university campus during their freshman year,",
+"start": 696.63
+},
+{
+"text": "and a second time, after they graduate. It's considered bad luck, if they go through it more,",
+"start": 701.73
+},
+{
+"text": "than those two times. Another fact is connected with the campus. During their first year at the",
+"start": 708.55
+},
+{
+"text": "university, students are required to live on campus. However, they can move out, when they",
+"start": 715.75
+},
+{
+"text": "become second, or third year students. So naturally, all famous people, who attended",
+"start": 722.91
+},
+{
+"text": "Harvard University lived in the dormitory, which is a building where students live.",
+"start": 730.07
+},
+{
+"text": "Mark Zuckerberg, the founder of Facebook,",
+"start": 735.29
+},
+{
+"text": "was not an exception either.",
+"start": 738.03
+},
+{
+"text": "Task 2. You are going to listen to one text, with eight questions. Mark the correct answer,",
+"start": 760.73
+},
+{
+"text": "A, B, or C. You now have 30 seconds to look through the task. You will then hear the recording twice.",
+"start": 768.43
+},
+{
+"text": "Hi, I'm David, your tour guide in London. I've lived and worked in this amazing city,",
+"start": 807.32
+},
+{
+"text": "all my life. Yes, I'm a proud Londoner, born and bred.",
+"start": 813.56
+},
+{
+"text": "I really enjoy helping visitors get the best out of their trip to London,",
+"start": 817.98
+},
+{
+"text": "which I believe is one of the best cities in the world.",
+"start": 822.56
+},
+{
+"text": "Samuel Johnson, the author of the first English dictionary in the 1750s, said,",
+"start": 825.88
+},
+{
+"text": "If a man is tired of London, he is tired of life, and I can honestly say I am not yet tired.",
+"start": 831.68
+},
+{
+"text": "There are so many things to do and see in London.",
+"start": 838.36
+},
+{
+"text": "The short story of London's name goes like this. When the Romans invaded Britain in 43 AD,",
+"start": 841.56
+},
+{
+"text": "they founded a city on the banks of the River Thames and called it Londinium.",
+"start": 847.98
+},
+{
+"text": "Soon Londinium became the largest city in Roman Britain, which remained under Rome's authority",
+"start": 853.22
+},
+{
+"text": "until 410 AD. We are now in the area which was established by the Romans 2,000 years ago.",
+"start": 858.24
+},
+{
+"text": "It's now called the City of London, but it is also referred to simply as the City.",
+"start": 866.26
+},
+{
+"text": "The City is the most ancient historic part of London from which the rest of London",
+"start": 873.16
+},
+{
+"text": "developed. It is the most ancient part of London from which the rest of London developed.",
+"start": 877.8
+},
+{
+"text": "There are still traces of Roman London all over this area.",
+"start": 877.98
+},
+{
+"text": "Did you know that Londinium had a Roman amphitheater where gladiators and wild animals fought?",
+"start": 883.46
+},
+{
+"text": "Hard to believe, right? Well, follow me to discover some more surprising things about London.",
+"start": 889.14
+},
+{
+"text": "Now, let's take a walk around this ancient part of London called the City.",
+"start": 897.1
+},
+{
+"text": "It's very small, only 1.1 square miles, but it's one of the richest financial",
+"start": 902.04
+},
+{
+"text": "districts in the world. There are more Japanese banks in this 1.1 square mile than there are in",
+"start": 907.8
+},
+{
+"text": "Tokyo, and there are more American banks here than there are in Manhattan. Have a look at the",
+"start": 913.42
+},
+{
+"text": "buildings. This particular part of London is famous for its perfect mix of old and new",
+"start": 918.78
+},
+{
+"text": "architecture. Now we're approaching Sir Christopher Wren's Monument to the Great Fire of London of 1666.",
+"start": 924.18
+},
+{
+"text": "Sir Christopher Wren was Britain's most famous architect. He was 33 years old,",
+"start": 931.82
+},
+{
+"text": "and was just starting out on his career as an architect when the Great Fire of London destroyed",
+"start": 937.8
+},
+{
+"text": "many of the city's public buildings. Sir Christopher Wren built 51 churches after the",
+"start": 942.68
+},
+{
+"text": "Great Fire of London. 21 of those churches still exist today, including his incredible masterpiece,",
+"start": 949.0
+},
+{
+"text": "St. Paul's Cathedral. Now here's the Monument to the Great Fire of London,",
+"start": 956.24
+},
+{
+"text": "which is more commonly known as the Monument. Take a closer look at the Monument while I tell",
+"start": 961.44
+},
+{
+"text": "you more about it.",
+"start": 966.9
+},
+{
+"text": "On the 2nd of September 1666, in a small bakery in Pudding Lane, a baker named Thomas Farinor",
+"start": 967.8
+},
+{
+"text": "forgot to put out the fire in his oven before going to bed. As a result, the Great Fire of",
+"start": 975.94
+},
+{
+"text": "London began. A strong wind caused the fire to spread fast. Within five days, 80% of the old",
+"start": 981.78
+},
+{
+"text": "city of London was burnt down. The gold tip of the monument is at a height of 62 meters,",
+"start": 989.46
+},
+{
+"text": "which is the exact distance from the",
+"start": 995.4
+},
+{
+"text": "monument to the baker's shop in Pudding Lane where the fire started. If you're feeling",
+"start": 997.76
+},
+{
+"text": "energetic, you can take 311 steps to the top of the monument to enjoy one of the best views",
+"start": 1002.74
+},
+{
+"text": "over the city and take amazing photos. They'll even give you a certificate for reaching the top",
+"start": 1009.16
+},
+{
+"text": "of the monument. Lastly, we're headed for London Bridge. The Romans built a bridge over the River",
+"start": 1015.32
+},
+{
+"text": "Thames on this site 2,000 years ago, and there's been a London Bridge in the same area for the",
+"start": 1022.34
+},
+{
+"text": "longest time. It's a bit windy around here on the bridge, but get your cameras ready for the best",
+"start": 1027.76
+},
+{
+"text": "sights of London. Looking into the distance on your left, over the River Thames, you can see the",
+"start": 1033.6
+},
+{
+"text": "most magnificent view of the incredible Tower Bridge of London. And with this, we finish our",
+"start": 1040.3
+},
+{
+"text": "walking tour. I really do hope you enjoyed yourselves and hope to see you on our future",
+"start": 1045.64
+},
+{
+"text": "tours again. Hi, I'm David, your tour guide in London. I've lived and worked in this amazing,",
+"start": 1050.6
+},
+{
+"text": "amazing city all my life. Yes, I'm a proud Londoner born and bred. I really enjoy helping",
+"start": 1077.54
+},
+{
+"text": "visitors get the best out of their trip to London, which I believe is one of the best cities",
+"start": 1084.04
+},
+{
+"text": "in the world. Samuel Johnson, the author of the first English dictionary in the 1750s, said,",
+"start": 1089.0
+},
+{
+"text": "if a man is tired of London, he is tired of life. And I can honestly say I'm not yet tired.",
+"start": 1096.22
+},
+{
+"text": "There are so many things to do and see in London.",
+"start": 1102.54
+},
+{
+"text": "The short story of London is about a man who lives in London. He lives in London,",
+"start": 1106.08
+},
+{
+"text": "goes like this. When the Romans invaded Britain in 43 AD, they founded a city on the banks of the",
+"start": 1107.54
+},
+{
+"text": "River Thames and called it Londinium. Soon, Londinium became the largest city in Roman",
+"start": 1114.94
+},
+{
+"text": "Britain, which remained under Rome's authority until 410 AD. We are now in the area which was",
+"start": 1120.18
+},
+{
+"text": "established by the Romans 2000 years ago. It's now called the City of London, but it is also",
+"start": 1127.08
+},
+{
+"text": "referred to simply as the City.",
+"start": 1134.3
+},
+{
+"text": "The city is the most ancient historic part of London from which the rest of London developed.",
+"start": 1137.54
+},
+{
+"text": "There are still traces of Roman London all over this area. Did you know that Londinium had a Roman",
+"start": 1143.62
+},
+{
+"text": "amphitheater where gladiators and wild animals fought? Hard to believe, right? Well, follow me",
+"start": 1150.04
+},
+{
+"text": "to discover some more surprising things about London.",
+"start": 1156.92
+},
+{
+"text": "Now, let's take a walk around this ancient part of London called the City. It's very",
+"start": 1161.64
+},
+{
+"text": "small, only 1.1 square miles, but it's one of the richest financial districts in the world.",
+"start": 1167.54
+},
+{
+"text": "There are more Japanese banks in this 1.1 square mile than there are in Tokyo, and there are more",
+"start": 1174.02
+},
+{
+"text": "American banks here than there are in Manhattan. Have a look at the buildings. This particular",
+"start": 1179.36
+},
+{
+"text": "part of London is famous for its perfect mix of old and new architecture. Now we're approaching",
+"start": 1185.12
+},
+{
+"text": "Sir Christopher Wren's Monument to the Great Fire of London of 1666.",
+"start": 1191.2
+},
+{
+"text": "Sir Christopher Wren's Monument to the Great Fire of London of 1666.",
+"start": 1196.68
+},
+{
+"text": "Sir Christopher Wren was Britain's most famous architect. He was 33 years old and was just",
+"start": 1197.54
+},
+{
+"text": "starting out on his career as an architect when the Great Fire of London destroyed many",
+"start": 1203.04
+},
+{
+"text": "of the city's public buildings. Sir Christopher Wren built 51 churches after the Great Fire of",
+"start": 1207.6
+},
+{
+"text": "London. 21 of those churches still exist today, including his incredible masterpiece, St. Paul's",
+"start": 1214.18
+},
+{
+"text": "Cathedral. Now here's the Monument to the Great Fire of London, which is more commonly known as",
+"start": 1221.36
+},
+{
+"text": "the Monument. Take a closer look at the Monument while I tell you more about it.",
+"start": 1227.54
+},
+{
+"text": "On the 2nd of September 1666, in a small bakery in Pudding Lane, a baker named Thomas Ferenor",
+"start": 1232.88
+},
+{
+"text": "forgot to put out the fire in his oven before going to bed. As a result, the Great Fire of",
+"start": 1240.48
+},
+{
+"text": "London began. A strong wind caused the fire to spread fast. Within five days, 80% of the old",
+"start": 1246.34
+},
+{
+"text": "tip of the Monument is at a height of 62 meters, which is the exact distance from the Monument to",
+"start": 1256.68
+},
+{
+"text": "the baker's shop in Pudding Lane where the fire started. If you're feeling energetic, you can take",
+"start": 1263.22
+},
+{
+"text": "311 steps to the top of the Monument to enjoy one of the best views over the city and take amazing",
+"start": 1269.1
+},
+{
+"text": "photos. They'll even give you a certificate for reaching the top of the Monument.",
+"start": 1275.74
+},
+{
+"text": "Lastly, we're headed for London Bridge. The Romans built a bridge over the",
+"start": 1281.86
+},
+{
+"text": "River Thames on this site 2,000 years ago, and there's been a London Bridge in the same area",
+"start": 1286.68
+},
+{
+"text": "ever since. It's a bit windy around here on the bridge, but get your cameras ready for the best",
+"start": 1292.32
+},
+{
+"text": "sights of London. Looking into the distance on your left, over the River Thames, you can see",
+"start": 1298.16
+},
+{
+"text": "the most magnificent view of the incredible Tower Bridge of London. And with this, we finish our",
+"start": 1304.7
+},
+{
+"text": "walking tour. I really do hope you enjoyed yourselves and hope to see you on our future",
+"start": 1310.2
+},
+{
+"text": "tours again.",
+"start": 1315.16
+},
+{
+"text": "This is the end of the listening task.",
+"start": 1335.4
+}
+]
+}

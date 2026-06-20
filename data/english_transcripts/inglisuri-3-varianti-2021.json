@@ -1,0 +1,984 @@
+{
+ "sentences": [
+  {
+   "text": "For each of them, answer the two questions given.",
+   "start": 33.31
+  },
+  {
+   "text": "Mark the correct answer A, B, or C.",
+   "start": 37.31
+  },
+  {
+   "text": "You have 20 seconds to look through the task.",
+   "start": 40.31
+  },
+  {
+   "text": "You will hear the recording twice.",
+   "start": 43.31
+  },
+  {
+   "text": "Text 1.",
+   "start": 45.31
+  },
+  {
+   "text": "My name is Chloe Stewart.",
+   "start": 68.09
+  },
+  {
+   "text": "I was born in the United Kingdom, but I live in the United States now.",
+   "start": 70.09
+  },
+  {
+   "text": "I am a photographer and I enjoy taking photos of different weather conditions.",
+   "start": 74.09
+  },
+  {
+   "text": "Last year, I spent several months in Australia",
+   "start": 79.09
+  },
+  {
+   "text": "and came back to the United States.",
+   "start": 82.09
+  },
+  {
+   "text": "I hope to arrange an exhibition of my Australian photos in Soho Photo Gallery in New York.",
+   "start": 83.09
+  },
+  {
+   "text": "Taking photos is not very difficult.",
+   "start": 90.09
+  },
+  {
+   "text": "What you need is the right camera.",
+   "start": 92.09
+  },
+  {
+   "text": "It doesn't need to be expensive or very new.",
+   "start": 94.09
+  },
+  {
+   "text": "I've had my old Canon camera since the 1990s.",
+   "start": 97.09
+  },
+  {
+   "text": "But I don't usually use a digital camera.",
+   "start": 101.09
+  },
+  {
+   "text": "Photos taken by a digital camera look very artificial.",
+   "start": 103.09
+  },
+  {
+   "text": "My name is Chloe Stewart.",
+   "start": 107.09
+  },
+  {
+   "text": "I was born in the United Kingdom, but I live in the United States now.",
+   "start": 113.66
+  },
+  {
+   "text": "I am a photographer and I enjoy taking photos of different weather conditions.",
+   "start": 116.66
+  },
+  {
+   "text": "Last year, I spent several months in Australia and came back to the United States with great photos.",
+   "start": 119.66
+  },
+  {
+   "text": "I hope to arrange an exhibition of my Australian photos in Soho Photo Gallery in New York.",
+   "start": 123.66
+  },
+  {
+   "text": "Taking photos is not very difficult.",
+   "start": 127.66
+  },
+  {
+   "text": "What you need is the right camera.",
+   "start": 129.66
+  },
+  {
+   "text": "It doesn't need to be expensive or very new.",
+   "start": 131.66
+  },
+  {
+   "text": "I've had my old Canon camera since the 1990s.",
+   "start": 133.66
+  },
+  {
+   "text": "But I don't usually use a digital camera.",
+   "start": 136.66
+  },
+  {
+   "text": "What you need is the right camera.",
+   "start": 138.66
+  },
+  {
+   "text": "It doesn't need to be expensive or very new.",
+   "start": 140.66
+  },
+  {
+   "text": "I've had my old Canon camera since the 1990s.",
+   "start": 142.66
+  },
+  {
+   "text": "But I don't usually use a digital camera.",
+   "start": 144.66
+  },
+  {
+   "text": "Photos taken by a digital camera look very artificial.",
+   "start": 147.66
+  },
+  {
+   "text": "Text 2",
+   "start": 151.66
+  },
+  {
+   "text": "Situated where Europe and Asia meet, Istanbul is the largest city and a busy port of Turkey.",
+   "start": 158.02
+  },
+  {
+   "text": "Istanbul is full of mosques, markets, palaces, and museums.",
+   "start": 166.02
+  },
+  {
+   "text": "The city has a long history, which started more than 2,500 years ago.",
+   "start": 170.02
+  },
+  {
+   "text": "One of the city's places of interest is without doubt Ayasollah.",
+   "start": 175.02
+  },
+  {
+   "text": "The oldest Christian cathedral.",
+   "start": 179.02
+  },
+  {
+   "text": "It was built in the 4th century by the Roman Emperor Constantine.",
+   "start": 182.02
+  },
+  {
+   "text": "A thousand years later, after the Turks conquered Istanbul, Mehmed II changed this Christian church into a Muslim mosque.",
+   "start": 186.02
+  },
+  {
+   "text": "Then, 500 years after that, in 1935, Ayasofya Cathedral became a museum, which displayed both Christian and Muslim treasures.",
+   "start": 195.02
+  },
+  {
+   "text": "The Bosporus Bridge is another of Istanbul's modern tourist attractions.",
+   "start": 205.02
+  },
+  {
+   "text": "The Bosporus itself is a narrow passage of water connecting two larger areas of the sea.",
+   "start": 209.02
+  },
+  {
+   "text": "The Bosporus Bridge, which is one of several bridges across this narrow passage of water, is the longest bridge in Europe.",
+   "start": 215.02
+  },
+  {
+   "text": "The bridge cost around $200 million to build.",
+   "start": 223.02
+  },
+  {
+   "text": "Situated where Europe and Asia meet, Istanbul is the largest city and a busy port of Turkey.",
+   "start": 226.02
+  },
+  {
+   "text": "Istanbul is full of mosques, markets, palaces, and museums.",
+   "start": 238.17
+  },
+  {
+   "text": "The city has a long history, which started more than 2,500 years ago.",
+   "start": 242.17
+  },
+  {
+   "text": "The city has a long history, which started more than 2,500 years ago.",
+   "start": 243.17
+  },
+  {
+   "text": "One of the city's places of interest is without doubt Ayasofya, the oldest Christian cathedral.",
+   "start": 248.17
+  },
+  {
+   "text": "It was built in the 4th century by the Roman Emperor Constantine.",
+   "start": 254.17
+  },
+  {
+   "text": "A thousand years later, after the Turks conquered Istanbul, Mehmed II changed this Christian church into a Muslim mosque.",
+   "start": 258.17
+  },
+  {
+   "text": "Then, 500 years after that, in 1935, Ayasofya Cathedral became a Muslim mosque.",
+   "start": 267.17
+  },
+  {
+   "text": "Then, 500 years after that, in 1935, Ayasofya Cathedral became a Muslim mosque.",
+   "start": 271.17
+  },
+  {
+   "text": "Then, 500 years after that, in 1935, Ayasofya Cathedral became a Muslim mosque.",
+   "start": 274.17
+  },
+  {
+   "text": "The Bosporus Bridge is another of Istanbul's modern tourist attractions.",
+   "start": 278.17
+  },
+  {
+   "text": "The Bosporus itself is a narrow passage of water connecting two larger areas of the sea.",
+   "start": 282.17
+  },
+  {
+   "text": "The Bosporus Bridge, which is one of several bridges across this narrow passage of water, is the longest bridge in Europe.",
+   "start": 287.17
+  },
+  {
+   "text": "The bridge cost around $200 million to build.",
+   "start": 295.17
+  },
+  {
+   "text": "The bridge cost around $200 million to build.",
+   "start": 298.17
+  },
+  {
+   "text": "Text 3",
+   "start": 305.49
+  },
+  {
+   "text": "If you're looking for a festival of culture and color, then the Hindu festival called Holi is for you.",
+   "start": 306.49
+  },
+  {
+   "text": "It is liked by many people and is mainly celebrated in India and Nepal, but in recent years the festival has spread to parts of Europe and North America.",
+   "start": 312.49
+  },
+  {
+   "text": "During this festival, thousands of Hindus make open-air fires, throw colored powder at each other, and celebrate the beginning of the new season of spring.",
+   "start": 321.49
+  },
+  {
+   "text": "During this festival, thousands of Hindus make open-air fires, throw colored powder at each other, and celebrate the beginning of the new season of spring.",
+   "start": 330.49
+  },
+  {
+   "text": "The festival is a Sunday festival which starts on the full moon day somewhere between the end of February and the middle of March.",
+   "start": 331.49
+  },
+  {
+   "text": "The festival is a Sunday festival which starts on the full moon day somewhere between the end of February and the middle of March.",
+   "start": 334.49
+  },
+  {
+   "text": "It is a Hindu religious festival which celebrates the victory of good over evil and the arrival of spring.",
+   "start": 337.49
+  },
+  {
+   "text": "However, for many people it is a time to meet friends and play and laugh with them.",
+   "start": 343.49
+  },
+  {
+   "text": "The Holi festival has become popular with non-Hindus in some parts of the world.",
+   "start": 348.49
+  },
+  {
+   "text": "It is also celebrated as a thanksgiving for a good harvest.",
+   "start": 352.49
+  },
+  {
+   "text": "Text 4",
+   "start": 357.49
+  },
+  {
+   "text": "If you're looking for a festival of culture and color, then the Hindu festival called Holi is for you.",
+   "start": 362.74
+  },
+  {
+   "text": "Text 4",
+   "start": 363.74
+  },
+  {
+   "text": "If you're looking for a festival of culture and color, then the Hindu festival called Holi is for you.",
+   "start": 364.74
+  },
+  {
+   "text": "Text 4",
+   "start": 365.74
+  },
+  {
+   "text": "If you're looking for a festival of culture and color, then the Hindu festival called Holi is for you.",
+   "start": 366.74
+  },
+  {
+   "text": "Text 4",
+   "start": 367.74
+  },
+  {
+   "text": "If you're looking for a festival of culture and color, then the Hindu festival called Holi is for you.",
+   "start": 368.74
+  },
+  {
+   "text": "Text 4",
+   "start": 369.74
+  },
+  {
+   "text": "If you're looking for a festival of culture and color, then the Hindu festival called Holi is for you.",
+   "start": 370.74
+  },
+  {
+   "text": "Text 4",
+   "start": 371.74
+  },
+  {
+   "text": "If you're looking for a festival of culture and color, then the Hindu festival called Holi is for you.",
+   "start": 372.74
+  },
+  {
+   "text": "Text 4",
+   "start": 373.74
+  },
+  {
+   "text": "If you're looking for a festival of culture and color, then the Hindu festival called Holi is for you.",
+   "start": 374.74
+  },
+  {
+   "text": "Text 4",
+   "start": 375.74
+  },
+  {
+   "text": "If you're looking for a festival of culture and color, then the Hindu festival called Holi is for you.",
+   "start": 376.74
+  },
+  {
+   "text": "Text 4",
+   "start": 377.74
+  },
+  {
+   "text": "of Hindus make open-air fires, throw colored powder at each other, and celebrate the beginning",
+   "start": 378.74
+  },
+  {
+   "text": "of the new season of spring.",
+   "start": 384.14
+  },
+  {
+   "text": "Holi is a two-day festival which starts on the full moon day somewhere between the end",
+   "start": 386.38
+  },
+  {
+   "text": "of February and the middle of March.",
+   "start": 391.12
+  },
+  {
+   "text": "It is an Hindu religious festival which celebrates the victory of good over evil and the arrival",
+   "start": 393.8
+  },
+  {
+   "text": "of spring.",
+   "start": 398.96
+  },
+  {
+   "text": "However, for many people, it is a time to meet friends and play and laugh with them.",
+   "start": 400.2
+  },
+  {
+   "text": "The Holi festival has become popular with non-Hindus in some parts of the world.",
+   "start": 404.6
+  },
+  {
+   "text": "It is also celebrated as a thanksgiving for a good harvest.",
+   "start": 409.64
+  },
+  {
+   "text": "Text 4",
+   "start": 426.41
+  },
+  {
+   "text": "In the Soviet period, Georgian cinematography was successfully developing.",
+   "start": 427.37
+  },
+  {
+   "text": "Tbilisi Film Studio was known as one of the top three studios in the Soviet Union.",
+   "start": 434.29
+  },
+  {
+   "text": "However, Georgian cinematography ceased to exist when the Soviet Union fell to pieces",
+   "start": 439.59
+  },
+  {
+   "text": "in 1991.",
+   "start": 444.55
+  },
+  {
+   "text": "This was followed by the fall of the Soviet Union.",
+   "start": 446.21
+  },
+  {
+   "text": "This was followed by civil war and economic problems.",
+   "start": 447.13
+  },
+  {
+   "text": "Because the country was not able to finance films, the industry infrastructure soon came",
+   "start": 450.15
+  },
+  {
+   "text": "to an end.",
+   "start": 454.81
+  },
+  {
+   "text": "However, little by little, Georgian films and modern Georgian film directors came back",
+   "start": 455.95
+  },
+  {
+   "text": "on the scene.",
+   "start": 461.15
+  },
+  {
+   "text": "The fact that two Georgian films, Korn Island and Tangerines, were nominated for an Oscar",
+   "start": 462.09
+  },
+  {
+   "text": "shows that even with limited finances, it is possible to make world-class films.",
+   "start": 467.55
+  },
+  {
+   "text": "Meanwhile, a new generation of Western-educated Georgian filmmakers",
+   "start": 472.73
+  },
+  {
+   "text": "began to make films.",
+   "start": 476.49
+  },
+  {
+   "text": "Georgian film makers began to develop film in a positive way, while a state-of-the-art",
+   "start": 477.07
+  },
+  {
+   "text": "photography industry, in the West, began to appear.",
+   "start": 478.07
+  },
+  {
+   "text": "And, these newcomers show that they are good at making feature films that receive positive",
+   "start": 479.07
+  },
+  {
+   "text": "reviews.",
+   "start": 488.36
+  },
+  {
+   "text": "Text 5",
+   "start": 489.36
+  },
+  {
+   "text": "In the Soviet period, Georgian cinematography was successfully developing.",
+   "start": 490.36
+  },
+  {
+   "text": "Tbilisi Film Studio was known as one of the top three studios in the Soviet Union.",
+   "start": 492.24
+  },
+  {
+   "text": "However, Georgian cinematography ceased to exist when the Soviet Union fell to pieces",
+   "start": 494.54
+  },
+  {
+   "text": "in 1991.",
+   "start": 500.4
+  },
+  {
+   "text": "This was followed by the fall of the Soviet Union.",
+   "start": 502.4
+  },
+  {
+   "text": "Text 5",
+   "start": 505.86
+  },
+  {
+   "text": "Georgia's film industry was taken from a new battle for political independence.",
+   "start": 507.08
+  },
+  {
+   "text": "not able to finance films, the industry infrastructure soon came to an end. However,",
+   "start": 510.36
+  },
+  {
+   "text": "little by little, Georgian films and modern Georgian film directors came back on the scene.",
+   "start": 515.9
+  },
+  {
+   "text": "The fact that two Georgian films, Korn Island and Tangerines, were nominated for an Oscar",
+   "start": 521.28
+  },
+  {
+   "text": "shows that even with limited finances, it is possible to make world-class films. Meanwhile,",
+   "start": 526.76
+  },
+  {
+   "text": "a new generation of Western-educated Georgian filmmakers began to appear, and these newcomers",
+   "start": 532.82
+  },
+  {
+   "text": "show that they are good at making feature films that receive positive reviews.",
+   "start": 538.72
+  },
+  {
+   "text": "Text 5",
+   "start": 547.44
+  },
+  {
+   "text": "Giant creatures of the prehistoric world, such as dinosaurs, ancient varieties of tigers,",
+   "start": 548.4
+  },
+  {
+   "text": "and woolly mammoths, continue to fascinate us. They make us wonder about the state of our world",
+   "start": 556.78
+  },
+  {
+   "text": "when these creatures lived on the earth. The woolly mammoths, who were elephant-like creatures,",
+   "start": 562.84
+  },
+  {
+   "text": "for instance, lived on the earth even when the Egyptian pharaohs",
+   "start": 568.36
+  },
+  {
+   "text": "were in the world. They lived on the earth even when the Egyptian pharaohs were in the world.",
+   "start": 572.52
+  },
+  {
+   "text": "busy building the pyramids of Giza. The woolly mammoths are the ancestors of the present-day",
+   "start": 572.68
+  },
+  {
+   "text": "Asian elephants. Mammoths are one of the most widely studied animals of prehistoric times.",
+   "start": 578.36
+  },
+  {
+   "text": "The drawings of these animals found in ancient caves have allowed scientists to study the",
+   "start": 584.86
+  },
+  {
+   "text": "appearance and behavior of these giants. These mammoths were used to living in ice-age conditions.",
+   "start": 589.86
+  },
+  {
+   "text": "These giant creatures ate plants, like present-day elephants. Mammoths had short ears and",
+   "start": 596.94
+  },
+  {
+   "text": "tails and two layers of fur protecting them against extreme cold. Giant creatures of the",
+   "start": 602.52
+  },
+  {
+   "text": "prehistoric world, such as dinosaurs, ancient varieties of tigers, and woolly mammoths,",
+   "start": 612.96
+  },
+  {
+   "text": "continue to fascinate us. They make us wonder about the state of our world when these creatures",
+   "start": 619.66
+  },
+  {
+   "text": "lived on the earth. The woolly mammoths, who were elephant-like creatures, for instance,",
+   "start": 625.08
+  },
+  {
+   "text": "lived on the earth even when the Egyptian pharaohs were busy building the pyramids of Giza.",
+   "start": 630.54
+  },
+  {
+   "text": "The woolly mammoths are the ancestors of the present-day Asian elephants. Mammoths are one of",
+   "start": 636.62
+  },
+  {
+   "text": "the most widely studied animals of prehistoric times. The drawings of these animals found in",
+   "start": 642.28
+  },
+  {
+   "text": "ancient caves have allowed scientists to study the appearance and behavior of these giants.",
+   "start": 648.12
+  },
+  {
+   "text": "These mammoths were used to living in ice-age conditions. These giant creatures ate plants,",
+   "start": 654.02
+  },
+  {
+   "text": "like present-day elephants. Mammoths had short ears and tails and two layers of fur protecting",
+   "start": 660.16
+  },
+  {
+   "text": "them against extreme cold.",
+   "start": 666.62
+  },
+  {
+   "text": "Task 2. You are going to listen to one text with eight questions. Mark the correct answer A, B, or C.",
+   "start": 688.78
+  },
+  {
+   "text": "You now have 30 seconds to look through the task. You will then hear the recording twice.",
+   "start": 697.38
+  },
+  {
+   "text": "Hello, everybody. I'm Sharon Lovejoy. I'm the author of many books about gardening.",
+   "start": 732.82
+  },
+  {
+   "text": "I'd like to talk about how I started writing books about gardening. My book, Make Your Garden",
+   "start": 738.16
+  },
+  {
+   "text": "with Sharon Lovejoy, is about how people who enjoy gardening but are unsuccessful at it. As you know,",
+   "start": 746.44
+  },
+  {
+   "text": "some people buy some plants and put them in their garden when they move into a new house.",
+   "start": 751.06
+  },
+  {
+   "text": "But unfortunately, they are not able to grow trees and flowers in their gardens,",
+   "start": 756.04
+  },
+  {
+   "text": "though they use high-quality plants. Why don't they get professional gardeners, you may ask?",
+   "start": 760.54
+  },
+  {
+   "text": "Because their services cost a lot of money, and in addition, gardening brings joy to many people.",
+   "start": 766.48
+  },
+  {
+   "text": "My readers think I must come from a family of gardeners,",
+   "start": 772.96
+  },
+  {
+   "text": "but both of them are not. I'm not a gardener, but I'm a gardener. I'm a gardener, and I'm a gardener.",
+   "start": 776.1
+  },
+  {
+   "text": "I'm a gardener, and I'm a gardener. I'm a gardener. I'm a gardener. I'm a gardener. I'm a gardener. I'm a gardener. I'm a gardener. I'm a gardener.",
+   "start": 776.4
+  },
+  {
+   "text": "Both my parents are water sports teachers. They did their best to interest me in some kind of sport,",
+   "start": 776.44
+  },
+  {
+   "text": "but my poor health did not allow me to do any. Throughout my life, I've worked in different",
+   "start": 781.78
+  },
+  {
+   "text": "places. While working for the National Nature Reserve, I was asked to write about my day at",
+   "start": 786.4
+  },
+  {
+   "text": "work for an environmental project. I have always been good at writing. I won a short story prize",
+   "start": 791.9
+  },
+  {
+   "text": "at school and wrote a couple of interesting essays at college, but I had no real passion",
+   "start": 798.14
+  },
+  {
+   "text": "for writing then. Only when I wrote for an environmental project did I learn about the",
+   "start": 803.02
+  },
+  {
+   "text": "project I realized how exciting writing could be. So one day, sometime later, I saw an advert in a",
+   "start": 806.4
+  },
+  {
+   "text": "magazine. The magazine was looking for a journalist who would write about gardening. I applied",
+   "start": 812.76
+  },
+  {
+   "text": "immediately. I thought I could do it parallel with gardening. I got the job, and after a while,",
+   "start": 817.86
+  },
+  {
+   "text": "I became an editor. As editors work irregular hours, it didn't leave me time for gardening.",
+   "start": 823.38
+  },
+  {
+   "text": "I liked my job, but I loved gardening even more. Consequently, I decided it was time for a change,",
+   "start": 829.28
+  },
+  {
+   "text": "and I left the job.",
+   "start": 835.08
+  },
+  {
+   "text": "My bosses weren't very happy about it, I must say. So I went back to gardening. At the same time,",
+   "start": 836.4
+  },
+  {
+   "text": "I started writing a book. And I've never regretted it, really. My first book was received with",
+   "start": 842.9
+  },
+  {
+   "text": "enthusiasm. As a result, I started working on my second book about gardens around the world.",
+   "start": 848.18
+  },
+  {
+   "text": "Writing books isn't an easy thing to do. It takes years of experience to learn to write",
+   "start": 854.3
+  },
+  {
+   "text": "attractively. In my opinion, my book was a success because I included interviews in a way that amused",
+   "start": 859.18
+  },
+  {
+   "text": "the readers. I was able to write a book that was not as easy as it was to write. I was able to",
+   "start": 865.72
+  },
+  {
+   "text": "write and write and write. I was able to write a book that was not as easy as it was to write. I was",
+   "start": 866.4
+  },
+  {
+   "text": "able to write and write. I was able to write and write. I was able to write and write. I was able",
+   "start": 871.32
+  },
+  {
+   "text": "but any writer does the same thing while writing. Today, many magazines and books on gardening",
+   "start": 871.72
+  },
+  {
+   "text": "include a lot of photographs, and it's good. But those pictures mostly show how things might be,",
+   "start": 877.44
+  },
+  {
+   "text": "and not how they really are. I don't like that. In contrast to those books, my book contains real",
+   "start": 882.9
+  },
+  {
+   "text": "life photographs, which brought many people into gardening. The text is still an important part,",
+   "start": 888.9
+  },
+  {
+   "text": "though. Readers do not just buy beautiful pictures, but they also buy beautiful pictures.",
+   "start": 894.1
+  },
+  {
+   "text": "Recently, I have been asked to take part in a TV program, but I haven't decided to take this job yet.",
+   "start": 896.38
+  },
+  {
+   "text": "It's true I'll have less time for writing, but it's a good idea to do something else from time to time.",
+   "start": 903.94
+  },
+  {
+   "text": "The idea is to interview the people who have the most amazing gardens in Europe.",
+   "start": 909.42
+  },
+  {
+   "text": "It's also true that such a TV program could make me a celebrity immediately,",
+   "start": 914.2
+  },
+  {
+   "text": "but I'm not ready for the situation when I get recognized in the street,",
+   "start": 918.7
+  },
+  {
+   "text": "although my publisher says that's something I should really be happy about.",
+   "start": 922.34
+  },
+  {
+   "text": "Why don't they get professional gardeners, you may ask?",
+   "start": 972.28
+  },
+  {
+   "text": "Because their services cost a lot of money, and in addition, gardening brings joy to many people.",
+   "start": 980.74
+  },
+  {
+   "text": "My readers think I must come from a family of gardeners, but both my parents are water sports teachers.",
+   "start": 987.14
+  },
+  {
+   "text": "They did their best to interest me in some kind of sport, but my poor health did not allow me to do any.",
+   "start": 993.18
+  },
+  {
+   "text": "Throughout my life, I've worked in different places.",
+   "start": 998.84
+  },
+  {
+   "text": "While working, I've been working in different places.",
+   "start": 1001.56
+  },
+  {
+   "text": "For the National Nature Reserve, I was asked to write about my day at work for an environmental project.",
+   "start": 1002.28
+  },
+  {
+   "text": "I have always been good at writing.",
+   "start": 1008.3
+  },
+  {
+   "text": "I won a short story prize at school and wrote a couple of interesting essays at college,",
+   "start": 1010.76
+  },
+  {
+   "text": "but I had no real passion for writing then.",
+   "start": 1015.72
+  },
+  {
+   "text": "Only when I wrote for an environmental project, I realized how exciting writing could be.",
+   "start": 1018.76
+  },
+  {
+   "text": "So one day, sometime later, I saw an advert in a magazine.",
+   "start": 1024.04
+  },
+  {
+   "text": "The magazine was looking for a journalist who would write about gardening.",
+   "start": 1027.84
+  },
+  {
+   "text": "I applied immediately.",
+   "start": 1031.2
+  },
+  {
+   "text": "I thought I could do it parallel with gardening.",
+   "start": 1032.28
+  },
+  {
+   "text": "I got the job, and after a while, I became an editor.",
+   "start": 1035.88
+  },
+  {
+   "text": "As editors work irregular hours, it didn't leave me time for gardening.",
+   "start": 1039.08
+  },
+  {
+   "text": "I liked my job, but I loved gardening even more.",
+   "start": 1043.46
+  },
+  {
+   "text": "Consequently, I decided it was time for a change, and I left the job.",
+   "start": 1046.68
+  },
+  {
+   "text": "My bosses weren't very happy about it, I must say.",
+   "start": 1051.04
+  },
+  {
+   "text": "So I went back to gardening.",
+   "start": 1054.02
+  },
+  {
+   "text": "At the same time, I started writing a book.",
+   "start": 1056.0
+  },
+  {
+   "text": "And I've never regretted it, really.",
+   "start": 1058.68
+  },
+  {
+   "text": "My first book was received with a letter from a friend.",
+   "start": 1060.46
+  },
+  {
+   "text": "As a result, I started working on my second book about gardens around the world.",
+   "start": 1062.26
+  },
+  {
+   "text": "Writing books isn't an easy thing to do.",
+   "start": 1068.48
+  },
+  {
+   "text": "It takes years of experience to learn to write attractively.",
+   "start": 1070.94
+  },
+  {
+   "text": "In my opinion, my book was a success because I included interviews in a way that amused the readers,",
+   "start": 1074.94
+  },
+  {
+   "text": "and not just dry information.",
+   "start": 1080.86
+  },
+  {
+   "text": "Of course, the information was correct and well-researched,",
+   "start": 1083.04
+  },
+  {
+   "text": "but any writer does the same thing while writing.",
+   "start": 1086.12
+  },
+  {
+   "text": "Today, many magazines and books on gardening include a list of books that I've read.",
+   "start": 1088.7
+  },
+  {
+   "text": "I've read a lot of books about gardening, but I haven't read a lot of books about gardening.",
+   "start": 1092.18
+  },
+  {
+   "text": "I've read a lot of photographs, and it's good.",
+   "start": 1092.26
+  },
+  {
+   "text": "But those pictures mostly show how things might be, and not how they really are.",
+   "start": 1094.32
+  },
+  {
+   "text": "I don't like that.",
+   "start": 1098.94
+  },
+  {
+   "text": "In contrast to those books, my book contains real-life photographs,",
+   "start": 1100.3
+  },
+  {
+   "text": "which brought many people into gardening.",
+   "start": 1104.22
+  },
+  {
+   "text": "The text is still an important part, though.",
+   "start": 1106.48
+  },
+  {
+   "text": "Readers do not just buy beautiful pictures, you know.",
+   "start": 1108.86
+  },
+  {
+   "text": "Recently, I have been asked to take part in a TV program,",
+   "start": 1112.02
+  },
+  {
+   "text": "but I haven't decided to take this job yet.",
+   "start": 1115.3
+  },
+  {
+   "text": "It's true I'll have less time for writing,",
+   "start": 1118.06
+  },
+  {
+   "text": "but it's a good idea to do something else,",
+   "start": 1119.92
+  },
+  {
+   "text": "from time to time.",
+   "start": 1122.12
+  },
+  {
+   "text": "The idea is to interview the people who have the most amazing gardens in Europe.",
+   "start": 1123.54
+  },
+  {
+   "text": "It's also true that such a TV program could make me a celebrity immediately,",
+   "start": 1128.34
+  },
+  {
+   "text": "but I'm not ready for the situation when I get recognized in the street,",
+   "start": 1132.88
+  },
+  {
+   "text": "although my publisher says that's something I should really be happy about.",
+   "start": 1136.94
+  },
+  {
+   "text": "This is the end of the listening part.",
+   "start": 1160.57
+  }
+ ]
+}

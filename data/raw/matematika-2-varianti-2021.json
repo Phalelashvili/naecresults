@@ -1,0 +1,977 @@
+{
+ "slug": "matematika-2-varianti-2021",
+ "url": "",
+ "subject": "math",
+ "subject_ka": "მათემატიკა",
+ "year": 2021,
+ "variant": 2,
+ "kind": "test",
+ "title": "მათემატიკის ტესტი 2 ვარიანტი 2021 წელი",
+ "num_questions": 35,
+ "num_content_blocks": 0,
+ "has_audio": false,
+ "blocks": [
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "ამოცანა 1",
+   "stem_html": "<p>$ \\Large (1 - \\frac{3}{5}) \\cdot 1,5 $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 0,6 </span>",
+     "text": "0,6"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 0,8</span>",
+     "text": "0,8"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 1</span>",
+     "text": "1"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 1,2</span>",
+     "text": "1,2"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "ამოცანა 2",
+   "stem_html": "<p> იპოვეთ უმცირესი მთელი რიცხვი, რომელიც მეტია $ \\Large \\sqrt{57} $ - ზე </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 6</span>",
+     "text": "6"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 7 </span>",
+     "text": "7"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 8</span>",
+     "text": "8"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 9 </span>",
+     "text": "9"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "ამოცანა 3",
+   "stem_html": "<p>1 გრამი ოქროს ფასი 14%-ით გაიზარდა. რამდენჯერ მეტია ახლა 1 გრამი ოქროს ფასი ძველ ფასზე? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 0,14 - ჯერ </span>",
+     "text": "0,14 - ჯერ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 1,14 - ჯერ </span>",
+     "text": "1,14 - ჯერ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 1,4 - ჯერ </span>",
+     "text": "1,4 - ჯერ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 14 - ჯერ </span>",
+     "text": "14 - ჯერ"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "ამოცანა 4",
+   "stem_html": "<p>მართკუთხა სამკუთხედის ერთ-ერთი მახვილი კუთხე 50°-ის ტოლია. იპოვეთ მართი კუთხის წვეროდან გავლებული ბისექტრისის მიერ ჰიპოტენუზასთან შედგენილი მახვილი კუთხის სიდიდე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 85°</span>",
+     "text": "85°"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 55°</span>",
+     "text": "55°"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 65°</span>",
+     "text": "65°"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 50°</span>",
+     "text": "50°"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "ამოცანა 5",
+   "stem_html": "<p>ტოლფერდა ტრაპეციის ფერდი უდრის 6 სმ-ს, ხოლო შუახაზი უდრის 8 სმ-ს. რას უდრის ტრაპეციის პერიმეტრი? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 48 სმ</span>",
+     "text": "48 სმ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 28 სმ</span>",
+     "text": "28 სმ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 24 სმ</span>",
+     "text": "24 სმ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 16 სმ</span>",
+     "text": "16 სმ"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "ამოცანა 6",
+   "stem_html": "<p>$ \\Large 8^{-\\frac{5}{3}} $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 32 </span>",
+     "text": "32"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large -\\frac{40}{3} $ </span>",
+     "text": "$ \\Large -\\frac{40}{3} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large -\\frac{1}{32} $ </span>",
+     "text": "$ \\Large -\\frac{1}{32} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{1}{32} $ </span>",
+     "text": "$ \\Large \\frac{1}{32} $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "ამოცანა 7",
+   "stem_html": "<p>a და b ნატურალური რიცხვები აკმაყოფილებს პირობებს $ \\Large 2 < a < 6 $ და $ \\Large 1 \\leq b < 8 $ . იპოვეთ a - b გამოსახულების უდიდესი შესაძლო მნიშვნელობა. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 1 </span>",
+     "text": "1"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 3 </span>",
+     "text": "3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 4</span>",
+     "text": "4"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 5 </span>",
+     "text": "5"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "ამოცანა 8",
+   "stem_html": "<p>იპოვეთ $ \\Large \\frac{2}{5}x - 1.4 > 12 $ უტოლობის უმცირესი მთელი ამონახსნი. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 36</span>",
+     "text": "36"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 33</span>",
+     "text": "33"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 35</span>",
+     "text": "35"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 34</span>",
+     "text": "34"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "ამოცანა 9",
+   "stem_html": "<p>სურათზე მოცემულია სვეტოვანი დიაგრამა, რომელიც გამოხატავს კომპანიის მიერ 2017-2020 წლებში გაყიდული ჩანთების რაოდენობებს. ჩანთების გაყიდვით მიღებული ჯამური მოგება დიაგრამაზე მითითებული ოთხი წლის განმავლობაში იყო 200000 ლარი. რა მოგება მიიღო კომპანიამ 2018 წელს ჩანთების გაყიდვით, თუ ყოველი ჩანთის გაყიდვა ერთსა და იმავე მოგებას იძლევა? </p>",
+   "figures": [
+    "media/graph42156.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 120000 ლარი</span>",
+     "text": "120000 ლარი"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) </span> 60 000 ლარი",
+     "text": "60 000 ლარი"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) </span>30 000 ლარი",
+     "text": "30 000 ლარი"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) </span> 20 000 ლარი",
+     "text": "20 000 ლარი"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "ამოცანა 10",
+   "stem_html": "<p>რამდენი ამონახსნი აქვს განტოლებას $ \\Large (x-5)\\sqrt{1-x} = 0 $ ? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 5</span>",
+     "text": "5"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 2</span>",
+     "text": "2"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 1 </span>",
+     "text": "1"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) არც ერთი</span>",
+     "text": "არც ერთი"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "ამოცანა 11",
+   "stem_html": "<p>2; -3; 5; x; 7; -1 მონაცემების გაბნევის დიაპაზონი არის 12. იპოვეთ x , თუ ის დადებითი რიცხვია.</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 7</span>",
+     "text": "7"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 9</span>",
+     "text": "9"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 8</span>",
+     "text": "8"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 11</span>",
+     "text": "11"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "ამოცანა 12",
+   "stem_html": "<p>ტურისტი დილით გავიდა ბანაკიდან, მივიდა ტბამდე, გაჩერდა ზუსტად 20 წუთი და იმავე გზით დაბრუნდა ბანაკში. ქვემოთ მოცემული სურათებიდან რომელი შეიძლება წარმოადგენდეს ტურისტსა და ბანაკს შორის მანძილის დროზე დამოკიდებულების გრაფიკს? (ჩათვალეთ, რომ ტურისტი მოძრაობს სწორხაზოვან გზაზე). </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) <img alt=\"graph\" src=\"media/graph015125.png\"/> </span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) <img alt=\"graph\" src=\"media/graph0251521.png\"/> </span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) <img alt=\"graph\" src=\"media/graph032155.png\"/> </span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) <img alt=\"graph\" src=\"media/graph043214.png\"/></span>",
+     "text": ""
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "ამოცანა 13",
+   "stem_html": "<p>ქვემოთ ჩამოთვლილი ფიგურებიდან რომელს <b>არ გააჩნია</b> სიმეტრიის ღერძი?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) წესიერი შვიდკუთხედი; </span>",
+     "text": "წესიერი შვიდკუთხედი;"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) წრე; </span>",
+     "text": "წრე;"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) მართკუთხედი;</span>",
+     "text": "მართკუთხედი;"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) მართკუთხა ტრაპეცია. </span>",
+     "text": "მართკუთხა ტრაპეცია."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "ამოცანა 14",
+   "stem_html": "<p>მწვრთნელს 10 ფეხბურთელისგან სურს შეარჩიოს 4 მცველი, 4 ნახევარმცველი და 2 თავდამსხმელი. სულ რამდენი განსხვავებული ვარიანტით შეუძლია მწვრთნელს ამის განხორციელება? ათივე მოთამაშეს შეუძლია ითამაშოს როგორც დაცვაში, ასევე ნახევარდაცვასა და თავდასხმაში. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 980 </span>",
+     "text": "980"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 1120 </span>",
+     "text": "1120"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 3150 </span>",
+     "text": "3150"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 6300 </span>",
+     "text": "6300"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "ამოცანა 15",
+   "stem_html": "<p>b<sub>1</sub>, b<sub>2</sub>, ... გეომეტრიული პროგრესიის პირველი წევრი 10-ის ტოლია, ხოლო მნიშვნელი $ \\Large q = -\\frac{1}{3} $ ამ პროგრესიის წევრები b<sub>80</sub>, b<sub>81</sub>, b<sub>82</sub> დაალაგეთ რიცხვითი მნიშვნელობების კლების მიხედვით. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) b<sub>81</sub>, b<sub>82</sub>, b<sub>80</sub></span>",
+     "text": "b81, b82, b80"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) b<sub>81</sub>, b<sub>80</sub>, b<sub>82</sub></span>",
+     "text": "b81, b80, b82"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) b<sub>80</sub>, b<sub>82</sub>, b<sub>81</sub></span>",
+     "text": "b80, b82, b81"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) b<sub>82</sub>, b<sub>80</sub>, b<sub>81</sub> </span>",
+     "text": "b82, b80, b81"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "ამოცანა 16",
+   "stem_html": "<p>იმის ალბათობა, რომ მტვერსასრუტი იმუშავებს 3 წელზე ნაკლებს, ტოლია 0,75-ის, ხოლო იმის ალბათობა, რომ ის იმუშავებს 2 წელზე მეტს, მაგრამ 3 წელზე ნაკლებს, ტოლია 0,45-ის. იპოვეთ იმის ალბათობა, რომ ეს მტვერსასრუტი იმუშავებს 2 წელზე მეტს. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 0,85 </span>",
+     "text": "0,85"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 0,7 </span>",
+     "text": "0,7"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 0,6 </span>",
+     "text": "0,6"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 0,55 </span>",
+     "text": "0,55"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 17,
+   "heading": "ამოცანა 17",
+   "stem_html": "<p>იპოვეთ $ \\Large 3 \\cdot (9^{2x+1}) = 3^{2-x} $ განტოლების ამონახსნთა სიმრავლე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\{-\\frac{1}{5}\\} $ </span>",
+     "text": "$ \\Large \\{-\\frac{1}{5}\\} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\{-\\frac{1}{7}\\} $ </span>",
+     "text": "$ \\Large \\{-\\frac{1}{7}\\} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\{-\\frac{1}{3}\\} $ </span>",
+     "text": "$ \\Large \\{-\\frac{1}{3}\\} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\left\\{ -\\frac{2}{3}; -\\frac{1}{5} \\right\\} $ </span>",
+     "text": "$ \\Large \\left\\{ -\\frac{2}{3}; -\\frac{1}{5} \\right\\} $"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 18,
+   "heading": "ამოცანა 18",
+   "stem_html": "<p>ABC სამკუთხედში M და N წერტილები მდებარეობს შესაბამისად AB და BC გვერდებზე ისე, რომ MN მონაკვეთი პარალელურია AC გვერდის. რას უდრის AC : MN , თუ BMN სამკუთხედის ფართობი 2-ჯერ ნაკლებია AMNC ოთხკუთხედის ფართობზე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 2 </span>",
+     "text": "2"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\sqrt{2} $ </span>",
+     "text": "$ \\Large \\sqrt{2} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 3 </span>",
+     "text": "3"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\sqrt{3} $ </span>",
+     "text": "$ \\Large \\sqrt{3} $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 19,
+   "heading": "ამოცანა 19",
+   "stem_html": "<p>$ \\large \\vec{a}(-1, 3) \\quad \\text{და} \\quad \\vec{b}(x, y) $ ურთიერთპარალელური ვექტორებია. რამდენჯერ მეტია $ \\Large \\vec{b} $ ვექტორის სიგრძე $ \\Large \\vec{a} $ ვექტორის სიგრძეზე, თუ $ \\Large \\vec{a} \\cdot \\vec{b} = 24 $ ? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{5}{12} $-ჯერ </span>",
+     "text": "$ \\Large \\frac{5}{12} $-ჯერ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 2,4-ჯერ </span>",
+     "text": "2,4-ჯერ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 3-ჯერ </span>",
+     "text": "3-ჯერ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 3,5-ჯერ </span>",
+     "text": "3,5-ჯერ"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 20,
+   "heading": "ამოცანა 20",
+   "stem_html": "<p>ორი ნატურალური რიცხვის ნამრავლი ტოლია 648-ის. ქვემოთ ჩამოთვლილთაგან რის ტოლი <b>არ შეიძლება</b> იყოს ამ ორი რიცხვის საერთო ჯერადი? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) 36 </span>",
+     "text": "36"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) 72 </span>",
+     "text": "72"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 162 </span>",
+     "text": "162"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) 216 </span>",
+     "text": "216"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 21,
+   "heading": "ამოცანა 21",
+   "stem_html": "<p>Oxy საკოორდინატო სიბრტყეზე გამუქებული ნახევარსიბრტყე წარმოადგენს $ \\Large ax + by + c \\leq 0 $ უტოლობის ამონახსნთა სიმრავლეს (იხ. სურათი), სადაც a, b და c ნამდვილი რიცხვებია. სურათზე მითითებულ მონაცემებზე დაყრდნობით იპოვეთ $ \\Large \\frac{a + 2b}{|c|} $ გამოსახულების მნიშვნელობა. </p>",
+   "figures": [
+    "media/graph42145.png\n"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large -\\frac{2}{3} $ </span>",
+     "text": "$ \\Large -\\frac{2}{3} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{2}{3} $ </span>",
+     "text": "$ \\Large \\frac{2}{3} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large -\\frac{1}{2} $ </span>",
+     "text": "$ \\Large -\\frac{1}{2} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{1}{2} $ </span>",
+     "text": "$ \\Large \\frac{1}{2} $"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 22,
+   "heading": "ამოცანა 22",
+   "stem_html": "<p>გამოთვალეთ cos a , თუ ცნობილია, რომ 90°&lt; a &lt;270° და tg a = $ \\Large \\frac{1}{5} $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large -\\frac{5}{\\sqrt{26}} $ </span>",
+     "text": "$ \\Large -\\frac{5}{\\sqrt{26}} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large -\\frac{1}{\\sqrt{26}} $ </span>",
+     "text": "$ \\Large -\\frac{1}{\\sqrt{26}} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large -\\frac{\\sqrt{3}}{5} $ </span>",
+     "text": "$ \\Large -\\frac{\\sqrt{3}}{5} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{1}{\\sqrt{26}} $ </span>",
+     "text": "$ \\Large \\frac{1}{\\sqrt{26}} $"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 23,
+   "heading": "ამოცანა 23",
+   "stem_html": "<p>Oxy მართკუთხა საკოორდინატო სიბრტყეში M არის (0;1) წერტილის სიმეტრიული წერტილი x = −3 წრფის მიმართ, ხოლო N არის (−1;0) წერტილის სიმეტრიული წერტილი x = 2 წრფის მიმართ. იპოვეთ MN მონაკვეთის სიგრძე. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\sqrt{119} $ </span>",
+     "text": "$ \\Large \\sqrt{119} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\sqrt{120} $ </span>",
+     "text": "$ \\Large \\sqrt{120} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) 11 </span>",
+     "text": "11"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\sqrt{122} $ </span>",
+     "text": "$ \\Large \\sqrt{122} $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 24,
+   "heading": "ამოცანა 24",
+   "stem_html": "<p>ვთქვათ, $ \\Large \\log_{5} 3 = a $. მაშინ $ \\Large \\log_{45} 25 = $ </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{1}{2} + a $ </span>",
+     "text": "$ \\Large \\frac{1}{2} + a $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{a+1}{a+2} $ </span>",
+     "text": "$ \\Large \\frac{a+1}{a+2} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{2}{2a+1} $ </span>",
+     "text": "$ \\Large \\frac{2}{2a+1} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{1}{2} + \\frac{1}{a} $ </span>",
+     "text": "$ \\Large \\frac{1}{2} + \\frac{1}{a} $"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 25,
+   "heading": "ამოცანა 25",
+   "stem_html": "<p>ABC სექტორის ცენტრალური კუთხე 60° -ის ტოლია. სექტორში ჩახაზულია წრე ისე, როგორც ეს სურათზეა გამოსახული. იპოვეთ სექტორის ფართობის შეფარდება მასში ჩახაზული წრის ფართობთან. </p>",
+   "figures": [
+    "media/circleincorner213414.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{\\sqrt{3}}{3} $ </span>",
+     "text": "$ \\Large \\frac{\\sqrt{3}}{3} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{2}{\\sqrt{3}} $ </span>",
+     "text": "$ \\Large \\frac{2}{\\sqrt{3}} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{\\sqrt{3}}{2} $ </span>",
+     "text": "$ \\Large \\frac{\\sqrt{3}}{2} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{3}{2} $ </span>",
+     "text": "$ \\Large \\frac{3}{2} $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 26,
+   "heading": "ამოცანა 26",
+   "stem_html": "<p>გარკვეული a, b და c ნამდვილი რიცხვებისათვის $ \\large ax^2 + bx \\geq c $ უტოლობის ამონახსნთა სიმრავლეა $ \\large (- \\infty, 3] \\cup [11, \\infty) $ სეგმენტი. x-ის რა მნიშვნელობისათვის ღებულობს $ \\large f(x) = ax^2 + bx - 2020 $ ფუნქცია უმცირეს მნიშვნელობას?. </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) x = −2020 </span>",
+     "text": "x = −2020"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) x = 1 </span>",
+     "text": "x = 1"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) x = 7 </span>",
+     "text": "x = 7"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) x = 4 </span>",
+     "text": "x = 4"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 27,
+   "heading": "ამოცანა 27",
+   "stem_html": "<p>მართკუთხა პარალელეპიპედის ფორმის ჭიქაში ასხია 18 სმ3 მოცულობის სითხე. ჭიქა გადახრილია ისე, რომ სითხე მთლიანად ფარავს ჭიქის ფსკერს, ხოლო სითხის ზედაპირი ჭიქის ფსკერთან ადგენს ორწახნაგა კუთხეს, რომლის გრადუსული ზომა a-ს ტოლია. ამ დროს სითხეს აქვს სამკუთხა პრიზმის ფორმა (იხ. სურათი). იპოვეთ tg a , თუ ჭიქის ფსკერი წარმოადგენს კვადრატს, რომლის გვერდის სიგრძეა 4 სმ. </p>",
+   "figures": [
+    "media/cube24314.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) $ \\Large \\frac{9}{32} $ </span>",
+     "text": "$ \\Large \\frac{9}{32} $"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) $ \\Large \\frac{1}{4} $ </span>",
+     "text": "$ \\Large \\frac{1}{4} $"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) $ \\Large \\frac{9}{4} $ </span>",
+     "text": "$ \\Large \\frac{9}{4} $"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) $ \\Large \\frac{9}{16} $ </span>",
+     "text": "$ \\Large \\frac{9}{16} $"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q28",
+   "number": 28,
+   "heading": "ამოცანა 28",
+   "stem_html": "<p>ამოხსენით განტოლება: $$ \\Large |3x - 7| = \\frac{2}{3} $$ </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q29",
+   "number": 29,
+   "heading": "ამოცანა 29",
+   "stem_html": "<p>გარკვეული ტვირთის გადაზიდვა საჭიროა 350 კმ მანძილზე. ყოველ კილომეტრზე ამ ტვირთის გადაზიდვა რკინიგზით ღირს 5 ლარი, ხოლო ავტოტრანსპორტით ღირს 7 ლარი. ამასთან, დამატებითი ხარჯი (ჩატვირთვა-გადმოტვირთვის ხარჯი) რკინიგზით გადაზიდვისას შეადგენს 340 ლარს, ხოლო ავტოტრანსპორტით გადაზიდვისას შეადგენს 90 ლარს. რომელი ტრანსპორტით არის უფრო იაფი ამ ტვირთის გადაზიდვა და რამდენი ლარით? </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q30",
+   "number": 30,
+   "heading": "ამოცანა 30",
+   "stem_html": "<p>ABCDEF წესიერი ექვსკუთხედის AB და BC გვერდებზე აგებულია ორი კვადრატი ისე, როგორც სურათზეა გამოსახული. იპოვეთ კვადრატების თანაკვეთით შექმნილი გამუქებული ფიგურის ფართობი, თუ ექვსკუთხედის გვერდი a-ს ტოლია. </p>",
+   "figures": [
+    "media/rectangle243145.png"
+   ],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q31",
+   "number": 31,
+   "heading": "ამოცანა 31",
+   "stem_html": "<p>გეომეტრიული პროგრესიის პირველი n წევრის ჯამი გამოითვლება ფორმულით $ \\Large S_n = \\frac{2^{n+2} - 4}{2^{n-1}} $ ამასთან ამ პროგრესიის ერთ-ერთი წევრი $ \\Large \\frac{1}{8} $ -ის ტოლია. იპოვეთ ამ წევრის ნომერი. </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q32",
+   "number": 32,
+   "heading": "ამოცანა 32",
+   "stem_html": "<p>იპოვეთ <div> $ \\LARGE f(x) = \\frac{1}{\\sqrt{2^x - 5}} + \\log_{0,5}(13 - 3x) $ </div> <p>ფუნქციის განსაზღვრის არე.</p> </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q33",
+   "number": 33,
+   "heading": "ამოცანა 33",
+   "stem_html": "<p>ABCD მართკუთხედის AB გვერდი Π სიბრტყეზე მდებარეობს, ხოლო მართკუთხედის სიბრტყე Π სიბრტყესთან a სიდიდის ორწახნაგა კუთხეს ადგენს. იპოვეთ AC დიაგონალის მიერ Π სიბრტყესთან შედგენილი კუთხის სინუსი, თუ AB=m, BC=n. </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q34",
+   "number": 34,
+   "heading": "ამოცანა 34",
+   "stem_html": "<p>ორმა ტრაქტორმა ერთდროული მუშაობით მოხნა მიწის ნაკვეთი (ტრაქტორები მიწას ხნავენ მუდმივი სიჩქარეებით). ყოველი ჰექტრის მოხვნას პირველი ტრაქტორი $ \\Large \\frac{1}{80} $ საათით ნაკლებ დროს ანდომებდა, ვიდრე მეორე. ამის გამო პირველმა ტრაქტორმა 8 ჰექტრით მეტი ფართობი მოხნა, ვიდრე მეორემ. რას უდრის მეორე ტრაქტორის მიერ მოხნული მიწის ნაკვეთის ფართობი, თუ მხოლოდ პირველი ტრაქტორი მთლიან მიწის ნაკვეთს ხნავს 3,6 საათში. </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  },
+  {
+   "kind": "question",
+   "type": "open",
+   "id": "q35",
+   "number": 35,
+   "heading": "ამოცანა 35",
+   "stem_html": "<p>იპოვეთ a პარამეტრის ყველა იმ მნიშვნელობათა სიმრავლე, რომელთათვისაც <div> $ \\LARGE f(x) = x^2 - (2x+1)x + 2 $ </div> <p>ფუნქცია [−3; 1] შუალედის ყოველ წერტილზე იღებს დადებით მნიშვნელობას.</p> </p>",
+   "figures": [],
+   "options": [],
+   "correct": null
+  }
+ ]
+}

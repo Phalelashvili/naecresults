@@ -1,0 +1,983 @@
+{
+ "slug": "inglisuri-1-varianti-2024",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2024,
+ "variant": 1,
+ "kind": "test",
+ "title": "2024 წლის ინგლისურის ტესტი 1 ვარიანტი | Testebi.ge",
+ "num_questions": 24,
+ "num_content_blocks": 30,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<p>Task 1: Listen to the text and for each question mark the correct answer A, B, C or D. You now have 40 seconds to look through the task. You will then hear the recording twice. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/ENG%20ABIT%202024%20V1.mp3\" type=\"audio/mpeg\"/> </audio>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> The speaker mentions that Beethoven's 9th symphony is performed in </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. the Candie Gardens.</span>",
+     "text": "the Candie Gardens."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Castle Cornet.</span>",
+     "text": "Castle Cornet."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. the museum.</span>",
+     "text": "the museum."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. the concert hall.</span>",
+     "text": "the concert hall."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> What is Hauteville House known for? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. It has an excellent café.</span>",
+     "text": "It has an excellent café."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. There is a coffee shop there.</span>",
+     "text": "There is a coffee shop there."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. It is next to a famous harbour.</span>",
+     "text": "It is next to a famous harbour."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It was the home of a famous writer.</span>",
+     "text": "It was the home of a famous writer."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> What does the speaker say about the guided walk of that day? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. It's offered around the capital.</span>",
+     "text": "It's offered around the capital."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. It starts late in the evening.</span>",
+     "text": "It starts late in the evening."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. It lasts about three hours.</span>",
+     "text": "It lasts about three hours."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It doesn't cost anything.</span>",
+     "text": "It doesn't cost anything."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> What do tourists like most in St Peter Port? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. The canal.</span>",
+     "text": "The canal."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. The beaches.</span>",
+     "text": "The beaches."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The pointed cliffs.</span>",
+     "text": "The pointed cliffs."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. The birds.</span>",
+     "text": "The birds."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> What is Tennerfest? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Food festival.</span>",
+     "text": "Food festival."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Sports festival.</span>",
+     "text": "Sports festival."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Ancient festival.</span>",
+     "text": "Ancient festival."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Musical festival.</span>",
+     "text": "Musical festival."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> What is true about Tennerfest? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. All the restaurants take part in it.</span>",
+     "text": "All the restaurants take part in it."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Everything costs ten pounds.</span>",
+     "text": "Everything costs ten pounds."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. It lasts for two months.</span>",
+     "text": "It lasts for two months."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It has started recently.</span>",
+     "text": "It has started recently."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> The speaker says that Tennerfest </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. is happening now.</span>",
+     "text": "is happening now."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. has just finished.</span>",
+     "text": "has just finished."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. will start soon.</span>",
+     "text": "will start soon."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. ended two weeks ago.</span>",
+     "text": "ended two weeks ago."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> At the end the speaker says that the Atlantic Hotel offers the ten-pound menu </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. all day long.</span>",
+     "text": "all day long."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. in the morning.</span>",
+     "text": "in the morning."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. in the evening.</span>",
+     "text": "in the evening."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. from twelve to two.</span>",
+     "text": "from twelve to two."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Peace symbols</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> The notion of peace is very important in cultures all over the world. Think about how we greet people. In some cultures we greet people by shaking hands or with some other gestures to show that we are not carrying weapons – that we come in peace. In some languages the phrases for greetings contain the word for peace. And there are certain symbols that people in very different cultures recognise as representing peace. Let's look at the origins of some of them.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> The dove* has been a symbol of peace and innocence for thousands of years in many different cultures. In ancient Greek mythology it represented love and the renewal of life. In ancient Japan a dove carrying a sword symbolised the end of war. There was a tradition in Europe that if a dove flew around a house, where someone was dying, their soul would find peace. In Christian art the dove was used to symbolise the Holy Spirit and was often painted above Christ's head. But it was a well-known painter Pablo Picasso who made the dove a modern symbol of peace when he used it on a poster for the World Peace Congress in 1949.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> No one knows for sure when or why the olive tree began to symbolise peace, though it probably has connections to ancient Greece. In Greek mythology the goddess Athena gifted the olive tree to the people of Athens, who showed their gratitude by naming the city after her. The states in ancient Greece would stop wars during the Olympic Games and the winners were given crowns of olive branches. The symbolism may come from the fact that the olive tree takes a long time to produce fruit, so olives could be cultivated successfully only in long periods of peace. Whatever the history, the olive branch has always been a part of many flags symbolising peace and unity. One well-known example is the flag of the United Nations.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b> Mistletoe* was sacred in many cultures representing peace and love. Most people know the tradition of kissing under the mistletoe at Christmas time, which probably originated from Scandinavian mythology. The goddess Freya's son was killed by an arrow made of mistletoe, so in his honour, she declared that mistletoe would always be a symbol of peace. Ancient Druids believed that hanging mistletoe in doorways protected you from evil spirits. Tribes would stop fighting for a period of time if they found a tree with mistletoe. But you won't find mistletoe in a Christian church because of its associations with pagan religion and superstition.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> The rainbow is another ancient and universal symbol representing the connection between humans and their gods. In Greek mythology it was associated with Iris, the goddess, who brought messages to people from the gods on Mount Olympus. In Scandinavian mythology the rainbow served as a bridge between gods and the earth. In the Bible a rainbow showed Noah and his people that the Biblical flood was finally over and that God had forgiven his people. In the 21st century the rainbow has often been used by various popular movements for peace and the environment, showing the hope for a better future and the promise of sunshine after the rain.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> The ankh, an ancient symbol like a cross with an oval shape at the top, was used in ancient Egypt to symbolise 'life'. In the 1960s the hippie movement, particularly popular among young people, adopted the ankh as a symbol of peace and love. Although found in many Asian cultures, this symbol is mainly associated with ancient Egypt, where it symbolised life and immortality. Egyptians were buried with an ankh so that they could continue to live in the 'afterworld'. This symbol was also often found along the banks of the river Nile, symbolising the river's life-giving qualities.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>*dove: მტრედი *mistletoe: ფითრი (მარადმწვანე მცენარე)</i></p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Which paragraph states what the dove symbolised in Christian art? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> Which paragraph names the tragic case connected to the creation of a certain peace symbol? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Which paragraph mentions the symbol which linked gods with people? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> Which paragraph states that some nations greet each other with the word expressing peace? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Which paragraph specifies the reason why a particular symbol is not used in a certain religion? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> Which paragraph names a symbol widely used by a certain group of people in the 20th century? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> Which paragraph could have the title: 'A preferred peace symbol for the flags'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which paragraph could have the title: 'A peace symbol created by a famous person'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 3: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>A personal story told by modern American author and public speaker Stephanie Land.</i></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>'I signed my first book contract without paying much attention to what it said. I didn't know then that the book would be a bestseller or would, one day, serve as an inspiration for a Netflix TV series. I just needed the money. I was a single mom with two small daughters and because of the late financial assistance from the government, I hadn't eaten much for a few weeks. This was not the first time I felt terribly hungry for a big period of time. I'd been on the financial assistance since the birth of my first child. I'd been skipping meals, always saving the 'good' food, like fresh fruit and vegetables, for my kids. I told myself that they needed this more than I did. I felt stressed when I was thinking about our housing. We had an apartment - very small and in a bad condition - but this was not important for me at that time. The main thing was that we had a place to live in. Only the feeling of fear of losing the home, where my children slept, was enough to cause terrible panic attacks that was difficult to struggle with.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>In those years I used to work as a house cleaner, with the only aim to buy my kids enough food. After six years of cleaning apartments in Washington and Montana, I was eventually able to use student loans and earned a Bachelor of Arts in English and creative writing from the University of Montana. The experience of working as a house cleaner inspired me to write a book about the life of a maid, who is actually a cleaner in someone's home. When the publishers paid me advance money to write the book, I wasn't exactly free from poverty. But they paid me more than most writers receive. It was 20,000 USD - the amount that didn't seem real to me; I didn't expect to receive this amount at all. I could now fill my fridge with food, though panicked that one day all this would disappear. Popularity came to me after the publication of the book. I started meeting people who had read and admired it. I was unprepared for their hugs and words of appreciation. These reactions were what I had hoped for but never truly expected. As a shy and introverted person, I had no idea how to respond, so I simply nodded and said thank you. Strangers began recognising me, exclaiming: 'Oh my God, are you Stephanie Land?' I moved to a house with a yard, could afford to buy clothes that didn't come from second-hand stores and even had fish and dogs as pets! I had become a 'success story,' experiencing the type of success a writer could only dream of.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Since then, I've written several articles about a maid's work and duties and the feeling of hunger but I'm still best known for writing my first book Maid: Hard work, Low Pay, and a Mother's Will to Survive. This book has been adapted into a Netflix series Maid. Some may call it the story of a woman who has survived but that feels too simple to me. After my daughters watched the first two episodes of the series, they turned to me and said: 'We made it out, but so many didn't.' This is the feeling we have – the feeling of empathy* rather than of the personal success.'</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Stephanie Land's life experience is a good example for single mothers who try to overcome poverty and also, be successful.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>* empathy: თანაგრძნობა</i></p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> What was the author's main interest when she signed her first book contract? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. To attract readers.</span>",
+     "text": "To attract readers."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. To gain popularity.</span>",
+     "text": "To gain popularity."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. To have some income.</span>",
+     "text": "To have some income."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. To appear in a Netflix series.</span>",
+     "text": "To appear in a Netflix series."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> What was the author most afraid to lose? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Her kids.</span>",
+     "text": "Her kids."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. The home.</span>",
+     "text": "The home."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The income.</span>",
+     "text": "The income."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Government assistance.</span>",
+     "text": "Government assistance."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> The author was working as a house cleaner with the aim to </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. fund her education.</span>",
+     "text": "fund her education."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. buy food for her children.</span>",
+     "text": "buy food for her children."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. become a well-known writer.</span>",
+     "text": "become a well-known writer."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. gain some experience as a writer.</span>",
+     "text": "gain some experience as a writer."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> How did the author feel when she received an advanced payment from the publishers? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Proud.</span>",
+     "text": "Proud."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Nervous.</span>",
+     "text": "Nervous."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Annoyed.</span>",
+     "text": "Annoyed."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Surprised.</span>",
+     "text": "Surprised."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> When the popularity came to the author, she </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. knew she deserved the fame.</span>",
+     "text": "knew she deserved the fame."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. knew a lot of people would thank her.</span>",
+     "text": "knew a lot of people would thank her."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. had never expected this would happen.</span>",
+     "text": "had never expected this would happen."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. believed this happened because she worked hard.</span>",
+     "text": "believed this happened because she worked hard."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> The author's opinion is that what brought her most fame is her </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. first book.</span>",
+     "text": "first book."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. struggle for a better life.</span>",
+     "text": "struggle for a better life."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. shy and introverted personality.</span>",
+     "text": "shy and introverted personality."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. participation in Netflix series.</span>",
+     "text": "participation in Netflix series."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> We learn about the author's children that they </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. feel sorry for those in need.</span>",
+     "text": "feel sorry for those in need."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. never watch Netflix series.</span>",
+     "text": "never watch Netflix series."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. have never kept pets at home.</span>",
+     "text": "have never kept pets at home."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. think their mother deserves more.</span>",
+     "text": "think their mother deserves more."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which of the following would be the best title for the story? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. How to get popular</span>",
+     "text": "How to get popular"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. How to gain friends</span>",
+     "text": "How to gain friends"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Once a maid, always a maid</span>",
+     "text": "Once a maid, always a maid"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. From poverty to success</span>",
+     "text": "From poverty to success"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> <span>accompanied (A)</span> <span>became (B)</span> <span>campaign (C)</span> <span>end (D)</span> <span>interesting (E)</span> <span>master (F)</span> <span>named (G)</span> <span>ordered (H)</span> <span>organise (I)</span> <span>realised (J)</span> <span>refused (K)</span> <span>tells (L)</span> <span>train (M)</span> <span>years (N)</span> </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Bucephalus</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 5: Read the text and mark the correct choice A, B, C or D. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Could the Beatles read music?</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. Two sentences are extra. <span>(6 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Professor and student talking</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>Student:</b> Excuse me, professor. Would it be possible to arrange a meeting with you sometime this week? I need your advice concerning my project.<br/><b>Professor:</b> <b>1.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Student:</b> Do you mean the one on the second floor of the main university building?<br/><b>Professor:</b> <b>2.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Student:</b> I'll definitely keep you informed, professor, but I hope this won't happen.<br/><b>Professor:</b> <b>3.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Student:</b> I had some personal problems that led to missing two of your lectures and that's the reason.<br/><b>Professor:</b> <b>4.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Student:</b> I did go through them but I would still appreciate some clarification.<br/><b>Professor:</b> <b>5.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Student:</b> Thank you. I'll do that. But does this mean that I won't be able to submit my project this week?<br/><b>Professor:</b> <b>6.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Student:</b> Excellent! Thank you so much, professor. I'll do my best to meet the new deadline.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> It's a pity you couldn't meet the project deadline on time.<br/><b>B.</b> Well, in that case, I'll be giving the same lecture for group B on Wednesday. Why don't you attend it?<br/><b>C.</b> Let me check my schedule. How about this Friday at 3 pm? Can we meet in the physics lab?<br/><b>D.</b> Sure, we can meet any time. I have some free time this Friday noon.<br/><b>E.</b> The deadline for submitting late projects is at the end of next week, so don't worry about that.<br/><b>F.</b> I understand. Can you check with other students about the online resources I recommended for the project?<br/><b>G.</b> Really? What is it that you couldn't quite understand - the theory or something else?<br/><b>H.</b> Exactly. Please don't forget to give me a call if you need to reschedule the meeting.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  }
+ ]
+}

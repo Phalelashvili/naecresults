@@ -1,0 +1,755 @@
+{
+ "q1": {
+  "explanation": {
+   "summary": "მომხსენებელი ამბობს, რომ ოჯახში მამის გარდა არავინ იცოდა მისი ოცნება ამერიკაში ცხოვრების შესახებ: „No one in my family, except my dad, knew how much I wanted to experience life in America“ — სწორია <b>B</b>.",
+   "options": {
+    "A": "<b>Nobody</b> — მამამ ხომ იცოდა, ამიტომ „არავინ“ არასწორია.",
+    "B": "სწორი პასუხი: <b>Her father</b> — „No one in my family, except my dad, knew how much I wanted to experience life in America“.",
+    "C": "<b>Her mother</b> — დედა მასწავლებელი იყო და გაცვლით პროგრამებზე საუბრობდა, მაგრამ შვილის ოცნება არ იცოდა.",
+    "D": "<b>Exchange students</b> — გაცვლის სტუდენტები მისი ოცნების ცოდნასთან დაკავშირებული არ არიან."
+   }
+  }
+ },
+ "q2": {
+  "explanation": {
+   "summary": "მომხსენებელი Seeds of Peace ბანაკს ახსენებს, რადგან იქ მიიღეს: ინტერვიუს ჩაბარების შემდეგ ამ ბანაკში გააკეთა განაცხადი და „After a long application process, I was accepted“ — სწორია <b>A</b>.",
+   "options": {
+    "A": "სწორი პასუხი: <b>was accepted there</b> — „I applied to Seeds of Peace Camp … After a long application process, I was accepted“.",
+    "B": "<b>spent a year there</b> — ბანაკში მან მხოლოდ ერთი თვე გაატარა („The month I spent at the camp“), არა წელი.",
+    "C": "<b>didn't want to go there</b> — პირიქით, თავად გააკეთა განაცხადი.",
+    "D": "<b>failed the interview there</b> — ინტერვიუ მან გაცვლით პროგრამაში ვერ ჩააბარა, არა ამ ბანაკში."
+   }
+  }
+ },
+ "q3": {
+  "explanation": {
+   "summary": "მშობლები თავიდან მის გადაწყვეტილებას მაინცდამაინც არ უჭერდნენ მხარს: „I expected my parents to fully support my decision, but to my surprise, they weren't as encouraging“ — სწორია <b>B</b>.",
+   "options": {
+    "A": "<b>indifferent</b> — გულგრილები კი არ იყვნენ; მათ უჭირდათ მისგან ერთი წლით განშორების ფიქრი.",
+    "B": "სწორი პასუხი: <b>weren't very enthusiastic</b> — „to my surprise, they weren't as encouraging“.",
+    "C": "<b>immediately supportive</b> — მაშინვე მხარდამჭერები არ ყოფილან; ბოლოს დათანხმდნენ.",
+    "D": "<b>let her decide herself</b> — გადაწყვეტილების მისთვის მინდობაზე საუბარი არ ყოფილა."
+   }
+  }
+ },
+ "q4": {
+  "explanation": {
+   "summary": "როდესაც გაცვლის სტუდენტად მიიღეს, მშობლები ამაყები იყვნენ: „The joy and pride my parents felt at that moment is something I'll never forget“ — სწორია <b>D</b>.",
+   "options": {
+    "A": "<b>disappointed</b> — იმედგაცრუება კი არა, სიხარული და სიამაყე იგრძნეს.",
+    "B": "<b>concerned</b> — შეშფოთება ადრე, წინააღმდეგობის ეტაპზე ჰქონდათ, მიღების მომენტში არა.",
+    "C": "<b>unhappy</b> — პირიქით, ბედნიერები იყვნენ.",
+    "D": "სწორი პასუხი: <b>proud</b> — „The joy and pride my parents felt at that moment“."
+   }
+  }
+ },
+ "q5": {
+  "explanation": {
+   "summary": "მადლიერების დღის (Thanksgiving) არდადეგებზე ისინი დისნეილენდში წავიდნენ: „Guess what we did for the Thanksgiving break? We went to Disneyland in Los Angeles“ — სწორია <b>C</b>.",
+   "options": {
+    "A": "<b>national parks</b> — ეროვნული პარკები ნახსენები არ არის.",
+    "B": "<b>music festivals</b> — მუსიკალურ ფესტივალებზე საუბარი არ ყოფილა.",
+    "C": "სწორი პასუხი: <b>Went to Disneyland</b> — „We went to Disneyland in Los Angeles“.",
+    "D": "<b>cultural events</b> — კულტურულ ღონისძიებებს ის ამ არდადეგებთან არ აკავშირებს."
+   }
+  }
+ },
+ "q6": {
+  "explanation": {
+   "summary": "გაცვლის წლის განმავლობაში მომხსენებელი სკოლაში პრეზენტაციებს აკეთებდა: „At school, I gave presentations about my homeland“ — სწორია <b>A</b>.",
+   "options": {
+    "A": "სწორი პასუხი: <b>Giving presentations</b> — „At school, I gave presentations about my homeland“.",
+    "B": "<b>historical sites</b> — ისტორიული ადგილების დათვალიერებაზე საუბარი არ ყოფილა.",
+    "C": "<b>learning a new language</b> — ახალი ენის სწავლა მისი საქმიანობა იქ არ ყოფილა.",
+    "D": "<b>developing new skills</b> — ეს ზედმეტად ზოგადია; ტექსტში კონკრეტულად პრეზენტაციებია ნახსენები."
+   }
+  }
+ },
+ "q7": {
+  "explanation": {
+   "summary": "წასვლის თარიღის მოახლოებისას მომხსენებელს შერეული გრძნობები — სევდა და ღრმა მადლიერება — ჰქონდა: „I felt a mix of emotions, sadness, and deep thankfulness“ — სწორია <b>D</b>.",
+   "options": {
+    "A": "<b>Very excited</b> — დიდი აღფრთოვანება კი არა, სევდა და მადლიერება იგრძნო.",
+    "B": "<b>Indifferent</b> — გულგრილობა საწინააღმდეგოა აღწერილი გრძნობებისა.",
+    "C": "<b>Unconfident</b> — თავდაუჯერებლობა ტექსტში ნახსენები არ არის.",
+    "D": "სწორი პასუხი: <b>Sad but grateful</b> — „a mix of emotions, sadness, and deep thankfulness“."
+   }
+  }
+ },
+ "q8": {
+  "explanation": {
+   "summary": "სამშობლოში დაბრუნების შემდეგ მომხსენებელს სკოლის პრეზიდენტობა სურს: „My goal is to become the school president“ — სწორია <b>B</b>.",
+   "options": {
+    "A": "<b>start an English club</b> — ის მეგობრებს ინგლისურის სწავლისკენ მოუწოდებს, მაგრამ ცალკე კლუბის შექმნაზე არ საუბრობს.",
+    "B": "სწორი პასუხი: <b>become the school president</b> — „My goal is to become the school president“.",
+    "C": "<b>new programme</b> — ახალ პროგრამაში მონაწილეობა მისი ამჟამინდელი მიზანი არ არის (აშშ-ში დაბრუნება სამედიცინო სკოლისთვის სხვა, გრძელვადიანი მიზანია).",
+    "D": "<b>English teacher</b> — ინგლისურის მასწავლებლობა მისი მიზანი არ ყოფილა."
+   }
+  }
+ },
+ "q9": {
+  "explanation": {
+   "summary": "კითხვა ეძებს აბზაცს, სადაც ნათქვამია, სად ცხოვრობდა სარა ბერნარი დედასთან გადასვლამდე. ეს არის აბზაცი <b>C</b>: „She spent much of her early childhood in a monastery near Versailles. It was only when she turned fourteen that she left the monastery to live with her mother“.",
+   "options": {
+    "A": "ეს აბზაცი მის მსოფლიო პოპულარობასა და პარიზისადმი ერთგულებას ეხება, არა დედასთან გადასვლამდე საცხოვრებელს.",
+    "B": "აქ მისი სიკვდილის შემდგომი ხანგრძლივი დიდებაა აღწერილი, არა ბავშვობის ადგილი.",
+    "C": "სწორი პასუხი: სწორედ აქ წერია, რომ ბავშვობა მონასტერში გაატარა ვერსალთან და მხოლოდ თოთხმეტი წლისამ დატოვა ის დედასთან საცხოვრებლად.",
+    "D": "ეს აბზაცი Odéon-ში პირველ ტრიუმფსა და სახლის ხანძარს ეხება.",
+    "E": "აქ მისი მდიდრული სახლისა და უცნაური ნივთების შესახებაა საუბარი.",
+    "F": "ეს აბზაცი მის ბოლო წლებსა და გარდაცვალებას ეხება."
+   },
+   "mistake": "ხშირი შეცდომაა აბზაც C-ის ბოლო წინადადების ყურადღების მიღმა დატოვება — სწორედ იქ წერია მონასტრის შესახებ."
+  }
+ },
+ "q10": {
+  "explanation": {
+   "summary": "კითხვა ეძებს აბზაცს, სადაც დასახელებულია ქალაქი, რომელსაც სარა ბერნარი ყველაზე მეტად იყო ერთგული. ეს არის აბზაცი <b>A</b>: „always remained faithful to Paris, the city of her birth and her very first triumphs“.",
+   "options": {
+    "A": "სწორი პასუხი: სწორედ აქ წერია, რომ ის ერთგული დარჩა პარიზის — დაბადებისა და პირველი ტრიუმფების ქალაქის.",
+    "B": "ეს აბზაცი მის გლობალურ ცნობადობას ეხება, კონკრეტული ერთგული ქალაქის დასახელების გარეშე.",
+    "C": "აქ მისი ბავშვობა და თეატრალური სკოლის შესახებაა საუბარი.",
+    "D": "ეს აბზაცი Odéon-ში წარმატებასა და ხანძარს ეხება.",
+    "E": "აქ მისი სახლი და სკულპტურის უნარია აღწერილი.",
+    "F": "ეს აბზაცი მის ბოლო წლებსა და გარდაცვალებას ეხება."
+   }
+  }
+ },
+ "q11": {
+  "explanation": {
+   "summary": "კითხვა ეძებს აბზაცს, რომელშიც აღწერილია სარა ბერნარის უცნაური ცხოვრების წესი. ეს არის აბზაცი <b>E</b>: სტუდია სავსე იყო „strange things, like a skeleton named Lazare and a collection of stuffed bats and tigers“, ის კი „even hired a balloon to fly over Paris“.",
+   "options": {
+    "A": "ეს აბზაცი მის სცენურ კარიერასა და მეტსახელ „The Divine Sarah“-ს ეხება.",
+    "B": "აქ მისი მუდმივი დიდება და საზოგადოებრივი იმიჯია აღწერილი.",
+    "C": "ეს აბზაცი მის ბავშვობასა და ადრეულ კარიერას ეხება.",
+    "D": "აქ Odéon-ში ტრიუმფი და ხანძარია მოთხრობილი.",
+    "E": "სწორი პასუხი: სწორედ აქ აღწერილია მისი უცნაური ცხოვრება — ჩონჩხი ლაზარე, გატენილი ღამურები და ვეფხვები, აეროსტატით პარიზზე ფრენა.",
+    "F": "ეს აბზაცი მის ფინანსურ სიძნელეებსა და ბოლო წლებს ეხება."
+   }
+  }
+ },
+ "q12": {
+  "explanation": {
+   "summary": "კითხვა ეძებს აბზაცს, რომელიც ხაზს უსვამს სარა ბერნარის დღემდე გაგრძელებულ საერთაშორისო ცნობადობას. ეს არის აბზაცი <b>B</b>: „One hundred years after her death, Sarah Bernhardt is still remembered as a star, well-known from Sydney to New York and from Cairo to Rio de Janeiro“.",
+   "options": {
+    "A": "ეს აბზაცი მის ცხოვრებისეულ კარიერასა და მეტსახელს ეხება, არა დღევანდელ ცნობადობას.",
+    "B": "სწორი პასუხი: სწორედ აქ წერია, რომ გარდაცვალებიდან ასი წლის შემდეგაც ის მთელ მსოფლიოშია ცნობილი.",
+    "C": "ეს აბზაცი მის ბავშვობასა და ადრეულ წლებს ეხება.",
+    "D": "აქ Odéon-ში წარმატებაა აღწერილი.",
+    "E": "ეს აბზაცი მის სახლსა და უცნაურ ნივთებს ეხება.",
+    "F": "აქ მისი გარდაცვალებაა მოთხრობილი, არა მუდმივი მსოფლიო პოპულარობა."
+   }
+  }
+ },
+ "q13": {
+  "explanation": {
+   "summary": "კითხვა ეძებს აბზაცს, სადაც ნახსენებია სარა ბერნარის პირველი წარმატება Odéon-ში. ეს არის აბზაცი <b>D</b>: „in 1869 Sarah Bernhardt experienced her first triumph. It was at the theatre Odéon“.",
+   "options": {
+    "A": "ეს აბზაცი მის ზოგად სცენურ დიდებას ეხება, არა პირველ ტრიუმფს Odéon-ში.",
+    "B": "აქ მისი მუდმივი მსოფლიო ცნობადობაა აღწერილი.",
+    "C": "ეს აბზაცი მის ბავშვობასა და Comédie-Française-ში მუშაობას ეხება.",
+    "D": "სწორი პასუხი: სწორედ აქ წერია, რომ 1869 წელს Odéon-ში მისი პირველი ტრიუმფი შედგა.",
+    "E": "ეს აბზაცი მის სახლსა და სკულპტურის უნარს ეხება.",
+    "F": "აქ მისი ბოლო წლები და გარდაცვალებაა მოთხრობილი."
+   }
+  }
+ },
+ "q14": {
+  "explanation": {
+   "summary": "კითხვა ეძებს აბზაცს, რომელიც ხსნის, რატომ მოუწია სარა ბერნარს დიდი სახლის გაყიდვა. ეს არის აბზაცი <b>F</b>: „Sarah spent more than she earned and in 1885 she had to sell her big house“.",
+   "options": {
+    "A": "ეს აბზაცი მის სცენურ კარიერასა და მეტსახელს ეხება.",
+    "B": "აქ მისი მსოფლიო ცნობადობაა აღწერილი.",
+    "C": "ეს აბზაცი მის ბავშვობასა და ადრეულ წლებს ეხება.",
+    "D": "აქ Odéon-ში წარმატება და ხანძარია მოთხრობილი.",
+    "E": "ეს აბზაცი მისი მდიდრული სახლის აშენებას ეხება, არა გაყიდვის მიზეზს.",
+    "F": "სწორი პასუხი: სწორედ აქ წერია, რომ ის უფრო მეტს ხარჯავდა, ვიდრე გამოიმუშავებდა, ამიტომ სახლის გაყიდვა მოუწია."
+   }
+  }
+ },
+ "q15": {
+  "explanation": {
+   "summary": "კითხვა ეძებს აბზაცს, რომელსაც შეიძლება ჰქონდეს სათაური „Sarah Bernhardt's early struggles“ (ადრეული სიძნელეები). ეს არის აბზაცი <b>C</b>: მისი დათხოვნა — „she was fired for having hit a famous actress“ და გადარჩენისთვის — „Sarah took on small roles“.",
+   "options": {
+    "A": "ეს აბზაცი მის სცენურ წარმატებასა და დიდებას ეხება, არა ადრეულ სიძნელეებს.",
+    "B": "აქ მისი მუდმივი მსოფლიო ცნობადობაა აღწერილი.",
+    "C": "სწორი პასუხი: სწორედ აქ აღწერილია მისი ადრეული სიძნელეები — თეატრიდან დათხოვნა და გადარჩენისთვის მცირე როლების შესრულება.",
+    "D": "ეს აბზაცი მის პირველ ტრიუმფსა და ხანძარს ეხება.",
+    "E": "აქ მისი მდიდრული სახლი და უცნაური ცხოვრებაა აღწერილი.",
+    "F": "ეს აბზაცი მის ბოლო წლებსა და გარდაცვალებას ეხება."
+   },
+   "mistake": "ხშირი შეცდომაა აბზაც F-ის არჩევა მისი ფინანსური სიძნელეების გამო — მაგრამ კითხვა სწორედ „ადრეულ“ სიძნელეებზეა, რაც აბზაც C-შია."
+  }
+ },
+ "q16": {
+  "explanation": {
+   "summary": "კითხვა ეძებს აბზაცს, რომელსაც შეიძლება ჰქონდეს სათაური „The support from the theatre community“ (თეატრის საზოგადოების მხარდაჭერა). ეს არის აბზაცი <b>D</b>: „the Odéon organised an event in Sarah Bernhardt's honour which raised enough money for her to find a new place to live“.",
+   "options": {
+    "A": "ეს აბზაცი მის ზოგად სცენურ დიდებას ეხება, არა თეატრის მხარდაჭერას.",
+    "B": "აქ მისი მსოფლიო ცნობადობაა აღწერილი.",
+    "C": "ეს აბზაცი მის ბავშვობასა და თეატრიდან დათხოვნას ეხება.",
+    "D": "სწორი პასუხი: სწორედ აქ წერია, რომ ხანძრის შემდეგ Odéon-მა მის საპატივცემულოდ ღონისძიება მოაწყო და ფული შეაგროვა — ეს თეატრის საზოგადოების მხარდაჭერაა.",
+    "E": "ეს აბზაცი მის სახლსა და უცნაურ ნივთებს ეხება.",
+    "F": "აქ მისი ბოლო წლები და გარდაცვალებაა მოთხრობილი."
+   }
+  }
+ },
+ "q17": {
+  "explanation": {
+   "summary": "კითხვა ეხება იმას, რატომ გადაწყვიტა სიუზანმა ბავშვთა სახლისთვის ფულის შეგროვება. ტექსტში წერია, რომ მას სურდა დახმარებოდა მშობლების დაკარგვის გამოვლილ ბავშვებს — „children who have experienced the loss of their parents“. ამიტომ სწორია <b>C — She wanted to help children in need</b>.",
+   "options": {
+    "A": "<b>She came from a poor family</b> (ღარიბი ოჯახიდანაა) — პირიქით, ტექსტში წერია „My family belonged to the middle class“.",
+    "B": "<b>She wanted to assist poor families</b> (ღარიბ ოჯახებს უნდოდა დახმარება) — მისი მიზანი კონკრეტულად გაჭირვებული ბავშვები იყო, არა ოჯახები.",
+    "C": "სწორი პასუხი: <b>She wanted to help children in need</b> (გაჭირვებული ბავშვების დახმარება უნდოდა) — ზუსტად ემთხვევა ტექსტს მშობელდაკარგული ბავშვების შესახებ.",
+    "D": "<b>She was brought up in a children's home</b> (თვითონ ბავშვთა სახლში გაიზარდა) — ეს არ ნათქვამა; ის შეძლებულ ოჯახში გაიზარდა."
+   }
+  }
+ },
+ "q18": {
+  "explanation": {
+   "summary": "კითხვა ეხება იმას, რამ გააკვირვა სიუზანი, როცა ამბავი მეგობრებს გაუზიარა. ტექსტში წერია: „people are naturally generous and eager to make a difference“, რაც მისთვის სასიამოვნო სიურპრიზი იყო. ამიტომ სწორია <b>B — were willing to help</b>.",
+   "options": {
+    "A": "<b>refused to help</b> (დახმარებაზე უარი თქვეს) — ეწინააღმდეგება ტექსტს ხალხის გულუხვობაზე.",
+    "B": "სწორი პასუხი: <b>were willing to help</b> (დახმარების მსურველები იყვნენ) — ზუსტად ემთხვევა „eager to make a difference“-ს.",
+    "C": "<b>didn't care about children's needs</b> (ბავშვების საჭიროებები არ აღელვებდათ) — საპირისპიროა ნათქვამის.",
+    "D": "<b>doubted the children's home existed</b> (ეჭვობდნენ, არსებობდა თუ არა ბავშვთა სახლი) — ტექსტში ასეთი ეჭვი არ ფიგურირებს."
+   }
+  }
+ },
+ "q19": {
+  "explanation": {
+   "summary": "კითხვა ეხება იმას, როგორ მოეპყრო ხალხი ფულის შეგროვების ინიციატივას. ტექსტში წერია: „people from different social classes came together“. ამიტომ სწორია <b>D — It united people from different social groups</b>.",
+   "options": {
+    "A": "<b>People ignored it</b> (ხალხმა იგნორი გაუკეთა) — ეწინააღმდეგება ტექსტს, სადაც ხალხი გაერთიანდა.",
+    "B": "<b>It led to social divisions</b> (სოციალური დაყოფა გამოიწვია) — პირიქით, მან ხალხი დააახლოვა.",
+    "C": "<b>Only wealthy people participated</b> (მხოლოდ შეძლებულები მონაწილეობდნენ) — ეწინააღმდეგება ფრაზას „different social classes“.",
+    "D": "სწორი პასუხი: <b>It united people from different social groups</b> (სხვადასხვა სოციალური ჯგუფი გააერთიანა) — ზუსტად ემთხვევა ტექსტს."
+   }
+  }
+ },
+ "q20": {
+  "explanation": {
+   "summary": "კითხვა ეხება იმას, რაში მოხმარდა შეგროვებული დამატებითი ფული. ტექსტში წერია: „she was able to access high-quality education with the additional financial support which we raised“. ამიტომ სწორია <b>D — giving Sarah a good education</b>.",
+   "options": {
+    "A": "<b>helping Sarah find a new home</b> (სარასთვის ახალი სახლის პოვნა) — ტექსტი ამას არ ამბობს.",
+    "B": "<b>buying an apartment for Sarah</b> (სარასთვის ბინის ყიდვა) — ფული ბინაში არ დახარჯულა.",
+    "C": "<b>inspiring Sarah to support other kids</b> (სხვა ბავშვების დახმარების შთაგონება) — ეს ფულის დანიშნულება არ ყოფილა.",
+    "D": "სწორი პასუხი: <b>giving Sarah a good education</b> (სარასთვის კარგი განათლების მიცემა) — ზუსტად ემთხვევა „high-quality education“-ს."
+   }
+  }
+ },
+ "q21": {
+  "explanation": {
+   "summary": "კითხვა ეხება იმას, რატომ ჯეროდა საზოგადოებას, რომ მათმა შემოწირულობამ შედეგი გამოიღო. ტექსტში წერია, რომ სარა „changing from a shy, uncertain child into a confident, ambitious young woman“. ამიტომ სწორია <b>A — transformed so much</b>.",
+   "options": {
+    "A": "სწორი პასუხი: <b>transformed so much</b> (ისე ძალიან შეიცვალა) — სწორედ მისმა გარდასახვამ დაარწმუნა ხალხი დახმარების ეფექტში.",
+    "B": "<b>worked hard</b> (ბევრს მუშაობდა) — ტექსტი მის გარდასახვაზე ამახვილებს ყურადღებას, არა შრომისმოყვარეობაზე.",
+    "C": "<b>had future plans</b> (სამომავლო გეგმები ჰქონდა) — ეს არ არის ის გადამწყვეტი ფაქტი, რასაც ტექსტი უსვამს ხაზს.",
+    "D": "<b>was devoted to learning</b> (სწავლისთვის თავდადებული იყო) — ნაკლებად ზუსტია, ვიდრე მისი სრული გარდასახვა."
+   }
+  }
+ },
+ "q22": {
+  "explanation": {
+   "summary": "კითხვა ეხება იმას, რა დაემართა ბავშვთა სახლს, როცა მან მეტი ფული მიიღო. ტექსტში წერია: „living conditions improved, educational opportunities expanded and a caring environment full of hope... became possible“. ამიტომ სწორია <b>B — Changed for the better</b>.",
+   "options": {
+    "A": "<b>Stayed the same</b> (იგივე დარჩა) — ეწინააღმდეგება ტექსტს გაუმჯობესების შესახებ.",
+    "B": "სწორი პასუხი: <b>Changed for the better</b> (უკეთესობისკენ შეიცვალა) — ზუსტად ემთხვევა „living conditions improved“-ს.",
+    "C": "<b>Received less support</b> (ნაკლები მხარდაჭერა მიიღო) — პირიქით, მხარდაჭერა გაიზარდა.",
+    "D": "<b>Still had problems with money</b> (კვლავ ჰქონდა ფინანსური პრობლემები) — ტექსტი გაუმჯობესებაზე საუბრობს, არა გაგრძელებულ პრობლემებზე."
+   }
+  }
+ },
+ "q23": {
+  "explanation": {
+   "summary": "კითხვა ეხება იმას, როგორ აფასებდა სიუზანი თავის გამოცდილებას. ტექსტში წერია: „raising funds for the children's home has been an incredibly meaningful experience“. ამიტომ სწორია <b>A — She felt it was really important</b>.",
+   "options": {
+    "A": "სწორი პასუხი: <b>She felt it was really important</b> (მიაჩნდა, რომ ეს ნამდვილად მნიშვნელოვანი იყო) — ზუსტად ემთხვევა „incredibly meaningful experience“-ს.",
+    "B": "<b>She didn't really understand it</b> (კარგად ვერ გაიგო) — ეწინააღმდეგება მის გააზრებულ, მადლიერ ტონს.",
+    "C": "<b>She only did it because she had to</b> (იძულებით აკეთებდა) — ის ამას საკუთარი სურვილით აკეთებდა.",
+    "D": "<b>She realised it was a waste of time</b> (მიხვდა, რომ დროის ფლანგვა იყო) — სრულიად საპირისპიროა ნათქვამის."
+   }
+  }
+ },
+ "q24": {
+  "explanation": {
+   "summary": "კითხვა ეხება ტექსტის საუკეთესო სათაურს. მთელი ამბავი იმაზეა, თუ როგორ შეუძლია სიკეთეს ხალხის გაერთიანება და ბავშვების ცხოვრების შეცვლა — „kindness has the power to significantly improve the lives“. ამიტომ სწორია <b>C — The power of kindness</b>.",
+   "options": {
+    "A": "<b>Challenges in fundraising</b> (ფულის შეგროვების სიძნელეები) — ტექსტი სიძნელეებზე კი არა, სიკეთის ძალაზეა.",
+    "B": "<b>Fundraiser's hard job</b> (შემგროვებლის მძიმე საქმე) — აქცენტი მძიმე შრომაზე არ კეთდება.",
+    "C": "სწორი პასუხი: <b>The power of kindness</b> (სიკეთის ძალა) — ზუსტად ასახავს ტექსტის მთავარ იდეას.",
+    "D": "<b>Charity doesn't always work</b> (ქველმოქმედება ყოველთვის არ მუშაობს) — ეწინააღმდეგება ტექსტის დადებით, წარმატებულ მესიჯს."
+   },
+   "mistake": "ხშირი შეცდომაა ვიწრო, აქტივობაზე ორიენტირებული სათაურის არჩევა — საუკეთესო სათაური ტექსტის მთავარ იდეას უნდა ფარავდეს, რაც სიკეთის ძალაა."
+  }
+ },
+ "q25": {
+  "explanation": {
+   "summary": "Gap 1: „Stephen is gifted with an extraordinary mental and physical <b>___</b> for drawing“. „a/an“-ის და ზედსართავების შემდეგ საჭიროა არსებითი სახელი — სწორია <b>A — ability</b> (უნარი), „ability for drawing“ (ხატვის უნარი).",
+   "options": {
+    "A": "სწორი პასუხი: <b>ability</b> — არსებითი სახელია (უნარი); „mental and physical ability“ ზუსტად ჯდება ზედსართავების შემდეგ.",
+    "B": "<b>achieve</b> — ზმნაა (მიღწევა), არტიკლისა და ზედსართავების შემდეგ არ ჯდება.",
+    "C": "<b>citizens</b> — არსებითი სახელია (მოქალაქეები), აზრობრივად აქ არ ერგება.",
+    "D": "<b>creating</b> — ზმნის ფორმაა (-ing), არსებითი სახელის ადგილს ვერ დაიკავებს.",
+    "E": "<b>discovered</b> — ზმნაა წარსულ დროში (აღმოაჩინა), არ ჯდება.",
+    "F": "<b>draw</b> — ზმნაა (ხატვა), ამ ხვრელში არსებითი სჭირდება.",
+    "G": "<b>drawings</b> — არსებითი სახელია (ნახატები), მაგრამ აზრით აქ „uნარი“ უფრო ზუსტია.",
+    "H": "<b>encourages</b> — ზმნაა (ამხნევებს), არ ჯდება.",
+    "I": "<b>famous</b> — ზედსართავია (ცნობილი), არსებითის ადგილს ვერ დაიკავებს.",
+    "J": "<b>generations</b> — არსებითი სახელია (თაობები), აზრობრივად არ ერგება.",
+    "K": "<b>manner</b> — არსებითი სახელია (მანერა), მაგრამ „ability for drawing“ უფრო ბუნებრივია.",
+    "L": "<b>memory</b> — არსებითი სახელია (მეხსიერება), მაგრამ ის მე-9 ხვრელისთვისაა საჭირო.",
+    "M": "<b>unusual</b> — ზედსართავია (უჩვეულო), არ ჯდება.",
+    "N": "<b>worldwide</b> — ზმნიზედა/ზედსართავია (მსოფლიო მასშტაბით), არ ერგება."
+   }
+  }
+ },
+ "q26": {
+  "explanation": {
+   "summary": "Gap 2: „He is <b>___</b> for his excellent pictures of sights of the cities“. „is ___ for“ მოითხოვს ზედსართავს — სწორია <b>I — famous</b>, „famous for“ (ცნობილია რითიმე) მყარი შესიტყვებაა.",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, აქ ზედსართავი სჭირდება და უკვე გამოყენებულია.",
+    "B": "<b>achieve</b> — ზმნაა, „is ___ for“-ში არ ჯდება.",
+    "C": "<b>citizens</b> — არსებითი სახელია, აზრით არ ერგება.",
+    "D": "<b>creating</b> — ზმნის ფორმაა, აქ არ ჯდება.",
+    "E": "<b>discovered</b> — ზმნაა, არ ერგება.",
+    "F": "<b>draw</b> — ზმნაა, არ ჯდება.",
+    "G": "<b>drawings</b> — არსებითი სახელია, არ ერგება.",
+    "H": "<b>encourages</b> — ზმნაა, არ ჯდება.",
+    "I": "სწორი პასუხი: <b>famous</b> — ზედსართავია (ცნობილი); „famous for his excellent pictures“ ზუსტი შესიტყვებაა.",
+    "J": "<b>generations</b> — არსებითი სახელია, არ ერგება.",
+    "K": "<b>manner</b> — არსებითი სახელია, აქ ზედსართავი სჭირდება.",
+    "L": "<b>memory</b> — არსებითი სახელია, არ ჯდება.",
+    "M": "<b>unusual</b> — ზედსართავია, მაგრამ „unusual for“ ამ აზრს არ გამოხატავს და ის მე-5 ხვრელისთვისაა.",
+    "N": "<b>worldwide</b> — ზმნიზედა/ზედსართავია, არ ერგება."
+   }
+  }
+ },
+ "q27": {
+  "explanation": {
+   "summary": "Gap 3: „He can <b>___</b> entire cities from memory“. მოდალური „can“-ის შემდეგ საჭიროა ზმნის ფუძე — სწორია <b>F — draw</b> (დახატოს), „can draw entire cities“.",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, „can“-ის შემდეგ ზმნა სჭირდება.",
+    "B": "<b>achieve</b> — ზმნაა, მაგრამ აზრით „დახატვა“ ერგება, არა „მიღწევა“; ის მე-10 ხვრელისთვისაა.",
+    "C": "<b>citizens</b> — არსებითი სახელია, არ ჯდება.",
+    "D": "<b>creating</b> — -ing ფორმაა, „can“-ის შემდეგ ფუძე სჭირდება.",
+    "E": "<b>discovered</b> — წარსული დროის ზმნაა, „can“-ის შემდეგ არ ჯდება.",
+    "F": "სწორი პასუხი: <b>draw</b> — ზმნის ფუძეა (ხატვა); „can draw entire cities from memory“ ზუსტად ერგება.",
+    "G": "<b>drawings</b> — არსებითი სახელია, არ ჯდება.",
+    "H": "<b>encourages</b> — მესამე პირის ფორმაა, „can“-ის შემდეგ არ ერგება.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "J": "<b>generations</b> — არსებითი სახელია, არ ჯდება.",
+    "K": "<b>manner</b> — არსებითი სახელია, არ ერგება.",
+    "L": "<b>memory</b> — არსებითი სახელია, ის მე-9 ხვრელისთვისაა.",
+    "M": "<b>unusual</b> — ზედსართავია, არ ჯდება.",
+    "N": "<b>worldwide</b> — ზმნიზედა/ზედსართავია, არ ერგება."
+   }
+  }
+ },
+ "q28": {
+  "explanation": {
+   "summary": "Gap 4: „in an unbelievably detailed and accurate <b>___</b>“. „in a ... manner“ (გარკვეული მანერით/წესით) მყარი შესიტყვებაა — სწორია <b>K — manner</b>.",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "B": "<b>achieve</b> — ზმნაა, არ ჯდება.",
+    "C": "<b>citizens</b> — არსებითი სახელია, აზრით არ ერგება.",
+    "D": "<b>creating</b> — ზმნის ფორმაა, არ ჯდება.",
+    "E": "<b>discovered</b> — ზმნაა, ის მე-6 ხვრელისთვისაა.",
+    "F": "<b>draw</b> — ზმნაა, უკვე გამოყენებულია.",
+    "G": "<b>drawings</b> — არსებითი სახელია, მაგრამ „detailed and accurate manner“ უფრო ბუნებრივია და drawings მე-8 ხვრელისთვისაა.",
+    "H": "<b>encourages</b> — ზმნაა, არ ჯდება.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "J": "<b>generations</b> — არსებითი სახელია, ის ბოლო ხვრელისთვისაა.",
+    "K": "სწორი პასუხი: <b>manner</b> — არსებითი სახელია (მანერა/წესი); „in a detailed and accurate manner“ ზუსტი შესიტყვებაა.",
+    "L": "<b>memory</b> — არსებითი სახელია, ის მე-9 ხვრელისთვისაა.",
+    "M": "<b>unusual</b> — ზედსართავია, ის მე-5 ხვრელისთვისაა.",
+    "N": "<b>worldwide</b> — ზმნიზედა/ზედსართავია, არ ერგება."
+   }
+  }
+ },
+ "q29": {
+  "explanation": {
+   "summary": "Gap 5: „Stephen's story is very <b>___</b>“. „is very“-ის შემდეგ საჭიროა ზედსართავი — სწორია <b>M — unusual</b> (უჩვეულო), „story is very unusual“.",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "B": "<b>achieve</b> — ზმნაა, „very“-ის შემდეგ ზედსართავი სჭირდება.",
+    "C": "<b>citizens</b> — არსებითი სახელია, არ ჯდება.",
+    "D": "<b>creating</b> — ზმნის ფორმაა, არ ერგება.",
+    "E": "<b>discovered</b> — ზმნაა, ის მე-6 ხვრელისთვისაა.",
+    "F": "<b>draw</b> — ზმნაა, უკვე გამოყენებულია.",
+    "G": "<b>drawings</b> — არსებითი სახელია, არ ჯდება.",
+    "H": "<b>encourages</b> — ზმნაა, არ ერგება.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია მე-2 ხვრელში.",
+    "J": "<b>generations</b> — არსებითი სახელია, არ ერგება.",
+    "K": "<b>manner</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "L": "<b>memory</b> — არსებითი სახელია, არ ჯდება.",
+    "M": "სწორი პასუხი: <b>unusual</b> — ზედსართავია (უჩვეულო); „story is very unusual“ ზუსტად ერგება.",
+    "N": "<b>worldwide</b> — ზმნიზედა/ზედსართავია, აზრით აქ არ ჯდება."
+   }
+  }
+ },
+ "q30": {
+  "explanation": {
+   "summary": "Gap 6: „He was still very young, when doctors <b>___</b> that he had autism“. წარსული დროის თხრობაა, საჭიროა ზმნა — სწორია <b>E — discovered</b> (აღმოაჩინეს), „doctors discovered that he had autism“.",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "B": "<b>achieve</b> — ზმნაა, მაგრამ აზრით „აღმოჩენა“ ჯდება და achieve მე-10 ხვრელისთვისაა.",
+    "C": "<b>citizens</b> — არსებითი სახელია, არ ჯდება.",
+    "D": "<b>creating</b> — -ing ფორმაა, წარსული დროის შემასმენლად არ ჯდება.",
+    "E": "სწორი პასუხი: <b>discovered</b> — წარსული დროის ზმნაა (აღმოაჩინეს); „doctors discovered that he had autism“ ზუსტი შესიტყვებაა.",
+    "F": "<b>draw</b> — ზმნაა, უკვე გამოყენებულია.",
+    "G": "<b>drawings</b> — არსებითი სახელია, არ ჯდება.",
+    "H": "<b>encourages</b> — აწმყო დროის ფორმაა, ის მე-11 ხვრელისთვისაა.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "J": "<b>generations</b> — არსებითი სახელია, არ ერგება.",
+    "K": "<b>manner</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "L": "<b>memory</b> — არსებითი სახელია, ის მე-9 ხვრელისთვისაა.",
+    "M": "<b>unusual</b> — ზედსართავია, უკვე გამოყენებულია."
+   }
+  }
+ },
+ "q31": {
+  "explanation": {
+   "summary": "Gap 7: „he became a famous and extremely talented artist who created complicated works and became popular <b>___</b>“. „became popular“-ს ერგება ზმნიზედა — სწორია <b>N — worldwide</b> (მსოფლიო მასშტაბით).",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "B": "<b>achieve</b> — ზმნაა, ის მე-10 ხვრელისთვისაა.",
+    "C": "<b>citizens</b> — არსებითი სახელია, „became popular ___“-ში არ ჯდება.",
+    "D": "<b>creating</b> — ზმნის ფორმაა, არ ერგება.",
+    "E": "<b>discovered</b> — ზმნაა, უკვე გამოყენებულია.",
+    "F": "<b>draw</b> — ზმნაა, უკვე გამოყენებულია.",
+    "G": "<b>drawings</b> — არსებითი სახელია, ის მე-8 ხვრელისთვისაა.",
+    "H": "<b>encourages</b> — ზმნაა, ის მე-11 ხვრელისთვისაა.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "J": "<b>generations</b> — არსებითი სახელია, ის ბოლო ხვრელისთვისაა.",
+    "K": "<b>manner</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "L": "<b>memory</b> — არსებითი სახელია, ის მე-9 ხვრელისთვისაა.",
+    "M": "<b>unusual</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "N": "სწორი პასუხი: <b>worldwide</b> — ზმნიზედაა (მსოფლიო მასშტაბით); „became popular worldwide“ ზუსტად ერგება."
+   }
+  }
+ },
+ "q32": {
+  "explanation": {
+   "summary": "Gap 8: „People visit his exhibitions to see a variety of his magnificent <b>___</b>“. „a variety of his magnificent“-ის შემდეგ საჭიროა მრავლობითი არსებითი — სწორია <b>G — drawings</b> (ნახატები).",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "B": "<b>achieve</b> — ზმნაა, არ ჯდება.",
+    "C": "<b>citizens</b> — არსებითი სახელია (მოქალაქეები), აზრით ვერ ერგება გამოფენებს.",
+    "D": "<b>creating</b> — ზმნის ფორმაა, არ ჯდება.",
+    "E": "<b>discovered</b> — ზმნაა, უკვე გამოყენებულია.",
+    "F": "<b>draw</b> — ზმნაა, უკვე გამოყენებულია.",
+    "G": "სწორი პასუხი: <b>drawings</b> — მრავლობითი არსებითია (ნახატები); „a variety of his magnificent drawings“ ზუსტი შესიტყვებაა.",
+    "H": "<b>encourages</b> — ზმნაა, ის მე-11 ხვრელისთვისაა.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "J": "<b>generations</b> — არსებითი სახელია, ის ბოლო ხვრელისთვისაა.",
+    "K": "<b>manner</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "L": "<b>memory</b> — არსებითი სახელია, ის მე-9 ხვრელისთვისაა.",
+    "M": "<b>unusual</b> — ზედსართავია, უკვე გამოყენებულია."
+   }
+  }
+ },
+ "q33": {
+  "explanation": {
+   "summary": "Gap 9: „His most famous works are fifteen city panoramas drawn from his <b>___</b>“. „drawn from his ___“-ს აზრობრივად ერგება „მეხსიერებიდან“ — სწორია <b>L — memory</b> (მეხსიერება). ეს უკავშირდება ადრე ნახსენებ „photographic memory“-ს.",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "B": "<b>achieve</b> — ზმნაა, ის მე-10 ხვრელისთვისაა.",
+    "C": "<b>citizens</b> — არსებითი სახელია, აზრით არ ერგება.",
+    "D": "<b>creating</b> — ზმნის ფორმაა, არ ჯდება.",
+    "E": "<b>discovered</b> — ზმნაა, უკვე გამოყენებულია.",
+    "F": "<b>draw</b> — ზმნაა, უკვე გამოყენებულია.",
+    "G": "<b>drawings</b> — არსებითი სახელია, ის მე-8 ხვრელშია გამოყენებული.",
+    "H": "<b>encourages</b> — ზმნაა, ის მე-11 ხვრელისთვისაა.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "J": "<b>generations</b> — არსებითი სახელია, ის ბოლო ხვრელისთვისაა.",
+    "K": "<b>manner</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "L": "სწორი პასუხი: <b>memory</b> — არსებითი სახელია (მეხსიერება); „drawn from his memory“ ზუსტად ერგება და მის ფოტოგრაფიულ მეხსიერებას უკავშირდება.",
+    "M": "<b>unusual</b> — ზედსართავია, უკვე გამოყენებულია."
+   }
+  }
+ },
+ "q34": {
+  "explanation": {
+   "summary": "Gap 10: „anyone can <b>___</b> their goals with hard work and dedication“. მოდალური „can“-ის შემდეგ საჭიროა ზმნის ფუძე, „goals“-თან კი ერგება „მიღწევა“ — სწორია <b>B — achieve</b>, „achieve their goals“.",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "B": "სწორი პასუხი: <b>achieve</b> — ზმნის ფუძეა (მიღწევა); „achieve their goals“ მყარი შესიტყვებაა.",
+    "C": "<b>citizens</b> — არსებითი სახელია, „can“-ის შემდეგ ზმნა სჭირდება.",
+    "D": "<b>creating</b> — -ing ფორმაა, „can“-ის შემდეგ ფუძე სჭირდება.",
+    "E": "<b>discovered</b> — ზმნაა, უკვე გამოყენებულია.",
+    "F": "<b>draw</b> — ზმნაა, უკვე გამოყენებულია.",
+    "G": "<b>drawings</b> — არსებითი სახელია, ის მე-8 ხვრელშია გამოყენებული.",
+    "H": "<b>encourages</b> — მესამე პირის ფორმაა, „can“-ის შემდეგ არ ჯდება.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "J": "<b>generations</b> — არსებითი სახელია, ის ბოლო ხვრელისთვისაა.",
+    "K": "<b>manner</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "L": "<b>memory</b> — არსებითი სახელია, ის მე-9 ხვრელშია გამოყენებული.",
+    "M": "<b>unusual</b> — ზედსართავია, უკვე გამოყენებულია."
+   }
+  }
+ },
+ "q35": {
+  "explanation": {
+   "summary": "Gap 11: „His achievement truly <b>___</b> many people, especially those having similar difficulties“. ქვემდებარე „achievement“ მხოლობითია, საჭიროა მესამე პირის ზმნა — სწორია <b>H — encourages</b> (ამხნევებს).",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "B": "<b>achieve</b> — ზმნაა, მაგრამ მესამე პირის -s გარეშეა და უკვე გამოყენებულია.",
+    "C": "<b>citizens</b> — არსებითი სახელია, შემასმენლად ვერ გამოდგება.",
+    "D": "<b>creating</b> — -ing ფორმაა, არ ჯდება.",
+    "E": "<b>discovered</b> — ზმნაა, უკვე გამოყენებულია.",
+    "F": "<b>draw</b> — ზმნაა, უკვე გამოყენებულია.",
+    "G": "<b>drawings</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "H": "სწორი პასუხი: <b>encourages</b> — მესამე პირის ზმნაა (ამხნევებს); „achievement truly encourages many people“ ზუსტად ერგება.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "J": "<b>generations</b> — არსებითი სახელია, ის ბოლო ხვრელისთვისაა.",
+    "K": "<b>manner</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "L": "<b>memory</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "M": "<b>unusual</b> — ზედსართავია, უკვე გამოყენებულია."
+   }
+  }
+ },
+ "q36": {
+  "explanation": {
+   "summary": "Gap 12: „Stephen Wilshire's artwork will continue to amaze future <b>___</b>“. „future“-ის შემდეგ საჭიროა მრავლობითი არსებითი, აზრით კი „თაობები“ — სწორია <b>J — generations</b>, „future generations“ (მომავალი თაობები).",
+   "options": {
+    "A": "<b>ability</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "B": "<b>achieve</b> — ზმნაა, უკვე გამოყენებულია.",
+    "C": "<b>citizens</b> — არსებითი სახელია (მოქალაქეები), მაგრამ „future generations“ მყარი შესიტყვებაა და აზრით უფრო ზუსტი.",
+    "D": "<b>creating</b> — ზმნის ფორმაა, არ ჯდება.",
+    "E": "<b>discovered</b> — ზმნაა, უკვე გამოყენებულია.",
+    "F": "<b>draw</b> — ზმნაა, უკვე გამოყენებულია.",
+    "G": "<b>drawings</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "H": "<b>encourages</b> — ზმნაა, უკვე გამოყენებულია.",
+    "I": "<b>famous</b> — ზედსართავია, უკვე გამოყენებულია.",
+    "J": "სწორი პასუხი: <b>generations</b> — მრავლობითი არსებითია (თაობები); „future generations“ ზუსტი შესიტყვებაა.",
+    "K": "<b>manner</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "L": "<b>memory</b> — არსებითი სახელია, უკვე გამოყენებულია.",
+    "M": "<b>unusual</b> — ზედსართავია, უკვე გამოყენებულია."
+   },
+   "mistake": "ხაფანგია „citizens“, რომელიც ასევე ხალხს აღნიშნავს, მაგრამ „future“-თან მყარი შესიტყვება სწორედ „generations“-ია."
+  }
+ },
+ "q37": {
+  "explanation": {
+   "summary": "Gap 1: „a symbol that would represent movement, speed <b>___</b> excellence“. ჩამოთვლის ბოლო წევრის დასაკავშირებლად საჭიროა „and“ — სწორია <b>B — and</b>.",
+   "options": {
+    "A": "<b>but</b> — დაპირისპირების კავშირია; აქ ჩამოთვლაა, არა კონტრასტი.",
+    "B": "სწორი პასუხი: <b>and</b> — შემაერთებელი კავშირია; ჩამოთვლაში „movement, speed and excellence“ ზუსტად ჯდება.",
+    "C": "<b>nor</b> — გამოიყენება „neither ... nor“ კონსტრუქციაში, რომელიც აქ არ არის.",
+    "D": "<b>until</b> — დროის წინდებული/კავშირია (სანამ), ჩამოთვლას არ ერგება."
+   }
+  }
+ },
+ "q38": {
+  "explanation": {
+   "summary": "Gap 2: „Within <b>___</b> week, Davidson created a symbol“. „week“ თანხმოვანზე იწყება და მხოლობითია — საჭიროა განუსაზღვრელი არტიკლი <b>A — a</b>, „within a week“ (ერთ კვირაში).",
+   "options": {
+    "A": "სწორი პასუხი: <b>a</b> — განუსაზღვრელი არტიკლია თანხმოვანზე დაწყებული მხოლობითი არსებითისთვის; „within a week“ ზუსტი შესიტყვებაა.",
+    "B": "<b>an</b> — გამოიყენება ხმოვანბგერით დაწყებულ სიტყვასთან, „week“ კი თანხმოვნით იწყება.",
+    "C": "<b>those</b> — მრავლობითის ჩვენებითია, „week“ კი მხოლობითია.",
+    "D": "<b>that</b> — ჩვენებითი ნაცვალსახელია; აქ კონკრეტული, წინ ნახსენები კვირა არ იგულისხმება."
+   }
+  }
+ },
+ "q39": {
+  "explanation": {
+   "summary": "Gap 3: „The inspiration for the logo's shape came <b>___</b> the wings of the Greek goddess Nike“. წყაროს აღსანიშნავად გამოიყენება „come from“ — სწორია <b>C — from</b>.",
+   "options": {
+    "A": "<b>out</b> — „come out“ სხვა მნიშვნელობისაა (გამოსვლა), წყაროს არ აღნიშნავს.",
+    "B": "<b>by</b> — საშუალების/ავტორის წინდებულია, „inspiration came“-ს არ ერგება.",
+    "C": "სწორი პასუხი: <b>from</b> — წყაროს აღმნიშვნელი წინდებულია; „inspiration came from the wings“ ზუსტი შესიტყვებაა.",
+    "D": "<b>over</b> — „come over“ სხვა მნიშვნელობისაა, აქ არ ჯდება."
+   }
+  }
+ },
+ "q40": {
+  "explanation": {
+   "summary": "Gap 4: „According <b>___</b> Greek mythology“. მყარი ფრაზაა „according to“ (რაიმეს თანახმად) — სწორია <b>D — to</b>.",
+   "options": {
+    "A": "<b>with</b> — „according with“ არასწორი ფორმაა.",
+    "B": "<b>on</b> — ამ ფრაზაში არ გამოიყენება.",
+    "C": "<b>in</b> — „according in“ ასევე არასწორია.",
+    "D": "სწორი პასუხი: <b>to</b> — „according to Greek mythology“ ერთადერთი სწორი მყარი შესიტყვებაა."
+   }
+  }
+ },
+ "q41": {
+  "explanation": {
+   "summary": "Gap 5: „her name became associated <b>___</b> success and glory“. მყარი შესიტყვებაა „associated with“ (დაკავშირებული) — სწორია <b>A — with</b>.",
+   "options": {
+    "A": "სწორი პასუხი: <b>with</b> — „associated with success and glory“ ზუსტი მყარი შესიტყვებაა.",
+    "B": "<b>for</b> — „associated for“ არასწორი ფორმაა.",
+    "C": "<b>by</b> — „associated by“ ამ აზრით არ გამოიყენება.",
+    "D": "<b>in</b> — „associated in“ არასწორია."
+   }
+  }
+ },
+ "q42": {
+  "explanation": {
+   "summary": "Gap 6: „which she created <b>___</b> exploring different shapes and ideas“. საშუალების („როგორ“) აღსანიშნავად -ing ფორმის წინ გამოიყენება „by“ — სწორია <b>C — by</b>, „created by exploring“.",
+   "options": {
+    "A": "<b>with</b> — საშუალების -ing ფორმასთან „with“ არ გამოიყენება.",
+    "B": "<b>for</b> — მიზნის წინდებულია, აქ ხერხია (`by exploring`).",
+    "C": "სწორი პასუხი: <b>by</b> — -ing ფორმის წინ აღნიშნავს, „როგორ“ შეიქმნა: „by exploring different shapes“.",
+    "D": "<b>of</b> — ამ კონსტრუქციაში არ ჯდება."
+   }
+  }
+ },
+ "q43": {
+  "explanation": {
+   "summary": "Gap 7: „a shape like a stylised tick, which we now recognise <b>___</b> the Swoosh“. „recognise ... as ...“ (აღიქმება როგორც) მყარი კონსტრუქციაა — სწორია <b>D — as</b>.",
+   "options": {
+    "A": "<b>so</b> — შედეგის კავშირია, აქ არ ჯდება.",
+    "B": "<b>such</b> — „such as“ მაგალითს შემოაქვს, აქ კი იდენტიფიკაციაა.",
+    "C": "<b>like</b> — წინადადებაში უკვე არის „like a stylised tick“; „recognise ... as“ კი სტანდარტული შესიტყვებაა.",
+    "D": "სწორი პასუხი: <b>as</b> — „recognise as the Swoosh“ ზუსტი მყარი კონსტრუქციაა."
+   }
+  }
+ },
+ "q44": {
+  "explanation": {
+   "summary": "Gap 8: „As time went <b>___</b>, Davidson's simple design became a key element“. იდიომა „as time went by“ (დროთა განმავლობაში) — სწორია <b>B — by</b>.",
+   "options": {
+    "A": "<b>off</b> — „go off“ სხვა მნიშვნელობისაა, დროს არ ერგება.",
+    "B": "სწორი პასუხი: <b>by</b> — იდიომა „as time went by“ (დროთა განმავლობაში) ზუსტად ჯდება.",
+    "C": "<b>of</b> — „went of“ არასწორი ფორმაა.",
+    "D": "<b>for</b> — „went for“ ამ აზრს არ გამოხატავს."
+   }
+  }
+ },
+ "q45": {
+  "explanation": {
+   "summary": "Gap 9: „Some might think <b>___</b> Carolyn Davidson was underpaid“. ზმნა „think“-ის შემდეგ დამოკიდებული წინადადება შემოაქვს კავშირ „that“-ს — სწორია <b>A — that</b>.",
+   "options": {
+    "A": "სწორი პასუხი: <b>that</b> — „think that ...“ დამოკიდებული წინადადების კავშირია; აქ ზუსტად ჯდება.",
+    "B": "<b>which</b> — დამაზუსტებელი ნაცვალსახელია, რომელსაც წინ არსებითი სჭირდება.",
+    "C": "<b>what</b> — „think what“ აქ აზრს არ გამოხატავს; სრული წინადადება მოჰყვება.",
+    "D": "<b>this</b> — ჩვენებითი ნაცვალსახელია, კავშირად ვერ გამოდგება."
+   }
+  }
+ },
+ "q46": {
+  "explanation": {
+   "summary": "Gap 10: „Phil Knight decided to thank her <b>___</b> creating the iconic logo“. მიზეზის („რისთვის“) აღსანიშნავად „thank ... for“ მყარი შესიტყვებაა — სწორია <b>C — for</b>.",
+   "options": {
+    "A": "<b>to</b> — „thank to“ ამ აზრით არ გამოიყენება.",
+    "B": "<b>by</b> — საშუალების წინდებულია, აქ მიზეზია.",
+    "C": "სწორი პასუხი: <b>for</b> — „thank her for creating the logo“ ზუსტი მყარი შესიტყვებაა.",
+    "D": "<b>with</b> — „thank with“ არასწორი ფორმაა."
+   }
+  }
+ },
+ "q47": {
+  "explanation": {
+   "summary": "Gap 11: „He invited her <b>___</b> lunch“. ღონისძიებაზე მიწვევისას გამოიყენება „invite ... to“ — სწორია <b>B — to</b>, „invited her to lunch“.",
+   "options": {
+    "A": "<b>at</b> — „invite at“ არასწორი ფორმაა.",
+    "B": "სწორი პასუხი: <b>to</b> — „invited her to lunch“ ზუსტი მყარი შესიტყვებაა.",
+    "C": "<b>with</b> — „invite with“ ამ აზრს არ გამოხატავს.",
+    "D": "<b>on</b> — „invite on“ აქ არ ჯდება."
+   }
+  }
+ },
+ "q48": {
+  "explanation": {
+   "summary": "Gap 12: „a gold ring with the Swoosh and a diamond, along <b>___</b> 500 shares of the company“. მყარი ფრაზაა „along with“ (რაიმესთან ერთად) — სწორია <b>D — with</b>.",
+   "options": {
+    "A": "<b>by</b> — „along by“ არასწორი ფორმაა.",
+    "B": "<b>on</b> — „along on“ ამ აზრით არ გამოიყენება.",
+    "C": "<b>under</b> — „along under“ არასწორია.",
+    "D": "სწორი პასუხი: <b>with</b> — „along with 500 shares“ ზუსტი მყარი შესიტყვებაა."
+   }
+  }
+ },
+ "q49": {
+  "explanation": {
+   "summary": "Gap 1: სემი ეკითხება „You studied hard, didn't you?“, ქეთის რეპლიკაა საჭირო. სწორია <b>C</b>: „I did. In fact, I really did my best, but you never know“ — ის ადასტურებს, რომ ბევრს მეცადინეობდა, მაგრამ მაინც ნერვიულობს.",
+   "options": {
+    "A": "<b>So Sam, is it too bad?</b> — ეს კითხვა შედეგების გადამოწმების შემდეგ ჯდება (მე-3 ხვრელი), არა აქ.",
+    "B": "<b>That would be amazing!</b> — აღფრთოვანებაა საუკეთესო შედეგზე, ის ბოლო ხვრელს ერგება.",
+    "C": "სწორი პასუხი: ქეთი ადასტურებს „I did“ (კი, ვმეცადინეობდი) — ზუსტი პასუხია სემის კითხვაზე „You studied hard, didn't you?“.",
+    "D": "<b>So, you mean we passed?</b> — ეს კარგი ამბის შემდეგ ჯდება (მე-4 ხვრელი).",
+    "E": "<b>Yes, it's the hardest exam I've ever taken.</b> — გამოცდის სირთულეზეა და ამ ადგილს არ ერგება — ერთ-ერთი ზედმეტი წინადადებაა.",
+    "F": "<b>Why don't YOU go and find out?</b> — ეს მე-2 ხვრელს ერგება, სანამ სემი წავა შესამოწმებლად.",
+    "G": "<b>I was hoping for more than just a pass.</b> — ეს მე-5 ხვრელს ერგება.",
+    "H": "<b>I got the highest score</b> — საუბრის შინაარსით ეს ერთ-ერთი ზედმეტი წინადადებაა."
+   }
+  }
+ },
+ "q50": {
+  "explanation": {
+   "summary": "Gap 2: სემი ამბობს „we won't know our marks unless we check the results ourselves“, შემდეგ ქეთის რეპლიკაა. სწორია <b>F</b>: „I know, but I'm too nervous. Why don't YOU go and find out how we did?“ — რასაც სემი პასუხობს „All right, I'll go and check“.",
+   "options": {
+    "A": "<b>So Sam, is it too bad?</b> — ეს შედეგების ნახვის შემდეგ ჯდება, არა აქ.",
+    "B": "<b>That would be amazing!</b> — საუკეთესო შედეგზე აღფრთოვანებაა, ბოლო ხვრელისთვის.",
+    "C": "<b>I did. I really did my best</b> — ეს უკვე გამოყენებულია მე-1 ხვრელში.",
+    "D": "<b>So, you mean we passed?</b> — ეს მე-4 ხვრელს ერგება.",
+    "E": "<b>Yes, it's the hardest exam I've ever taken.</b> — ერთ-ერთი ზედმეტი წინადადებაა.",
+    "F": "სწორი პასუხი: ქეთი სთხოვს სემს, თვითონ წავიდეს და შეამოწმოს — სემის პასუხი „I'll go and check“ ამას ზუსტად მოჰყვება.",
+    "G": "<b>I was hoping for more than just a pass.</b> — ეს მე-5 ხვრელს ერგება.",
+    "H": "<b>I got the highest score</b> — ერთ-ერთი ზედმეტი წინადადებაა."
+   }
+  }
+ },
+ "q51": {
+  "explanation": {
+   "summary": "Gap 3: სემი წავიდა შესამოწმებლად, ქეთი კი მოუთმენლად ელის შედეგს. სწორია <b>A</b>: „So Sam, is it too bad?“ — ნერვიული ქეთი კითხულობს, ცუდად ხომ არ არის საქმე, რასაც სემი ამშვიდებს „Cheer up, Katie!“.",
+   "options": {
+    "A": "სწორი პასუხი: ქეთი შეშფოთებით ეკითხება „is it too bad?“ — ეს ზუსტად მოჰყვება სემის წასვლას და წინ უძღვის მის დამამშვიდებელ პასუხს.",
+    "B": "<b>That would be amazing!</b> — საუკეთესო შედეგზე აღფრთოვანებაა, ბოლო ხვრელისთვის.",
+    "C": "<b>I did. I really did my best</b> — უკვე გამოყენებულია მე-1 ხვრელში.",
+    "D": "<b>So, you mean we passed?</b> — ეს მე-4 ხვრელს ერგება, კარგი ამბის შემდეგ.",
+    "E": "<b>Yes, it's the hardest exam I've ever taken.</b> — ერთ-ერთი ზედმეტი წინადადებაა.",
+    "F": "<b>Why don't YOU go and find out?</b> — უკვე გამოყენებულია მე-2 ხვრელში.",
+    "G": "<b>I was hoping for more than just a pass.</b> — ეს მე-5 ხვრელს ერგება.",
+    "H": "<b>I got the highest score</b> — ერთ-ერთი ზედმეტი წინადადებაა."
+   }
+  }
+ },
+ "q52": {
+  "explanation": {
+   "summary": "Gap 4: სემი ამბობს „our exam preparation plan has worked for both of us“, ქეთის რეპლიკაა საჭირო. სწორია <b>D</b>: „So, you mean we passed?“ — რასაც სემი ადასტურებს „Yes, we did!“.",
+   "options": {
+    "A": "<b>So Sam, is it too bad?</b> — უკვე გამოყენებულია მე-3 ხვრელში.",
+    "B": "<b>That would be amazing!</b> — ბოლო ხვრელისთვისაა.",
+    "C": "<b>I did. I really did my best</b> — უკვე გამოყენებულია მე-1 ხვრელში.",
+    "D": "სწორი პასუხი: ქეთი აზუსტებს „you mean we passed?“ — სემის პასუხი „Yes, we did!“ ამას ზუსტად ეთანხმება.",
+    "E": "<b>Yes, it's the hardest exam I've ever taken.</b> — ერთ-ერთი ზედმეტი წინადადებაა.",
+    "F": "<b>Why don't YOU go and find out?</b> — უკვე გამოყენებულია მე-2 ხვრელში.",
+    "G": "<b>I was hoping for more than just a pass.</b> — ეს მე-5 ხვრელს ერგება.",
+    "H": "<b>I got the highest score</b> — ერთ-ერთი ზედმეტი წინადადებაა."
+   }
+  }
+ },
+ "q53": {
+  "explanation": {
+   "summary": "Gap 5: ქეთი ეუბნება სემს, რომ ჩაბარებაზე მეტს ელოდა, რასაც სემი პასუხობს „So was I, and it's definitely more than just a pass!“. სწორია <b>G</b>: „That's great, but I was hoping for more than just a pass“.",
+   "options": {
+    "A": "<b>So Sam, is it too bad?</b> — უკვე გამოყენებულია მე-3 ხვრელში.",
+    "B": "<b>That would be amazing!</b> — ბოლო ხვრელისთვისაა.",
+    "C": "<b>I did. I really did my best</b> — უკვე გამოყენებულია მე-1 ხვრელში.",
+    "D": "<b>So, you mean we passed?</b> — უკვე გამოყენებულია მე-4 ხვრელში.",
+    "E": "<b>Yes, it's the hardest exam I've ever taken.</b> — ერთ-ერთი ზედმეტი წინადადებაა.",
+    "F": "<b>Why don't YOU go and find out?</b> — უკვე გამოყენებულია მე-2 ხვრელში.",
+    "G": "სწორი პასუხი: ქეთი ამბობს „I was hoping for more than just a pass“ — სემის პასუხი „So was I“ ამას ზუსტად ეხმიანება.",
+    "H": "<b>I got the highest score</b> — ერთ-ერთი ზედმეტი წინადადებაა."
+   }
+  }
+ },
+ "q54": {
+  "explanation": {
+   "summary": "Gap 6: სემი ეკითხება „How would you feel about being top of the class with 96%?“, ქეთის რეპლიკაა საჭირო. სწორია <b>B</b>: „That would be amazing! I couldn't dream of a better result!“ — რასაც სემი ადასტურებს „That's exactly what you got!“.",
+   "options": {
+    "A": "<b>So Sam, is it too bad?</b> — უკვე გამოყენებულია მე-3 ხვრელში.",
+    "B": "სწორი პასუხი: ქეთი აღფრთოვანებით პასუხობს „That would be amazing!“ — ზუსტად ერგება სემის კითხვას 96%-ით კლასის პირველობაზე.",
+    "C": "<b>I did. I really did my best</b> — უკვე გამოყენებულია მე-1 ხვრელში.",
+    "D": "<b>So, you mean we passed?</b> — უკვე გამოყენებულია მე-4 ხვრელში.",
+    "E": "<b>Yes, it's the hardest exam I've ever taken.</b> — ერთ-ერთი ზედმეტი წინადადებაა.",
+    "F": "<b>Why don't YOU go and find out?</b> — უკვე გამოყენებულია მე-2 ხვრელში.",
+    "G": "<b>I was hoping for more than just a pass.</b> — უკვე გამოყენებულია მე-5 ხვრელში.",
+    "H": "<b>Sure, I'm so happy I got the highest score on the exam!</b> — შინაარსით ახლოა, მაგრამ ის ამ კონკრეტულ კითხვაზე ნაკლებად ბუნებრივი პასუხია; საუბრის ლოგიკით ეს ერთ-ერთი ზედმეტი წინადადებაა."
+   },
+   "mistake": "ხაფანგია H, რადგან ისიც დადებითი რეაქციაა; მაგრამ სემის ჰიპოთეტურ კითხვას „How would you feel...“ ზუსტად პირობითი პასუხი „That would be amazing!“ (B) ერგება."
+  }
+ }
+}

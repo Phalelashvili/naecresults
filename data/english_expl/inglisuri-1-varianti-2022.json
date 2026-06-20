@@ -1,0 +1,527 @@
+{
+ "q1": {
+  "explanation": {
+   "summary": "ჯეინს უკეთესი სამსახური სჭირდება: \"Jane needs a better job, because she has to pay for her studies herself\" — სწორია B.",
+   "options": {
+    "A": "პირიქით, თავისი სამსახური მას არ მოსწონს („She doesn't like her job“).",
+    "B": "სწორია — „Jane needs a better job“.",
+    "C": "სწავლის გადასახადი თავად უნდა გადაიხადოს („she has to pay for her studies herself“)."
+   }
+  }
+ },
+ "q2": {
+  "explanation": {
+   "summary": "ბანკში გასაუბრების შემდეგ ჯეინი იმედიანადაა: \"the job interview Jane had yesterday in a bank, went well... She hopes, she'll get the job\" — სწორია C.",
+   "options": {
+    "A": "ტექსტში არ ნათქვამია, რომ ის ნერვიულობს — გასაუბრება კარგად ჩაიარა.",
+    "B": "პირიქით, თუ ბანკში დაიწყებს მუშაობას, აღარ იდარდებს („she won't have to worry“).",
+    "C": "სწორია — „She hopes, she'll get the job“, ანუ იმედი აქვს."
+   }
+  }
+ },
+ "q3": {
+  "explanation": {
+   "summary": "გალერეაში აჩვენეს ადრე უნახავი ნამუშევრები: \"the gallery displayed a selection of previously unseen paintings\" — სწორია B.",
+   "options": {
+    "A": "წიგნის ილუსტრაციები ის სამუშაოა, რითაც ახვლედიანი ცნობილია, მაგრამ გამოფენაზე ნაჩვენები იყო ადრე უნახავი ნახატები.",
+    "B": "სწორია — „previously unseen paintings“.",
+    "C": "თეატრის დეკორაციები მისი ცნობილი საქმიანობაა, მაგრამ გამოფენაზე ნაჩვენები იყო ადრე უნახავი ნახატები."
+   }
+  }
+ },
+ "q4": {
+  "explanation": {
+   "summary": "ვიზიტორებს მხოლოდ ზოგიერთი ნამუშევრის ყიდვა შეეძლოთ: \"but also to buy some of the displayed paintings\" — სწორია C.",
+   "options": {
+    "A": "ილუსტრაციებიანი წიგნების შესახებ გაყიდვაში არაფერია ნათქვამი.",
+    "B": "ყველა ნამუშევრის ყიდვა შესაძლებელი არ იყო — მხოლოდ ზოგიერთის („some“).",
+    "C": "სწორია — „to buy some of the displayed paintings“."
+   }
+  }
+ },
+ "q5": {
+  "explanation": {
+   "summary": "ელიასი რობოტ-მასწავლებელია: \"Elias is not a human, it is a robot teacher\" — სწორია A.",
+   "options": {
+    "A": "სწორია — „Elias is not a human, it is a robot teacher“.",
+    "B": "ცეკვა მას შეუძლია („can even dance“), მაგრამ ცეკვის გაკვეთილებს არ ატარებს.",
+    "C": "პირიქით, ის ძალიან მომთმენია („a very patient teacher“) და ბავშვებზე არ ბრაზდება."
+   }
+  }
+ },
+ "q6": {
+  "explanation": {
+   "summary": "ელიასს უჭირს დაწყებითი კლასის ბავშვების მართვა: \"the robot is not able to keep discipline among primary school children\" — სწორია B.",
+   "options": {
+    "A": "პირიქით, ის 23 ენაზე ლაპარაკობს — ენები მისთვის პრობლემა არაა.",
+    "B": "სწორია — „not able to keep discipline among primary school children“.",
+    "C": "ბავშვის პრობლემებს ის ამჩნევს და მასწავლებლებს უკუკავშირს აძლევს („gives feedback... about a schoolchild's possible problems“)."
+   }
+  }
+ },
+ "q7": {
+  "explanation": {
+   "summary": "სემუელ პეპისი დღიურში გულახდილად აღწერდა საკუთარ სისუსტეებს: \"He frankly described all his weaknesses, that many men wouldn't admit even to themselves\" — სწორია B.",
+   "options": {
+    "A": "ის სხვა მამაკაცების ნაკლს კი არ აღწერდა, არამედ საკუთარს.",
+    "B": "სწორია — „He frankly described all his weaknesses“ (საკუთარ სისუსტეებს).",
+    "C": "სხვა მწერლების შესახებ აქ საუბარი არ არის."
+   }
+  }
+ },
+ "q8": {
+  "explanation": {
+   "summary": "დღიურის წარმოების საუკეთესო მიზეზი მოგონებების გახსენებაა: \"the best reason for keeping a diary is that, it can be great to remember an event in the future\" — სწორია C.",
+   "options": {
+    "A": "ფული მხოლოდ ცნობილ ადამიანებს შეუძლიათ იშოვონ — ეს არ არის საუკეთესო მიზეზი.",
+    "B": "ცნობადობა ტექსტში დღიურის საუკეთესო მიზეზად არ არის დასახელებული.",
+    "C": "სწორია — „it can be great to remember an event in the future“."
+   }
+  }
+ },
+ "q9": {
+  "explanation": {
+   "summary": "კამპუსზე ცხოვრება პირველკურსელებისთვისაა აუცილებელი: \"During their first year at the university, students are required to live on campus\" — სწორია A.",
+   "options": {
+    "A": "სწორია — „During their first year... students are required to live on campus“.",
+    "B": "მეორეკურსელებს უკვე შეუძლიათ კამპუსიდან გადასვლა („they can move out when they become second or third year students“).",
+    "C": "მესამეკურსელებსაც შეუძლიათ კამპუსის დატოვება, ე.ი. მათთვის სავალდებულო არ არის."
+   }
+  }
+ },
+ "q10": {
+  "explanation": {
+   "summary": "ტექსტი ძირითადად მთავარ უნივერსიტეტის კარიბჭეზეა — ჯონსტონ გეითზე: \"It refers to Johnston Gate, which is considered the main gate of the university\" და მის წესებზე — სწორია B.",
+   "options": {
+    "A": "მარკ ცუკერბერგი მხოლოდ ბოლოს, მაგალითად არის ნახსენები, არა მთავარი თემა.",
+    "B": "სწორია — ტექსტი ძირითადად ჯონსტონ გეითზე (მთავარ კარიბჭეზე) და მის წესებზეა.",
+    "C": "ჰარვარდის ისტორია ცალკე თემად არ არის გაშლილი; ტექსტი კარიბჭესა და კამპუსის წესებზე ფოკუსირდება."
+   }
+  }
+ },
+ "q11": {
+  "explanation": {
+   "summary": "სწორია A: გიდი თავიდანვე ამბობს, რომ ლონდონში დაიბადა და გაიზარდა — \"I'm a proud Londoner, born and bred\" და \"I've lived and worked in this amazing city all my life\".",
+   "options": {
+    "A": "სწორია — \"a proud Londoner, born and bred\", ანუ ლონდონში დაბადებული.",
+    "B": "Samuel Johnson ლექსიკონის ავტორად არის ნახსენები, ეს გიდის სახელი არ არის.",
+    "C": "გიდი პირიქით ამბობს, რომ ლონდონით არ დაღლილა — \"I am not yet tired\"."
+   }
+  }
+ },
+ "q12": {
+  "explanation": {
+   "summary": "სწორია C: რომაელებმა ლონდონს Londinium უწოდეს — \"they founded a city on the banks of the River Thames and called it Londinium\".",
+   "options": {
+    "A": "პირიქით, რომაელებმა დააარსეს ის და დიდხანს მართავდნენ — \"remained under Rome's authority until 410 AD\".",
+    "B": "ქალაქი ზუსტად მდინარე თემზის ნაპირზე აშენდა — \"on the banks of the River Thames\".",
+    "C": "სწორია — \"called it Londinium\"."
+   }
+  }
+ },
+ "q13": {
+  "explanation": {
+   "summary": "სწორია B: გასაკვირი ფაქტია, რომ Londinium-ში გლადიატორების ბრძოლები იმართებოდა — \"Londinium had a Roman amphitheater where gladiators and wild animals fought\".",
+   "options": {
+    "A": "ამფითეატრი გლადიატორთა და ცხოველთა ბრძოლისთვის იყო, არა თეატრალური წარმოდგენებისთვის.",
+    "B": "სწორია — \"where gladiators and wild animals fought\".",
+    "C": "პირიქით, რომაული ლონდონის კვალი დღემდე შემორჩა — \"still traces of Roman London all over this area\"."
+   }
+  }
+ },
+ "q14": {
+  "explanation": {
+   "summary": "სწორია C: City of London მსოფლიოს ერთ-ერთი უმდიდრესი ფინანსური უბანია — \"it's one of the richest financial districts in the world\".",
+   "options": {
+    "A": "პირიქით, ეს ლონდონის უძველესი ნაწილია — \"the most ancient historic part of London\".",
+    "B": "ის ძალიან პატარაა — \"only 1.1 square miles\", არა უდიდესი ფართობით.",
+    "C": "სწორია — \"one of the richest financial districts in the world\"."
+   }
+  }
+ },
+ "q15": {
+  "explanation": {
+   "summary": "სწორია A: Christopher Wren-მა დააპროექტა წმინდა პავლეს ტაძარი — \"his incredible masterpiece, St. Paul's Cathedral\".",
+   "options": {
+    "A": "სწორია — St. Paul's Cathedral მისი შედევრია.",
+    "B": "მისი 51 ეკლესიიდან მხოლოდ 21 შემორჩა — \"21 of those churches still exist today\".",
+    "C": "დიდმა ხანძარმა ააფეთქა საჯარო შენობები მის კარიერამდე; ეკლესიები მან ხანძრის შემდეგ ააშენა — \"built 51 churches after the Great Fire\"."
+   }
+  }
+ },
+ "q16": {
+  "explanation": {
+   "summary": "სწორია B: ხანძარი დაუდევრობით დაიწყო — მცხობელმა ღუმელში ცეცხლი არ ჩააქრო დაძინებამდე — \"a baker named Thomas Farinor forgot to put out the fire in his oven before going to bed\".",
+   "options": {
+    "A": "ძლიერმა ქარმა ცეცხლის გავრცელება გამოიწვია, მაგრამ თვითონ ხანძარი არ დაიწყო — \"A strong wind caused the fire to spread fast\".",
+    "B": "სწორია — მცხობელის უყურადღებობა: \"forgot to put out the fire in his oven\".",
+    "C": "საუბარია შემთხვევით შეცდომაზე, არა საიდუმლო გეგმაზე."
+   }
+  }
+ },
+ "q17": {
+  "explanation": {
+   "summary": "სწორია C: სერტიფიკატს მონუმენტის თავზე ასვლისთვის გცემენ — \"They'll even give you a certificate for reaching the top of the monument\".",
+   "options": {
+    "A": "62 მეტრი მონუმენტის სიმაღლეა/მანძილია მცხობელის მაღაზიამდე, არა ფეხით მისავლელი გზა სერტიფიკატისთვის.",
+    "B": "ფოტოები კარგი ხედებისთვისაა, სერტიფიკატთან დაკავშირებული არ არის.",
+    "C": "სწორია — \"reaching the top of the monument\" (311 საფეხურით)."
+   }
+  }
+ },
+ "q18": {
+  "explanation": {
+   "summary": "სწორია A: გიდი ტურს London Bridge-თან ასრულებს — \"Lastly, we're headed for London Bridge ... And with this, we finish our walking tour\".",
+   "options": {
+    "A": "სწორია — ბოლო გაჩერებაა London Bridge, სადაც ტური მთავრდება.",
+    "B": "Tower Bridge მხოლოდ ხედად ჩანს ხიდიდან — \"you can see the most magnificent view of the incredible Tower Bridge\", არა დასასრულის ადგილი.",
+    "C": "მონუმენტი ტურის შუა ნაწილში მონახულდა, არა ბოლოს."
+   }
+  }
+ },
+ "q19": {
+  "explanation": {
+   "summary": "სწორი აბზაცია <b>E</b>: სწორედ იქ წერია, რომ პროექტი დიდმა ინვესტიციამ გადაარჩინა — „in 2008 the State of Qatar <b>rescued the project</b> when it <b>invested</b> in the Shard a big amount of money“.",
+   "options": {
+    "A": "აბზაცი A ქალაქისა და შენობის ზოგად აღწერას იძლევა, ინვესტიციაზე არ საუბრობს.",
+    "B": "აბზაცი B სახელის წარმოშობას ეხება, არა დაფინანსებას.",
+    "C": "აბზაცი C ბერლინში შეხვედრასა და არქიტექტორის პირველ რეაქციას აღწერს.",
+    "D": "აბზაცი D რესტორანში გაჩენილ შთაგონებას აღწერს, არა ფინანსურ გადარჩენას.",
+    "E": "სწორია: ‘the State of Qatar rescued the project … invested … a big amount of money’ — ზუსტად დიდი ინვესტიციით გადარჩენაზე საუბრობს.",
+    "F": "აბზაცი F დღევანდელ Shard-ს და სანახაობრივ ხედს აღწერს, არა ინვესტიციას."
+   }
+  }
+ },
+ "q20": {
+  "explanation": {
+   "summary": "სწორი აბზაცია <b>C</b>: იქ ახსნილია, რატომ არ მოეწონა არქიტექტორს თავიდან პროექტი — „Renzo Piano’s first reaction was <b>not very positive</b>“ და „‘I <b>hate tall buildings</b>,’ Piano said, ‘they are arrogant and aggressive’“.",
+   "options": {
+    "A": "აბზაცი A შენობების ზოგად პანორამას აღწერს, არქიტექტორის რეაქციას არა.",
+    "B": "აბზაცი B სახელის ისტორიას ეხება.",
+    "C": "სწორია: ‘first reaction was not very positive’ და ‘I hate tall buildings’ ცხადყოფს, რატომ არ მოეწონა.",
+    "D": "აბზაცი D, პირიქით, იმ მომენტს აღწერს, როცა პროექტი მოეწონა და გადაწყვეტილება მიიღო.",
+    "E": "აბზაცი E მშენებლობისა და დაფინანსების სირთულეებზე საუბრობს.",
+    "F": "აბზაცი F დღევანდელ შენობასა და ხედს ეხება."
+   },
+   "mistake": "C აღწერს უარყოფით პირველ რეაქციას, D კი მის შემდგომ აღფრთოვანებას — არ აგერიოს, კითხვა ‘initially’ (თავიდან) უარყოფას ეძებს."
+  }
+ },
+ "q21": {
+  "explanation": {
+   "summary": "სწორი აბზაცია <b>F</b>: იქ აღწერილია მზიან ამინდში მწვერვალიდან გადაშლილი ხედი — „in <b>fine weather, you can see for up to 65 km</b> across London“ სადამკვირვებლო პლატფორმიდან.",
+   "options": {
+    "A": "აბზაცი A ქალაქის ზოგად სიძველე-სიახლეს აღწერს.",
+    "B": "აბზაცი B სახელის წარმოშობას ეხება.",
+    "C": "აბზაცი C ბერლინის შეხვედრას აღწერს.",
+    "D": "აბზაცი D ესკიზის დახატვისა და გადაწყვეტილების მომენტს ეხება.",
+    "E": "აბზაცი E ენერგოეფექტურობასა და მინის თვისებებს აღწერს, არა ხედს.",
+    "F": "სწორია: ‘in fine weather, you can see for up to 65 km’ — სწორედ მზიან დღეს გადაშლილ ხედზე საუბრობს."
+   }
+  }
+ },
+ "q22": {
+  "explanation": {
+   "summary": "სწორი აბზაცია <b>A</b>: იქ ნათქვამია, რომ ძველი და ახალი შენობები გვერდიგვერდ დგას — „The grand old sights … <b>stand shoulder to shoulder</b> with the Millennium Dome and the London Eye“.",
+   "options": {
+    "A": "სწორია: ‘stand shoulder to shoulder’ პირდაპირ აღწერს ძველი და ახალი შენობების მეზობლობას.",
+    "B": "აბზაცი B სახელის ისტორიას ეხება.",
+    "C": "აბზაცი C ბერლინის შეხვედრას აღწერს.",
+    "D": "აბზაცი D ესკიზის დახატვის მომენტს ეხება.",
+    "E": "აბზაცი E ენერგოეფექტურობას ეხება.",
+    "F": "აბზაცი F სანახაობრივ ხედს აღწერს, არა ძველი/ახალი შენობების მეზობლობას."
+   }
+  }
+ },
+ "q23": {
+  "explanation": {
+   "summary": "სწორი აბზაცია <b>E</b>: იქ ნათქვამია, რომ Shard ენერგიის დაზოგვისთვისაა დაპროექტებული — „requires <b>30 per cent less energy</b> than typical tall buildings, making it the greenest building in London“.",
+   "options": {
+    "A": "აბზაცი A ზოგად აღწერას იძლევა.",
+    "B": "აბზაცი B სახელის წარმოშობას ეხება.",
+    "C": "აბზაცი C ბერლინის შეხვედრას აღწერს.",
+    "D": "აბზაცი D ესკიზის მომენტს ეხება.",
+    "E": "სწორია: ‘requires 30 per cent less energy … greenest building’ — სწორედ ენერგიის დაზოგვაზე საუბრობს.",
+    "F": "აბზაცი F ხედსა და ვიზიტორებს აღწერს, არა ენერგოეფექტურობას."
+   },
+   "mistake": "ენერგიის თემა (E) და ინვესტიციის თემა (E-შივეა) ერთ აბზაცშია — მაგრამ კითხვა 1 ინვესტიციას ეძებდა, კითხვა 5 კი ენერგიის დაზოგვას; ერთი აბზაცი ორ კითხვას პასუხობს."
+  }
+ },
+ "q24": {
+  "explanation": {
+   "summary": "სწორი აბზაცია <b>A</b>: იქ მითითებულია ცათამბჯენის ზუსტი ადგილმდებარეობა — „It <b>stands in the heart of London on the South Bank of the River Thames</b>“.",
+   "options": {
+    "A": "სწორია: ‘in the heart of London on the South Bank of the River Thames’ ზუსტ ადგილს ასახელებს.",
+    "B": "აბზაცი B სახელის ისტორიას ეხება.",
+    "C": "აბზაცი C ბერლინის შეხვედრას აღწერს.",
+    "D": "აბზაცი D ესკიზის მომენტს ეხება.",
+    "E": "აბზაცი E ენერგოეფექტურობასა და დაფინანსებას ეხება.",
+    "F": "აბზაცი F ხედს აღწერს, არა ზუსტ ადგილმდებარეობას."
+   },
+   "mistake": "ერთი აბზაცი (A) ორ კითხვას პასუხობს — კითხვა 4-ს (ძველი/ახალი შენობები) და კითხვა 6-ს (ზუსტი ადგილი); დავალების პირობაც გვაფრთხილებს, რომ ზოგი აბზაცი ერთზე მეტ კითხვას შეესაბამება."
+  }
+ },
+ "q25": {
+  "explanation": {
+   "summary": "სწორი აბზაცია <b>D</b>: სათაური „A moment of sudden inspiration“ (უეცარი შთაგონების წამი) ზუსტად ერგება იმ მომენტს — „Suddenly, as if by magic, <b>something caught his imagination</b>“ და არქიტექტორმა მენიუს უკანა მხარეს ესკიზის ხატვა დაიწყო.",
+   "options": {
+    "A": "აბზაცი A ზოგად აღწერას იძლევა, შთაგონების მომენტს არა.",
+    "B": "აბზაცი B სახელის წარმოშობას ეხება.",
+    "C": "აბზაცი C არქიტექტორის თავდაპირველ უარყოფით რეაქციას აღწერს.",
+    "D": "სწორია: ‘Suddenly … something caught his imagination’ სწორედ უეცარი შთაგონების წამს აღწერს.",
+    "E": "აბზაცი E ენერგოეფექტურობასა და დაფინანსებას ეხება.",
+    "F": "აბზაცი F ხედსა და ვიზიტორებს აღწერს."
+   }
+  }
+ },
+ "q26": {
+  "explanation": {
+   "summary": "სწორი აბზაცია <b>B</b>: სათაური „The story behind the name“ (სახელის ისტორია) ერგება იმ აბზაცს, სადაც ახსნილია, საიდან წარმოიშვა სახელი ‘the Shard’ — „<b>which means a sharp piece of broken glass</b>“ კრიტიკოსების ფრაზიდან „a shard of glass through the heart of historic London“.",
+   "options": {
+    "A": "აბზაცი A ზოგად აღწერას იძლევა, სახელის ისტორიას არა.",
+    "B": "სწორია: ‘the Shard’, ‘which means a sharp piece of broken glass’ — სწორედ სახელის წარმოშობას ხსნის.",
+    "C": "აბზაცი C ბერლინის შეხვედრას აღწერს.",
+    "D": "აბზაცი D ესკიზის შთაგონების მომენტს ეხება.",
+    "E": "აბზაცი E ენერგოეფექტურობას ეხება.",
+    "F": "აბზაცი F ხედს აღწერს."
+   }
+  }
+ },
+ "q27": {
+  "explanation": {
+   "summary": "სწორია <b>C</b>: ტექსტი მთლიანად აღწერს, როგორ გახდა ჯეიმი ოლივერი ცნობილი შეფ-მზარეული — ბავშვობის ინტერესიდან („cooking is in my blood“) ტელეშოუმდე და საკუთარ რესტორნამდე.",
+   "options": {
+    "A": "‘married life’ — ქორწინება მხოლოდ ერთი ეპიზოდია, არა ტექსტის მთავარი თემა.",
+    "B": "‘relations with his parents’ — მშობლებთან ურთიერთობა ფონია, არა ცენტრალური თემა.",
+    "C": "სწორია: ტექსტი მთლიანად კარიერის გზას აღწერს — როგორ გახდა ცნობილი მზარეული.",
+    "D": "‘what he liked in his childhood’ — ბავშვობა მხოლოდ თხრობის დასაწყისია, არა მთლიანი თემა."
+   },
+   "mistake": "‘What is the text mostly about’ მთლიან თემას ეძებს — ცალკეული ეპიზოდი (ქორწინება, ბავშვობა) მთავარ თემად არ უნდა აგერიოს."
+  }
+ },
+ "q28": {
+  "explanation": {
+   "summary": "სწორია <b>D</b>: ჯეიმი მზარეულობით დაინტერესდა, რადგან დროის უმეტეს ნაწილს მშობლების რესტორანში ატარებდა — „I was working with the staff at <b>my parents’ restaurant</b> peeling potatoes … by the time I was eight“.",
+   "options": {
+    "A": "‘taught at school’ — ეწინააღმდეგება ტექსტს: მას სკოლა არ უყვარდა და გაკვეთილებსაც აცდენდა.",
+    "B": "‘learnt from his granny’ — ბებიასთან გაკვეთილების გასაცდენად რჩებოდა, მაგრამ მზარეულობას იქ არ სწავლობდა.",
+    "C": "‘watched his mother cooking at home’ — სახლში დედის ცქერა ტექსტში ასე არ არის ნათქვამი; ის რესტორანში მუშაობდა.",
+    "D": "სწორია: ‘my parents’ restaurant … by the time I was eight’ ცხადყოფს, რომ რესტორანში გატარებულმა დრომ გააჩინა ინტერესი."
+   }
+  }
+ },
+ "q29": {
+  "explanation": {
+   "summary": "სწორია <b>C</b>: თექვსმეტი წლისამ ჯეიმიმ მზარეულის კარიერის შენება დაიწყო — „at the age of sixteen I <b>left school and went to London to train as a chef</b>“.",
+   "options": {
+    "A": "‘married his girlfriend’ — ქორწინება მოგვიანებით, 2000 წელს მოხდა, არა 16 წლისას.",
+    "B": "‘became a chef at a restaurant’ — 16 წლისამ ის ვარჯიში დაიწყო (train as a chef), მზარეული ჯერ არ გამხდარა.",
+    "C": "სწორია: ‘left school and went to London to train as a chef’ — სწორედ კარიერის დასაწყისია.",
+    "D": "‘was praised for the dish’ — შექება 11 წლისას, შემწვარი ქათმისთვის მიიღო, არა 16-ში."
+   },
+   "mistake": "‘train as a chef’ (მზარეულობის სწავლა) არ ნიშნავს „გახდა მზარეული“ — 16 წლისას მან მხოლოდ კარიერა დაიწყო, პროფესიონალი მოგვიანებით გახდა."
+  }
+ },
+ "q30": {
+  "explanation": {
+   "summary": "სწორია <b>A</b>: საკუთარი ტელეშოუს შეთავაზებაზე ჯეიმი ბედნიერი იყო — „I was <b>overjoyed with happiness</b>“.",
+   "options": {
+    "A": "სწორია: ‘overjoyed with happiness’ პირდაპირ ნიშნავს დიდ ბედნიერებას.",
+    "B": "‘Worried’ — შეშფოთება ეწინააღმდეგება ‘overjoyed’-ის დადებით ემოციას.",
+    "C": "‘Concerned’ — წუხილი არ შეესაბამება სიხარულის გრძნობას.",
+    "D": "‘Responsible’ — პასუხისმგებლობა ემოცია არ არის და ტექსტი ამას არ ამბობს."
+   }
+  }
+ },
+ "q31": {
+  "explanation": {
+   "summary": "სწორია <b>B</b>: შოუ წარმატებული გახდა მომზადების სიმარტივის გამო — „I cooked <b>simple dishes</b> with high-quality ingredients <b>rather than using complicated techniques</b>“.",
+   "options": {
+    "A": "‘British cuisine’ — ტექსტი ამბობს, რომ მისი კერძები იტალიური სამზარეულოთი იყო შთაგონებული, არა ბრიტანულით.",
+    "B": "სწორია: ‘simple dishes … rather than … complicated techniques’ — სწორედ სიმარტივეა წარმატების მიზეზი.",
+    "C": "‘traditional lifestyle’ — პირიქით, ის თანამედროვე, თავისუფალ ცხოვრების სტილს ასახავდა.",
+    "D": "‘complex technology’ — ეწინააღმდეგება ტექსტს: მან რთული ტექნიკა სწორედ რომ არ გამოიყენა."
+   },
+   "mistake": "‘rather than’ უპირისპირებს ორ რამეს — სიმარტივეს და სირთულეს; D (complex) სწორედ ის არის, რასაც ტექსტი უარყოფს."
+  }
+ },
+ "q32": {
+  "explanation": {
+   "summary": "სწორია <b>A</b>: ტელეშოუს შემდეგ ჯეიმის მეორე წარმატება ის იყო, რომ ბესტსელერის ავტორი გახდა — „I wrote a cookery book which <b>went straight to the top of the best-seller lists as number one</b>“.",
+   "options": {
+    "A": "სწორია: ‘went straight to the top of the best-seller lists’ ნიშნავს, რომ ის ბესტსელერის ავტორი გახდა.",
+    "B": "‘cookbook with Italian recipes’ — მისი კერძები იტალიურით იყო შთაგონებული, მაგრამ წიგნი „იტალიური რეცეპტების“ კრებულად ტექსტში დასახელებული არ არის.",
+    "C": "‘film about his wedding’ — ქორწილის ფილმის წარმატება ნახსენები არ არის.",
+    "D": "‘films about scooter riding’ — სკუტერით სიარული ნახსენებია, მაგრამ მასზე ფილმის წარმატება არა."
+   }
+  }
+ },
+ "q33": {
+  "explanation": {
+   "summary": "სწორია <b>D</b>: ჯეიმის რესტორანი უჩვეულოა, რადგან მას ახალგაზრდების ჯგუფთან ერთად უძღვება — „I invited a group of <b>teenagers</b> to work at my restaurant – they were all <b>unemployed</b>, and none of them had any experience“.",
+   "options": {
+    "A": "‘all alone’ — ეწინააღმდეგება იმას, რომ მან მთელი ჯგუფი მოიწვია.",
+    "B": "‘with experienced staff’ — პირიქით, მისი თანამშრომლები გამოუცდელები იყვნენ.",
+    "C": "‘together with his parents’ — მშობლებთან სიახლოვე აღნიშნულია, მაგრამ რესტორანს მათთან ერთად არ უძღვება.",
+    "D": "სწორია: ‘a group of teenagers … unemployed … no experience’ — სწორედ ახალგაზრდებთან ერთად მართვა ხდის რესტორანს უჩვეულოს."
+   }
+  }
+ },
+ "q34": {
+  "explanation": {
+   "summary": "სწორია <b>B</b> („A wise career decision“ — გონივრული საკარიერო გადაწყვეტილება): მთელი ტექსტი იმაზეა, როგორ მიიღო ჯეიმიმ მზარეულობის სწორი არჩევანი და მიაღწია წარმატებას — სკოლის დატოვებიდან საკუთარ რესტორნამდე.",
+   "options": {
+    "A": "‘A project for teenagers’ — ახალგაზრდების პროექტი მხოლოდ ერთი დეტალია, არა მთლიანი ტექსტის სათაური.",
+    "B": "სწორია: ტექსტი წარმატებული საკარიერო არჩევანის ისტორიაა, ეს სათაური მთლიანად ფარავს მას.",
+    "C": "‘The best restaurant ever’ — ტექსტი რესტორნის სიდიადეზე კი არა, კარიერის გზაზეა.",
+    "D": "‘Not all dreams come true’ — ეწინააღმდეგება ტექსტს: ჯეიმის ოცნებები სწორედ რომ ახდა."
+   }
+  }
+ },
+ "q35": {
+  "explanation": {
+   "summary": "ხარვეზი 1-ში სწორია <b>G — located</b>: „the city of Pompei, <b>located</b> about eight kilometers from Mount Vesuvius“. გრამატიკულად ეს არის წარსული მიმღეობა (‘located’ = მდებარე), რომელიც ქალაქის ადგილმდებარეობას აღწერს.",
+   "options": {
+    "A": "‘almost’ — ზმნიზედაა, ‘about eight kilometers’-თან აზრს ვერ აგებს.",
+    "C": "‘citizens’ — არსებითი სახელია; აქ კი ზმნური/მიმღეობური ფორმაა საჭირო.",
+    "G": "სწორია: ‘located … from Mount Vesuvius’ ნიშნავს „მდებარე“ — ზუსტად ერგება ადგილმდებარეობის აღწერას.",
+    "K": "‘site’ — არსებითი სახელია, წინადადების სტრუქტურას არ ერგება.",
+    "M": "‘walked’ — ქალაქი ‘walked’ ვერ იქნება; აზრობრივად შეუთავსებელია."
+   },
+   "mistake": "ხარვეზში სიტყვა მნიშვნელობითაც და მეტყველების ნაწილითაც უნდა ერგებოდეს — აქ მიმღეობა ‘located’ ('მდებარე') სჭირდება, არა არსებითი სახელი."
+  }
+ },
+ "q36": {
+  "explanation": {
+   "summary": "ხარვეზი 2-ში სწორია <b>C — citizens</b>: „a flourishing resort for Rome’s most famous <b>citizens</b>“. ეს მრავლობითი არსებითი სახელია (მოქალაქეები), რომელიც ‘Rome’s most famous’-ს ბუნებრივად ერგება.",
+   "options": {
+    "A": "‘almost’ — ზმნიზედა; ‘most famous ___’-ის შემდეგ არსებითი სახელი უნდა.",
+    "C": "სწორია: ‘Rome’s most famous citizens’ — რომის ცნობილი მოქალაქეები; შინაარსითაც და გრამატიკითაც ერგება.",
+    "D": "‘darkness’ — „სიბნელე“ ვერ იქნება კურორტის სტუმარი; აზრობრივად შეუთავსებელია.",
+    "J": "‘squares’ — „მოედნები“ ცნობილი ‘citizens’-ის ნაცვლად აზრს არღვევს (კურორტი მოედნებისთვის არ იყო).",
+    "N": "‘well-known’ — ზედსართავია, ‘most famous’-ის შემდეგ მეორე ზედსართავი ზედმეტია."
+   }
+  }
+ },
+ "q37": {
+  "explanation": {
+   "summary": "ხარვეზი 3-ში სწორია <b>M — walked</b>: „Townspeople, visitors and merchants <b>walked</b> busily in and out of taverns“. წინადადებას ზმნა სჭირდება წარსულ დროში, ‘busily in and out’-თან კი ‘walked’ (დადიოდნენ) ზუსტად ერგება.",
+   "options": {
+    "B": "‘centuries’ — არსებითი სახელია; აქ კი ქვემდებარის შემდეგ ზმნა აკლია.",
+    "E": "‘dying’ — „კვდებოდნენ“ ეწინააღმდეგება ცოცხალ, მოძრავ ქალაქს ‘busily in and out’.",
+    "L": "‘taught’ — „ასწავლიდნენ“ ‘in and out of taverns’-თან აზრს ვერ აგებს.",
+    "M": "სწორია: ‘walked busily in and out’ — დადიოდნენ; გრამატიკულადაც (წარსული ზმნა) და აზრობრივადაც ერგება.",
+    "G": "‘located’ — მიმღეობაა, აქტიურ მოძრაობას ‘in and out’ ვერ გადმოსცემს."
+   }
+  }
+ },
+ "q38": {
+  "explanation": {
+   "summary": "ხარვეზი 4-ში სწორია <b>J — squares</b>: „spent their leisure time in the <b>open-air squares</b> and marketplaces“. ‘open-air’-სა და ‘marketplaces’-თან ერთად მრავლობითი არსებითი ‘squares’ (მოედნები) ბუნებრივად ერგება დასვენების ადგილებად.",
+   "options": {
+    "B": "‘centuries’ — „საუკუნეები“ დასვენების ადგილი ვერ იქნება ‘open-air ___’.",
+    "C": "‘citizens’ — ეს სიტყვა ხარვეზ 2-ში გამოვიყენეთ და აქ ‘open-air ___ and marketplaces’-ს აზრობრივად არ ერგება.",
+    "D": "‘darkness’ — „სიბნელე“ ღია ცის ქვეშ დასვენების ადგილად შეუთავსებელია.",
+    "J": "სწორია: ‘open-air squares and marketplaces’ — ღია მოედნები და ბაზრები; ერთგვაროვან წევრებში ბუნებრივად ჯდება.",
+    "F": "‘dust’ — „მტვერი“ ვერ იქნება დასვენების ადგილი."
+   }
+  }
+ },
+ "q39": {
+  "explanation": {
+   "summary": "ხარვეზი 5-ში სწორია <b>A — almost</b>: „twelve thousand people living in Pompei and <b>almost</b> as many in the surrounding villages“. ზმნიზედა ‘almost’ ერთვის გამოთქმას ‘as many’ (თითქმის იმდენივე) და რაოდენობას აზუსტებს.",
+   "options": {
+    "A": "სწორია: ‘almost as many’ — თითქმის იმდენივე; ზმნიზედა ზუსტად ერგება რაოდენობრივ შედარებას.",
+    "B": "‘centuries’ — არსებითი სახელია; ‘___ as many’-ში ზმნიზედა უნდა.",
+    "E": "‘dying’ — „მომაკვდავი“ რაოდენობის აღწერას ‘as many’ არ ერგება.",
+    "I": "‘pleased’ — ‘___ as many’-სთან გრამატიკულად შეუთავსებელია.",
+    "N": "‘well-known’ — ზედსართავია, ‘as many’-მდე ზმნიზედა ‘almost’ უნდა."
+   }
+  }
+ },
+ "q40": {
+  "explanation": {
+   "summary": "ხარვეზი 6-ში სწორია <b>N — well-known</b>: „the one which took place in the year 79 AD, is the most <b>well-known</b>“. ‘the most ___’ ზედსართავის აღმატებით ხარისხს მოითხოვს და ‘well-known’ (ცნობილი) აზრობრივადაც ერგება ცნობილ ამოფრქვევას.",
+   "options": {
+    "B": "‘centuries’ — არსებითი სახელია; ‘the most ___’ ზედსართავს ითხოვს.",
+    "F": "‘dust’ — არსებითი სახელია, აღმატებით ხარისხს ვერ ქმნის.",
+    "I": "‘pleased’ — „კმაყოფილი“ ამოფრქვევის აღწერას აზრობრივად არ ერგება.",
+    "N": "სწორია: ‘the most well-known’ — ყველაზე ცნობილი; ზედსართავი აღმატებით ხარისხში ზუსტად ჯდება.",
+    "H": "‘original’ — „თავდაპირველი“ აქ აზრს ვერ აგებს; ამოფრქვევა ცნობილია, არა „ორიგინალური“."
+   },
+   "mistake": "‘the most ___’ ყოველთვის ზედსართავის აღმატებითი ხარისხია — არსებითი სახელი (centuries, dust) აქ ვერ მოთავსდება."
+  }
+ },
+ "q41": {
+  "explanation": {
+   "summary": "ხარვეზი 7-ში სწორია <b>F — dust</b>: „completely buried under the thick <b>dust</b> of the volcanic ash“. ‘the thick ___ of the volcanic ash’ არსებით სახელს ითხოვს და ‘dust’ (მტვერი) აზრობრივადაც ერგება ვულკანურ ფერფლს.",
+   "options": {
+    "B": "‘centuries’ — „საუკუნეები“ ‘buried under the thick ___ of ash’-ს აზრობრივად არ ერგება.",
+    "D": "‘darkness’ — „სიბნელე“ ფერფლის ფიზიკურ ფენას ვერ აღწერს ‘thick ___’.",
+    "E": "‘dying’ — მიმღეობაა; ‘the thick ___’-ში არსებითი სახელი უნდა.",
+    "F": "სწორია: ‘the thick dust of the volcanic ash’ — ვულკანური ფერფლის სქელი ფენა; ზუსტად ჯდება.",
+    "J": "‘squares’ — „მოედნები“ ფერფლის ფენის აღწერას არ ერგება."
+   }
+  }
+ },
+ "q42": {
+  "explanation": {
+   "summary": "ხარვეზი 8-ში სწორია <b>D — darkness</b>: „left the city in complete <b>darkness</b>“. ‘in complete ___’ არსებით სახელს ითხოვს და ‘darkness’ (სიბნელე) ლოგიკურად ერგება ფერფლით დაბნელებულ ქალაქს.",
+   "options": {
+    "B": "‘centuries’ — „საუკუნეები“ ‘in complete ___’-ს აზრობრივად არ ერგება.",
+    "D": "სწორია: ‘left the city in complete darkness’ — სრულ სიბნელეში; ფერფლის ღრუბელმა ქალაქი დააბნელა.",
+    "E": "‘dying’ — მიმღეობაა, ‘in complete ___’-ში არსებითი სახელი უნდა.",
+    "H": "‘original’ — ზედსართავია; ‘in complete ___’-ში არსებითი სახელი უნდა.",
+    "K": "‘site’ — „ადგილი“ ‘in complete ___’-თან აზრს ვერ აგებს."
+   }
+  }
+ },
+ "q43": {
+  "explanation": {
+   "summary": "ხარვეზი 9-ში სწორია <b>B — centuries</b>: „the city was abandoned for many <b>centuries</b>“. ‘for many ___’ მრავლობით არსებით სახელს ითხოვს და ‘centuries’ (საუკუნეები) დროის ხანგრძლივ მონაკვეთს გადმოსცემს.",
+   "options": {
+    "B": "სწორია: ‘abandoned for many centuries’ — მრავალი საუკუნის მანძილზე მიტოვებული; დროის გამოხატვას ზუსტად ერგება.",
+    "D": "‘darkness’ — „სიბნელე“ ‘for many ___’ (დროის მონაკვეთი) გამოსახვას არ ერგება.",
+    "E": "‘dying’ — მიმღეობაა; ‘for many ___’-ში მრავლობითი არსებითი უნდა.",
+    "J": "‘squares’ — „მოედნები“ ‘abandoned for many ___’-ში დროს ვერ აღნიშნავს.",
+    "F": "‘dust’ — „მტვერი“ აქ უკვე გამოვიყენეთ (ხ. 7) და დროის მონაკვეთს არ გადმოსცემს."
+   }
+  }
+ },
+ "q44": {
+  "explanation": {
+   "summary": "ხარვეზი 10-ში სწორია <b>K — site</b>: „When a group of explorers rediscovered the <b>site</b> in 1748“. ‘rediscovered the ___’ არსებით სახელს ითხოვს და ‘site’ (ადგილი/ნაქალაქარი) ზუსტად აღნიშნავს ხელახლა აღმოჩენილ ადგილს.",
+   "options": {
+    "B": "‘centuries’ — ეს სიტყვა ხ. 9-ში გამოვიყენეთ და ‘rediscovered the ___’-ს აზრობრივად არ ერგება.",
+    "F": "‘dust’ — „მტვერი“ უკვე გამოყენებულია და აქ ხელახლა აღმოჩენის ობიექტად არ ჯდება.",
+    "K": "სწორია: ‘rediscovered the site’ — აღმოაჩინეს ნაქალაქარი/ადგილი; ზუსტად ერგება.",
+    "M": "‘walked’ — ზმნაა და უკვე გამოყენებულია (ხ. 3); აქ კი არსებითი სახელი უნდა.",
+    "H": "‘original’ — ზედსართავია; ‘the ___’-ში არსებითი სახელი ესაჭიროება."
+   }
+  }
+ },
+ "q45": {
+  "explanation": {
+   "summary": "ხარვეზი 11-ში სწორია <b>H — original</b>: „Pompei was kept in its <b>original</b> state“. ‘in its ___ state’ ზედსართავს ითხოვს და ‘original’ (თავდაპირველი) გადმოსცემს, რომ ქალაქი პირვანდელ მდგომარეობაში შემორჩა.",
+   "options": {
+    "E": "‘dying’ — „მომაკვდავი“ ‘in its ___ state’-ში თავდაპირველი მდგომარეობის აზრს არ ერგება.",
+    "G": "‘located’ — მიმღეობაა; ‘in its ___ state’-ში ზედსართავი ‘original’ უკეთ ჯდება.",
+    "H": "სწორია: ‘kept in its original state’ — შემორჩა თავდაპირველი სახით; აზრობრივადაც და გრამატიკულადაც ერგება.",
+    "I": "‘pleased’ — „კმაყოფილი“ ქალაქის მდგომარეობას ვერ აღწერს.",
+    "K": "‘site’ — არსებითი სახელია; ‘in its ___ state’-ში ზედსართავი უნდა."
+   }
+  }
+ },
+ "q46": {
+  "explanation": {
+   "summary": "ხარვეზი 12-ში სწორია <b>L — taught</b>: „artifacts and skeletons … have <b>taught</b> us a lot about everyday life“. ‘have ___ us’ Present Perfect-ის წარსული მიმღეობას ითხოვს და ‘taught’ (გვასწავლა) ზუსტად ერგება — აღმოჩენებმა ბევრი რამ გვასწავლა.",
+   "options": {
+    "E": "‘dying’ — ‘have ___ us a lot’-ში დასრულებული მიმღეობა უნდა, არა ‘-ing’ ფორმა.",
+    "I": "‘pleased’ — „გაგვახარა“ აზრობრივად სუსტია; ტექსტი ცოდნის მიღებაზე საუბრობს (‘a lot about everyday life’).",
+    "L": "სწორია: ‘have taught us a lot’ — ბევრი რამ გვასწავლა; Present Perfect-ის ფორმასაც და აზრსაც ერგება.",
+    "M": "‘walked’ — „დადიოდნენ“ უკვე გამოყენებულია (ხ. 3) და ‘have ___ us a lot about’-თან აზრს ვერ აგებს.",
+    "G": "‘located’ — „მდებარე“ ‘have ___ us’-ში აზრობრივად შეუთავსებელია."
+   },
+   "mistake": "Present Perfect (‘have ___’) ყოველთვის წარსულ მიმღეობას ითხოვს — ‘dying’ (‘-ing’ ფორმა) აქ გრამატიკულად არ ჯდება."
+  }
+ }
+}

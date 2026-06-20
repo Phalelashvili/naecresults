@@ -1,0 +1,2177 @@
+{
+ "slug": "inglisuri-3-varianti-2022",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2022,
+ "variant": 3,
+ "kind": "test",
+ "title": "ინგლისური - 2022 წელი 3 ვარიანტი",
+ "num_questions": 46,
+ "num_content_blocks": 25,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<h2>Task 1: You are going to listen to five texts. For each of them answer the two questions given. Mark the correct answer A, B or C. You have 20 seconds to look through the task. You will hear the recording twice. (10 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/2022V3.mp3 \" type=\"audio/mpeg\"/> Your browser does not support the audio element. </audio>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 1</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "The speaker says that",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> David has been his friend since childhood.</span>",
+     "text": "David has been his friend since childhood."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> David had the same hobbies as the speaker.</span>",
+     "text": "David had the same hobbies as the speaker."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> David went to the same school with the speaker.</span>",
+     "text": "David went to the same school with the speaker."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "",
+   "stem_html": "What does the speaker say about fishing?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> It was David who taught him how to fish.</span>",
+     "text": "It was David who taught him how to fish."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Fishing became his hobby at high school.</span>",
+     "text": "Fishing became his hobby at high school."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He and David used to go fishing together.</span>",
+     "text": "He and David used to go fishing together."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 2</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "",
+   "stem_html": "We learn from the speaker that Mont Blanc is the",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> mountain on the border of Georgia.</span>",
+     "text": "mountain on the border of Georgia."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> highest mountain peak in the Caucasus.</span>",
+     "text": "highest mountain peak in the Caucasus."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> mountain on the border of France and Italy.</span>",
+     "text": "mountain on the border of France and Italy."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "",
+   "stem_html": "How many legends connected to the Caucasus Mountains are mentioned in the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> One.</span>",
+     "text": "One."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Two.</span>",
+     "text": "Two."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Three.</span>",
+     "text": "Three."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 3</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "",
+   "stem_html": "Harbin Festival in China is the",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> world’s biggest ice and snow festival.</span>",
+     "text": "world’s biggest ice and snow festival."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> major event in Japan.</span>",
+     "text": "major event in Japan."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> national Malaysian holiday.</span>",
+     "text": "national Malaysian holiday."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "",
+   "stem_html": "Where can the visitors see the ice sculptures?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> On the river bank.</span>",
+     "text": "On the river bank."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> All over the city.</span>",
+     "text": "All over the city."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Only in the city garden.</span>",
+     "text": "Only in the city garden."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 4</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "",
+   "stem_html": "How did Julius Caesar spend most of his time with the pirates?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He wrote poems.</span>",
+     "text": "He wrote poems."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He slept all the time.</span>",
+     "text": "He slept all the time."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He sailed to different islands.</span>",
+     "text": "He sailed to different islands."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "",
+   "stem_html": "What do we learn about Julius Caesar from the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He became the leader of the pirates.</span>",
+     "text": "He became the leader of the pirates."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He refused to stay alone on the pirates’ island.</span>",
+     "text": "He refused to stay alone on the pirates’ island."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He told his men to go and gather silver for the pirates.</span>",
+     "text": "He told his men to go and gather silver for the pirates."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 5</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "",
+   "stem_html": "When is Didgoroba celebrated?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> In May.</span>",
+     "text": "In May."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> In August.</span>",
+     "text": "In August."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> In September.</span>",
+     "text": "In September."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "",
+   "stem_html": "What is the text mostly about?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> The Georgian Golden Age.</span>",
+     "text": "The Georgian Golden Age."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> A famous battle in Georgia.</span>",
+     "text": "A famous battle in Georgia."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Festival of Didgoroba.</span>",
+     "text": "Festival of Didgoroba."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 2: You are going to listen to one text with eight questions. Mark the correct answer A, B or C. You now have 30 seconds to look through the task. You will then hear the recording twice. (8 points)</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 1,
+   "heading": "",
+   "stem_html": "The speaker visits the place of his birth",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> once a year.</span>",
+     "text": "once a year."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> when it’s important.</span>",
+     "text": "when it’s important."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> more than once a year.</span>",
+     "text": "more than once a year."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 2,
+   "heading": "",
+   "stem_html": "Which of the following did the speaker’s family own?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> A banana plantation.</span>",
+     "text": "A banana plantation."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> A movie theatre.</span>",
+     "text": "A movie theatre."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> A small island.</span>",
+     "text": "A small island."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 3,
+   "heading": "",
+   "stem_html": "During their childhood years the speaker and his sister",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> didn’t like to play with toys.</span>",
+     "text": "didn’t like to play with toys."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> would have a good time together.</span>",
+     "text": "would have a good time together."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> hated running after each other.</span>",
+     "text": "hated running after each other."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 4,
+   "heading": "",
+   "stem_html": "Why did the speaker go to Paris?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> To become a lawyer.</span>",
+     "text": "To become a lawyer."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> To work in the theatre.</span>",
+     "text": "To work in the theatre."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> To study stage set design.</span>",
+     "text": "To study stage set design."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 5,
+   "heading": "",
+   "stem_html": "The speaker feels thankful to the editor of the magazine Vogue because she",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> advised the speaker to return to London.</span>",
+     "text": "advised the speaker to return to London."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> gave the speaker advice about his career.</span>",
+     "text": "gave the speaker advice about his career."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> taught the speaker how to make shoes.</span>",
+     "text": "taught the speaker how to make shoes."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 6,
+   "heading": "",
+   "stem_html": "How did the speaker study shoemaking?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He attended shoemaking classes.</span>",
+     "text": "He attended shoemaking classes."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He learnt it from Italian shoemakers.</span>",
+     "text": "He learnt it from Italian shoemakers."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He took classes from Ossie Clarke.</span>",
+     "text": "He took classes from Ossie Clarke."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 7,
+   "heading": "",
+   "stem_html": "Where did the speaker have the first exhibition of his works?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> In his London house.</span>",
+     "text": "In his London house."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> At the Shoe Museum in Toronto.</span>",
+     "text": "At the Shoe Museum in Toronto."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> At the Design Museum in London.</span>",
+     "text": "At the Design Museum in London."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 8,
+   "heading": "",
+   "stem_html": "What does the speaker say about critical comments?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He thinks they are important.</span>",
+     "text": "He thinks they are important."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He likes to listen to them.</span>",
+     "text": "He likes to listen to them."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He never listens to them.</span>",
+     "text": "He never listens to them."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 3: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>(8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Which paragraph</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> 1. describes how Butch O’Hare fought against the Japanese planes alone? <br/> 2. mentions the airport which was given Butch O’Hare’s name? <br/> 3. mentions Easy Eddie’s profession? <br/> 4. mentions why the planes had cameras on board? <br/> 5. states how grateful Al Capone was to his lawyer? <br/> 6. explains why Butch O’Hare was not able to finish his flight? <br/> 7. could have the title: ‘The decision leading to death’? <br/> 8. could have the title: ‘Award for bravery’? <br/> </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>The son and the father </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b>During the World War II, many people became famous in one way or another. One of them was Butch O’Hare, an American aviator. He was a fighter pilot on an aircraft carrier in the Pacific Ocean. An aircraft carrier is a big military ship which carries planes of different size. One day the pilots of the fighter planes received an order to go on a particular mission. After Butch was in the air, he looked at his fuel measuring apparatus and saw that the fuel tank was almost empty. Because of this, he wouldn’t be able to complete his mission. So, following his flight leader’s order he immediately flew back to his ship. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> As Butch O’Hare was returning to his ship he noticed a group of Japanese pilots heading toward the military ship to attack it. Butch O'Hare made a quick decision to attack Japanese planes all alone because there were no fighter planes left to defend the military ship. Butch O’Hare’s plane, like any other American fighter plane then, was equipped with cameras, so that as they flew and fought, pictures were taken and pilots could learn more about the enemy locations. Butch O’Hare did everything he could to keep the Japanese planes from reaching the military ship. Finally, the Japanese planes turned to another direction, and Butch O’Hare and his fighter, both badly damaged, went back to the big military ship. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> Back on the ship, Butch O’Hare told others what had happened to him. But it was only after he showed them the photos taken by his camera during the fight, that his friends realised what a big risk he had taken. He was recognised as a hero and was given one of the nation’s highest military awards - the Medal of Honour. At White House ceremony, Butch O’Hare was personally congratulated by President Roosevelt for his courage. And, as you know, O’Hare Airport in Chicago is also named after him. And in addition, there is a restored airplane on display in Chicago airport similar to the one that O’Hare flew. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b>Prior to this time in Chicago there was a man named Easy Eddie. He was working for a well-known man, Al Capone. Al Capone wasn’t famous for anything heroic, but he was notorious for the murders he had committed and the illegal things he had done. Al Capone’s sevenyear reign as a crime boss ended when he went to prison at the age of 33, which happened not without Easy Eddie’s involvement. Easy Eddie was Al Capone’s lawyer, and a very clever one. In fact, because of his skill, Easy Eddie was able to keep Al Capone out of jail more than once. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> To show how thankful he was, Al Capone paid his lawyer very well. Eddie not only earned a lot of money, but he also got extra things, like a house that was enormous and occupied the whole block of the district. The house was surrounded by a fence, and he had servants and maids and all of the conveniences of what they needed. Easy Eddie had a son. He loved his son and gave him all the best things while he was growing up: clothes, cars and a good education. And because Eddie loved his son he tried to teach him to do right things. But one thing Easy Eddie couldn’t give his son was a good personal example. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> Easy Eddie decided that a good reputation was much more important for his son than all the riches he could leave him. So, he went to the authorities to admit the wrong things he had done. In order to tell the truth, Eddie had to speak against Al Capone. He knew that Al Capone would have him killed. But Eddie wanted most of all to try to be a good example to his son to do the best he could to give his son a good name. So, in the court Eddie spoke openly against Al Capone. Within the year, Easy Eddie was shot and killed on a lonely street in Chicago. It seems as if these are two unrelated stories. But Butch O’Hare was Easy Eddie’s son. </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2> Task 4: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D) (8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>This is part of the speech made to Stanford University graduates in 2005 by Steve Jobs, the founder of Apple Computer Company and Pixar Animation Studios</i><br/> ‘My biological mother was a young unmarried college graduate student and she decided to have me adopted by someone. She felt very strongly that I should be adopted by college graduates - someone with university diploma. My biological mother later found out that my parents, those who adopted me, had never graduated from college and she refused to sign the final adoption papers. She only agreed a few months later when my parents, those who adopted me, promised that I would someday go to college. Seventeen years later I did go to college. But I naively chose Reed college that was almost as expensive as Stanford. All of my working-class parents’ savings were being spent on my college tuition. After six months, I had no idea how the college was going to help me in life, so I decided to drop out. It wasn’t at all romantic. I didn’t have a dorm room and I slept on the floor in friends’ rooms; I returned Coke bottles for five cents to buy food with, and I would walk seven miles across town every Sunday night to get one free meal at the Hare Krishna temple. Still, I think that it was one of the best decisions I’d ever made. I stopped taking the required classes and began attending the ones that looked interesting. I took a calligraphy class and learned the art of producing beautiful writing. I found it fascinating! I didn’t think then that this would ever have a practical application in my life. But ten years later, when we were designing the first Macintosh computer, this experience turned out to be very useful. Mac was the first computer with beautiful design, fonts and forms. I found what I loved to do early in life. Woz* and I started Apple in my parents garage when I was twenty. We worked hard and in ten years Apple had grown into a two billion USD company with over four thousand employees. And then I got fired*! How can you get fired from a company you started? Well, as Apple grew, we hired someone who I thought was <br/> very talented to run the company with me, and for the first year things went well. But then our visions of the future went to different directions. Our Board of Directors took his side. So, at thirty I was out! I was very upset. I even thought about running away from the Silicon Valley. But I still loved what I did and I decided to start over! It turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again. I entered one of the most creative periods of my life. During the next years, between 1986-1988, I started the companies NeXT and Pixar. Pixar went on to create the world’s first computer animated feature film, Toy Story, and is now the most successful animation studio in the world. Apple bought NeXT. I returned to Apple and the technology we developed at NeXT is at the heart of Apple’s current renaissance. I strongly believe that the only way to do great work is to love what you do. If you haven’t found it yet, keep looking! Don’t settle. Stay Hungry. Stay Foolish.’ <br/> *Woz: სტივ ვოზნიაკი, Apple-ის თანადამფუძნებელი *to fire: სამსახურიდან გათავისუფლება, მოხსნა </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 1,
+   "heading": "",
+   "stem_html": "Steve Jobs’ biological mother was the person who",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> had never gone to college.</span>",
+     "text": "had never gone to college."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> didn’t care about her child’s future life.</span>",
+     "text": "didn’t care about her child’s future life."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> wanted her child to get college education.</span>",
+     "text": "wanted her child to get college education."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> didn’t want her child to be adopted by someone.</span>",
+     "text": "didn’t want her child to be adopted by someone."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 2,
+   "heading": "",
+   "stem_html": "Why did Steve Jobs decide to leave the college?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He wanted to take a calligraphy class.</span>",
+     "text": "He wanted to take a calligraphy class."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He couldn’t see any practical use of it.</span>",
+     "text": "He couldn’t see any practical use of it."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> His parents didn’t pay the tuition fee.</span>",
+     "text": "His parents didn’t pay the tuition fee."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> He had no time to attend the classes.</span>",
+     "text": "He had no time to attend the classes."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 3,
+   "heading": "",
+   "stem_html": "Steve Jobs mentions that after dropping out of college, he",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> had a romantic life.</span>",
+     "text": "had a romantic life."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> had financial problems.</span>",
+     "text": "had financial problems."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> never felt hungry and homeless.</span>",
+     "text": "never felt hungry and homeless."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> still took some required classes.</span>",
+     "text": "still took some required classes."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 4,
+   "heading": "",
+   "stem_html": "How did the knowledge of calligraphy help Steve Jobs later?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He was able to start Apple.</span>",
+     "text": "He was able to start Apple."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He acquired a new talented friend.</span>",
+     "text": "He acquired a new talented friend."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He could design lovely fonts for Mac.</span>",
+     "text": "He could design lovely fonts for Mac."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> It helped him to run a big company.</span>",
+     "text": "It helped him to run a big company."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 5,
+   "heading": "",
+   "stem_html": "How did Steve Jobs initially feel after being fired from Apple?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Unhappy.</span>",
+     "text": "Unhappy."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Nervous.</span>",
+     "text": "Nervous."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Excited.</span>",
+     "text": "Excited."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> Scared.</span>",
+     "text": "Scared."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 6,
+   "heading": "",
+   "stem_html": "What do we learn about the company Pixar from the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> This company was bought by Apple.</span>",
+     "text": "This company was bought by Apple."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> It’s not as successful now as it used to be.</span>",
+     "text": "It’s not as successful now as it used to be."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Steve Jobs started this company at the age of 30.</span>",
+     "text": "Steve Jobs started this company at the age of 30."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> Computer-based animation films are made there.</span>",
+     "text": "Computer-based animation films are made there."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 7,
+   "heading": "",
+   "stem_html": "What advice did Steve Jobs give in the end of his speech?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Do things with love.</span>",
+     "text": "Do things with love."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Get a good education.</span>",
+     "text": "Get a good education."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Keep looking for creative people.</span>",
+     "text": "Keep looking for creative people."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> Keep looking for a good income.</span>",
+     "text": "Keep looking for a good income."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 8,
+   "heading": "",
+   "stem_html": "Which of the following would be the best title for the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> In search of money</span>",
+     "text": "In search of money"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> In search of popularity</span>",
+     "text": "In search of popularity"
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Success and failure</span>",
+     "text": "Success and failure"
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> Education brings success</span>",
+     "text": "Education brings success"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 5: Read the text and fill the gaps with the words given. Use each word only once. Two words are extra. (12 points) </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>cares (A) crews (B) experience (C) females (D) fight (E) journalists (F) lasted (G) male (H) proud (I) risks (J) same (K) similar (L) stepped (M) unusual (N)</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>The Trojan War</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Laila Ali is the daughter of a boxing legend Muhammad Ali. But if you had asked him if he wanted the youngest of his nine kids to become a boxer, he would have said ‘absolutely not’, because Laila was a woman! When people asked Muhammad Ali about …… (1) in boxing, he said he was against it. Because her dad was so famous, Laila Ali’s first fight was …… (2). Laila Ali first appeared on the ring in 1999. Normally the first fight in boxing is so unimportant that nobody …… (3) whether the person wins or loses. But it was different in Laila’s case. Laila Ali’s first fight had TV crews from around the world and the best boxing …… (4) were there. Nobody would have been there if her dad hadn’t been one of the greatest boxers in history. Everyone wanted to know the …… (5) thing – was she any good? Would her father come to the fight? Didn’t she know the …… (6) of fighting as her father suffered from a serious disease that was the result of his boxing career? The world’s media watched how Laila Ali …… (7) into the ring with her opponent April Fowler. The fight …… (8) 31 seconds. Poor April Fowler had even less …… (9) than her opponent. People joked that April Fowler was so elegant and thin that she would have looked better on a tennis court than on a boxing ring. Everyone agreed that Laila should have had a stronger competitor on her first …… (10) but there was something else obvious too – she had talent and even moved while boxing in a …… (11) way as her father. Muhammad Ali didn’t attend the fight but he was at the party afterwards and said he was …… (12) of his daughter. </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ო"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ლ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "კ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ნ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q42",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ზ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q43",
+   "number": 9,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q44",
+   "number": 10,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q45",
+   "number": 11,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "მ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q46",
+   "number": 12,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ი"
+  }
+ ]
+}

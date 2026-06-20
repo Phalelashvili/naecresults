@@ -1,0 +1,967 @@
+{
+ "slug": "inglisuri-2-varianti-2024",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2024,
+ "variant": 2,
+ "kind": "test",
+ "title": "2024 წლის ინგლისურის ტესტი 2 ვარიანტი | Testebi.ge",
+ "num_questions": 24,
+ "num_content_blocks": 26,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<p>Task 1: Listen to the text and for each question mark the correct answer A, B, C or D. You now have 40 seconds to look through the task. You will then hear the recording twice. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/ENG2024V2.mp3\" type=\"audio/mpeg\"/> </audio>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> The speaker thinks that Lisbon </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. is as old as Rome.</span>",
+     "text": "is as old as Rome."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. offers new opportunities.</span>",
+     "text": "offers new opportunities."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. faces many challenges.</span>",
+     "text": "faces many challenges."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. is the same as it was centuries ago.</span>",
+     "text": "is the same as it was centuries ago."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> What is the Monument of the Discoveries devoted to? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. The success of Vasco da Gama.</span>",
+     "text": "The success of Vasco da Gama."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. The achievements of Magellan.</span>",
+     "text": "The achievements of Magellan."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The findings of the golden centuries.</span>",
+     "text": "The findings of the golden centuries."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. The activities of one famous explorer.</span>",
+     "text": "The activities of one famous explorer."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> The speaker mentions the Jeronimos Monastery to say that Vasco da Gama </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. personally built it.</span>",
+     "text": "personally built it."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. donated artifacts to it.</span>",
+     "text": "donated artifacts to it."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. lived there all his life.</span>",
+     "text": "lived there all his life."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. prayed there before his voyage.</span>",
+     "text": "prayed there before his voyage."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> We learn from the speaker that Pombaline is the name of </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. the architectural style.</span>",
+     "text": "the architectural style."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. the earthquake.</span>",
+     "text": "the earthquake."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. the museum.</span>",
+     "text": "the museum."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. the avenue.</span>",
+     "text": "the avenue."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Rossio Square is a place where </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. bullfights still take place.</span>",
+     "text": "bullfights still take place."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. bullfights used to be held.</span>",
+     "text": "bullfights used to be held."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. the triumphal arch stands.</span>",
+     "text": "the triumphal arch stands."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. the city reconstruction started from.</span>",
+     "text": "the city reconstruction started from."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> What do we learn about the trams of Lisbon? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Glória is the only tram there.</span>",
+     "text": "Glória is the only tram there."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. They operate only in the centre.</span>",
+     "text": "They operate only in the centre."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. They function only in the old district.</span>",
+     "text": "They function only in the old district."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. There are trams all over the city.</span>",
+     "text": "There are trams all over the city."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> What does the speaker say about the Glória tram? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Nobody liked to travel on the upper level.</span>",
+     "text": "Nobody liked to travel on the upper level."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Today very few visitors travel by it.</span>",
+     "text": "Today very few visitors travel by it."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. It used to have an upper level.</span>",
+     "text": "It used to have an upper level."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It doesn't function any more.</span>",
+     "text": "It doesn't function any more."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> What makes the town of Sintra a popular tourist destination? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. It has nice architecture and history.</span>",
+     "text": "It has nice architecture and history."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Hans Christian Andersen was born there.</span>",
+     "text": "Hans Christian Andersen was born there."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Tourists have a chance to meet royalties there.</span>",
+     "text": "Tourists have a chance to meet royalties there."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Tourists have a chance to meet writers and poets there.</span>",
+     "text": "Tourists have a chance to meet writers and poets there."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>The 'Earlier Mona Lisa'</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> The Mona Lisa by Leonardo da Vinci is the most famous painting in the world. Created in the 16th century, the painting offers a portrait of Lisa Gherardini, the wife of a Florentine silk merchant named Francesco del Giocondo. Today, the Renaissance masterpiece hangs in the Louvre Museum in Paris, where it is visited by one million people each year. To this day, the Mona Lisa continues to fascinate art enthusiasts with its technical skill and unanswered questions surrounding it. Was the portrait completed in 1506? Or is 1517 a more accurate date? Does the portrait actually feature Lisa Gherardini? And then there's this bigger question: Was da Vinci's Mona Lisa his first Mona Lisa? Or did he paint two versions of his masterpiece? The questions never end; new findings lead to even more questions.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> The debate first began with an intriguing piece of text written by the art historian Giorgio Vasari in his book published in 1550, in Florence. In a section called 'Life of Leonardo da Vinci: Painter and Sculptor of Florence', Vasari wrote: 'Leonardo took on the task of painting the portrait of Francesco del Giocondo's wife, Mona Lisa; and after working on it for four years, he left it unfinished.' And then Vasari described some of the characteristics of the portrait that don't quite match the famous painting hanging in the Louvre today.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> For example, Vasari gave a detailed description of the Mona Lisa's eyebrows, stating that 'the eyebrows could not be more natural.' However, the Louvre Mona Lisa has no clearly visible eyebrows or eyelashes. This made some people think that Vasari was talking about a different painting, perhaps an earlier, unfinished version of the Mona Lisa. Then, on September 27, 2012 during an exhibition in Geneva, the representatives from the Mona Lisa Foundation shocked the art world. They presented a painting which they believed was a younger version of Leonardo da Vinci's famous 'Mona Lisa.' According to the Foundation, after 35 years of research, they had all the evidence to prove that Leonardo da Vinci had indeed painted two versions of the Mona Lisa portrait.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b> The Foundation experts claimed that Leonardo painted one Mona Lisa, called the 'Earlier Mona Lisa', in Florence in 1503 and another Mona Lisa, which is now in the Louvre Museum, in Rome in 1513. Both paintings of the Mona Lisa are much alike - the pose, the hair, the hands and the clothing are the same, but the smile of the earlier one is more obvious and the face looks younger and more beautiful. Unlike the Mona Lisa in the Louvre, the 'Earlier Mona Lisa' has an unfinished background, just like Giorgio Vasari described. Also, the 'Earlier Mona Lisa' shows a woman in her early 20s. This matches the historical documents which say that Leonardo painted the Florentine housewife, Mona Lisa, when she was 24. In contrast, the famous Louvre Mona Lisa, clearly shows a woman in her early 30s.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> The Mona Lisa Foundation has worked with a famous American scientist John Asmus, at the University of California. John Asmus used lasers and supercomputers to provide strong scientific evidence that the 'Earlier Mona Lisa' is another original and priceless work of art by the hand of Leonardo da Vinci. The scientist says that the secret to finding the truth about the 'Earlier Mona Lisa' lies in da Vinci's so-called 'fingerprint' – the great artist's unique method of changing from dark to light colours and tones, something that even Leonardo's imitators cannot copy.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> One of the surprising things about Leonardo da Vinci is that despite his colossal reputation as an artist, he didn't actually produce many paintings. Over the course of a long career lasting almost half a century, he painted probably no more than 20 pictures. Only 15 out of those 20 pictures have survived. That's why, it would be quite a sensation to discover a new painting by Leonardo. But sadly, the 'Earlier Mona Lisa' still has its critics - many art experts still don't believe that it's the work of Leonardo da Vinci. They claim that the 'Earlier Mona Lisa' is nothing more than just a copy of the Mona Lisa in the Louvre. Their doubts are confirmed by the fact that the 'Earlier Mona Lisa' was painted on canvas, whereas Leonardo painted on wood. So as with the Mona Lisa's mysterious smile this is also a big mystery that won't probably be solved any time soon.</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Which paragraph mentions when the discussion around the Mona Lisa first started? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> Which paragraph states that many art experts still have doubts about the Earlier Mona Lisa? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Which paragraph says why it is impossible to copy Leonardo's work? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> Which paragraph mentions various similarities and differences of the two paintings? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Which paragraph states the exact date when the Earlier Mona Lisa was presented to the public? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> Which paragraph explains why it would be a real surprise to find Leonardo's new work? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> Which paragraph could have the title: 'More questions than answers'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which paragraph could have the title: 'The Earlier Mona Lisa goes on display'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 3: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>This is a true story told by Roger Federer, one of the greatest tennis players of all time.</i></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>'I was born on August 8th, 1981 in a small yet very beautiful city of Basel in Switzerland. I grew up in a loving and supportive family where tennis was a common interest. At the age of almost four, my life changed when I witnessed the German tennis legend, Boris Becker, winning his first title at the 1985 Wimbledon Championships. This inspiration led me to pick up a racket and start playing tennis for fun. By the age of 10, I began taking group tennis lessons at the Old Boys Tennis Club, where I also had a start as a ball boy, collecting and supplying balls for tennis players. I loved being a ball boy. I got a chance to see the best players in the world, and see how they would prepare, how they would sweat and how they dealt with stress. I used to watch those players with a sense of wonder. They were like giants to me and I began to dream. My dreams led me to work harder and I started to believe in myself. But when I was 12 years old, I found it very difficult to control my emotions. After every loss I would throw and kick my racket around the court in anger and disappointment. My parents were ashamed of me and told me that they would no longer accompany me to any tournaments. They were never angry if I lost a match but they were very angry with my behaviour during and after the matches. Luckily, at that time I was trained by a great Australian coach, Peter Carter. He was very calm but he was also funny with a typical Australian sense of humour. He told me that I was simply wasting my energy whenever I got angry and violent during games and I needed to be calmer and more focused. So I started working on my behaviour. I realised that my anger on the tennis court wasn't going to change my results. With Peter's help I eventually learned to control myself. He taught me to play with smooth, relaxed and elegant style; he taught me the importance of being polite, how important it was not to be afraid of anyone and to respect everyone.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>When I was 16, I left school to get completely involved in tennis. At that time my parents were still skeptical about my ability to become a professional player, so my father gave me two years to succeed in tennis. If I failed or was unable to become a professional player, I had to go back to school. I told him to trust me and, luckily, I soon became World No 1 among the juniors. Then in August 2002 I received the shocking news of my coach Peter Carter's death. He died in a car accident while on a trip in South Africa. I was devastated, but this great loss woke me up. It made me realise how fortunate I was to be a tennis player and how much Peter would want me not to waste my talent. That was the moment that changed me and I started to train harder. I knew Peter would want me to do better. So the following year in 2003 I won my first Grand Slam tournament at Wimbledon and in 2004 I became World No 1 tennis player. And thus, I was on my way to the most amazing journey through the world of tennis. I've played more than 1500 matches for over 24 years. And I've learnt that you can't succeed through talent alone. You have to work hard and put in a lot of effort for sometimes a little reward. But you have to know that if you put in the right effort, the reward will come. Remember, no matter how successful you become, there's always something you can improve.'</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Roger Federer was inspired to start playing tennis when he </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. first picked up a tennis racket.</span>",
+     "text": "first picked up a tennis racket."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. saw Boris Becker's great victory.</span>",
+     "text": "saw Boris Becker's great victory."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. watched a Wimbledon semi-final.</span>",
+     "text": "watched a Wimbledon semi-final."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. joined the Old Boys Tennis Club.</span>",
+     "text": "joined the Old Boys Tennis Club."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> Federer loved being a ball boy because it </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. improved his tennis skills.</span>",
+     "text": "improved his tennis skills."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. helped him win all the matches.</span>",
+     "text": "helped him win all the matches."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. let him watch how the top players practised.</span>",
+     "text": "let him watch how the top players practised."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. allowed him to compete with the best players.</span>",
+     "text": "allowed him to compete with the best players."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Federer used to lose control of his emotions when his </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. opponents beat him.</span>",
+     "text": "opponents beat him."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. tennis racket broke.</span>",
+     "text": "tennis racket broke."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. parents were ashamed of him.</span>",
+     "text": "parents were ashamed of him."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. parents were angry with him.</span>",
+     "text": "parents were angry with him."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> What important lesson did Federer learn from Peter Carter? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. To be well-mannered.</span>",
+     "text": "To be well-mannered."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. To fear strong opponents.</span>",
+     "text": "To fear strong opponents."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. To stay calm before games.</span>",
+     "text": "To stay calm before games."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. To play with an aggressive style.</span>",
+     "text": "To play with an aggressive style."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Federer's father let him keep training only if he could </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. focus on his schoolwork.</span>",
+     "text": "focus on his schoolwork."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. win World No 1 title among the juniors.</span>",
+     "text": "win World No 1 title among the juniors."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. become a professional player immediately.</span>",
+     "text": "become a professional player immediately."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. become a professional player in two years.</span>",
+     "text": "become a professional player in two years."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> What happened to Federer after Peter Carter's death? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He lost interest in tennis.</span>",
+     "text": "He lost interest in tennis."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He became more determined.</span>",
+     "text": "He became more determined."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. He gave up training altogether.</span>",
+     "text": "He gave up training altogether."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He realised he was very talented.</span>",
+     "text": "He realised he was very talented."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> According to Federer, what is the key to success in tennis? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Natural talent alone.</span>",
+     "text": "Natural talent alone."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Good training environment.</span>",
+     "text": "Good training environment."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The number of matches played.</span>",
+     "text": "The number of matches played."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Improvement through hard work.</span>",
+     "text": "Improvement through hard work."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which of the following would be the best title for the text? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Basic rules of tennis</span>",
+     "text": "Basic rules of tennis"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Professional athlete's lifestyle</span>",
+     "text": "Professional athlete's lifestyle"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The tennis player's rise to fame</span>",
+     "text": "The tennis player's rise to fame"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. The coach who created a champion</span>",
+     "text": "The coach who created a champion"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> <span>adult (A)</span> <span>earn (B)</span> <span>eating (C)</span> <span>expressed (D)</span> <span>feeding (E)</span> <span>figures (F)</span> <span>memory (G)</span> <span>needed (H)</span> <span>nickname (I)</span> <span>noticed (J)</span> <span>offered (K)</span> <span>themselves (L)</span> <span>time (M)</span> <span>used (N)</span> </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Father of Jazz</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 5: Read the text and mark the correct choice A, B, C or D. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Origin of the Earth</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 6: Complete the conversation. For questions 1-6, mark the correct letter A-H. Two sentences are extra. <span>(6 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Friends talking</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>Bob:</b> Annie, why don't we organise an outdoor basketball tournament between the universities in spring?<br/><b>Annie:</b> <b>1.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Bob:</b> Right. We spend so much time online that a basketball tournament will make a serious difference. What should we start with?<br/><b>Annie:</b> <b>2.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Bob:</b> You're right. Who will do that?<br/><b>Annie:</b> <b>3.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Bob:</b> OK. Agreed. Once we know which universities will participate, we can send out the invitations. I wonder how our university team will perform?<br/><b>Annie:</b> <b>4.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Bob:</b> Very good. You know what? I can ask Zaza Pachulia to greet the tournament participants.<br/><b>Annie:</b> <b>5.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Bob:</b> Yes, but what shall we do if the weather is bad? Will the tournament still take place?<br/><b>Annie:</b> <b>6.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Bob:</b> It's clever of you to think about the other option.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> I was told they are in good shape this season. No doubt they will win.<br/><b>B.</b> That's an idea! It would be a great way to get students involved in sports activities.<br/><b>C.</b> I agree that we shouldn't forget to invite the parents to the tournament.<br/><b>D.</b> Really? That would be amazing! A well-known person will make the event more exciting.<br/><b>E.</b> Well... I think we should first contact the university authorities to see who wants to participate.<br/><b>F.</b> We should have another plan in that case. For example, we could use our gym instead.<br/><b>G.</b> Why not you? You can contact the universities and gather the information from them.<br/><b>H.</b> Do you think it would be wise to have the tournament held outdoors?</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  }
+ ]
+}

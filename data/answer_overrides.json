@@ -1,0 +1,9 @@
+{
+  "_comment": "Verified answer corrections shown to the user with a note. q23 of matematika-1-varianti-2021 is confirmed against the official NAEC answer scheme (NAEC = დ; the the scraped source had ბ). Other reconciliations (stems/options/answers/added questions) verified against NAEC PDFs live in data/naec_fixes.json.",
+  "matematika-1-varianti-2021": {
+    "q23": {
+      "correct": "დ",
+      "note": "ყურადღება: ზოგიერთ წყაროში პასუხად მითითებულია ბ) 35, თუმცა სწორია დ) 70. O(0;0) წერტილის სიმეტრიული წერტილებია x=−17-ის მიმართ A(−34;0) და x=18-ის მიმართ B(36;0); მათ შორის მანძილი AB=36−(−34)=70."
+    }
+  }
+}

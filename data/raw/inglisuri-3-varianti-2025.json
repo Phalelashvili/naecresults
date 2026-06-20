@@ -1,0 +1,971 @@
+{
+ "slug": "inglisuri-3-varianti-2025",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2025,
+ "variant": 3,
+ "kind": "test",
+ "title": "2025 წლის ინგლისურის ტესტი 3 ვარიანტი | Testebi.ge",
+ "num_questions": 24,
+ "num_content_blocks": 27,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<p>Task 1: Listen to the text and for each question mark the correct answer A, B, C or D. You now have 40 seconds to look through the task. You will then hear the recording twice. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/ENGABIT2025V3.mp3\" type=\"audio/mpeg\"/> </audio>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Tamara Tumanishvili was nicknamed the Black Pearl because of her </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. eyes.</span>",
+     "text": "eyes."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. skin.</span>",
+     "text": "skin."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. roles.</span>",
+     "text": "roles."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. hair.</span>",
+     "text": "hair."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> We learn from the speaker that Evgenia Tumanishvili </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. was a military doctor.</span>",
+     "text": "was a military doctor."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. got married very young.</span>",
+     "text": "got married very young."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. spent all her life in Russia.</span>",
+     "text": "spent all her life in Russia."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. left for China together with her husband.</span>",
+     "text": "left for China together with her husband."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Which important event happened on the train? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Tamara was born there.</span>",
+     "text": "Tamara was born there."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Tamara's father died there.</span>",
+     "text": "Tamara's father died there."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Tamara met her father there.</span>",
+     "text": "Tamara met her father there."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Tamara's mother got married there.</span>",
+     "text": "Tamara's mother got married there."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> In which country did Tamara Tumanishvili start her ballet career? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. China.</span>",
+     "text": "China."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Egypt.</span>",
+     "text": "Egypt."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Russia.</span>",
+     "text": "Russia."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. France.</span>",
+     "text": "France."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Who dedicated the ballets to Tamara Tumanishvili? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. George Balanchine.</span>",
+     "text": "George Balanchine."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Olga Preobrazhenskaya.</span>",
+     "text": "Olga Preobrazhenskaya."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. An Egyptian choreographer.</span>",
+     "text": "An Egyptian choreographer."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. An unknown Parisian dancer.</span>",
+     "text": "An unknown Parisian dancer."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> What was her stage name? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Tamara Casey.</span>",
+     "text": "Tamara Casey."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Tamara Pavlova.</span>",
+     "text": "Tamara Pavlova."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Tamara Toumanova.</span>",
+     "text": "Tamara Toumanova."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Tamara Tumanishvili.</span>",
+     "text": "Tamara Tumanishvili."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> Why was Evgenia against Tamara marrying Balanchine? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Balanchine had a wife.</span>",
+     "text": "Balanchine had a wife."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Tamara was already married.</span>",
+     "text": "Tamara was already married."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The age difference was big.</span>",
+     "text": "The age difference was big."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. She wanted Tamara to focus on her career.</span>",
+     "text": "She wanted Tamara to focus on her career."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> What happened to Tamara Tumanishvili's property after her death? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. It was sold.</span>",
+     "text": "It was sold."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. It was given to charity.</span>",
+     "text": "It was given to charity."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. She left it to her family.</span>",
+     "text": "She left it to her family."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. She left it to her friends.</span>",
+     "text": "She left it to her friends."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>The world of wildlife filmmaking</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> Wildlife films are powerful tools for spreading information about nature and animals. In wildlife filmmaking, filmmakers must fully dedicate their lives to their profession. These professionals help us learn more about animals and understand how easily our planet's ecosystems can be damaged. This job has a reputation of a 'dream job' because it involves travelling to exotic places, seeing amazing wildlife and having great adventures. If you don't mind long hours, hard work and getting sick in tropical places, then that's what it is. It's no surprise that many people want to become a wildlife filmmaker; however, not everyone is fit for this demanding profession.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> Richard and Sonia Muller began making wildlife films because they both loved nature and wanted to protect it. They shared a deep passion for filming and storytelling, which made it easy for them to work together, as a team. The documentaries, which they make together, are mostly about dangerous animals, like the big cats that live in Africa. They make movies to show people around the world 5 how important it is to care about animals and protect them. In their film Staying Alive, which they made after becoming well-known, the Mullers studied how lions in one region of Africa interact with each other.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> With a camera in hand, Richard and Sonia started capturing amazing moments of wildlife in their natural environment. One thing that made their method exceptional was that they didn't just document animal behaviour but also tried to tell an interesting story about the animals' lives and struggles. The focus of their work was the beauty of nature. Each of their films was a work of art, a visual journey through the heart of the wilderness. Their earliest film, Wild Symphony, made during their student years, was a poetic masterpiece. It demonstrated the diversity of animals found around the planet, ranging from the polar bears of the Arctic to the stunning hummingbirds of the Amazon jungle.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b> Sonia and Richard both say that finishing the project is the hardest experience for them. Sonia adds that working long hours is sometimes hard and things like the heat, dust and insects make their job very tiring. Nevertheless, what makes her job most attractive is the fact that she never knows what will happen next. And she finds this feeling of unexpectedness fascinating. She might even find something new for science. On the other hand, Richard takes more interest in spending time with individual animals, getting to know their character.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> A major part of the Mullers' work involves helping students appreciate the importance of understanding different environments, including climate, wildlife and local cultures. While visiting schools around the world, the couple made an unexpected discovery: students with a lot of access to the internet often had a weaker understanding of geography, whereas those with limited internet access had a better understanding of geography. 'Students with very little internet connection actually look at paper maps; they want to find out where they are and often end up with a better idea of place,' Richard explains.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> If you'd like to become a wildlife filmmaker, Richard suggests studying various different areas of biology, rather than learning about the latest filmmaking technology. This is because understanding the natural world will always be useful. The couple also gives general advice to those who want to help protect the environment. Sonia explains that it's important to allow yourself to concentrate. 'Turning off personal electronic items gets you closer to the natural world,' she says. Most importantly, they agree that if urgent action isn't taken, more animals might be lost forever. However, the fact that more teenagers are getting involved in this activity offers some hope for the future.</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Which paragraph states the things the Mullers had in common? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> Which paragraph says what Sonia finds most interesting about her profession? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Which paragraph has information about the Mullers' unique method? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> Which paragraph offers recommendations to those interested in wildlife filmmaking? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Which paragraph gives the reason why the Mullers make their documentaries? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> Which paragraph mentions the title of the Mullers' first film? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> Which paragraph can have the title: 'A dream job for adventurous people'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which paragraph can have the title: 'An unexpected finding'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 3: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>This is a personal story told by Jason Arday, a famous sociologist of education.</i></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Hello, everybody! My name is Jason Arday and I was diagnosed with autism as a child. My parents come from Ghana, Africa, but I grew up in Clapham, south London. We lived in a council estate, which is a group of houses constructed and rented by the local government. I am the second youngest of four brothers. At the age of three, I was diagnosed with global developmental delay and autism spectrum disorder. I couldn't speak until I was 11 and was unable to read or write until I was 18. Less than eight years ago, my family was informed that I'd probably need care for the rest of my life, but I surprised everyone. Despite these challenges, I got two master's degrees and even completed a PhD at Liverpool University in the UK. I received a lot of encouragement to become a professor from Sandro Sandi, my mentor, who offered advice and support. After publishing my first paper in 2018 and getting positions at two English universities, I became one of the youngest professors in the UK.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>From a young age, I've been fascinated by the mysteries of the universe. The depths of the ocean and the sparkling stars in the sky held countless secrets awaiting discovery. My journey into the unknown began in my childhood. As a child growing up in a small town surrounded by hills, I was charmed by the endless space of the universe. My parents, both passionate star-watchers, stimulated my interest and made me quite curious from an early age. They would often take me out to our backyard, where we would lie on blankets under the night sky full of stars. We would look at the stars and share stories about ancient civilisations. My interest grew when I discovered an old book in the attic of my grandfather's house. Though worn, it was packed with stories about brave travellers and scientists who went into the unknown in search of knowledge and understanding. From that moment, I knew I wanted to follow in their footsteps. As I grew older, I eagerly learned everything I could about the world. But just reading about these wonders and admiring the pictures of the starry sky wasn't enough for me; I was eager to see them myself.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>After graduating from university with a degree in astrophysics, I went on my own journey to study the stars from telescopes high in the mountains. In faraway parts of the world, I dived into the ocean to find its hidden secrets. The excitement of each new adventure was unlike anything I had ever experienced. For years scientists had suggested that there might be a ninth planet somewhere near Neptune and I was determined to be the one to find it. My own passion combined with the latest technology gave me the strength to start the trip of a lifetime. It was a long and hard search full of problems and failures. We had to deal with terrible weather and broken technology. But I refused to give up. Later, on a significant night, I saw the new planet through my telescope: a little dot of light in the sky. Everyone called me a hero, but what really made me happy wasn't the praise or recognition; it was knowing that I did my best and eventually reached my goal. As long as there are mysteries to uncover, I will always be ready to answer the call of the cosmos.</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> What do we learn about Jason from the start? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He had problems in development.</span>",
+     "text": "He had problems in development."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He could read and write at three.</span>",
+     "text": "He could read and write at three."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. He grew up as a healthy child.</span>",
+     "text": "He grew up as a healthy child."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He received lifelong care.</span>",
+     "text": "He received lifelong care."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> Who encouraged Jason to become a professor? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. His friend.</span>",
+     "text": "His friend."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. His parents.</span>",
+     "text": "His parents."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. His advisor.</span>",
+     "text": "His advisor."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. His brothers.</span>",
+     "text": "His brothers."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> When did Jason start to show interest in the universe? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. As a child.</span>",
+     "text": "As a child."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. As a teenager.</span>",
+     "text": "As a teenager."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. As a university student.</span>",
+     "text": "As a university student."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. As a university professor.</span>",
+     "text": "As a university professor."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> What influenced Jason's early interest in astronomy? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Meetings with astronomers.</span>",
+     "text": "Meetings with astronomers."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Encouragement from teachers.</span>",
+     "text": "Encouragement from teachers."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. His parents' love for watching stars.</span>",
+     "text": "His parents' love for watching stars."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Seeing paintings of various stars.</span>",
+     "text": "Seeing paintings of various stars."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> What happened when Jason found an old book in the attic? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He lost interest in reading.</span>",
+     "text": "He lost interest in reading."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He decided to become a scientist.</span>",
+     "text": "He decided to become a scientist."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. He was not amazed by wonders any more.</span>",
+     "text": "He was not amazed by wonders any more."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He stopped dreaming about travelling.</span>",
+     "text": "He stopped dreaming about travelling."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> What did Jason do after graduating from university? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He travelled a lot.</span>",
+     "text": "He travelled a lot."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He took up swimming.</span>",
+     "text": "He took up swimming."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. He began studying stars.</span>",
+     "text": "He began studying stars."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He travelled the cosmos.</span>",
+     "text": "He travelled the cosmos."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> Why is a ninth planet mentioned in the text? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Nobody believed in its existence.</span>",
+     "text": "Nobody believed in its existence."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. The speaker never believed he would find it.</span>",
+     "text": "The speaker never believed he would find it."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Scientists created special technology to find it.</span>",
+     "text": "Scientists created special technology to find it."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. The speaker set a goal to discover it.</span>",
+     "text": "The speaker set a goal to discover it."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which of the following would be the best title for the text? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Hard work pays off</span>",
+     "text": "Hard work pays off"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Praise should not be a goal</span>",
+     "text": "Praise should not be a goal"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Recognition spoils scientists</span>",
+     "text": "Recognition spoils scientists"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. The price of fame</span>",
+     "text": "The price of fame"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> <span>afford (A)</span> <span>amount (B)</span> <span>available (C)</span> <span>changed (D)</span> <span>career (E)</span> <span>disappointment (F)</span> <span>effort (G)</span> <span>expensive (H)</span> <span>gift (I)</span> <span>improved (J)</span> <span>models (K)</span> <span>save (L)</span> <span>success (M)</span> <span>use (N)</span> </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>An important invention</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 5: Read the text and mark the correct choice A, B, C or D. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>A flash drive</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. Two sentences are extra. <span>(6 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Friends talking</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>Jimmy:</b> What are you doing on Saturday evening, Sophie?<br/><b>Sophie:</b> I'm not sure yet. I might be going out but I haven't made any plans. Why are you asking?<br/><b>Jimmy:</b> <b>1.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sophie:</b> Oh, I'd love to. That sounds like a great event. Is it a formal occasion?<br/><b>Jimmy:</b> <b>2.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sophie:</b> Yes, that's perfect. I'll be there right on time! What are you going to cook?<br/><b>Jimmy:</b> <b>3.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sophie:</b> Well, to be honest, I don't really like it - I had a bad experience once. If I had a choice, I'd go for something else.<br/><b>Jimmy:</b> <b>4.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sophie:</b> No, no, I'm not. I like trying vegetarian dishes now and then, but I do enjoy eating meat.<br/><b>Jimmy:</b> <b>5.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sophie:</b> Yes, absolutely! I love them, especially with a good mix of cheese, pickles and crispy bacon.<br/><b>Jimmy:</b> <b>6.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Sophie:</b> Sure, I'm really looking forward to it.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> Oh, I see. But you're not vegetarian, are you?<br/><b>B.</b> Well, I'm going to cook the most delicious food you've ever tasted.<br/><b>C.</b> So you'll be fine with chicken burgers, right?<br/><b>D.</b> Well, I'm having a dinner party at my house and I was wondering if you'd like to come along.<br/><b>E.</b> Great, that's good to hear. See you on Saturday at 7 in the evening then.<br/><b>F.</b> No, it's just a casual get-together with a few old friends. We'll all have a great time. Is 7 o'clock OK?<br/><b>G.</b> Because I'm planning to invite a few people to my house on Saturday.<br/><b>H.</b> Well, it's a bit of a problem as everyone likes different things. How do you feel about Chinese food?</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  }
+ ]
+}

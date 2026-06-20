@@ -1,0 +1,1748 @@
+{
+  "blocks": [
+    {
+      "kind": "content",
+      "html": "<h3>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points)</h3>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "words",
+      "words": [
+        {
+          "letter": "A",
+          "text": "afford"
+        },
+        {
+          "letter": "B",
+          "text": "amount"
+        },
+        {
+          "letter": "C",
+          "text": "available"
+        },
+        {
+          "letter": "D",
+          "text": "changed"
+        },
+        {
+          "letter": "E",
+          "text": "career"
+        },
+        {
+          "letter": "F",
+          "text": "disappointment"
+        },
+        {
+          "letter": "G",
+          "text": "effort"
+        },
+        {
+          "letter": "H",
+          "text": "expensive"
+        },
+        {
+          "letter": "I",
+          "text": "gift"
+        },
+        {
+          "letter": "J",
+          "text": "improved"
+        },
+        {
+          "letter": "K",
+          "text": "models"
+        },
+        {
+          "letter": "L",
+          "text": "save"
+        },
+        {
+          "letter": "M",
+          "text": "success"
+        },
+        {
+          "letter": "N",
+          "text": "use"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "html": "<h3>An important invention</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p>The invention of the washing machine <b>(1)</b> the way people cleaned their clothes and transformed everybody&rsquo;s life for the better. Before this, washing clothes by hand was a long and tiring job. It required a lot of <b>(2)</b> and took up a significant <b>(3)</b> of time every day. In the 1850s, an American inventor named James King made one of the first mechanical washing machines. However, it was still considered an <b>(4)</b> item for many people, as not everyone could <b>(5)</b> to buy one. Later, in 1874, William Blackstone, who was also from the USA, built a washing machine as a <b>(6)</b> for his wife. His machine became the first official washing machine designed for home <b>(7)</b>, unlike earlier machines, which were bigger and more difficult to manage. It soon became a <b>(8)</b> because it could wash clothes faster, simpler and allowed us to spend less time doing the washing and more time doing things we enjoy. Over time, other inventors also <b>(9)</b> the washing machine, and in the early 1900s, electric <b>(10)</b> were finally created. These machines made washing clothes even easier. With new technologies, washing machines became stronger and widely <b>(11)</b>. Today, modern washing machines are a common household item and they <b>(12)</b> people&rsquo;s time and effort all over the world. They have become an important part of daily life.</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "G"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "H"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "I"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 7,
+      "stem_html": "<span class=\"gap-label\">Gap 7</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "N"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 8,
+      "stem_html": "<span class=\"gap-label\">Gap 8</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "M"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 9,
+      "stem_html": "<span class=\"gap-label\">Gap 9</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "J"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 10,
+      "stem_html": "<span class=\"gap-label\">Gap 10</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "K"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 11,
+      "stem_html": "<span class=\"gap-label\">Gap 11</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 12,
+      "stem_html": "<span class=\"gap-label\">Gap 12</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "afford",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "amount",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "available",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "changed",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "career",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "disappointment",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "effort",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "expensive",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "gift",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "improved",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "models",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "save",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "success",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "use",
+          "html": ""
+        }
+      ],
+      "correct": "L"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>A flash drive</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p>A flash drive, also known as a USB stick, is a small, portable device used to keep information or transfer it from one computer to another. It is one of the most popular tools <b>(1)</b> saving and transferring files, like documents, photos, music and videos. Flash drives are easy to use and can hold a large amount of information. To use a flash drive, you simply plug it <b>(2)</b> a computer&rsquo;s USB port. The computer recognises it quickly, allowing you to copy, move <b>(3)</b> delete files. If you run out of space, you can delete old files to make space for new ones. One of <b>(4)</b> best things about flash drives is that they are easy to carry. They are small enough to fit <b>(5)</b> your pocket and unlike some other tools <b>(6)</b> can also keep information, flash drives don&rsquo;t scratch easily. Flash drives are also strong and can be reused thousands <b>(7)</b> times. A flash drive does not need batteries and the information it contains can be kept safe <b>(8)</b> many years. However, it&rsquo;s always a good idea to save important files somewhere else <b>(9)</b> well, in case the drive gets lost or damaged. Flash drives come in various colours <b>(10)</b> designs, making them fun to use. Many people use flash drives for school projects, work presentations or simply to share photos <b>(11)</b> friends. They are especially useful <b>(12)</b> you need to transfer files from one computer to another, as you can easily take them anywhere.</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 1,
+      "stem_html": "<p>Gap 1</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "about",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 2,
+      "stem_html": "<p>Gap 2</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "off",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "into",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "of",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 3,
+      "stem_html": "<p>Gap 3</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "or",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "because",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "but",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "about",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 4,
+      "stem_html": "<p>Gap 4</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "this",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "the",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 5,
+      "stem_html": "<p>Gap 5</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "over",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 6,
+      "stem_html": "<p>Gap 6</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "when",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "who",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 7,
+      "stem_html": "<p>Gap 7</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "about",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "of",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 8,
+      "stem_html": "<p>Gap 8</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "since",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "about",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 9,
+      "stem_html": "<p>Gap 9</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "but",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "as",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "at",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 10,
+      "stem_html": "<p>Gap 10</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "to",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "and",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 11,
+      "stem_html": "<p>Gap 11</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "with",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "about",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "along",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 12,
+      "stem_html": "<p>Gap 12</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "where",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "what",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "when",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. Two sentences are extra. (6 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Friends talking</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p><b>Jimmy:</b> What are you doing on Saturday evening, Sophie?<br><b>Sophie:</b> I&rsquo;m not sure yet. I might be going out but I haven&rsquo;t made any plans. Why are you asking?<br><b>Jimmy:</b> <b>(1)</b><br><b>Sophie:</b> Oh, I&rsquo;d love to. That sounds like a great event. Is it a formal occasion?<br><b>Jimmy:</b> <b>(2)</b><br><b>Sophie:</b> Yes, that&rsquo;s perfect. I&rsquo;ll be there right on time! What are you going to cook?<br><b>Jimmy:</b> <b>(3)</b><br><b>Sophie:</b> Well, to be honest, I don&rsquo;t really like it - I had a bad experience once. If I had a choice, I&rsquo;d go for something else.<br><b>Jimmy:</b> <b>(4)</b><br><b>Sophie:</b> No, no, I&rsquo;m not. I like trying vegetarian dishes now and then, but I do enjoy eating meat.<br><b>Jimmy:</b> <b>(5)</b><br><b>Sophie:</b> Yes, absolutely! I love them, especially with a good mix of cheese, pickles and crispy bacon.<br><b>Jimmy:</b> <b>(6)</b><br><b>Sophie:</b> Sure, I&rsquo;m really looking forward to it.</p>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "sentences",
+      "words": [
+        {
+          "letter": "A",
+          "text": "Oh, I see. But you&rsquo;re not vegetarian, are you?"
+        },
+        {
+          "letter": "B",
+          "text": "Well, I&rsquo;m going to cook the most delicious food you&rsquo;ve ever tasted."
+        },
+        {
+          "letter": "C",
+          "text": "So you&rsquo;ll be fine with chicken burgers, right?"
+        },
+        {
+          "letter": "D",
+          "text": "Well, I&rsquo;m having a dinner party at my house and I was wondering if you&rsquo;d like to come along."
+        },
+        {
+          "letter": "E",
+          "text": "Great, that&rsquo;s good to hear. See you on Saturday at 7 in the evening then."
+        },
+        {
+          "letter": "F",
+          "text": "No, it&rsquo;s just a casual get-together with a few old friends. We&rsquo;ll all have a great time. Is 7 o&rsquo;clock OK?"
+        },
+        {
+          "letter": "G",
+          "text": "Because I&rsquo;m planning to invite a few people to my house on Saturday."
+        },
+        {
+          "letter": "H",
+          "text": "Well, it&rsquo;s a bit of a problem as everyone likes different things. How do you feel about Chinese food?"
+        }
+      ]
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oh, I see. But you&rsquo;re not vegetarian, are you?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, I&rsquo;m going to cook the most delicious food you&rsquo;ve ever tasted.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "So you&rsquo;ll be fine with chicken burgers, right?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Well, I&rsquo;m having a dinner party at my house and I was wondering if you&rsquo;d like to come along.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Great, that&rsquo;s good to hear. See you on Saturday at 7 in the evening then.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "No, it&rsquo;s just a casual get-together with a few old friends. We&rsquo;ll all have a great time. Is 7 o&rsquo;clock OK?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Because I&rsquo;m planning to invite a few people to my house on Saturday.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Well, it&rsquo;s a bit of a problem as everyone likes different things. How do you feel about Chinese food?",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oh, I see. But you&rsquo;re not vegetarian, are you?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, I&rsquo;m going to cook the most delicious food you&rsquo;ve ever tasted.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "So you&rsquo;ll be fine with chicken burgers, right?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Well, I&rsquo;m having a dinner party at my house and I was wondering if you&rsquo;d like to come along.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Great, that&rsquo;s good to hear. See you on Saturday at 7 in the evening then.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "No, it&rsquo;s just a casual get-together with a few old friends. We&rsquo;ll all have a great time. Is 7 o&rsquo;clock OK?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Because I&rsquo;m planning to invite a few people to my house on Saturday.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Well, it&rsquo;s a bit of a problem as everyone likes different things. How do you feel about Chinese food?",
+          "html": ""
+        }
+      ],
+      "correct": "F"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oh, I see. But you&rsquo;re not vegetarian, are you?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, I&rsquo;m going to cook the most delicious food you&rsquo;ve ever tasted.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "So you&rsquo;ll be fine with chicken burgers, right?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Well, I&rsquo;m having a dinner party at my house and I was wondering if you&rsquo;d like to come along.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Great, that&rsquo;s good to hear. See you on Saturday at 7 in the evening then.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "No, it&rsquo;s just a casual get-together with a few old friends. We&rsquo;ll all have a great time. Is 7 o&rsquo;clock OK?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Because I&rsquo;m planning to invite a few people to my house on Saturday.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Well, it&rsquo;s a bit of a problem as everyone likes different things. How do you feel about Chinese food?",
+          "html": ""
+        }
+      ],
+      "correct": "H"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oh, I see. But you&rsquo;re not vegetarian, are you?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, I&rsquo;m going to cook the most delicious food you&rsquo;ve ever tasted.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "So you&rsquo;ll be fine with chicken burgers, right?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Well, I&rsquo;m having a dinner party at my house and I was wondering if you&rsquo;d like to come along.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Great, that&rsquo;s good to hear. See you on Saturday at 7 in the evening then.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "No, it&rsquo;s just a casual get-together with a few old friends. We&rsquo;ll all have a great time. Is 7 o&rsquo;clock OK?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Because I&rsquo;m planning to invite a few people to my house on Saturday.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Well, it&rsquo;s a bit of a problem as everyone likes different things. How do you feel about Chinese food?",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oh, I see. But you&rsquo;re not vegetarian, are you?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, I&rsquo;m going to cook the most delicious food you&rsquo;ve ever tasted.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "So you&rsquo;ll be fine with chicken burgers, right?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Well, I&rsquo;m having a dinner party at my house and I was wondering if you&rsquo;d like to come along.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Great, that&rsquo;s good to hear. See you on Saturday at 7 in the evening then.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "No, it&rsquo;s just a casual get-together with a few old friends. We&rsquo;ll all have a great time. Is 7 o&rsquo;clock OK?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Because I&rsquo;m planning to invite a few people to my house on Saturday.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Well, it&rsquo;s a bit of a problem as everyone likes different things. How do you feel about Chinese food?",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oh, I see. But you&rsquo;re not vegetarian, are you?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "Well, I&rsquo;m going to cook the most delicious food you&rsquo;ve ever tasted.",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "So you&rsquo;ll be fine with chicken burgers, right?",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "Well, I&rsquo;m having a dinner party at my house and I was wondering if you&rsquo;d like to come along.",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Great, that&rsquo;s good to hear. See you on Saturday at 7 in the evening then.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "No, it&rsquo;s just a casual get-together with a few old friends. We&rsquo;ll all have a great time. Is 7 o&rsquo;clock OK?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "Because I&rsquo;m planning to invite a few people to my house on Saturday.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Well, it&rsquo;s a bit of a problem as everyone likes different things. How do you feel about Chinese food?",
+          "html": ""
+        }
+      ],
+      "correct": "E"
+    }
+  ]
+}

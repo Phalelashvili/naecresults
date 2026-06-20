@@ -1,0 +1,1100 @@
+{
+ "sentences": [
+  {
+   "text": "Task 1. You are going to listen to five texts.",
+   "start": 29.21
+  },
+  {
+   "text": "For each of them, answer the two questions given.",
+   "start": 34.21
+  },
+  {
+   "text": "Mark the correct answer A, B, or C.",
+   "start": 37.21
+  },
+  {
+   "text": "You have 20 seconds to look through the task.",
+   "start": 42.21
+  },
+  {
+   "text": "You will hear the recording twice.",
+   "start": 45.21
+  },
+  {
+   "text": "Text 1. David and I became friends when we were kids.",
+   "start": 67.95
+  },
+  {
+   "text": "We went to different schools, but David and his family lived in the house next to us.",
+   "start": 72.95
+  },
+  {
+   "text": "Text 2. David and I became friends when we were kids. We went to different schools, but David and his family lived in the house next to us.",
+   "start": 77.95
+  },
+  {
+   "text": "I don't exactly remember what made us so close.",
+   "start": 78.95
+  },
+  {
+   "text": "We were so different.",
+   "start": 81.95
+  },
+  {
+   "text": "I loved outdoor games. He loved indoor games.",
+   "start": 83.95
+  },
+  {
+   "text": "I enjoyed reading books. He spent a lot of time in front of his computer.",
+   "start": 87.95
+  },
+  {
+   "text": "In high school, my dad once took me fishing, and since then it has become an important part of my lifestyle.",
+   "start": 92.95
+  },
+  {
+   "text": "At that same time, David started making models of airplanes.",
+   "start": 99.95
+  },
+  {
+   "text": "He never showed any interest in my hobby.",
+   "start": 104.95
+  },
+  {
+   "text": "I didn't want to be a child anymore.",
+   "start": 107.95
+  },
+  {
+   "text": "Text 3. David and I became friends when we were kids.",
+   "start": 110.95
+  },
+  {
+   "text": "We went to different schools, but David and his family lived in the house next to us.",
+   "start": 113.95
+  },
+  {
+   "text": "I don't exactly remember what made us so close.",
+   "start": 117.95
+  },
+  {
+   "text": "We were so different.",
+   "start": 120.95
+  },
+  {
+   "text": "I loved outdoor games.",
+   "start": 126.82
+  },
+  {
+   "text": "We spent a lot of time in front of his computer.",
+   "start": 128.82
+  },
+  {
+   "text": "He loved outdoor games.",
+   "start": 131.82
+  },
+  {
+   "text": "He loved outdoor games.",
+   "start": 133.82
+  },
+  {
+   "text": "He loved outdoor games.",
+   "start": 135.82
+  },
+  {
+   "text": "I didn't like outdoor games.",
+   "start": 137.82
+  },
+  {
+   "text": "I didn't like outdoor games.",
+   "start": 139.82
+  },
+  {
+   "text": "I loved outdoor games.",
+   "start": 140.82
+  },
+  {
+   "text": "He loved indoor games.",
+   "start": 142.82
+  },
+  {
+   "text": "I enjoyed reading books.",
+   "start": 144.82
+  },
+  {
+   "text": "He spent a lot of time in front of his computer.",
+   "start": 146.82
+  },
+  {
+   "text": "In high school, my dad once took me fishing, and since then it has become an important part of my lifestyle.",
+   "start": 149.82
+  },
+  {
+   "text": "At that same time, David started making models of airplanes.",
+   "start": 156.82
+  },
+  {
+   "text": "He never showed any interest in my hobby.",
+   "start": 160.82
+  },
+  {
+   "text": "But we liked to share our impressions and would spend evenings together.",
+   "start": 163.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 167.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 168.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 169.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 170.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 171.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 172.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 173.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 174.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 175.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 176.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 177.82
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 183.43
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 184.43
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 185.43
+  },
+  {
+   "text": "Unfortunately, David and his family were not very good at playing.",
+   "start": 186.43
+  },
+  {
+   "text": "Perhaps wrong. It is the Caucasus Mountains, marking the border between Georgia and Russia.",
+   "start": 187.43
+  },
+  {
+   "text": "While the highest peak, Elbrus, is in Russia, Georgia is proud to have the second highest",
+   "start": 193.73
+  },
+  {
+   "text": "mountain peak, Shkara, which is 5,193 meters high, nearly 400 meters higher than Mont Blanc,",
+   "start": 199.47
+  },
+  {
+   "text": "the peak on the border of France and Italy. These majestic mountains, with their terrifying",
+   "start": 209.15
+  },
+  {
+   "text": "narrow and winding roads and hidden villages, which you cannot reach in winter, are the",
+   "start": 214.27
+  },
+  {
+   "text": "source of many legends. According to one Greek legend, the Caucasus Mountains were one of",
+   "start": 219.65
+  },
+  {
+   "text": "the columns holding up the world. And another legend says that it was here that Zeus, the",
+   "start": 225.25
+  },
+  {
+   "text": "Greek god, ordered to tie up Prometheus with unbreakable chains. Prometheus was tortured",
+   "start": 231.49
+  },
+  {
+   "text": "day and night by a giant eagle. Today, the Caucasus Mountains are increasingly becoming",
+   "start": 238.21
+  },
+  {
+   "text": "a destination for climbers, hikers, or skiers looking for adventure.",
+   "start": 244.27
+  },
+  {
+   "text": "What's the highest mountain range in Europe? The Alps? Wrong. It is the Caucasus Mountains,",
+   "start": 255.48
+  },
+  {
+   "text": "marking the border between Georgia and Russia. While the highest peak, Elbrus, is in Russia,",
+   "start": 261.86
+  },
+  {
+   "text": "Georgia is proud to have the second highest mountain peak, Shkara, which is 5,193 meters",
+   "start": 268.36
+  },
+  {
+   "text": "high, nearly 400 meters higher than Mont Blanc, the peak on the border of France and Italy.",
+   "start": 275.68
+  },
+  {
+   "text": "These majestic mountains, with their terrifying narrow and winding roads, and hidden villages,",
+   "start": 279.7
+  },
+  {
+   "text": "which you cannot reach in winter, are the source of many legends. According to one Greek",
+   "start": 283.96
+  },
+  {
+   "text": "legend, the Caucasus Mountains were one of the columns holding up the world. An another",
+   "start": 289.0
+  },
+  {
+   "text": "legend says that it was here that Zeus, the Greek god, ordered to tie up Prometheus with",
+   "start": 297.86
+  },
+  {
+   "text": "unbreakable chains. Prometheus was tortured today and it is set sight that he shall to",
+   "start": 301.46
+  },
+  {
+   "text": "Semarchus beautiful actually.",
+   "start": 305.52
+  },
+  {
+   "text": "day and night by a giant eagle. Today, the Caucasus Mountains are increasingly becoming",
+   "start": 309.26
+  },
+  {
+   "text": "a destination for climbers, hikers, or skiers looking for adventure.",
+   "start": 315.48
+  },
+  {
+   "text": "Text 3. The Harbin International Ice and Snow Sculpture Festival is an annual winter festival",
+   "start": 326.29
+  },
+  {
+   "text": "that takes place in Harbin, China. It is the largest ice and snow festival in the world.",
+   "start": 333.13
+  },
+  {
+   "text": "Today, it has become an international festival and competition. At first, participants of the",
+   "start": 339.41
+  },
+  {
+   "text": "festival were Chinese, but then other artists from Japan and Malaysia joined in. The festival",
+   "start": 346.05
+  },
+  {
+   "text": "demonstrates the world's biggest ice sculptures, which are displayed throughout the city.",
+   "start": 352.19
+  },
+  {
+   "text": "The festival starts on January 5th and lasts one month. However, if the weather stays cold,",
+   "start": 357.59
+  },
+  {
+   "text": "the figures made of ice often open earlier and last longer. During the festival,",
+   "start": 363.55
+  },
+  {
+   "text": "there are night tours in many parts of the city that are lit with ice lanterns.",
+   "start": 369.41
+  },
+  {
+   "text": "Winter activities during the festival include alpine skiing, winter swimming in the river,",
+   "start": 374.69
+  },
+  {
+   "text": "and the ice lantern exhibition in the city garden. The Harbin International Ice and Snow Sculpture",
+   "start": 380.21
+  },
+  {
+   "text": "Festival is an annual winter festival that takes place in Harbin, China. It is the largest ice and",
+   "start": 391.41
+  },
+  {
+   "text": "snow festival in the world. Today, it has become an international festival and competition.",
+   "start": 398.73
+  },
+  {
+   "text": "At first, participants of the festival were Chinese, but then other artists from Japan and Malaysia joined in. The festival demonstrates the world's biggest ice sculptures, which are displayed throughout the city.",
+   "start": 404.69
+  },
+  {
+   "text": "The festival starts on January 5th and lasts one month. However, if the weather stays cold,",
+   "start": 418.01
+  },
+  {
+   "text": "the figures made of ice often open earlier and last longer. During the festival,",
+   "start": 424.93
+  },
+  {
+   "text": "there are night tours in many parts of the city that are lit with ice lanterns.",
+   "start": 430.07
+  },
+  {
+   "text": "Winter activities during the festival include alpine skiing, winter swimming in the river,",
+   "start": 435.25
+  },
+  {
+   "text": "and the ice lantern exhibition in the city garden.",
+   "start": 440.45
+  },
+  {
+   "text": "Text 4",
+   "start": 448.85
+  },
+  {
+   "text": "A 25-year-old Roman general and statesman, Julius Caesar was sailing the Aegean Sea when he was",
+   "start": 449.53
+  },
+  {
+   "text": "kidnapped by Sicilian pirates. While staying with the pirates, Julius Caesar spent most of",
+   "start": 457.27
+  },
+  {
+   "text": "his time composing poetry. He would then read his writings to the pirates. Julius Caesar,",
+   "start": 462.95
+  },
+  {
+   "text": "demanded from the pirates not to talk while he was sleeping or resting. The pirates started to",
+   "start": 469.19
+  },
+  {
+   "text": "respect him and allowed him to move freely around their island. The pirates who kidnapped Caesar",
+   "start": 474.59
+  },
+  {
+   "text": "asked for silver money to let him free. Caesar sent his men to his homeland to collect the silver",
+   "start": 480.89
+  },
+  {
+   "text": "for him. While his men were collecting the required silver, Julius Caesar was alone with",
+   "start": 486.93
+  },
+  {
+   "text": "the pirates, but instead of feeling fear, he treated them as if they were his servants.",
+   "start": 492.75
+  },
+  {
+   "text": "Caesar acted as a leader rather than a prisoner. However, Caesar promised to punish them after he",
+   "start": 497.67
+  },
+  {
+   "text": "was freed. As soon as Caesar was free again, he kept his promise and killed all the pirates and",
+   "start": 504.93
+  },
+  {
+   "text": "returned all of his silver. A 25-year-old Roman general and statesman, Julius Caesar was sailing",
+   "start": 510.35
+  },
+  {
+   "text": "the Aegean Sea when he was kidnapped by Sicilian pirates. While staying with the pirates, Julius",
+   "start": 522.55
+  },
+  {
+   "text": "Caesar spent most of his time composing poetry. He would then read his",
+   "start": 528.55
+  },
+  {
+   "text": "writings to the pirates. Julius Caesar demanded from the pirates not to talk while he was sleeping",
+   "start": 533.09
+  },
+  {
+   "text": "or resting. The pirates started to respect him and allowed him to move freely around their island.",
+   "start": 538.75
+  },
+  {
+   "text": "The pirates who kidnapped Caesar asked for silver money to let him free.",
+   "start": 545.97
+  },
+  {
+   "text": "Caesar sent his men to his homeland to collect the silver for him. While his men were collecting",
+   "start": 551.03
+  },
+  {
+   "text": "the required silver, Julius Caesar was alone with the pirates, but instead of feeling fear,",
+   "start": 556.49
+  },
+  {
+   "text": "he treated them as if they were his servants. He would then go to the pirates and ask them to",
+   "start": 562.39
+  },
+  {
+   "text": "take the silver. Caesar acted as a leader rather than a prisoner. However, Caesar promised to",
+   "start": 563.07
+  },
+  {
+   "text": "punish them after he was freed. As soon as Caesar was free again, he kept his promise and killed all",
+   "start": 570.77
+  },
+  {
+   "text": "the pirates and returned all of his silver. Text 5. Georgia remembers a lot of historical",
+   "start": 576.39
+  },
+  {
+   "text": "battles which make Georgians proud today. One of them was the Battle of Deidgory between the",
+   "start": 587.05
+  },
+  {
+   "text": "Kingdom of Georgia and the Seljuk Empire at the beginning of the 12th century.",
+   "start": 592.67
+  },
+  {
+   "text": "Georgia's victory at Deidgory marked the beginning of the medieval Georgian Golden Age",
+   "start": 597.33
+  },
+  {
+   "text": "and is known as a miraculous victory. On the morning of 12 August 1121,",
+   "start": 602.21
+  },
+  {
+   "text": "200 Georgian soldiers left the camp and rode to the enemy's side. They pretended that they",
+   "start": 609.71
+  },
+  {
+   "text": "wanted to run away from the Georgian camp. The Seljuk commanders welcomed the Georgian soldiers.",
+   "start": 616.07
+  },
+  {
+   "text": "As soon as the Georgians entered the enemy's camp, they attacked and killed most of the",
+   "start": 622.21
+  },
+  {
+   "text": "enemy's soldiers. They were killed by the Seljuk army. The Seljuk army was killed by the",
+   "start": 627.17
+  },
+  {
+   "text": "enemy's soldiers. The Seljuk army became disorganized and the Georgians won the battle.",
+   "start": 627.31
+  },
+  {
+   "text": "Nowadays, Georgians continue to remember the Battle of August 12th of 1121 and celebrate",
+   "start": 633.17
+  },
+  {
+   "text": "the annual September festival known as Deidgorova. The preparations for the festival start as early",
+   "start": 639.63
+  },
+  {
+   "text": "as in May. The Battle of Deidgory is one of the most notable battles of Georgian history.",
+   "start": 646.45
+  },
+  {
+   "text": "Georgia remembers a lot of historical battles which make Georgians proud today.",
+   "start": 657.01
+  },
+  {
+   "text": "One of them was the Battle of Deidgory between the Kingdom of Georgia and the Seljuk Empire",
+   "start": 661.69
+  },
+  {
+   "text": "at the beginning of the 12th century. Georgia's victory at Deidgory marked the beginning of the",
+   "start": 666.67
+  },
+  {
+   "text": "medieval Georgian Golden Age and is known as a miraculous victory. On the morning of 12 August",
+   "start": 672.47
+  },
+  {
+   "text": "1121, 200 Georgian soldiers left the camp and rode to the enemy's side. They pretended that",
+   "start": 679.93
+  },
+  {
+   "text": "they wanted to run away from the Georgian camp. The Seljuk commanders were not happy with the",
+   "start": 687.89
+  },
+  {
+   "text": "soldiers' actions. The Seljuk army was disorganized. The Seljuk army was disorganized and the",
+   "start": 691.53
+  },
+  {
+   "text": "Georgians won the battle. Nowadays, Georgians continue to remember the Battle of August 12th",
+   "start": 702.91
+  },
+  {
+   "text": "of 1121 and celebrate the annual September festival known as Deidgorova. The preparations",
+   "start": 709.15
+  },
+  {
+   "text": "for the festival start as early as in May. The Battle of Deidgory is one of the most notable",
+   "start": 716.33
+  },
+  {
+   "text": "battles of Georgian history.",
+   "start": 721.53
+  },
+  {
+   "text": "The events and battles of Deidgorova are common to Georgian soldiers.",
+   "start": 799.79
+  },
+  {
+   "text": "At the time of the battle, the Georgian army was anywhere from 20,000 to 400 soldiers and",
+   "start": 804.07
+  },
+  {
+   "text": "over 100,000 men. The great battle of Deidgorova was fought between the Georgians and the",
+   "start": 811.55
+  },
+  {
+   "text": "Seljus. The battle is known as The Battle of St. Petersburg and the Battle of Wartburg.",
+   "start": 819.13
+  },
+  {
+   "text": "The battle of the Battle of Wartburg is based on the time of the Georgian army, who had",
+   "start": 826.27
+  },
+  {
+   "text": "the most difficult time before the war.",
+   "start": 826.79
+  },
+  {
+   "text": "The battle of Wartburg is a painful battle. The clashes between the Georgian army and the",
+   "start": 827.23
+  },
+  {
+   "text": "раст, is an important part of Georgian history. The battle of Wartburg is the first time in Georgian",
+   "start": 827.59
+  },
+  {
+   "text": "history, when the Georgian army was slain by the Georgian army. The great battle of Georgian",
+   "start": 827.79
+  },
+  {
+   "text": "I had a wonderful childhood on the small and quiet island.",
+   "start": 829.79
+  },
+  {
+   "text": "We had no TV but I loved the cinema, so I would go as often as possible.",
+   "start": 833.41
+  },
+  {
+   "text": "My sister Evangelina and I had lots of toys.",
+   "start": 838.43
+  },
+  {
+   "text": "But what I really loved best was running around the banana trees together with her.",
+   "start": 841.87
+  },
+  {
+   "text": "We were always together playing and having fun.",
+   "start": 846.29
+  },
+  {
+   "text": "And now we enjoy our professional life together almost as much.",
+   "start": 849.67
+  },
+  {
+   "text": "She works with me now.",
+   "start": 853.95
+  },
+  {
+   "text": "It's true that my parents didn't want me to be a shoe designer.",
+   "start": 855.63
+  },
+  {
+   "text": "They saw my future life in a different light.",
+   "start": 858.73
+  },
+  {
+   "text": "They wanted me to study law so they sent me to the university in Geneva.",
+   "start": 862.49
+  },
+  {
+   "text": "But I left the university before I got my diploma.",
+   "start": 867.03
+  },
+  {
+   "text": "In my university years I dreamt about working in the theater and making designs for films and theatrical performances.",
+   "start": 870.37
+  },
+  {
+   "text": "So, I went to live in Paris to study art and stage set design.",
+   "start": 877.61
+  },
+  {
+   "text": "Then I moved to London and then New York.",
+   "start": 882.35
+  },
+  {
+   "text": "By the way, it was not until 2019 that we opened our...",
+   "start": 884.91
+  },
+  {
+   "text": "boutique in Paris.",
+   "start": 888.83
+  },
+  {
+   "text": "But one day when I showed some of my set designs to Diane of Reeland, the editor of the magazine Vogue,",
+   "start": 890.85
+  },
+  {
+   "text": "she told me that what I really should do was to start designing shoes.",
+   "start": 896.77
+  },
+  {
+   "text": "It is not very often that you get to meet your heroes.",
+   "start": 901.11
+  },
+  {
+   "text": "Let alone receive advice on your work and career.",
+   "start": 904.93
+  },
+  {
+   "text": "I went back to England and began to learn how to make shoes.",
+   "start": 908.35
+  },
+  {
+   "text": "I've never taken official classes on shoe making.",
+   "start": 912.33
+  },
+  {
+   "text": "Actually, I studied it informally.",
+   "start": 915.65
+  },
+  {
+   "text": "I would travel to Paris and Paris.",
+   "start": 918.11
+  },
+  {
+   "text": "I would travel to Paris and Paris.",
+   "start": 918.29
+  },
+  {
+   "text": "I would travel to Italy and visit the best shoe factories there giving questions to the shoemakers about how they made shoes.",
+   "start": 918.73
+  },
+  {
+   "text": "Within a year I was making shoes for a famous English fashion designer Ossie Clark's fashion shows.",
+   "start": 925.13
+  },
+  {
+   "text": "About one year later, I opened my first boutique shop.",
+   "start": 931.87
+  },
+  {
+   "text": "So, today I still have the same boutique.",
+   "start": 935.43
+  },
+  {
+   "text": "A lot of women wear my shoes.",
+   "start": 938.43
+  },
+  {
+   "text": "Of course, I never tell anyone who my clients are because I like to respect people's privacy.",
+   "start": 940.69
+  },
+  {
+   "text": "In 2003 I had the first ever boutique.",
+   "start": 946.61
+  },
+  {
+   "text": "I had the first ever exhibition of my works at the Design Museum in London.",
+   "start": 948.73
+  },
+  {
+   "text": "If I am not mistaken I'm the only shoe designer ever to have had an entire exhibition like that dedicated to my work.",
+   "start": 952.43
+  },
+  {
+   "text": "There will be soon another exhibition of my work at the Bada Shoe Museum in Toronto, Canada.",
+   "start": 959.47
+  },
+  {
+   "text": "At my house, I have an example of almost every pair of shoes I've ever made.",
+   "start": 965.37
+  },
+  {
+   "text": "It's like a shoe museum.",
+   "start": 970.79
+  },
+  {
+   "text": "Each shoe brings back so many memories for me.",
+   "start": 972.53
+  },
+  {
+   "text": "They are like my children.",
+   "start": 975.39
+  },
+  {
+   "text": "It is always a delight to be able to see the shoes I've made.",
+   "start": 977.33
+  },
+  {
+   "text": "It is always a delight to be able to show so much of your work in one place.",
+   "start": 978.53
+  },
+  {
+   "text": "Through my works I try to show the different influences and inspirations I have had throughout my career.",
+   "start": 982.27
+  },
+  {
+   "text": "I feel happy when people say positive things about me.",
+   "start": 988.37
+  },
+  {
+   "text": "However, I am not happy when I hear critical comments but I understand their importance.",
+   "start": 991.77
+  },
+  {
+   "text": "They push me to work even harder.",
+   "start": 997.47
+  },
+  {
+   "text": "Hello, my name is Manolo Blahnik and I am a Spanish shoe designer.",
+   "start": 1019.16
+  },
+  {
+   "text": "I am the eldest of the two children of a wealthy family.",
+   "start": 1024.4
+  },
+  {
+   "text": "The Canary Islands is my birthplace.",
+   "start": 1027.76
+  },
+  {
+   "text": "So, I go there whenever I get a chance, which usually means several times every year.",
+   "start": 1030.7
+  },
+  {
+   "text": "I have some friends who are still there and, of course, my mother who is the most important person in my life.",
+   "start": 1036.4
+  },
+  {
+   "text": "So, I try to see her as often as I can.",
+   "start": 1043.2
+  },
+  {
+   "text": "She still lives in the same house where I lived when I was a child.",
+   "start": 1047.2
+  },
+  {
+   "text": "My best memories are connected with my childhood.",
+   "start": 1051.2
+  },
+  {
+   "text": "I grew up on the banana plantation that has belonged to my mother.",
+   "start": 1054.2
+  },
+  {
+   "text": "It has belonged to my family for generations.",
+   "start": 1057.3
+  },
+  {
+   "text": "I had a wonderful childhood on the small and quiet island.",
+   "start": 1059.3
+  },
+  {
+   "text": "We had no TV but I loved the cinema, so I would go as often as possible.",
+   "start": 1063.3
+  },
+  {
+   "text": "My sister Evangelina and I had lots of toys.",
+   "start": 1067.3
+  },
+  {
+   "text": "But what I really loved best was running around the banana trees together with her.",
+   "start": 1071.3
+  },
+  {
+   "text": "We were always together playing and having fun.",
+   "start": 1075.3
+  },
+  {
+   "text": "And now we enjoy our professional life together almost as much.",
+   "start": 1079.3
+  },
+  {
+   "text": "She works with me now.",
+   "start": 1083.3
+  },
+  {
+   "text": "It's true that my parents are very happy.",
+   "start": 1085.3
+  },
+  {
+   "text": "They didn't want me to be a shoe designer.",
+   "start": 1087.3
+  },
+  {
+   "text": "They saw my future life in a different light.",
+   "start": 1089.3
+  },
+  {
+   "text": "They wanted me to study law so they sent me to the university in Geneva.",
+   "start": 1092.3
+  },
+  {
+   "text": "But I left the university before I got my diploma.",
+   "start": 1097.3
+  },
+  {
+   "text": "In my university years I dreamt about working in the theater and making designs for films and theatrical performances.",
+   "start": 1100.3
+  },
+  {
+   "text": "So, I went to live in Paris to study art and stage set design.",
+   "start": 1107.3
+  },
+  {
+   "text": "Then I moved to London and then New York.",
+   "start": 1112.3
+  },
+  {
+   "text": "By the way, it was not until I was in Paris that I started to study art and stage set design.",
+   "start": 1115.3
+  },
+  {
+   "text": "I didn't know anything about it until 2019 that we opened our boutique in Paris.",
+   "start": 1117.3
+  },
+  {
+   "text": "But one day when I showed some of my set designs to Diane of Rieland, the editor of the magazine Vogue,",
+   "start": 1121.3
+  },
+  {
+   "text": "she told me that what I really should do was to start designing shoes.",
+   "start": 1127.3
+  },
+  {
+   "text": "It is not very often that you get to meet your heroes.",
+   "start": 1131.3
+  },
+  {
+   "text": "Let alone receive advice on your work and career.",
+   "start": 1135.3
+  },
+  {
+   "text": "I went back to England and began to learn how to make shoes.",
+   "start": 1139.3
+  },
+  {
+   "text": "I've never taken official classes on shoemaking.",
+   "start": 1143.3
+  },
+  {
+   "text": "Actually, I studied it informally.",
+   "start": 1145.3
+  },
+  {
+   "text": "I would travel to Italy and visit the best shoe factories there giving questions to the shoemakers about how they made shoes.",
+   "start": 1148.3
+  },
+  {
+   "text": "Within a year I was making shoes for a famous English fashion designer Ossie Clark's fashion shows.",
+   "start": 1155.3
+  },
+  {
+   "text": "About one year later, I opened my first boutique shop.",
+   "start": 1162.3
+  },
+  {
+   "text": "So, today I still have the same boutique.",
+   "start": 1165.3
+  },
+  {
+   "text": "A lot of women wear my shoes.",
+   "start": 1168.3
+  },
+  {
+   "text": "Of course, I never tell anyone who my clients are because I like to respect people.",
+   "start": 1170.3
+  },
+  {
+   "text": "But I have a lot of women who wear my shoes.",
+   "start": 1173.3
+  },
+  {
+   "text": "I like to respect people's privacy.",
+   "start": 1174.3
+  },
+  {
+   "text": "In 2003 I had the first exhibition of my works at the Design Museum in London.",
+   "start": 1176.3
+  },
+  {
+   "text": "If I am not mistaken I'm the only shoe designer ever to have had an entire exhibition like that dedicated to my work.",
+   "start": 1182.3
+  },
+  {
+   "text": "There will be soon another exhibition of my work at the Bada Shoe Museum in Toronto, Canada.",
+   "start": 1189.3
+  },
+  {
+   "text": "At my house, I have an example of almost every pair of shoes I've ever made.",
+   "start": 1195.3
+  },
+  {
+   "text": "It's like a shoe museum.",
+   "start": 1200.3
+  },
+  {
+   "text": "Each shoe brings back something.",
+   "start": 1202.3
+  },
+  {
+   "text": "Each shoe brings back so many memories for me.",
+   "start": 1203.3
+  },
+  {
+   "text": "They are like my children.",
+   "start": 1205.3
+  },
+  {
+   "text": "It is always a delight to be able to show so much of your work in one place.",
+   "start": 1207.3
+  },
+  {
+   "text": "Through my works I try to show the different influences and inspirations I have had throughout my career.",
+   "start": 1212.3
+  },
+  {
+   "text": "I feel happy when people say positive things about me.",
+   "start": 1218.3
+  },
+  {
+   "text": "However, I am not happy when I hear critical comments but I understand their importance.",
+   "start": 1222.3
+  },
+  {
+   "text": "They push me to work even harder.",
+   "start": 1227.3
+  },
+  {
+   "text": "This is the end of the listening task.",
+   "start": 1249.76
+  },
+  {
+   "text": "I hope you have enjoyed this video.",
+   "start": 1252.76
+  },
+  {
+   "text": "Thank you for watching.",
+   "start": 1254.76
+  },
+  {
+   "text": "You are welcome to like and share.",
+   "start": 1255.76
+  },
+  {
+   "text": "See you next time.",
+   "start": 1256.76
+  },
+  {
+   "text": "Have a wonderful day.",
+   "start": 1257.76
+  },
+  {
+   "text": "Bye.",
+   "start": 1258.76
+  },
+  {
+   "text": "800 001",
+   "start": 1259.76
+  },
+  {
+   "text": "800 002",
+   "start": 1260.76
+  },
+  {
+   "text": "800 003",
+   "start": 1261.76
+  },
+  {
+   "text": "800 004",
+   "start": 1262.76
+  },
+  {
+   "text": "800 004",
+   "start": 1263.76
+  },
+  {
+   "text": "800 005",
+   "start": 1264.76
+  },
+  {
+   "text": "800 006",
+   "start": 1265.76
+  },
+  {
+   "text": "800 007",
+   "start": 1266.76
+  },
+  {
+   "text": "800 007",
+   "start": 1267.76
+  },
+  {
+   "text": "800 008",
+   "start": 1268.76
+  },
+  {
+   "text": "800 009",
+   "start": 1269.76
+  },
+  {
+   "text": "800 007",
+   "start": 1270.76
+  },
+  {
+   "text": "800 0010",
+   "start": 1271.76
+  },
+  {
+   "text": "800 0012",
+   "start": 1272.76
+  },
+  {
+   "text": "800 0011",
+   "start": 1273.76
+  },
+  {
+   "text": "800 0017",
+   "start": 1274.76
+  },
+  {
+   "text": "800 0013",
+   "start": 1275.76
+  },
+  {
+   "text": "80000em",
+   "start": 1276.76
+  },
+  {
+   "text": "800 0014",
+   "start": 1277.76
+  },
+  {
+   "text": "800 0017",
+   "start": 1278.76
+  },
+  {
+   "text": "800 0017",
+   "start": 1279.76
+  },
+  {
+   "text": "800 0017",
+   "start": 1280.76
+  }
+ ]
+}

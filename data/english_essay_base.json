@@ -1,0 +1,64 @@
+{
+ "points": 16,
+ "min_words": 120,
+ "max_words": 170,
+ "hints": [
+  { "step": 1, "title": "გაიგე დავალება და დაგეგმე",
+    "body_html": "<p>წაიკითხე დავალება და გადაწყვიტე შენი პოზიცია. დაგეგმე 3 აბზაცი: შესავალი (introduction), ძირითადი ნაწილი (1–2 body paragraphs), დასკვნა (conclusion). მოცულობა — <b>120–170 სიტყვა</b>.</p>" },
+  { "step": 2, "title": "Introduction — დააფიქსირე თეზისი",
+    "body_html": "<p>პირველ აბზაცში დააფიქსირე თემა და შენი მოსაზრება. სასარგებლო დასაწყისები: <i>“Nowadays, … is widely discussed.”</i>, <i>“In my opinion, …”</i>, <i>“This essay will discuss …”</i>.</p>" },
+  { "step": 3, "title": "Body — ერთი იდეა ერთ აბზაცში",
+    "body_html": "<p>თითო აბზაცი — თითო მთავარი არგუმენტი. გამოიყენე სქემა: <b>Point</b> (მთავარი აზრი) + <b>Reason</b> (რატომ) + <b>Example</b> (მაგალითი). მაგ.: <i>“Firstly, … because … For example, …”</i>.</p>" },
+  { "step": 4, "title": "გამოიყენე დამაკავშირებელი სიტყვები",
+    "body_html": "<p>ტექსტი დააკავშირე linking words-ით: <i>Firstly, Secondly, In addition, Moreover, However, On the other hand, As a result, Therefore</i>. ეს აუმჯობესებს organization &amp; cohesion-ის შეფასებას.</p>" },
+  { "step": 5, "title": "მოიყვანე მაგალითი ან მიზეზი",
+    "body_html": "<p>ყოველი მოსაზრება გაამყარე კონკრეტული მაგალითით ან მიზეზით. ეს აჩვენებს, რომ თემას სრულად ფარავ (task achievement).</p>" },
+  { "step": 6, "title": "Conclusion — შეაჯამე",
+    "body_html": "<p>დასკვნაში გაიმეორე შენი პოზიცია სხვა სიტყვებით. სასარგებლო ფრაზები: <i>“In conclusion, …”</i>, <i>“To sum up, …”</i>, <i>“All in all, …”</i>. ახალი არგუმენტი აქ ნუ შემოიტან.</p>" },
+  { "step": 7, "title": "გაამრავალფეროვნე ლექსიკა და გრამატიკა",
+    "body_html": "<p>მოერიდე ერთი და იმავე სიტყვის გამეორებას — გამოიყენე სინონიმები. სცადე სხვადასხვა დროები და რთული წინადადებები (because, although, which…). ეს ამაღლებს vocabulary &amp; grammar-ის ქულას.</p>" },
+  { "step": 8, "title": "შეამოწმე ჩაბარებამდე",
+    "body_html": "<p>1) 120–170 სიტყვაა? 2) 3 აბზაცი გამოყოფილია? 3) თეზისი და დასკვნა ემთხვევა ერთმანეთს? 4) შეამოწმე spelling, articles (a/the), subject–verb agreement, punctuation. 5) ყველა წინადადება დასრულებულია?</p>" }
+ ],
+ "phrases": [
+  { "label": "Introduction", "items": [
+    "Nowadays, … is a widely discussed topic.",
+    "In my opinion, …",
+    "I strongly believe that …",
+    "This essay will discuss the advantages and disadvantages of …" ] },
+  { "label": "Adding arguments", "items": [
+    "Firstly, … / Secondly, …",
+    "In addition, … / Moreover, …",
+    "Another important point is that …",
+    "For example, … / For instance, …" ] },
+  { "label": "Contrast", "items": [
+    "However, …",
+    "On the other hand, …",
+    "Although … , …",
+    "Despite this, …" ] },
+  { "label": "Result / reason", "items": [
+    "As a result, …",
+    "Therefore, …",
+    "This is because …",
+    "Consequently, …" ] },
+  { "label": "Conclusion", "items": [
+    "In conclusion, …",
+    "To sum up, …",
+    "All in all, …",
+    "Taking everything into account, …" ] }
+ ],
+ "rubric": [
+  { "roman": "I", "name": "Task achievement (დავალების შესრულება)", "max": 4,
+    "levels": [ { "score": 4, "desc": "თემა სრულად და ადეკვატურადაა გაშუქებული; მოცულობა დაცულია." },
+                { "score": 0, "desc": "თემა არ არის გაშუქებული ან მოცულობა ძალიან მცირეა." } ] },
+  { "roman": "II", "name": "Organization & cohesion (აგებულება)", "max": 4,
+    "levels": [ { "score": 4, "desc": "მკაფიო აბზაცები, ლოგიკური თანამიმდევრობა, კარგად გამოყენებული linking words." },
+                { "score": 0, "desc": "სტრუქტურა არ იკითხება, აბზაცები არ არის." } ] },
+  { "roman": "III", "name": "Vocabulary (ლექსიკა)", "max": 4,
+    "levels": [ { "score": 4, "desc": "მდიდარი და ზუსტი ლექსიკა, თემის შესაბამისი." },
+                { "score": 0, "desc": "ძალიან მწირი ან არაადეკვატური ლექსიკა." } ] },
+  { "roman": "IV", "name": "Grammar & accuracy (გრამატიკა)", "max": 4,
+    "levels": [ { "score": 4, "desc": "გრამატიკულად გამართული, მცირე შეცდომებით; მრავალფეროვანი კონსტრუქციები." },
+                { "score": 0, "desc": "მრავალი შეცდომა, რომელიც აზრს აბუნდოვანებს." } ] }
+ ]
+}

@@ -82,3 +82,64 @@
 .toast {
   animation: slide-in 0.2s ease-out;
 }
+
+/* ============================================================================
+   Dark theme for the results explorer. It's built from Tailwind utilities with
+   no `dark:` variants in the markup, so rather than touch ~200 call-sites we
+   remap the (≈30) colour utilities and the @apply component classes it actually
+   uses under [data-theme="dark"]. Light stays the default. Palette matches the
+   tests app (slate neutrals, indigo accent).
+   ========================================================================== */
+:root[data-theme="dark"] body { background: #0e1117; color: #e6edf3; }
+
+/* backgrounds */
+:root[data-theme="dark"] .bg-white { background-color: #161b22; }
+:root[data-theme="dark"] .bg-gray-50 { background-color: #1a2030; }
+:root[data-theme="dark"] .bg-gray-100 { background-color: #1c2230; }
+:root[data-theme="dark"] .bg-gray-200 { background-color: #232a37; }
+:root[data-theme="dark"] .bg-gray-800 { background-color: #2d3340; }
+:root[data-theme="dark"] .bg-blue-50 { background-color: #1b1f3a; }
+:root[data-theme="dark"] .bg-red-50 { background-color: #2a181a; }
+:root[data-theme="dark"] .bg-yellow-50, :root[data-theme="dark"] .fav-row { background-color: #2a2410; }
+:root[data-theme="dark"] .grant-100 { background-color: #112318; color: #56d364; }
+:root[data-theme="dark"] .grant-70 { background-color: #1c2410; color: #a5d65a; }
+:root[data-theme="dark"] .grant-50 { background-color: #2a2410; color: #e3b341; }
+
+/* text */
+:root[data-theme="dark"] .text-gray-900, :root[data-theme="dark"] .text-gray-800 { color: #e6edf3; }
+:root[data-theme="dark"] .text-gray-700 { color: #c9d1d9; }
+:root[data-theme="dark"] .text-gray-600 { color: #adbac7; }
+:root[data-theme="dark"] .text-gray-500 { color: #8b949e; }
+:root[data-theme="dark"] .text-gray-400 { color: #6e7681; }
+:root[data-theme="dark"] .text-gray-300 { color: #4d5560; }
+:root[data-theme="dark"] .text-blue-800 { color: #c7ccff; }
+:root[data-theme="dark"] .text-blue-700 { color: #aab2ff; }
+:root[data-theme="dark"] .text-blue-600, :root[data-theme="dark"] .text-blue-500 { color: #8b93ff; }
+:root[data-theme="dark"] .text-blue-400 { color: #6e7bff; }
+:root[data-theme="dark"] .text-red-700, :root[data-theme="dark"] .text-red-600, :root[data-theme="dark"] .text-red-500 { color: #f85149; }
+:root[data-theme="dark"] .text-red-400 { color: #fb8a84; }
+:root[data-theme="dark"] .text-green-600 { color: #3fb950; }
+:root[data-theme="dark"] .text-amber-600 { color: #d29922; }
+
+/* borders + ring */
+:root[data-theme="dark"] .border-gray-100 { border-color: #20262f; }
+:root[data-theme="dark"] .border-gray-200 { border-color: #2a313c; }
+:root[data-theme="dark"] .border-gray-300 { border-color: #3b424e; }
+:root[data-theme="dark"] .border-blue-200 { border-color: #2a2f5a; }
+:root[data-theme="dark"] .border-blue-300 { border-color: #39407a; }
+:root[data-theme="dark"] .border-blue-400 { border-color: #4d56a8; }
+:root[data-theme="dark"] .border-blue-600 { border-color: #6e7bff; }
+:root[data-theme="dark"] .ring-blue-500 { --tw-ring-color: #6e7bff; }
+
+/* component classes (defined via @apply above) + hover states */
+:root[data-theme="dark"] .multi-select-dropdown { background-color: #161b22; border-color: #2a313c; }
+:root[data-theme="dark"] .filter-chip { background-color: #161b22; border-color: #3b424e; }
+:root[data-theme="dark"] .filter-chip:hover { border-color: #4d56a8; background-color: #1b1f3a; }
+:root[data-theme="dark"] .filter-chip.active { border-color: #6e7bff; background-color: #1b1f3a; color: #aab2ff; }
+:root[data-theme="dark"] .btn-ghost:hover { background-color: #1c2230; }
+:root[data-theme="dark"] .hover\:bg-gray-50:hover { background-color: #1a2030; }
+:root[data-theme="dark"] .hover\:bg-gray-100:hover { background-color: #1c2230; }
+:root[data-theme="dark"] .hover\:bg-blue-50:hover { background-color: #1b1f3a; }
+:root[data-theme="dark"] .hover\:bg-blue-700:hover { background-color: #5a68f0; }
+:root[data-theme="dark"] ::-webkit-scrollbar-track { background-color: #161b22; }
+:root[data-theme="dark"] ::-webkit-scrollbar-thumb { background-color: #3b424e; }

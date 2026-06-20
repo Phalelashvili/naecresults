@@ -1,0 +1,975 @@
+{
+ "slug": "inglisuri-2-varianti-2025",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2025,
+ "variant": 2,
+ "kind": "test",
+ "title": "2025 წლის ინგლისურის ტესტი 2 ვარიანტი | Testebi.ge",
+ "num_questions": 24,
+ "num_content_blocks": 28,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<p>Task 1: Listen to the text and for each question mark the correct answer A, B, C or D. You now have 40 seconds to look through the task. You will then hear the recording twice. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/ENGABIT2025V2.mp3\" type=\"audio/mpeg\"/> </audio>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> The Marshall exchange program is for students from </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Denmark.</span>",
+     "text": "Denmark."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. The Netherlands.</span>",
+     "text": "The Netherlands."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The USA.</span>",
+     "text": "The USA."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. all over the world.</span>",
+     "text": "all over the world."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> What was the speaker's main goal in attending the University of California? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. To take a business administration course.</span>",
+     "text": "To take a business administration course."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. To study music industry administration.</span>",
+     "text": "To study music industry administration."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. To spend time on the beach sunbathing.</span>",
+     "text": "To spend time on the beach sunbathing."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. To discover what real college life was like.</span>",
+     "text": "To discover what real college life was like."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> How has growing up in different countries affected the speaker? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. She avoids travelling abroad.</span>",
+     "text": "She avoids travelling abroad."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. She never misses home.</span>",
+     "text": "She never misses home."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. She misses her family a lot.</span>",
+     "text": "She misses her family a lot."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. She values her hometown.</span>",
+     "text": "She values her hometown."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> How did the speaker feel before travelling to the USA? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Worried.</span>",
+     "text": "Worried."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Relaxed.</span>",
+     "text": "Relaxed."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Happy.</span>",
+     "text": "Happy."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Sad.</span>",
+     "text": "Sad."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> What do we learn about the Trojan Family? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. It is a network of the university staff.</span>",
+     "text": "It is a network of the university staff."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. It assists only first-year students.</span>",
+     "text": "It assists only first-year students."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. It supports students even after they graduate.</span>",
+     "text": "It supports students even after they graduate."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It ends assistance upon students' graduation.</span>",
+     "text": "It ends assistance upon students' graduation."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> The speaker says that the campus of the University of California is </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. the same size as the campus back home.</span>",
+     "text": "the same size as the campus back home."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. bigger than other campuses in America.</span>",
+     "text": "bigger than other campuses in America."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. smaller than the campus back home.</span>",
+     "text": "smaller than the campus back home."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. smaller than most other American campuses.</span>",
+     "text": "smaller than most other American campuses."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> What was the speaker's most memorable experience? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Going to a beach.</span>",
+     "text": "Going to a beach."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Going to student parties.</span>",
+     "text": "Going to student parties."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Attending a baseball game.</span>",
+     "text": "Attending a baseball game."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Dining at a Mexican restaurant.</span>",
+     "text": "Dining at a Mexican restaurant."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> The speaker expects that the term spent at The University of California will be </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. exciting.</span>",
+     "text": "exciting."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. exotic.</span>",
+     "text": "exotic."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. tiring.</span>",
+     "text": "tiring."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. experimental.</span>",
+     "text": "experimental."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Amelia Earhart – the first woman aviator</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> 'Women must try to do things as men have tried. When they fail, their failure must be a challenge to others.' These words belong to Amelia Earhart, one of the most famous figures in early aviation. Amelia Earhart was born in 1897, in Kansas, USA. As a child she didn't behave in a 'feminine'* way. She climbed trees and hunted rats with her rifle. She saw her first plane when she was ten and wasn't impressed with it at all. But she was very interested in newspaper reports about women who were successful in the professions men mostly had, such as engineering, law and management. Amelia cut the reports out and kept them.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> During World War I Amelia worked as a nursing assistant in a military hospital and later started to study medicine at university. However, her life took a different direction in 1920 when she went to an aviation fair with her father and had a ten-minute flight. As soon as the plane left the ground, Amelia knew she wanted to fly. Amelia found a female flight instructor and started to learn how to fly. She took on all sorts of jobs to pay for her lessons, worked really hard for a certain period of life and eventually bought a second-hand plane - a bright yellow aircraft she named 'Canary'. Thus, whatever she dreamt about came true. In 1922 she flew Canary to a height of 4.27 kilometers, setting a women's altitude* record.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> In 1928, while working as a social worker in Boston, Amelia received an amazing phone call inviting her to join pilot Wilmer Stultz on a flight across the Atlantic. The man, who organised the flight, was the American publisher, George Putman. Amelia's official title was 'commander', but she herself said she was just a passenger. Amelia became the first woman to fly across the Atlantic. This flight brought her fame and she wrote a book about it titled 20 Hrs., 40 Min. Amelia toured the country giving lectures, with George Putnam acting as her manager. In 1931 they got married.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b> In 1932 Amelia made aviation history again by becoming the first woman to fly solo across the Atlantic, something that only one person, Charles Lindbergh, had ever done before. Due to bad weather, she had to make an emergency landing in the field in Ireland frightening the local cows. With this flight she set several records: the first woman to complete a solo transatlantic flight, the only person to make the crossing of the ocean twice, the longest non-stop distance flown by a woman and the shortest time for the journey. Amelia was awarded the Distinguished Flying Cross. She wrote another book and began designing a flying suit for women, later expanding her designs to include practical clothing for women with active lifestyles.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> Amelia continued to set aviation records over the next few years. However, not everyone was comfortable with the idea of a woman living the kind of life that she led. One newspaper sarcastically ended an article about her with the question 'But can she bake a cake?' When she was nearly 40, Amelia decided that she was ready for a final challenge - to become the first woman to fly around the world. Her first attempt failed, but she didn't change her mind. In June 1937, she tried again, accompanied by navigator Fred Noonan. She had decided that this was going to be her last long-distance, record-breaking flight.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> Everything went well and they landed in New Guinea in July. The next stage of their journey was from New Guinea to Howland Island, a tiny spot of land in the Pacific Ocean. However, in mid-flight, the plane disappeared in bad weather. A massive rescue search* was started immediately but nothing was found. The USA government spent four million US dollars looking for Amelia and the navigator, which makes it the most expensive air and sea search in history. Although they were never found, Amelia Earhart remains a symbol of courage and bravery both for aviation and for women. <br/>*feminine: ქალური *altitude: სიმაღლე *rescue search: სამაშველო ძებნა</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> Which paragraph states that some people didn't approve of Amelia's lifestyle? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> Which paragraph explains why once Amelia had to make an unexpected landing? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> Which paragraph specifies the route Amelia and her companion took during their last flight? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> Which paragraph mentions the specific event which inspired Amelia to write a book? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> Which paragraph states Amelia's reaction when she first saw a plane? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> Which paragraph names the things Amelia designed specifically for women? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> Which paragraph could have the title 'Working hard to reach a dream'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which paragraph could have the title: 'Amelia's first flight across the Atlantic'? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "A",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "B",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "C",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "D",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "E",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "F",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 3: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). <span>(8 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>This is a story told by Thomas Wilson, the captain of a cruise ship called The Pacific Princess.</i></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>As the captain of the cruise ship The Pacific Princess, I've seen countless wonders at sea, but nothing prepared me for the extraordinary event of August 25, 2022 – the event which will stay in my memory forever! It was supposed to be another smooth evening aboard The Pacific Princess. With 670 guests on board, our cruise ship was nearing the end of an 8-day trip through the North Sea. The passengers gathered in the dining hall, enjoying their dinner and sharing the stories of their adventures from the trip. I stood on the top deck, watching the beautiful sunset paint the horizon in shades of orange and pink. The air was calm, and everything seemed peaceful – a perfect end to an exciting day. And that's when I saw it – a sudden burst of light in the distance. It was so bright and unexpected that I knew I had to act quickly. Trusting my instincts, I immediately ordered the ship to change course and directed my crew toward that strange light. As we got closer, I realised it wasn't an optical illusion; it was an emergency flare* signaling for help! My intuition had been right; someone at sea was in serious trouble. Normally, the Coast Guard would handle a search mission like this, but we were the only ship nearby. I knew that if we didn't act fast, those in trouble would be lost at sea forever. Every second mattered, so I gathered my crew and prepared for a rescue operation.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Our ship moved forward at full speed. Looking through my binoculars, I spotted something far ahead in the ocean. Soon I realised what we were approaching – a lifeboat floating helplessly in the waves. My heart raced with a mix of fear and hope. Was it too late? But then I saw movement on the boat – there were three men on the boat and they were alive! All three of them waved desperately as they saw our ship approaching. I made an announcement to the passengers, asking them to remain calm as we were about to start a rescue operation. Suddenly, the ship fell silent. Everyone aboard seemed to hold their breath, anxiously waiting to see what would happen next. When we lowered a ladder over the side of the ship, the first man from the lifeboat reached up and grasped the ladder with shaky hands. He climbed steadily, step by step, as the passengers watched breathlessly from above. He safely climbed onto the deck of our ship, followed by the second man and then the third. But as the third man was about to board, he slipped. Time seemed to freeze for a moment as he dropped into the sea. But the crew didn't hesitate, they pulled him from the water within seconds and brought him safely aboard.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Everyone felt relieved and I could hear the applause and cheers from the passengers. But there was no time to celebrate. From the three survivors we learned that there had been five men on the fishing boat when it sank. So two fishermen were still missing. As night fell, we stayed in the area and carefully watched the waters while waiting for the Coast Guard to arrive. Soon helicopters and patrol boats joined the search. We still held onto the hope of finding the others. But at dawn, the Coast Guard found the bodies of the two missing fishermen. It was a tragic ending. We saved three lives, but we couldn't save them all. The weight of the loss was heavy, but I knew we had done everything to give those men a chance to live. I'll always remember that remarkable day and the deep sense of achievement it gave me.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>*emergency flare: მაშხალა, რომელსაც საფრთხის შემთხვევაში ანთებენ</i></p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 1,
+   "heading": "კითხვა 1",
+   "stem_html": "<div> What was happening aboard the ship at the beginning of the story? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. The passengers were in a panic.</span>",
+     "text": "The passengers were in a panic."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. The captain was enjoying the view.</span>",
+     "text": "The captain was enjoying the view."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. The ship was caught in a violent storm.</span>",
+     "text": "The ship was caught in a violent storm."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. The crew was preparing for a rescue mission.</span>",
+     "text": "The crew was preparing for a rescue mission."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 2,
+   "heading": "კითხვა 2",
+   "stem_html": "<div> When the captain saw the unexpected burst of light, he </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. decided to take immediate action.</span>",
+     "text": "decided to take immediate action."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. knew it was an optical illusion.</span>",
+     "text": "knew it was an optical illusion."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. didn't know what to do.</span>",
+     "text": "didn't know what to do."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. completely ignored it.</span>",
+     "text": "completely ignored it."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 3,
+   "heading": "კითხვა 3",
+   "stem_html": "<div> The captain decided to start the rescue operation because </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. his ship was in a serious trouble.</span>",
+     "text": "his ship was in a serious trouble."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. he knew there was no other ship nearby.</span>",
+     "text": "he knew there was no other ship nearby."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. he wanted to test his crew's rescue skills.</span>",
+     "text": "he wanted to test his crew's rescue skills."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. he didn't trust the Coast Guard.</span>",
+     "text": "he didn't trust the Coast Guard."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 4,
+   "heading": "კითხვა 4",
+   "stem_html": "<div> What did the captain see through his binoculars? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. An empty boat.</span>",
+     "text": "An empty boat."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. A storm approaching.</span>",
+     "text": "A storm approaching."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. A lifeboat with three men.</span>",
+     "text": "A lifeboat with three men."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. A ship moving at full speed.</span>",
+     "text": "A ship moving at full speed."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 5,
+   "heading": "კითხვა 5",
+   "stem_html": "<div> How did the passengers feel when the rescue operation started? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Disappointed.</span>",
+     "text": "Disappointed."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Grateful.</span>",
+     "text": "Grateful."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Worried.</span>",
+     "text": "Worried."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Relaxed.</span>",
+     "text": "Relaxed."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 6,
+   "heading": "კითხვა 6",
+   "stem_html": "<div> What happened as the third man was boarding the ship? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. He shouted for help.</span>",
+     "text": "He shouted for help."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He jumped into the sea.</span>",
+     "text": "He jumped into the sea."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. His hands started to shake.</span>",
+     "text": "His hands started to shake."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He fell into the sea.</span>",
+     "text": "He fell into the sea."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 7,
+   "heading": "კითხვა 7",
+   "stem_html": "<div> The cruise ship remained in the area overnight because its crew </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. continued searching for the missing men.</span>",
+     "text": "continued searching for the missing men."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. wanted to celebrate the successful rescue.</span>",
+     "text": "wanted to celebrate the successful rescue."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. found the bodies of the missing fishermen.</span>",
+     "text": "found the bodies of the missing fishermen."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. were too tired to continue their journey.</span>",
+     "text": "were too tired to continue their journey."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 8,
+   "heading": "კითხვა 8",
+   "stem_html": "<div> Which of the following would be the best title for the text? </div> <div> <p>პრობლემის აღწერა:</p> </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Captain rescues a sinking ship</span>",
+     "text": "Captain rescues a sinking ship"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Five lives saved at sea</span>",
+     "text": "Five lives saved at sea"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Failed rescue operation</span>",
+     "text": "Failed rescue operation"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Unforgettable memory</span>",
+     "text": "Unforgettable memory"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> <span>between (A)</span> <span>cloudy (B)</span> <span>exploration (C)</span> <span>helped (D)</span> <span>invented (E)</span> <span>period (F)</span> <span>possible (G)</span> <span>qualities (H)</span> <span>road (I)</span> <span>seemed (J)</span> <span>spread (K)</span> <span>understand (L)</span> <span>valuable (M)</span> <span>way (N)</span> </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>The importance of the compass</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 5: Read the text and mark the correct choice A, B, C or D. <span>(12 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>The deepest cave</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. Two sentences are extra. <span>(6 points)</span></p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Brother and sister talking</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>Brother:</b> Emily, have you seen my headphones? I can't find them. I've looked all over the place - under the couch, in my pockets, everywhere!<br/><b>Sister:</b> <b>1.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Brother:</b> Yes, I already did. They're not there now.<br/><b>Sister:</b> <b>2.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Brother:</b> I already checked my room. I'm sure I left them in the living room last night after watching that show. I was using them before I went to bed.<br/><b>Sister:</b> <b>3.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Brother:</b> Good idea. I'll ask her. By the way, do you want to watch a movie tonight?<br/><b>Sister:</b> <b>4.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Brother:</b> I was thinking about that new comedy everyone's talking about. What about watching it today?<br/><b>Sister:</b> <b>5.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Brother:</b> Great! I'll ask Mom about my headphones now. Thanks, Emily!<br/><b>Sister:</b> <b>6.</b> <span>—A.B.C.D.E.F.G.H.</span><br/><b>Brother:</b> All right!</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> You borrowed them some time ago and left them at my friend's house.<br/><b>B.</b> If you were a bit more organised, this wouldn't keep happening. Did you ask Mom? She might've moved them when she was cleaning.<br/><b>C.</b> Hmm, I think I saw them on the kitchen table this morning. Did you check there?<br/><b>D.</b> Documentaries are my favourite, they show a real world around us. Comedies are just for entertainment.<br/><b>E.</b> Sounds good! Let me know when you find them!<br/><b>F.</b> That sounds fun! What do you want to watch?<br/><b>G.</b> You always leave your things lying around and then you lose them easily. Maybe you left them in your room.<br/><b>H.</b> Oh, I've heard about that one! Sure, let's watch it after dinner. We can make some popcorn, too.</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>პრობლემის აღწერა:</p>"
+  }
+ ]
+}

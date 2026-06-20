@@ -1,0 +1,956 @@
+{
+ "sentences": [
+  {
+   "text": "You are going to listen to five texts.",
+   "start": 31.44
+  },
+  {
+   "text": "For each of them, answer the two questions given.",
+   "start": 34.44
+  },
+  {
+   "text": "Mark the correct answer A, B, or C.",
+   "start": 37.44
+  },
+  {
+   "text": "You have 20 seconds to look through the task.",
+   "start": 42.44
+  },
+  {
+   "text": "You will hear the recording twice.",
+   "start": 45.44
+  },
+  {
+   "text": "Text 1",
+   "start": 47.44
+  },
+  {
+   "text": "David and I became friends when we were kids.",
+   "start": 67.85
+  },
+  {
+   "text": "We went to different schools, but David and his family lived in the house next to us.",
+   "start": 70.85
+  },
+  {
+   "text": "I don't exactly remember what we did.",
+   "start": 76.85
+  },
+  {
+   "text": "I don't remember what made us so close.",
+   "start": 78.85
+  },
+  {
+   "text": "We were so different.",
+   "start": 81.85
+  },
+  {
+   "text": "I loved outdoor games.",
+   "start": 83.85
+  },
+  {
+   "text": "He loved indoor games.",
+   "start": 85.85
+  },
+  {
+   "text": "I enjoyed reading books.",
+   "start": 87.85
+  },
+  {
+   "text": "He spent a lot of time in front of his computer.",
+   "start": 89.85
+  },
+  {
+   "text": "In high school, my dad once took me fishing, and since then it has become an important part of my lifestyle.",
+   "start": 92.85
+  },
+  {
+   "text": "At that same time, David started making models of airplanes.",
+   "start": 99.85
+  },
+  {
+   "text": "He never showed any interest in my hobby.",
+   "start": 103.85
+  },
+  {
+   "text": "But we liked to share our impressions,",
+   "start": 106.85
+  },
+  {
+   "text": "and we would spend evenings together.",
+   "start": 107.85
+  },
+  {
+   "text": "Unfortunately, David and his family moved to another town some time ago.",
+   "start": 109.85
+  },
+  {
+   "text": "However, we are Facebook friends and we are still in close contact with each other.",
+   "start": 114.85
+  },
+  {
+   "text": "David and I became friends when we were kids.",
+   "start": 119.85
+  },
+  {
+   "text": "We went to different schools, but David and his family lived in the house next to us.",
+   "start": 126.69
+  },
+  {
+   "text": "I don't exactly remember what made us so close.",
+   "start": 132.69
+  },
+  {
+   "text": "We were so different.",
+   "start": 136.69
+  },
+  {
+   "text": "I loved outdoor games.",
+   "start": 138.69
+  },
+  {
+   "text": "He loved indoor games.",
+   "start": 140.69
+  },
+  {
+   "text": "I enjoyed reading books.",
+   "start": 142.69
+  },
+  {
+   "text": "He spent a lot of time in front of his computer.",
+   "start": 144.69
+  },
+  {
+   "text": "In high school, my dad once took me fishing, and since then it has become an important part of my lifestyle.",
+   "start": 147.69
+  },
+  {
+   "text": "At that same time, David started making models of airplanes.",
+   "start": 154.69
+  },
+  {
+   "text": "He never showed any interest in my hobby.",
+   "start": 158.69
+  },
+  {
+   "text": "But we liked to share our impressions, and we would spend evenings together.",
+   "start": 161.69
+  },
+  {
+   "text": "Unfortunately, David and his family moved to another town some time ago.",
+   "start": 165.69
+  },
+  {
+   "text": "Unfortunately, David and his family moved to another town some time ago.",
+   "start": 167.69
+  },
+  {
+   "text": "Unfortunately, David and his family moved to another town some time ago.",
+   "start": 168.69
+  },
+  {
+   "text": "However, we are Facebook friends and we are still in close contact with each other.",
+   "start": 169.69
+  },
+  {
+   "text": "However, we are Facebook friends and we are still in close contact with each other.",
+   "start": 170.69
+  },
+  {
+   "text": "Text 2",
+   "start": 171.69
+  },
+  {
+   "text": "Text 2",
+   "start": 172.69
+  },
+  {
+   "text": "Text 2",
+   "start": 173.69
+  },
+  {
+   "text": "Text 2",
+   "start": 174.69
+  },
+  {
+   "text": "Text 2",
+   "start": 175.69
+  },
+  {
+   "text": "Text 2",
+   "start": 181.33
+  },
+  {
+   "text": "Text 2",
+   "start": 182.33
+  },
+  {
+   "text": "Text 2",
+   "start": 183.33
+  },
+  {
+   "text": "Text 2",
+   "start": 184.33
+  },
+  {
+   "text": "Text 2",
+   "start": 185.33
+  },
+  {
+   "text": "Text 2",
+   "start": 186.33
+  },
+  {
+   "text": "Text 2",
+   "start": 187.33
+  },
+  {
+   "text": "Text 2",
+   "start": 188.33
+  },
+  {
+   "text": "Text 2",
+   "start": 189.33
+  },
+  {
+   "text": "Text 2",
+   "start": 190.33
+  },
+  {
+   "text": "Text 2",
+   "start": 191.33
+  },
+  {
+   "text": "Text 2",
+   "start": 192.33
+  },
+  {
+   "text": "Text 2",
+   "start": 193.33
+  },
+  {
+   "text": "Text 2",
+   "start": 194.33
+  },
+  {
+   "text": "Text 2",
+   "start": 195.33
+  },
+  {
+   "text": "Text 2",
+   "start": 196.33
+  },
+  {
+   "text": "Text 2",
+   "start": 197.33
+  },
+  {
+   "text": "Text 2",
+   "start": 198.33
+  },
+  {
+   "text": "Text 2",
+   "start": 199.33
+  },
+  {
+   "text": "Text 2",
+   "start": 200.33
+  },
+  {
+   "text": "Text 2",
+   "start": 201.33
+  },
+  {
+   "text": "Text 2",
+   "start": 202.33
+  },
+  {
+   "text": "meters high, nearly 400 meters higher than Mont Blanc, the peak on the border of France and Italy.",
+   "start": 203.33
+  },
+  {
+   "text": "These majestic mountains, with their terrifying narrow and winding roads and hidden villages,",
+   "start": 210.61
+  },
+  {
+   "text": "which you cannot reach in winter, are the source of many legends. According to one Greek legend,",
+   "start": 215.63
+  },
+  {
+   "text": "the Caucasus Mountains were one of the columns holding up the world. And another legend says",
+   "start": 222.03
+  },
+  {
+   "text": "that it was here that Zeus, the Greek god, ordered to tie up Prometheus with unbreakable chains.",
+   "start": 227.85
+  },
+  {
+   "text": "Prometheus was tortured day and night by a giant eagle. Today, the Caucasus Mountains are",
+   "start": 235.65
+  },
+  {
+   "text": "increasingly becoming a destination for climbers, hikers, or skiers looking for adventure.",
+   "start": 242.03
+  },
+  {
+   "text": "What's the highest mountain range in Europe? The Alps? Wrong. It is the Caucasus Mountains,",
+   "start": 254.18
+  },
+  {
+   "text": "marking the border between Georgia and Russia.",
+   "start": 260.56
+  },
+  {
+   "text": "While the highest peak, Elbrus, is in Russia, Georgia is proud to have the second highest",
+   "start": 262.84
+  },
+  {
+   "text": "mountain peak, Shkara, which is 5,193 meters high, nearly 400 meters higher than Mont Blanc,",
+   "start": 269.0
+  },
+  {
+   "text": "the peak on the border of France and Italy. These majestic mountains, with their terrifying",
+   "start": 278.68
+  },
+  {
+   "text": "narrow and winding roads and hidden villages, which you cannot reach in winter, are the source",
+   "start": 283.8
+  },
+  {
+   "text": "of many legends. According to one Greek legend, the Caucasus Mountains are the highest mountain",
+   "start": 289.42
+  },
+  {
+   "text": "ranges in the world. The Caucasus Mountains were one of the columns holding up the world.",
+   "start": 292.84
+  },
+  {
+   "text": "And another legend says that it was here that Zeus, the Greek god, ordered to tie up Prometheus",
+   "start": 297.64
+  },
+  {
+   "text": "with unbreakable chains. Prometheus was tortured day and night by a giant eagle. Today, the",
+   "start": 303.88
+  },
+  {
+   "text": "Caucasus Mountains are increasingly becoming a destination for climbers, hikers, or skiers",
+   "start": 311.94
+  },
+  {
+   "text": "looking for adventure.",
+   "start": 317.92
+  },
+  {
+   "text": "Text 3.",
+   "start": 324.8
+  },
+  {
+   "text": "Harbin International Ice and Snow Sculpture Festival is an annual winter festival that",
+   "start": 327.48
+  },
+  {
+   "text": "takes place in Harbin, China. It is the largest ice and snow festival in the world. Today,",
+   "start": 332.82
+  },
+  {
+   "text": "it has become an international festival and competition. At first, participants of the",
+   "start": 340.02
+  },
+  {
+   "text": "festival were Chinese, but then other artists from Japan and Malaysia joined in. The festival",
+   "start": 345.28
+  },
+  {
+   "text": "demonstrates the world's biggest ice sculptures, which are displayed throughout the city. The",
+   "start": 351.42
+  },
+  {
+   "text": "festival is a festival of the world's largest ice sculptures, which are displayed throughout the city.",
+   "start": 357.02
+  },
+  {
+   "text": "The festival starts on January 5th and lasts one month. However, if the weather stays cold,",
+   "start": 357.48
+  },
+  {
+   "text": "the figures made of ice often open earlier and last longer. During the festival, there are night",
+   "start": 363.36
+  },
+  {
+   "text": "tours in many parts of the city that are lit with ice lanterns. Winter activities during the",
+   "start": 369.8
+  },
+  {
+   "text": "festival include alpine skiing, winter swimming in the river, and the ice lantern exhibition in",
+   "start": 375.32
+  },
+  {
+   "text": "the city garden. The Harbin International Ice and Snow Sculpture Festival is an annual winter",
+   "start": 381.22
+  },
+  {
+   "text": "festival that takes place in Harbin, China. It is the largest ice and snow festival in the world.",
+   "start": 392.74
+  },
+  {
+   "text": "Today, it has become an international festival and competition. At first, participants of the",
+   "start": 400.38
+  },
+  {
+   "text": "festival were Chinese, but then other artists from Japan and Malaysia joined in. The festival",
+   "start": 406.12
+  },
+  {
+   "text": "demonstrates the world's biggest ice sculptures, which are displayed throughout the city.",
+   "start": 412.26
+  },
+  {
+   "text": "The festival starts on January 5th and lasts one month. However, if the weather stays cold,",
+   "start": 417.2
+  },
+  {
+   "text": "the figures made of ice often open earlier and last longer. During the festival, there are night",
+   "start": 422.72
+  },
+  {
+   "text": "tours in many parts of the city that are lit with ice lanterns. Winter activities during the",
+   "start": 430.64
+  },
+  {
+   "text": "festival include alpine skiing, winter swimming in the river, and the ice lantern exhibition in",
+   "start": 436.16
+  },
+  {
+   "text": "the city garden. Text 4. A 25-year-old Roman general and statesman, Julius Caesar, was sailing",
+   "start": 442.06
+  },
+  {
+   "text": "the Aegean Sea when he was kidnapped by his father. He was a man of great strength and was",
+   "start": 454.97
+  },
+  {
+   "text": "a great man. While staying with the pirates, Julius Caesar spent most of his time composing",
+   "start": 457.23
+  },
+  {
+   "text": "poetry. He would then read his writings to the pirates. Julius Caesar demanded from the pirates",
+   "start": 463.05
+  },
+  {
+   "text": "not to talk while he was sleeping or resting. The pirates started to respect him and allowed",
+   "start": 469.69
+  },
+  {
+   "text": "him to move freely around their island. The pirates who kidnapped Caesar asked for silver",
+   "start": 475.17
+  },
+  {
+   "text": "money to let him free. Caesar sent his men to his homeland to collect the silver for him.",
+   "start": 480.97
+  },
+  {
+   "text": "While his men were collecting the required silver, Julius Caesar was alone with the pirates,",
+   "start": 487.23
+  },
+  {
+   "text": "but instead of feeling fear, he treated them as if they were his servants. Caesar acted as a leader",
+   "start": 493.01
+  },
+  {
+   "text": "rather than a prisoner. However, Caesar promised to punish them after he was freed. As soon as",
+   "start": 499.17
+  },
+  {
+   "text": "Caesar was free again, he kept his promise and killed all the pirates and returned all of his",
+   "start": 505.53
+  },
+  {
+   "text": "silver. A 25-year-old Roman general and statesman, Julius Caesar, was sailing the Aegean Sea when he",
+   "start": 510.39
+  },
+  {
+   "text": "was kidnapped by Sicilian pirates. While staying with the pirates, Julius Caesar spent most of his",
+   "start": 522.67
+  },
+  {
+   "text": "time composing poetry. He would then read his writings to the pirates. Julius Caesar demanded",
+   "start": 529.11
+  },
+  {
+   "text": "from the pirates not to talk while he was sleeping or resting. The pirates started to",
+   "start": 535.77
+  },
+  {
+   "text": "respect him and allowed him to move freely around their island. The pirates who kidnapped Caesar",
+   "start": 540.63
+  },
+  {
+   "text": "asked for silver money to let him free. Caesar sent his men to his homeland to collect the",
+   "start": 546.95
+  },
+  {
+   "text": "silver for him. While his men were collecting the required silver, Julius Caesar was alone with",
+   "start": 552.65
+  },
+  {
+   "text": "the pirates, but instead of feeling fear, he treated them as if they were his servants.",
+   "start": 558.79
+  },
+  {
+   "text": "Caesar acted as a leader rather than a prisoner. However, Caesar promised to punish them after he",
+   "start": 564.81
+  },
+  {
+   "text": "was freed. As soon as Caesar was free again, he kept his promise and killed all the pirates and",
+   "start": 570.99
+  },
+  {
+   "text": "returned all of his silver. Text 5. Georgia remembers a lot of",
+   "start": 576.41
+  },
+  {
+   "text": "historical battles which make Georgians proud today. One of them was the Battle of Dugori between",
+   "start": 586.88
+  },
+  {
+   "text": "the Kingdom of Georgia and the Seljuk Empire at the beginning of the 12th century. Georgia's",
+   "start": 592.48
+  },
+  {
+   "text": "victory at Dugori marked the beginning of the medieval Georgian Golden Age and is known as a",
+   "start": 598.22
+  },
+  {
+   "text": "miraculous victory. On the morning of 12 August 1121, 200 Georgian soldiers left the camp and",
+   "start": 603.78
+  },
+  {
+   "text": "rode to the enemy's side. They pretended that they wanted to run away, but they were wrong. They",
+   "start": 612.82
+  },
+  {
+   "text": "were not able to do so. The Seljuk army was disorganized and the Georgians won the battle.",
+   "start": 616.88
+  },
+  {
+   "text": "Nowadays, Georgians continue to remember the Battle of August 12th of 1121 and celebrate the",
+   "start": 632.86
+  },
+  {
+   "text": "annual September festival known as Ditgoroba. The preparations for the festival start as early as",
+   "start": 639.74
+  },
+  {
+   "text": "May. The Georgians were not able to return to their home country, so they were forced to leave the",
+   "start": 646.58
+  },
+  {
+   "text": "country. The battle of Dugori is one of the most notable battles of Georgian history.",
+   "start": 646.88
+  },
+  {
+   "text": "Georgia remembers a lot of historical battles which make Georgians proud today. One of them",
+   "start": 656.67
+  },
+  {
+   "text": "was the Battle of Dugori between the Kingdom of Georgia and the Seljuk Empire at the beginning of",
+   "start": 662.43
+  },
+  {
+   "text": "the 12th century. Georgia's victory at Dugori marked the beginning of the medieval Georgian",
+   "start": 667.55
+  },
+  {
+   "text": "Golden Age and is known as a miraculous victory. On the morning of 12 August 1121, 200 Georgian",
+   "start": 673.23
+  },
+  {
+   "text": "soldiers left the camp and rode to the enemy's side. They pretended that they wanted to run away",
+   "start": 681.11
+  },
+  {
+   "text": "from the Georgian camp. The Seljuk commanders welcomed the Georgian soldiers. As soon as the",
+   "start": 688.77
+  },
+  {
+   "text": "Georgians entered the enemy's camp, they attacked and killed most of the enemies.",
+   "start": 695.09
+  },
+  {
+   "text": "The Seljuk army became disorganized and the Georgians won the battle.",
+   "start": 699.97
+  },
+  {
+   "text": "Nowadays, Georgians continue to remember the Battle of August 12th of 1121 and celebrate the",
+   "start": 704.91
+  },
+  {
+   "text": "annual September festival known as Didguroba. The preparations for the festival start as early",
+   "start": 711.11
+  },
+  {
+   "text": "as in May. The Battle of Dugori is one of the most notable battles of Georgian history.",
+   "start": 718.17
+  },
+  {
+   "text": "Task 2. You are going to listen to one text with eight questions. Mark the correct answer",
+   "start": 743.61
+  },
+  {
+   "text": "A, B, or C. You now have 30 seconds to look through the task. You will then hear the recording",
+   "start": 751.03
+  },
+  {
+   "text": "twice.",
+   "start": 758.95
+  },
+  {
+   "text": "Hello, my full name is Shakira Isabel Mebarak Ripol, but the whole world knows me as Shakira.",
+   "start": 789.59
+  },
+  {
+   "text": "I come from Colombia. Today, I'm a successful singer, but there was a time when my career",
+   "start": 796.55
+  },
+  {
+   "text": "almost came to an end. It happened in late 2017. I suffered from a problem in my throat,",
+   "start": 802.27
+  },
+  {
+   "text": "and I could hardly speak. I always thought that at some point in my life,",
+   "start": 809.79
+  },
+  {
+   "text": "some things would go away, like attractiveness, youth, all of that stuff.",
+   "start": 813.95
+  },
+  {
+   "text": "But I never thought that my voice would lead me, because it's so fundamental for my personality.",
+   "start": 819.59
+  },
+  {
+   "text": "So, it was extremely difficult for me when I couldn't sing. There were times I couldn't",
+   "start": 825.11
+  },
+  {
+   "text": "even get out of bed. I was so depressed. There is a joke that a man often wishes to have married",
+   "start": 830.45
+  },
+  {
+   "text": "a dumb wife, or a wife who cannot speak. But when I had to remain quiet, my partner, Gerard Piquet,",
+   "start": 836.95
+  },
+  {
+   "text": "felt like one of those ex-prisoners who is given his freedom and doesn't know what to do.",
+   "start": 844.43
+  },
+  {
+   "text": "I was very upset and pessimistic. I have never fought with my partner so much as in those times",
+   "start": 849.59
+  },
+  {
+   "text": "when I was unable to speak. I had to communicate through signs, and nobody could understand me.",
+   "start": 857.27
+  },
+  {
+   "text": "My sons, two and four then, couldn't read, so writing didn't help. When my voice eventually",
+   "start": 864.23
+  },
+  {
+   "text": "returned, without an operation, I was extremely happy. I was glad that I had not agreed to surgery.",
+   "start": 871.15
+  },
+  {
+   "text": "I did some schoolwork on the track in my teaching. I had tried meditation,",
+   "start": 879.59
+  },
+  {
+   "text": "even going to Lourdes, a major religious site for Catholic believers to get holy water.",
+   "start": 883.39
+  },
+  {
+   "text": "I don't know exactly what helped me, but I was ready for the stage. My sixth tour,",
+   "start": 889.23
+  },
+  {
+   "text": "called the El Dorado Tour, had been postponed due to my throat problems. But when I finally",
+   "start": 894.69
+  },
+  {
+   "text": "went on that tour, it was very different. I was out there because I wanted to feel the pleasure of singing.",
+   "start": 901.35
+  },
+  {
+   "text": "Say higher! Joe Burwell, 50 years older than I was, notre belle dramatic human,ın",
+   "start": 908.19
+  },
+  {
+   "text": "go to the stage and sing to convince myself that I'm good and that people like me. But the El Dorado",
+   "start": 909.35
+  },
+  {
+   "text": "tour every night on stage was a gift. I think this tragic experience has made me a better singer.",
+   "start": 915.93
+  },
+  {
+   "text": "I had to overcome so many difficulties to become an international pop singer.",
+   "start": 923.63
+  },
+  {
+   "text": "Today, I live in Barcelona with Gerard and our two sons. When I first went on a tour after my",
+   "start": 928.93
+  },
+  {
+   "text": "sons were born, I had no idea how this was going to work. At some point, I thought it was going to",
+   "start": 935.25
+  },
+  {
+   "text": "be impossible. It is true that being separated from my sons was hard. My kids were so little,",
+   "start": 942.05
+  },
+  {
+   "text": "I missed even their bad behavior. I tried to arrange the dates so that they would coincide",
+   "start": 949.41
+  },
+  {
+   "text": "with school holidays and they could be with me, but other times they stayed at home with Gerard.",
+   "start": 955.29
+  },
+  {
+   "text": "Being a mother is the hardest job I've ever done.",
+   "start": 962.13
+  },
+  {
+   "text": "It could affect your creativity unless you protect your personal space.",
+   "start": 965.45
+  },
+  {
+   "text": "When I'm with my children, I try to tell them about problems their dad and I had to overcome,",
+   "start": 969.45
+  },
+  {
+   "text": "but I never overload them with every detail of my career or every victory. They weren't born when",
+   "start": 975.27
+  },
+  {
+   "text": "I was back in Colombia and every single door was shut in my face. Those are the stories I want to",
+   "start": 982.35
+  },
+  {
+   "text": "tell them because life isn't always easy. Not everything happens as you've planned. When my",
+   "start": 988.29
+  },
+  {
+   "text": "children attend a concert, I try to tell them about the problems they're facing. I try to tell",
+   "start": 994.73
+  },
+  {
+   "text": "them that they're not the only ones who are being treated badly in Colombia. I try to tell them",
+   "start": 995.23
+  },
+  {
+   "text": "that if they don't attend my show for the first time, I saw that they looked a little confused.",
+   "start": 995.81
+  },
+  {
+   "text": "I'm trying to give them a normal life, but it is not always possible.",
+   "start": 1000.85
+  },
+  {
+   "text": "There is huge social inequality in Colombia, so I initiated a foundation to help schools and",
+   "start": 1006.53
+  },
+  {
+   "text": "children in Colombia. After I became popular, I knew I had to succeed and make money because only",
+   "start": 1013.17
+  },
+  {
+   "text": "that way I could do something for my country. Hello, my full name is a girl named Mikaela. I'm",
+   "start": 1020.29
+  },
+  {
+   "text": "a woman. I can do anything I want. I'm a woman. I have a job. I'm a woman. I'm a woman. I'm a man. I'm a woman.",
+   "start": 1042.68
+  },
+  {
+   "text": "Hello, my full name is Shakira Isabel Mebarak Ripoll, but the whole world knows me as Shakira.",
+   "start": 1042.76
+  },
+  {
+   "text": "I come from Colombia. Today, I'm a successful singer, but there was a time when my career",
+   "start": 1050.04
+  },
+  {
+   "text": "almost came to an end. It happened in late 2017. I suffered from a problem in my throat,",
+   "start": 1055.58
+  },
+  {
+   "text": "and I could hardly speak. I always thought that at some point in my life, some things",
+   "start": 1063.1
+  },
+  {
+   "text": "would go away, like attractiveness, youth, all of that stuff. But I never thought that",
+   "start": 1068.06
+  },
+  {
+   "text": "my voice would lead me, because it's so fundamental for my personality. So, it was",
+   "start": 1073.7
+  },
+  {
+   "text": "extremely difficult for me when I couldn't sing. There were times I couldn't even get",
+   "start": 1079.36
+  },
+  {
+   "text": "out of bed. I was so depressed. There is a joke that a man often wishes to have married",
+   "start": 1084.22
+  },
+  {
+   "text": "a dumb wife, or a wife who cannot speak. But when I had to remain quiet, my partner, Gerard",
+   "start": 1090.28
+  },
+  {
+   "text": "Piquet,",
+   "start": 1096.88
+  },
+  {
+   "text": "felt like one of those ex-prisoners who is given his freedom and doesn't know what to",
+   "start": 1097.26
+  },
+  {
+   "text": "do with it. I was very upset and pessimistic. I have never fought with my partner so much",
+   "start": 1102.8
+  },
+  {
+   "text": "as in those times when I was unable to speak. I had to communicate through signs, and nobody",
+   "start": 1109.64
+  },
+  {
+   "text": "could understand me. My sons, two and four then, couldn't read, so writing didn't help.",
+   "start": 1115.98
+  },
+  {
+   "text": "When my voice eventually returned, without an operation,",
+   "start": 1123.08
+  },
+  {
+   "text": "I would say,",
+   "start": 1126.96
+  },
+  {
+   "text": "I was extremely happy. I was glad that I had not agreed to surgery. I tried meditation,",
+   "start": 1127.24
+  },
+  {
+   "text": "even going to Lourdes, a major religious site for Catholic believers to get holy water.",
+   "start": 1134.44
+  },
+  {
+   "text": "I don't know exactly what helped me, but I was ready for the stage.",
+   "start": 1140.6
+  },
+  {
+   "text": "My sixth tour, called the El Dorado tour, had been postponed due to my throat problems.",
+   "start": 1145.14
+  },
+  {
+   "text": "But when I finally went on that tour, it was very different. I was out there,",
+   "start": 1151.72
+  },
+  {
+   "text": "because I wanted to feel the pleasure of singing. Before, I would usually go to the",
+   "start": 1157.24
+  },
+  {
+   "text": "stage and sing to convince myself that I'm good and that people like me. But the El Dorado tour,",
+   "start": 1163.2
+  },
+  {
+   "text": "every night on stage, was a gift. I think this tragic experience has made me a better singer.",
+   "start": 1169.98
+  },
+  {
+   "text": "I had to overcome so many difficulties to become an international pop singer.",
+   "start": 1176.98
+  },
+  {
+   "text": "Today, I live in Barcelona with Gerard and our two sons.",
+   "start": 1182.08
+  },
+  {
+   "text": "When I first started singing, I was a singer. I was a singer, but I was a singer. I was a singer,",
+   "start": 1186.7
+  },
+  {
+   "text": "but I was a singer. I was a singer, but I was a singer. I was a singer, but I was a singer.",
+   "start": 1186.94
+  },
+  {
+   "text": "When I first went on a tour after my sons were born, I had no idea how this was going to work.",
+   "start": 1187.3
+  },
+  {
+   "text": "At some point, I thought it was going to be impossible.",
+   "start": 1193.04
+  },
+  {
+   "text": "It is true that being separated from my sons was hard. My kids were so little,",
+   "start": 1196.96
+  },
+  {
+   "text": "I missed even their bad behavior. I tried to arrange the dates so that they would coincide",
+   "start": 1202.72
+  },
+  {
+   "text": "with school holidays and they could be with me, but other times they stayed at home with Gerard.",
+   "start": 1208.62
+  },
+  {
+   "text": "Being a mother is the hardest thing to do. I'm not sure if I can do it. I'm not sure if I can do it.",
+   "start": 1215.48
+  },
+  {
+   "text": "The hardest job I've ever done. It could affect your creativity unless you protect your personal",
+   "start": 1216.4
+  },
+  {
+   "text": "space. When I'm with my children, I try to tell them about problems their dad and I had to",
+   "start": 1221.78
+  },
+  {
+   "text": "overcome, but I never overload them with every detail of my career or every victory. They",
+   "start": 1227.52
+  },
+  {
+   "text": "weren't born when I was back in Colombia and every single door was shut in my face.",
+   "start": 1234.8
+  },
+  {
+   "text": "Those are the stories I want to tell them because life isn't always easy. Not everything happens as",
+   "start": 1239.92
+  },
+  {
+   "text": "you've planned. When my children attended my show for the first time, I saw that they looked a little",
+   "start": 1246.1
+  },
+  {
+   "text": "confused. I'm trying to give them a normal life, but it is not always possible. There is huge social",
+   "start": 1252.58
+  },
+  {
+   "text": "inequality in Colombia, so I initiated a foundation to help schools and children in Colombia.",
+   "start": 1261.04
+  },
+  {
+   "text": "After I became popular, I knew I had to succeed and make money because only that way I could do",
+   "start": 1268.6
+  },
+  {
+   "text": "something for my country.",
+   "start": 1275.1
+  },
+  {
+   "text": "This is the end of the listening task.",
+   "start": 1276.1
+  }
+ ]
+}

@@ -1,0 +1,1341 @@
+{
+ "slug": "matematika-2-varianti-2025",
+ "url": "",
+ "subject": "math",
+ "subject_ka": "მათემატიკა",
+ "year": 2025,
+ "variant": 2,
+ "kind": "test",
+ "title": "2025 წლის მათემატიკის ტესტი 2 ვარიანტი",
+ "num_questions": 41,
+ "num_content_blocks": 0,
+ "has_audio": false,
+ "blocks": [
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "ამოცანა 1",
+   "stem_html": "<div> $3 \\frac{1}{3} \\cdot\\left(2 \\frac{3}{4}-1,25\\right)=$ </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\frac{7}{12}$</span>",
+     "text": "$\\frac{7}{12}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{21}{4}$</span>",
+     "text": "$\\frac{21}{4}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>5</span>",
+     "text": "5"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>-5</span>",
+     "text": "-5"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "ამოცანა 2",
+   "stem_html": "<div> იპოვეთ 2025-ის ყველა განსხვავებული მარტივი გამყოფის ჯამი. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>5</span>",
+     "text": "5"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>7</span>",
+     "text": "7"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>8</span>",
+     "text": "8"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>9</span>",
+     "text": "9"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "ამოცანა 3",
+   "stem_html": "<div> ტელევიზორის ფასი ჯერ 20% -ით შემცირდა, ხოლო შემდეგ კიდევ 10% -ით შემცირდა. სულ რამდენი პროცენტით შემცირდა ტელევიზორის ფასი? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>27 %</span>",
+     "text": "27 %"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>28 %</span>",
+     "text": "28 %"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>29 %</span>",
+     "text": "29 %"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>30 %</span>",
+     "text": "30 %"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "ამოცანა 4",
+   "stem_html": "<div> ამოზნექილი ოთხკუთხედის კუთხეები ისე შეეფარდება ერთმანეთს, როგორც 1:2:4:5. იპოვეთ ოთხკუთხედის უდიდესი კუთხის სიდიდე. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$130^{\\circ}$</span>",
+     "text": "$130^{\\circ}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$135^{\\circ}$</span>",
+     "text": "$135^{\\circ}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$150^{\\circ}$</span>",
+     "text": "$150^{\\circ}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$160^{\\circ}$</span>",
+     "text": "$160^{\\circ}$"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "ამოცანა 5",
+   "stem_html": "<div> წრის ფორმის გასაშლელი მაგიდის გარშემოწერილობის სიგრძე (წრეწირის სიგრძე) $2 \\pi$ მეტრის ტოლია. გაშლის დროს ნახევარწრის ფორმის ნაჭრებს შორის დგამენ მართკუთხედის ფორმის ნაჭერს, რომლის დიაგონალის სიგრძე $\\sqrt{13}$ მეტრია (იხ. სურათი). მაგიდის გაშლის შედეგად რამდენჯერ იზრდება მისი ფართობი? </div>",
+   "figures": [
+    "media/matematika2025wlis1varianti.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$(6+\\pi)$ - ჯერ</span>",
+     "text": "$(6+\\pi)$ - ჯერ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\left(1+\\frac{3}{\\pi}\\right)$ - ჯერ</span>",
+     "text": "$\\left(1+\\frac{3}{\\pi}\\right)$ - ჯერ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>2 - ჯერ</span>",
+     "text": "2 - ჯერ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\left(1+\\frac{6}{\\pi}\\right)$ - ჯერ</span>",
+     "text": "$\\left(1+\\frac{6}{\\pi}\\right)$ - ჯერ"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "ამოცანა 6",
+   "stem_html": "<div> $\\sqrt{2} \\cdot\\left(2^{\\sqrt{0,5}-1}\\right)^{\\sqrt{0,5}+1}=$ </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$2 \\sqrt{2}$</span>",
+     "text": "$2 \\sqrt{2}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>2</span>",
+     "text": "2"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>1</span>",
+     "text": "1"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\frac{1}{2}$</span>",
+     "text": "$\\frac{1}{2}$"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "ამოცანა 7",
+   "stem_html": "<div> იპოვეთ $f(2)$, თუ $f(x)=\\frac{9-4 x}{2 \\sqrt{x}+3}$ </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$3-2 \\sqrt{2}$</span>",
+     "text": "$3-2 \\sqrt{2}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{1}{6}$</span>",
+     "text": "$\\frac{1}{6}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\sqrt{2}-3$</span>",
+     "text": "$\\sqrt{2}-3$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$2 \\sqrt{2}-3$</span>",
+     "text": "$2 \\sqrt{2}-3$"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "ამოცანა 8",
+   "stem_html": "<div> Oxy სიბრტყის (1; 4) წერტილი მდებარეობს $y=-3 x+b$ წრფეზე. იპოვეთ ამ წრფეზე მდებარე იმ წერტილის ორდინატა, რომლის აბსცისაა 5. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>−8</span>",
+     "text": "−8"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>−7</span>",
+     "text": "−7"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\frac{3}{4}$</span>",
+     "text": "$\\frac{3}{4}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>7</span>",
+     "text": "7"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "ამოცანა 9",
+   "stem_html": "<div> სურათზე მოცემულია $f(x)=\\frac{a}{x+b}$ ფუნქციის გრაფიკი, რომლის განსაზღვრის არეა $(-\\infty ;-4) \\cup(-4 ;+\\infty)$ სიმრავლე. იპოვეთ $a+b$ , თუ გრაფიკი Oy ღერძს კვეთს $\\left(0 ; \\frac{1}{2}\\right)$ წერტილშიю </div>",
+   "figures": [
+    "media/2025wlismatematikisamocana6.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>−6</span>",
+     "text": "−6"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>−2</span>",
+     "text": "−2"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>4,5</span>",
+     "text": "4,5"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>6</span>",
+     "text": "6"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "ამოცანა 10",
+   "stem_html": "<div> Oxy საკოორდინატო სიბრტყეზე $y=2 x^2-a x+5$ ფუნქციის გრაფიკის სიმეტრიის ღერძია $x=-3$ წრფე. იპოვეთ a-ს მნიშვნელობა. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>−12</span>",
+     "text": "−12"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>−6</span>",
+     "text": "−6"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>10</span>",
+     "text": "10"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>12</span>",
+     "text": "12"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "ამოცანა 11",
+   "stem_html": "<div> წესიერი ოცკუთხედის პერიმეტრი 40 სმ-ის ტოლია. იპოვეთ მასზე შემოხაზული წრეწირის რადიუსი. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\frac{1}{\\sin \\left(\\frac{\\pi}{20}\\right)}$ სმ</span>",
+     "text": "$\\frac{1}{\\sin \\left(\\frac{\\pi}{20}\\right)}$ სმ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{1}{\\cos \\left(\\frac{\\pi}{20}\\right)}$ სმ</span>",
+     "text": "$\\frac{1}{\\cos \\left(\\frac{\\pi}{20}\\right)}$ სმ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\frac{1}{2 \\sin \\left(\\frac{\\pi}{10}\\right)}$ სმ</span>",
+     "text": "$\\frac{1}{2 \\sin \\left(\\frac{\\pi}{10}\\right)}$ სმ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$2 \\sin \\left(\\frac{\\pi}{20}\\right)$ სმ</span>",
+     "text": "$2 \\sin \\left(\\frac{\\pi}{20}\\right)$ სმ"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "ამოცანა 12",
+   "stem_html": "<div> სამი ფირმა ასრულებს 60 მილიონი ლარის ღირებულების ერთობლივ პროექტს. ამ ფირმების პროექტში ჩადებული თანხების განაწილების წრიულ დიაგრამაზე მესამე ფირმას შეესაბამება $90^{\\circ}$ კუთხის სექტორი. მოგვიანებით თითოეულმა ფირმამ პროექტში დამატებით 5 მილიონი ლარი ჩადო, რის შემდეგაც კვლავ შეადგინეს შესაბამისი წრიული დიაგრამა. რამდენი გრადუსით შეიცვალა ახალ წრიულ დიაგრამაზე მესამე ფირმის შესაბამისი სექტორის კუთხე? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>გაიზარდა $6^{\\circ}$-ით</span>",
+     "text": "გაიზარდა $6^{\\circ}$-ით"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>შემცირდა $5^{\\circ}$-ით</span>",
+     "text": "შემცირდა $5^{\\circ}$-ით"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გაიზარდა $8^{\\circ}$-ით</span>",
+     "text": "გაიზარდა $8^{\\circ}$-ით"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>გაიზარდა $9^{\\circ}$-ით</span>",
+     "text": "გაიზარდა $9^{\\circ}$-ით"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "ამოცანა 13",
+   "stem_html": "<div> პირამიდას და პრიზმას ტოლი რაოდენობის წახნაგები აქვს. რამდენი წვერო აქვს ამ პრიზმას, თუ მას 7-ით მეტი წიბო აქვს, ვიდრე აღნიშნულ პირამიდას? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>16</span>",
+     "text": "16"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>18</span>",
+     "text": "18"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>22</span>",
+     "text": "22"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>28</span>",
+     "text": "28"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "ამოცანა 14",
+   "stem_html": "<div> Oxy საკოორდინატო სიბრტყეზე მოცემულია OABC რომბი, რომლის გვერდის სიგრძე 2-ის ტოლია, ხოლო AOC კუთხის სიდიდე $45^{\\circ}$ -ია. იპოვეთ B წერტილის აბსცისა, თუ ცნობილია, რომ C წერტილი მდებარეობს აბსცისათა დადებით ნახევარღერძზე. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$2+\\sqrt{2}$</span>",
+     "text": "$2+\\sqrt{2}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$2+\\frac{\\sqrt{3}}{2}$</span>",
+     "text": "$2+\\frac{\\sqrt{3}}{2}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$2-\\sqrt{2}$</span>",
+     "text": "$2-\\sqrt{2}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$4-2 \\sqrt{2}$</span>",
+     "text": "$4-2 \\sqrt{2}$"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "ამოცანა 15",
+   "stem_html": "<div> ელენემ 5 დღეში ამოხსნა სულ 75 სავარჯიშო ისე, რომ ყოველდღიურად უფრო მეტ სავარჯიშოს ხსნიდა, ვიდრე წინა დღეს. სავარჯიშოების რა უმცირესი რაოდენობა შეიძლება ამოეხსნა ელენეს მეხუთე დღეს? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>20</span>",
+     "text": "20"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>18</span>",
+     "text": "18"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>17</span>",
+     "text": "17"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>16</span>",
+     "text": "16"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "ამოცანა 16",
+   "stem_html": "<div> A და B არის 20 ელემენტიანი სიმრავლის ქვესიმრავლეები, ამასთან A სიმრავლე შედგება 13 ელემენტისაგან, ხოლო B შედგება 15 ელემენტისაგან. ქვემოთ ჩამოთვლილი რიცხვებიდან რომელი შეიძლება წარმოადგენდეს $A \\cap B$ სიმრავლის ყველა ელემენტის რაოდენობას? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>4</span>",
+     "text": "4"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>6</span>",
+     "text": "6"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>7</span>",
+     "text": "7"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>9</span>",
+     "text": "9"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 17,
+   "heading": "ამოცანა 17",
+   "stem_html": "<div> არგუმენტის რომელი მნიშვნელობისთვის იღებს $\\left[\\frac{2 \\pi}{5} ; \\frac{3 \\pi}{5}\\right]$ შუალედზე განსაზღვრული $f(x)=\\sin (5 x)$ ფუნქცია უდიდეს მნიშვნელობას? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\frac{\\pi}{2}$</span>",
+     "text": "$\\frac{\\pi}{2}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{2 \\pi}{5}$</span>",
+     "text": "$\\frac{2 \\pi}{5}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\frac{3 \\pi}{5}$</span>",
+     "text": "$\\frac{3 \\pi}{5}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\frac{5 \\pi}{2}$</span>",
+     "text": "$\\frac{5 \\pi}{2}$"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 18,
+   "heading": "ამოცანა 18",
+   "stem_html": "<div> კლასში სწავლობს ოცდაოთხი მოსწავლე. მათგან მაგიდის კომპიუტერი აქვს ათ მოსწავლეს, პლანშეტი აქვს შვიდ მოსწავლეს, ხოლო როგორც მაგიდის კომპიუტერი, ასევე პლანშეტი აქვს ხუთ მოსწავლეს. რა არის იმის ალბათობა, რომ ამ კლასის მოსწავლეებიდან შემთხვევით შერჩეულ მოსწავლეს არ აქვს არც მაგიდის კომპიუტერი და არც პლანშეტი? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\frac{1}{11}$</span>",
+     "text": "$\\frac{1}{11}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{7}{24}$</span>",
+     "text": "$\\frac{7}{24}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\frac{1}{2}$</span>",
+     "text": "$\\frac{1}{2}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\frac{22}{29}$</span>",
+     "text": "$\\frac{22}{29}$"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 19,
+   "heading": "ამოცანა 19",
+   "stem_html": "<div> იპოვეთ m-ის ყველა იმ მნიშვნელობათა სიმრავლე, რომელთაგან თითოეულისთვის $m x^2-6 x+m-2=0$ კვადრატულ განტოლებას აქვს სხვადასხვა ნიშნის ორი განსხვავებული ფესვი. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$(0 ; 2)$</span>",
+     "text": "$(0 ; 2)$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$(0 ;+\\infty)$</span>",
+     "text": "$(0 ;+\\infty)$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$(-\\infty ; 2)$</span>",
+     "text": "$(-\\infty ; 2)$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$(-\\infty ; 0) \\cup(2 ;+\\infty)$</span>",
+     "text": "$(-\\infty ; 0) \\cup(2 ;+\\infty)$"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 20,
+   "heading": "ამოცანა 20",
+   "stem_html": "<div> ABC მართკუთხა სამკუთხედის C მართი კუთხის წვეროდან AB ჰიპოტენუზისადმი გავლებულია CD სიმაღლე. იპოვეთ ABC კუთხის ტანგენსი, თუ $\\frac{A D}{D B}=\\frac{2}{7}$. </div>",
+   "figures": [
+    "media/samkutxedi621344.png\n"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\frac{2}{5}$</span>",
+     "text": "$\\frac{2}{5}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{\\sqrt{14}}{7}$</span>",
+     "text": "$\\frac{\\sqrt{14}}{7}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\sqrt{\\frac{7}{2}}$</span>",
+     "text": "$\\sqrt{\\frac{7}{2}}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\frac{\\sqrt{7}}{2}$</span>",
+     "text": "$\\frac{\\sqrt{7}}{2}$"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 21,
+   "heading": "ამოცანა 21",
+   "stem_html": "<div> ABC ტოლგვერდა სამკუთხედის გვერდის სიგრძე 6 -ის ტოლია. იპოვეთ $\\overrightarrow{A B}$ და $\\overrightarrow{B C}$ ვექტორების სკალარული ნამრავლი. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$18 \\sqrt{3}$</span>",
+     "text": "$18 \\sqrt{3}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>18</span>",
+     "text": "18"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$-18 \\sqrt{3}$</span>",
+     "text": "$-18 \\sqrt{3}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>-18</span>",
+     "text": "-18"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 22,
+   "heading": "ამოცანა 22",
+   "stem_html": "<div> ჭადრაკის ტურნირში მონაწილეობს 13 მოჭადრაკე, რომელთაგან ერთ-ერთი არის გია. თითოეული მოჭადრაკე ყველა დანარჩენთან თითო პარტიას თამაშობს. თითოეულ პარტიაში თეთრი ან შავი ფიგურებით თამაშის უფლება თამაშდება კენჭისყრით, რომელშიც თითოეული ფერის მოსვლის ალბათობა ერთმანეთის ტოლია. რა არის იმის ალბათობა, რომ ტურნირის მსვლელობაში გია თეთრი ფიგურებით ზუსტად ოთხჯერ ითამაშებს? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\frac{C_{12}^4}{8!4!}$</span>",
+     "text": "$\\frac{C_{12}^4}{8!4!}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{2^{12}}{12!}$</span>",
+     "text": "$\\frac{2^{12}}{12!}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\frac{C_8^4}{2^{12}}$</span>",
+     "text": "$\\frac{C_8^4}{2^{12}}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\frac{C_{12}^4}{2^{12}}$</span>",
+     "text": "$\\frac{C_{12}^4}{2^{12}}$"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 23,
+   "heading": "ამოცანა 23",
+   "stem_html": "<div> იპოვეთ $f(x)=3^{x+7}-5$ ფუნქციის მნიშვნელობათა სიმრავლე. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$(-5 ;+\\infty)$</span>",
+     "text": "$(-5 ;+\\infty)$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\left(\\log _3 5-7 ;+\\infty\\right)$</span>",
+     "text": "$\\left(\\log _3 5-7 ;+\\infty\\right)$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$[-7 ;-5)$</span>",
+     "text": "$[-7 ;-5)$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$(0 ;+\\infty)$</span>",
+     "text": "$(0 ;+\\infty)$"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 24,
+   "heading": "ამოცანა 24",
+   "stem_html": "<div> Oxy საკოორდინატო სიბრტყეზე მოცემულია სამკუთხედი, რომლის წვეროები $y=x^2-8 x+7$ ფუნქციის გრაფიკის საკოორდინატო ღერძებთან გადაკვეთის წერტილებია. იპოვეთ ამ სამკუთხედის უმცირესი გვერდის სიგრძე. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>8</span>",
+     "text": "8"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>7</span>",
+     "text": "7"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>6</span>",
+     "text": "6"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\sqrt{50}$</span>",
+     "text": "$\\sqrt{50}$"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 25,
+   "heading": "ამოცანა 25",
+   "stem_html": "<div> იპოვეთ a პარამეტრის ყველა იმ მნიშვნელობების სიმრავლე, რომელთაგან თითოეულისათვის $\\sin x=7-5 a$ განტოლებას აქვს ამონახსნი, რომელიც მოთავსებულია $(\\pi ; 2 \\pi)$ ინტერვალში. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\left(\\frac{7}{5} ; \\frac{8}{5}\\right)$</span>",
+     "text": "$\\left(\\frac{7}{5} ; \\frac{8}{5}\\right)$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\left(\\frac{7}{5} ; \\frac{8}{5}\\right]$</span>",
+     "text": "$\\left(\\frac{7}{5} ; \\frac{8}{5}\\right]$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\left(\\frac{7}{5} ;+\\infty\\right)$</span>",
+     "text": "$\\left(\\frac{7}{5} ;+\\infty\\right)$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\left(-\\infty ; \\frac{8}{5}\\right)$</span>",
+     "text": "$\\left(-\\infty ; \\frac{8}{5}\\right)$"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 26,
+   "heading": "ამოცანა 26",
+   "stem_html": "<div> ქვემოთ ჩამოთვლილი გამონათქვამებიდან რომელია მცდარი? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>თუ ორი განსხვავებული a და b წრფე M სიბრტყის მართობულია, მაშინ ეს წრფეები ერთმანეთის პარალელურია.</span>",
+     "text": "თუ ორი განსხვავებული a და b წრფე M სიბრტყის მართობულია, მაშინ ეს წრფეები ერთმანეთის პარალელურია."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>თუ ორი განსხვავებული M და N სიბრტყეები a წრფის მართობულია, მაშინ ეს სიბრტყეები ერთმანეთის პარალელურია.</span>",
+     "text": "თუ ორი განსხვავებული M და N სიბრტყეები a წრფის მართობულია, მაშინ ეს სიბრტყეები ერთმანეთის პარალელურია."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>თუ a წრფე M სიბრტყის მართობულია, ხოლო a წრფის გადამკვეთი b წრფე M სიბრტყის პარალელურია, მაშინ a და b წრფეები ერთმანეთის მართობულია.</span>",
+     "text": "თუ a წრფე M სიბრტყის მართობულია, ხოლო a წრფის გადამკვეთი b წრფე M სიბრტყის პარალელურია, მაშინ a და b წრფეები ერთმანეთის მართობულია."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>ნებისმიერად შერჩეული M და N სიბრტყეებისათვის და a წრფისათვის, თუ $M \\| a$ და $N \\| a$ , მაშინ $M \\| N$ .</span>",
+     "text": "ნებისმიერად შერჩეული M და N სიბრტყეებისათვის და a წრფისათვის, თუ $M \\| a$ და $N \\| a$ , მაშინ $M \\| N$ ."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 27,
+   "heading": "ამოცანა 27",
+   "stem_html": "<div> Oxy საკოორდინატო სიბრტყეზე მოცემულია სიბრტყის ორი გარდაქმნა: $R_O^{90^{\\circ}}$ და $S_y$, სადაც $R_O^{90^{\\circ}}$ არის მობრუნება კოორდინატთა სათავის გარშემო $90^{\\circ}$ -ით საათის ისრის მოძრაობის საწინააღმდეგო მიმართულებით, ხოლო $S_y$ არის სიმეტრია ორდინატთა ღერძის მიმართ. სიბრტყეზე მდებარე ნებისმიერი A წერტილისათვის, სადაც $A \\neq O$ ავაგოთ $B=S_y\\left(R_O^{90^{\\circ}}(A)\\right)$ წერტილი. ქვემოთ ჩამოთვლილი წინადადებიდან რომელია ჭეშმარიტი? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>B წერტილი მიიღება A წერტილის მობრუნებით O წერტილის მიმართ $180^{\\circ}$ -ით.</span>",
+     "text": "B წერტილი მიიღება A წერტილის მობრუნებით O წერტილის მიმართ $180^{\\circ}$ -ით."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B წერტილი A წერტილის სიმეტრიულია აბსცისათა ღერძის მიმართ.</span>",
+     "text": "B წერტილი A წერტილის სიმეტრიულია აბსცისათა ღერძის მიმართ."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>B წერტილი A წერტილის სიმეტრიულია ორდინატთა ღერძის მიმართ.</span>",
+     "text": "B წერტილი A წერტილის სიმეტრიულია ორდინატთა ღერძის მიმართ."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>B წერტილი A წერტილის სიმეტრიულია $y=x$ წრფის მიმართ.</span>",
+     "text": "B წერტილი A წერტილის სიმეტრიულია $y=x$ წრფის მიმართ."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 28,
+   "heading": "ამოცანა 28",
+   "stem_html": "<div> რიცხვითი მიმდევრობის ზოგადი წევრი მოცემულია ფორმულით $a_n=n^2-3 n$, სადაც n ნატურალური რიცხვია. გამოთვალეთ $a_{2 n}-a_{n+1}$. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$3 n^2-n+4$</span>",
+     "text": "$3 n^2-n+4$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$3 n^2-5 n+2$</span>",
+     "text": "$3 n^2-5 n+2$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$n^2-n-4$</span>",
+     "text": "$n^2-n-4$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$3 n^2-n-4$</span>",
+     "text": "$3 n^2-n-4$"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 29,
+   "heading": "ამოცანა 29",
+   "stem_html": "<div> იპოვეთ უმცირესი მთელი რიცხვი, რომელიც მეტია $\\log _3 4-\\log _9 121$ გამოსახულების მნიშვნელობაზე? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>−2</span>",
+     "text": "−2"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>−1</span>",
+     "text": "−1"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>0</span>",
+     "text": "0"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>1</span>",
+     "text": "1"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 30,
+   "heading": "ამოცანა 30",
+   "stem_html": "<div> A წერტილიდან წრეწირისადმი გავლებულია მხები და წრეწირის ცენტრზე გამავალი მკვეთი. მხები წრეწირს ეხება B წერტილში, ხოლო C არის მკვეთის წრეწირთან გადაკვეთის წერტილი, რომელიც მდებარეობს A წერტილსა და წრეწირის ცენტრს შორის (იხ. სურათი). იპოვეთ AB მონაკვეთის სიგრძე, თუ წრეწირის რადიუსია 5 სმ და AC = 4 სმ. </div>",
+   "figures": [
+    "media/figura2025wlistesti1234.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\sqrt{14}$ სმ</span>",
+     "text": "$\\sqrt{14}$ სმ"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$2 \\sqrt{14}$ სმ</span>",
+     "text": "$2 \\sqrt{14}$ სმ"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>8 სმ</span>",
+     "text": "8 სმ"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$8 \\sqrt{2}$ სმ</span>",
+     "text": "$8 \\sqrt{2}$ სმ"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 31,
+   "heading": "ამოცანა 31",
+   "stem_html": "<div> ამოხსენით უტოლობა: $3^{-x}+3^{1-x} \\leq 40$ </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\left[\\frac{1+\\log _3 40}{2} ;+\\infty\\right)$</span>",
+     "text": "$\\left[\\frac{1+\\log _3 40}{2} ;+\\infty\\right)$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\left[-\\log _3 10 ;+\\infty\\right)$</span>",
+     "text": "$\\left[-\\log _3 10 ;+\\infty\\right)$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\left(0 ; \\log _3 10\\right]$</span>",
+     "text": "$\\left(0 ; \\log _3 10\\right]$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\left(-\\infty ;-\\log _3 10\\right]$$\\left(-\\infty ;-\\log _3 10\\right]$</span>",
+     "text": "$\\left(-\\infty ;-\\log _3 10\\right]$$\\left(-\\infty ;-\\log _3 10\\right]$"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 32,
+   "heading": "ამოცანა 32",
+   "stem_html": "<div> გეომეტრიული პროგრესიის მნიშვნელი უდრის 4-ს, ხოლო პირველი და მეხუთე წევრების ნამრავლი ტოლია მესამე წევრის. რას უდრის ამ პროგრესიის მეხუთე წევრი? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>64</span>",
+     "text": "64"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>32</span>",
+     "text": "32"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>16</span>",
+     "text": "16"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>4</span>",
+     "text": "4"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 33,
+   "heading": "ამოცანა 33",
+   "stem_html": "<div> ვემოთ ჩამოთვლილი მნიშვნელობებიდან რომელი შეიძლება მიიღოს $y=\\cos x$ ფუნქციამ? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\pi$</span>",
+     "text": "$\\pi$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{\\pi}{2}$</span>",
+     "text": "$\\frac{\\pi}{2}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$-\\frac{\\pi}{4}$</span>",
+     "text": "$-\\frac{\\pi}{4}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$-\\frac{\\pi}{3}$</span>",
+     "text": "$-\\frac{\\pi}{3}$"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 34,
+   "heading": "ამოცანა 34",
+   "stem_html": "<div> ABCD კვადრატს და ASD სამკუთხედს, რომლებიც სხვადასხვა სიბრტყეში მდებარეობს, აქვს AD საერთო გვერდი (იხ. სურათი). O წერტილი კვადრატის დიაგონალების გადაკვეთის წერტილია, SO კვადრატის სიბრტყის მართობულია, SO = 6 სმ და AB = 8 სმ. იპოვეთ ABCD კვადრატითა და ASD სამკუთხედით შედგენილი ორწახნაგა კუთხე. </div>",
+   "figures": [
+    "media/532mathfiguree.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\arcsin \\left(\\frac{3}{4}\\right)$</span>",
+     "text": "$\\arcsin \\left(\\frac{3}{4}\\right)$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\operatorname{arctg}\\left(\\frac{3}{2}\\right)$</span>",
+     "text": "$\\operatorname{arctg}\\left(\\frac{3}{2}\\right)$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\operatorname{arctg}\\left(\\frac{2}{3}\\right)$</span>",
+     "text": "$\\operatorname{arctg}\\left(\\frac{2}{3}\\right)$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\arccos \\left(\\frac{3}{4}\\right)$</span>",
+     "text": "$\\arccos \\left(\\frac{3}{4}\\right)$"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 35,
+   "heading": "ამოცანა 35",
+   "stem_html": "<div> იპოვეთ $a+b$ , თუ $A(a ; b)$ და $B(1 ; 3)$ წერტილები სიმეტრიულია $y=2 x^2-3 x+c$ პარაბოლის სიმეტრიის ღერძის მიმართ. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>−1</span>",
+     "text": "−1"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{1}{2}$</span>",
+     "text": "$\\frac{1}{2}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\frac{5}{2}$</span>",
+     "text": "$\\frac{5}{2}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\frac{7}{2}$</span>",
+     "text": "$\\frac{7}{2}$"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 36,
+   "heading": "ამოცანა 36",
+   "stem_html": "<div> ABCD მართკუთხედის BC გვერდზე მონიშნულია M და N წერტილები ისე, რომ $B M=M N=N C$. ამასთან AM და DN წრფეები იკვეთება K წერტილში. რას უდრის ABCD მართკუთხედისა და AKD სამკუთხედის ფართობების შეფარდება? </div>",
+   "figures": [
+    "media/523134.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$\\frac{3}{2}$</span>",
+     "text": "$\\frac{3}{2}$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\frac{4}{3}$</span>",
+     "text": "$\\frac{4}{3}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\frac{5}{4}$</span>",
+     "text": "$\\frac{5}{4}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\frac{2}{3}$</span>",
+     "text": "$\\frac{2}{3}$"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 37,
+   "heading": "ამოცანა 37",
+   "stem_html": "<div> კონუსის გვერდითი ზედაპირის ფართობი ორჯერ მეტია ფუძის ფართობზე. იპოვეთ კონუსის სიმაღლის შეფარდება კონუსის ფუძის რადიუსთან. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>$2 \\pi$</span>",
+     "text": "$2 \\pi$"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>$\\pi \\sqrt{3}$</span>",
+     "text": "$\\pi \\sqrt{3}$"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>$\\frac{\\sqrt{3}}{2}$</span>",
+     "text": "$\\frac{\\sqrt{3}}{2}$"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>$\\sqrt{3}$</span>",
+     "text": "$\\sqrt{3}$"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 38,
+   "heading": "ამოცანა 38",
+   "stem_html": "<div> $A(1 ; 2)$ და $B(-1 ; 8)$ წერტილები ეკუთვნის $f(x)=a^{x+b}$ მაჩვენებლიანი ფუნქციის გრაფიკს. იპოვეთ b პარამეტრის მნიშვნელობა. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>(-3)</span>",
+     "text": "(-3)"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>(-1)</span>",
+     "text": "(-1)"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>(-2)</span>",
+     "text": "(-2)"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>(-4)</span>",
+     "text": "(-4)"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 39,
+   "heading": "ამოცანა 39",
+   "stem_html": "<div> ABCD კვადრატის გვერდის სიგრძეა a . იპოვეთ იმ წრეწირის რადიუსი, რომელიც გადის კვადრატის A და B წვეროებზე და ეხება CD გვერდს (იხ. სურათი). </div>",
+   "figures": [
+    "media/wrematematikistesti2025123414.png"
+   ],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>5a / 8</span>",
+     "text": "5a / 8"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>3a / 8</span>",
+     "text": "3a / 8"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>2a / 7</span>",
+     "text": "2a / 7"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>4a / 5</span>",
+     "text": "4a / 5"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 40,
+   "heading": "ამოცანა 40",
+   "stem_html": "<div> ორი ჭურჭლიდან თითოეულში ჩასხმულია 10 კგ მარილხსნარი. მეორე ჭურჭელში მარილის პროცენტული შემცველობა 4-ჯერ მეტია პირველ ჭურჭელში ჩასხმულ მარილხსნარში მარილის პროცენტულ შემცველობაზე. რამდენი კილოგრამი მარილხსნარი უნდა გადავასხათ პირველი ჭურჭლიდან მეორეში, რომ მეორე ჭურჭელში მარილხსნარში მარილის პროცენტული შემცველობა 3-ჯერ მეტი გახდეს პირველ ჭურჭელში მარილხსნარში მარილის პროცენტულ შემცველობაზე? </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>2</span>",
+     "text": "2"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>3</span>",
+     "text": "3"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>4</span>",
+     "text": "4"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>5</span>",
+     "text": "5"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 41,
+   "heading": "ამოცანა 41",
+   "stem_html": "<div> იპოვეთ m, n ნატურალურ რიცხვთა ყველა ისეთი წყვილი, რომ $\\frac{11 m^2+5 m n-6 n^2}{\\sqrt{256-8 m-7 n}}=0$. </div>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>(3 ; 13 ) ( 14 ; 22 )</span>",
+     "text": "(3 ; 13 ) ( 14 ; 22 )"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>(5 ; 11 ) ( 13 ; 21 )</span>",
+     "text": "(5 ; 11 ) ( 13 ; 21 )"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>(6 ; 11 ) ( 12 ; 22 )</span>",
+     "text": "(6 ; 11 ) ( 12 ; 22 )"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>(6 ; 14) ( 13 ; 22 )</span>",
+     "text": "(6 ; 14) ( 13 ; 22 )"
+    }
+   ],
+   "correct": "გ"
+  }
+ ]
+}

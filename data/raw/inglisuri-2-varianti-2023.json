@@ -1,0 +1,2607 @@
+{
+ "slug": "inglisuri-2-varianti-2023",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2023,
+ "variant": 2,
+ "kind": "test",
+ "title": "ინგლისურის ეროვნული გამოცდების ტესტები - 2023 წელი 2 ვარიანტი",
+ "num_questions": 54,
+ "num_content_blocks": 16,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/ENG2023_2.mp3\" type=\"audio/mpeg\"/> Your browser does not support the audio element. </audio>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "What do we learn about Cristiano Ronaldo from the start?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Everybody believed in his dream.</span>",
+     "text": "Everybody believed in his dream."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> His success is the result of hard work. </span>",
+     "text": "His success is the result of hard work."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> His main ambition is to play football.</span>",
+     "text": "His main ambition is to play football."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> He thinks all you need to win is talent. </span>",
+     "text": "He thinks all you need to win is talent."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "",
+   "stem_html": "As a kid Ronaldo was called ‘little bee’ because he",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A. </b>was small and very fast.</span>",
+     "text": "was small and very fast."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> loved winning.</span>",
+     "text": "loved winning."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> used to cry when he lost.</span>",
+     "text": "used to cry when he lost."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> played football all the time.</span>",
+     "text": "played football all the time."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "",
+   "stem_html": "August 6th, 2003 was an important date for Ronaldo because",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> he played for Manchester United.</span>",
+     "text": "he played for Manchester United."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> his team lost 3-1 to Manchester United.</span>",
+     "text": "his team lost 3-1 to Manchester United."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> he was noticed by an important person.</span>",
+     "text": "he was noticed by an important person."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> he won the most important match in history. </span>",
+     "text": "he won the most important match in history."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "",
+   "stem_html": "Who asked Ronaldo to wear the number 7 shirt?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b>George Best. </span>",
+     "text": "George Best."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Eric Cantona.</span>",
+     "text": "Eric Cantona."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> David Beckham.</span>",
+     "text": "David Beckham."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> Sir Alex Ferguson. </span>",
+     "text": "Sir Alex Ferguson."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "",
+   "stem_html": "What does Ronaldo say about Manchester United Football Club?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b>He made his debut there in August 2009. </span>",
+     "text": "He made his debut there in August 2009."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He spent nine amazing seasons there.</span>",
+     "text": "He spent nine amazing seasons there."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He started his career there in his teens.</span>",
+     "text": "He started his career there in his teens."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> He has played there for the last 20 years.</span>",
+     "text": "He has played there for the last 20 years."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "",
+   "stem_html": "Ronaldo feels certain that he",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b>is going to retire soon.</span>",
+     "text": "is going to retire soon."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> will keep trying to win.</span>",
+     "text": "will keep trying to win."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b>can’t help poor people.</span>",
+     "text": "can’t help poor people."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b>is too old to learn new things.</span>",
+     "text": "is too old to learn new things."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "",
+   "stem_html": "When Ronaldo remembers the woman from McDonald’s he feels",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> grateful.</span>",
+     "text": "grateful."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> ashamed.</span>",
+     "text": "ashamed."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> confident.</span>",
+     "text": "confident."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> disappointed.</span>",
+     "text": "disappointed."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "",
+   "stem_html": "In the end we find out that Ronaldo",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> never donates his blood.</span>",
+     "text": "never donates his blood."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> often shows off his tattoos.</span>",
+     "text": "often shows off his tattoos."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> is the planet’s highest-paid footballer.</span>",
+     "text": "is the planet’s highest-paid footballer."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> gives his money away to help others.</span>",
+     "text": "gives his money away to help others."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. (8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Which paragraph</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "",
+   "stem_html": "<p><b>1.</b> Names the man who funded the finding of Tutankhamun’s burial place?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "",
+   "stem_html": "<p><b>2.</b> mentions dramatic events connected with the musical instruments?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "",
+   "stem_html": "<p><b>3.</b> states the probable reason for Tutankhamun’s death?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "",
+   "stem_html": "<p><b>4.</b> describes how Tutankhamun’s burial place was found? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "",
+   "stem_html": "<p><b>5.</b> describes what the Egyptians did with the dead body of a pharaoh?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "",
+   "stem_html": "<p><b>6.</b> explains why so many treasures were placed in Tutankhamun’s tomb?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "",
+   "stem_html": "<p><b>7.</b> can have the title: ‘Musical instruments with possible superpower’? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "",
+   "stem_html": "<p><b>8.</b> can have the title: ‘The only undamaged royal tomb ever’? </p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<div><h2>Stop climate change!</h2><p>A. King Tutankhamun became the ruler of Ancient Egypt when he was just nine years old. The Boy King died ten years later and he was buried in a golden coffin surrounded by five thousand priceless treasures, including animal statues, jewellery, clothes, weapons and even toys. Some Egyptologists believe King Tutankhamun might have died in a horse racing accident. But the real cause of his death remains a mystery today. King Tutankhamun’s tomb was found by British archaeologist Howard Carter in November 1922. </p> <p>B. Howard Carter had spent many years excavating the tombs of Egyptian kings and queens when he came across a cup with the name of an unknown Pharaoh – Tutankhamun. Carter became convinced that Tutankhamun’s tomb was buried somewhere in the Valley of the Kings. But after eight years of searching he had found nothing. Then, just when he was about to give up, one of his team members found stairs carved into the rock. The stairs led to a tomb. When Carter and his team entered the tomb, they were greeted with thousands of spectacular treasures that had been left untouched, more than 3,300 years after the Egyptian Pharaoh’s death. It was the first and the only ancient Egyptian royal tomb ever found untouched!</p> <p>C. The discovery caused a sensation and the little-known King Tutankhamun instantly became the most famous Pharaoh in the world. The media was eager to produce new, fascinating stories as the world was impressed by ancient-Egypt fever. Just six months after opening the tomb, Lord Carnarvon, the wealthy man who financed the search for Tutankhamun, died from a mosquito bite on his cheek. And when Carter gifted an object from the tomb to a friend, that man’s house burned down, was rebuilt and then was flooded. Some say it was punishment for opening Tutankhamun’s tomb and the newspapers invented a story that Tutankhamun’s tomb was cursed*.</p> <p>D. Pharaohs’ afterlife was incredibly important to ancient Egyptians. They believed that by preserving a pharaoh’s dead body – through the process of mummification – the soul would live on in the afterlife forever. During the mummification process, the internal organs of the dead were removed, wrapped and placed in containers. Usually the containers were jars but sometimes the organs were stored in miniature golden coffins. For example, the beautiful coffin discovered by Howard Carter contained King Tutankhamun’s liver. </p> <p>E. Experts think that Tutankhamun’s gold-covered bed was made for his funeral. The ancient Egyptians believed that the dead were just asleep and that they woke up when they were ‘reborn’ in the afterlife. Two trumpets, which are musical instruments played by blowing into them, were found inside the tomb of Tutankhamun. It is said that the trumpets are magical. The first time one of the trumpets was played after their re-discovery, the lights went out in Cairo’s Egyptian Museum and a few months later the second World War broke out in Europe. The trumpets were played again before the 1990 Gulf War and the Egyptian revolution of 2011. To avoid such unfortunate events historians decided not to play these trumpets again. </p> <p>F. Over three thousand treasure items were placed in the tomb to help Tutankhamun in his afterlife and the walls of the burial area were painted with scenes of his voyage to the afterworld. The chamber contained a red sarcophagus with three coffins put one into another. Tutankhamun’s mummy was kept in the deepest coffin, which is made of solid gold and weighs approximately 110.4 kilos. His body was wrapped in linen and an exquisite gold mask was placed over his face</p> <p>*curse: წყევლა</p> </div>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2> Task 3:Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). (8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>This is a true story told by a Chinese British Martin Huang. ‘I’m Martin Huang, a student at London university. My parents came to Britain from Hong Kong over 25 years ago. My dad couldn’t speak much English and my mum couldn’t speak a word of English then. She still doesn’t speak it very well unlike my dad. However, they worked hard to see that I finished high school and made sure that I went to university. In June I’ll be graduating with a degree in computer engineering. I’m certain about one thing, I’ll get a very good job quite quickly. Probably in a year’s time, I’m confident that I’ll have joined the ranks of the well-educated well-paid Chinese British, who make up one of the biggest success stories in modern Britain. Fifty years ago most of the Chinese immigrants in Britain were poorly educated, and worked in difficult conditions in relatively low-paid jobs, basically in catering, which means providing food and drinks at parties, but according to the most recent information, Britain’s 170,000 Chinese are now the best qualified, most highly educated and most financially successful ethnic group in the United Kingdom. Over 50% of all young Chinese British now get university degrees and unemployment among them is lower than for any other ethnic group. Like many of the Hong Kong Chinese who came to Britain in the 1960s and 1970s, my father arrived there almost penniless. It took him some time to find a job but finally he began to work as a cook in a restaurant. And though my father was living very economically, he managed to save up from the little money he earned, and in five years’ time he had enough money to open his own restaurant. My father’s Chinese takeaway restaurant was certainly not luxurious. However, situated near the centre of a small town, it provided a service that no other local restaurant, except for a fish ‘n’ chip shop, was providing. It offered takeaway food at affordable prices and, for this reason, my father’s restaurant soon became popular. We lived in a flat near our restaurant and my parents served Chinese food from 10 a.m. until 10 p.m. six days a week. Sometimes, the restaurant would stay open till eleven or midnight. My brother Andrew and I would help out after school most days chopping vegetables or doing other small tasks. At the end of the day we would get tired but we never complained. Our takeaway restaurant was very much a family business. We ran the business without anybody’s help.In spite of this, my father made sure that we did our schoolwork properly. If something had to be learned for homework, Andrew and I were not allowed to go to bed until we knew it. We had to work hard even when we were quite small but it seemed quite normal to us. Everyone in the family worked hard. Chinese people believe in hard work and in family values; it’s part of our tradition and I think that’s why we’re successful. Thousands of other Chinese immigrant families in Britain shared our family’s experience. Most Asian and West Indian immigrants would group together and form concentrated ethnic communities in specific towns and cities. Unlike them, the first generation of Chinese immigrants spread across whole Britain, mainly working in takeaway restaurants. They did their best to make sure that their own children would never experience the poverty and hardship that they often had to endure. Today’s young Chinese British are ambitious and hard-working and it is not just the young men. Unlike some other ethnic groups, Chinese parents in Britain are as eager to encourage their daughters as their sons, and plenty of young Chinese women are now graduating as lawyers, doctors and accountants.’</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 1,
+   "heading": "",
+   "stem_html": "The author says that his father",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. learnt to speak English.</span>",
+     "text": "learnt to speak English."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. was raised in London</span>",
+     "text": "was raised in London"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. went to school in London.</span>",
+     "text": "went to school in London."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. got university education.</span>",
+     "text": "got university education."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 2,
+   "heading": "",
+   "stem_html": "What is the author sure about?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. All the Chinese British earn well.</span>",
+     "text": "All the Chinese British earn well."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. He’ll be able to find a good job. </span>",
+     "text": "He’ll be able to find a good job."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. He’ll continue his parents’ career.</span>",
+     "text": "He’ll continue his parents’ career."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. He’ll become a university student soon. </span>",
+     "text": "He’ll become a university student soon."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 3,
+   "heading": "",
+   "stem_html": "Today the Chinese in Britain represent",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. the least educated ethnic group. </span>",
+     "text": "the least educated ethnic group."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. the poorest ethnic community.</span>",
+     "text": "the poorest ethnic community."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. the ethnic group mostly involved in catering.</span>",
+     "text": "the ethnic group mostly involved in catering."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. the wealthiest ethnic group in the country. </span>",
+     "text": "the wealthiest ethnic group in the country."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 4,
+   "heading": "",
+   "stem_html": "When the author’s father arrived in London he",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. had almost no money.</span>",
+     "text": "had almost no money."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. found a job immediately.</span>",
+     "text": "found a job immediately."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. opened a luxurious restaurant.</span>",
+     "text": "opened a luxurious restaurant."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. started his business right away. </span>",
+     "text": "started his business right away."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 5,
+   "heading": "",
+   "stem_html": "What made the restaurant of the author’s father popular?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. It served fish ‘n’ chips.</span>",
+     "text": "It served fish ‘n’ chips."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. It employed the British.</span>",
+     "text": "It employed the British."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. It served food at acceptable prices.</span>",
+     "text": "It served food at acceptable prices."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It was open seven days a week.</span>",
+     "text": "It was open seven days a week."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 6,
+   "heading": "",
+   "stem_html": "Why does the author call their restaurant a family business?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. It served only families. </span>",
+     "text": "It served only families."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. It was operated from their flat. </span>",
+     "text": "It was operated from their flat."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. It offered only Chinese food. </span>",
+     "text": "It offered only Chinese food."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. It was run by the family members.</span>",
+     "text": "It was run by the family members."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 7,
+   "heading": "",
+   "stem_html": "The first generation of Chinese immigrants",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. served only rich Chinese people. </span>",
+     "text": "served only rich Chinese people."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. lived in different parts of Britain. </span>",
+     "text": "lived in different parts of Britain."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. lived in large ethnic communities. </span>",
+     "text": "lived in large ethnic communities."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. never experienced hardship. </span>",
+     "text": "never experienced hardship."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 8,
+   "heading": "",
+   "stem_html": "Which of the following would be the best title for the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. Hardworking brothers</span>",
+     "text": "Hardworking brothers"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. Unemployed Chinese</span>",
+     "text": "Unemployed Chinese"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. Successful Chinese British</span>",
+     "text": "Successful Chinese British"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. Old Chinese traditions </span>",
+     "text": "Old Chinese traditions"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points) </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>allowed (A) attack (B) century (C) connected (D) decided (E) died (F) entered (G) novels (H) nurse (I) problems (J) rights (K) story (L) travel (M) years (N)</p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>The most famous homeless person</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Karimi Nasseri, known as the most famous homeless person, was born in Iran’s oil-rich south. His father worked as a doctor for the Anglo-Iranian Oil Company. Shortly after Nasseri’s father …… (1) of cancer, his mother told him that she was not his real mother and that his real mother was a …… (2) from Scotland. Nasseri tried to …… (3) to Britain to find his mother. However, he had some …… (4) with his passport and other identification papers. So, although Nasseri arrived in Britain, he was not …… (5) to leave the airport there. Finally he was sent to France. He had to give up looking for his mother and …… (6) to stay at Charles de Gaulle Airport in Paris in August 1988. As Nasseri had …… (7) the Paris airport legally as a refugee, nobody could force him to leave the airport even though he had problems with his passport. This is why Nasseri stayed in the airport for …… (8). Karimi Nasseri’s strange and extraordinary …… (9) was an inspiration for an opera by the composer Jonathan Dove, as well as for a film The Terminal by a famous American film director Steven Spielberg. Nasseri was paid for the …… (10) to use his personal story, but his name is not mentioned in the film or in any other official papers …… (11) with the film. Nasseri lived in Paris Charles de Gaulle Airport for 18 years and sadly died after a heart …… (12) on 12 November, 2022.</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1_1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ი"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ნ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "კ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ზ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ო"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 9,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "მ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 10,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ლ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 11,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 12,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>The first sign of civilization</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> Several years ago an American anthropologist Margaret Mead was asked …… (1) a student what she considered to be the first sign of civilization in a society. The student expected that Margaret Mead would talk …… (2) hooks for catching fish or clay pots for keeping water or grinding stones for making food. But no! Margaret Mead said that the first sign of civilization in ancient society was a femur - the long bone in the upper part of the leg, …… (3) had been broken and then healed. Professor Mead explained that in the animal kingdom …… (4) you break your leg, you die. With a broken leg you cannot run away…… (5) danger, get to a river for water …… (6) hunt for food. You yourself become food …… (7) hungry animals. No animal survives a broken leg long enough for the bone to heal. An ancient person’s broken …… (8) then healed bone is evidence that someone took time to stay …… (9) the person who fell down and broke his leg. Then he took care of …… (10) person’s broken leg, bound the wound up and carried the person …… (11) a safe place and helped him to recover. ‘Helping someone through difficulty is where civilization starts’, said Professor Mead, ‘We show ourselves …… (12) the best side when we help or serve others. Margaret Mead’s opinion about the first sign of civilization is worth considering.</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. with </span>",
+     "text": "with"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. from </span>",
+     "text": "from"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. by</span>",
+     "text": "by"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. to</span>",
+     "text": "to"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. about </span>",
+     "text": "about"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. around</span>",
+     "text": "around"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. off</span>",
+     "text": "off"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. for</span>",
+     "text": "for"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. this</span>",
+     "text": "this"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. which</span>",
+     "text": "which"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. then </span>",
+     "text": "then"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. what</span>",
+     "text": "what"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. unless</span>",
+     "text": "unless"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. whether </span>",
+     "text": "whether"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. though </span>",
+     "text": "though"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. if</span>",
+     "text": "if"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. for</span>",
+     "text": "for"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. of</span>",
+     "text": "of"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. from </span>",
+     "text": "from"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. off</span>",
+     "text": "off"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q42",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. no</span>",
+     "text": "no"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. also</span>",
+     "text": "also"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. either</span>",
+     "text": "either"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. or</span>",
+     "text": "or"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q43",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. from</span>",
+     "text": "from"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. by </span>",
+     "text": "by"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. for </span>",
+     "text": "for"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. with</span>",
+     "text": "with"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q44",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. and </span>",
+     "text": "and"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. or</span>",
+     "text": "or"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. also</span>",
+     "text": "also"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. still </span>",
+     "text": "still"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q45",
+   "number": 9,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. together</span>",
+     "text": "together"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. with </span>",
+     "text": "with"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. among</span>",
+     "text": "among"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. along</span>",
+     "text": "along"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q46",
+   "number": 10,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. some </span>",
+     "text": "some"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. a </span>",
+     "text": "a"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. an</span>",
+     "text": "an"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. the</span>",
+     "text": "the"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q47",
+   "number": 11,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. till </span>",
+     "text": "till"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. in </span>",
+     "text": "in"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. through</span>",
+     "text": "through"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. to</span>",
+     "text": "to"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q48",
+   "number": 12,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A. from </span>",
+     "text": "from"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B. on </span>",
+     "text": "on"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C. in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D. for</span>",
+     "text": "for"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 6: Complete the conversation. For questions 1-6, mark the correct letter A-H. Two sentences are extra. (6 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Sarah: Good morning! I just came to enquire about the elective courses that your department is offering. <br/> Counselor: ..... (1) <br/> Sarah: Actually, what I need is to improve my public speaking skills. <br/> Counselor: ..... (2) <br/> Sarah: Oh, that’s exactly what I was looking for. And debating skills? Can I practice them too? <br/> Counselor: ..... (3) <br/> Sarah: No problem! When does the course start? <br/> Counselor: ..... (4) <br/> Sarah: Great! Is anything required from my side? <br/> Counselor: ..... (5) <br/> Sarah: Sorry, but I don’t have any of them with me right now. <br/> Counselor: ..... (6) <br/> Sarah: Sure, I will do that. Thank you. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b> Let me see. Oh, you’re lucky. It starts next Monday. <br/> <b>B.</b> Sorry, but we can’t accept you without them. <br/> <b>C.</b> No worries. You can bring them tomorrow. <br/> <b>D.</b> Have a look at this brochure, please. You can find all the details about the courses there. <br/> <b>E.</b> Oh, I’m sorry. The course doesn’t include debating skills. <br/> <b>F.</b> Let me see if I need that. <br/> <b>G.</b> Yes. One photograph and a copy of your ID, please. <br/> <b>H.</b> OK. We have a special course that covers communication and presentation skills.</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q49",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q50",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "თ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q51",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q52",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q53",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "ზ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q54",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    }
+   ],
+   "correct": "გ"
+  }
+ ]
+}

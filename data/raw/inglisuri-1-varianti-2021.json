@@ -1,0 +1,2181 @@
+{
+ "slug": "inglisuri-1-varianti-2021",
+ "url": "",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2021,
+ "variant": 1,
+ "kind": "test",
+ "title": "ინგლისური - 2021 წელი 1 ვარიანტი",
+ "num_questions": 46,
+ "num_content_blocks": 26,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<h2>Task 1: You are going to listen to five texts. For each of them answer the two questions given. Mark the correct answer A, B or C. You have 20 seconds to look through the task. You will hear the recording twice. (10 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<audio controls=\"\"> <source src=\"media/2021V1.mp3 \" type=\"audio/mpeg\"/> Your browser does not support the audio element. </audio>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 1</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "What does Sandro want to be?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> A doctor.</span>",
+     "text": "A doctor."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> An actor.</span>",
+     "text": "An actor."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> An economist.</span>",
+     "text": "An economist."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "",
+   "stem_html": "Where does Sandro work?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> In a bank.</span>",
+     "text": "In a bank."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> In a theatre.</span>",
+     "text": "In a theatre."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> In a bookshop.</span>",
+     "text": "In a bookshop."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 2</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "",
+   "stem_html": "Agatha Christie is called the ‘Queen of Crime’ because she",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Used to work as a detective.</span>",
+     "text": "Used to work as a detective."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Is the author of popular books on crime.</span>",
+     "text": "Is the author of popular books on crime."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Is the most translated author of the books on crime.</span>",
+     "text": "Is the most translated author of the books on crime."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "",
+   "stem_html": "When did Agatha Christie become famous?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> After publishing a novel in 1926.</span>",
+     "text": "After publishing a novel in 1926."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> After publishing her first novel.</span>",
+     "text": "After publishing her first novel."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> After publishing her first short story.</span>",
+     "text": "After publishing her first short story."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 3</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "",
+   "stem_html": "What films are shown at the Cannes film festival?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Only French films.</span>",
+     "text": "Only French films."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> All kinds of films.</span>",
+     "text": "All kinds of films."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Only documentaries.</span>",
+     "text": "Only documentaries."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "",
+   "stem_html": "The most prestigious award for a feature film at the 2019 Cannes Festival was given to",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> A popular Spanish actor.</span>",
+     "text": "A popular Spanish actor."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> A film made by a Greek director.</span>",
+     "text": "A film made by a Greek director."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> A film made by a South Korean director.</span>",
+     "text": "A film made by a South Korean director."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 4</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "",
+   "stem_html": "What happened to the Palace of Westminster in 1512?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Most of it was burnt by the fire.</span>",
+     "text": "Most of it was burnt by the fire."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> The Royal wedding was held there.</span>",
+     "text": "The Royal wedding was held there."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> British monarchs started to live there.</span>",
+     "text": "British monarchs started to live there."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "",
+   "stem_html": "The Palace of Westminster is popular with tourists because",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> The Houses of Parliament is located there.</span>",
+     "text": "The Houses of Parliament is located there."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> It has the clock tower known as Big Ben.</span>",
+     "text": "It has the clock tower known as Big Ben."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> The Duke and Duchess of Cambridge married there.</span>",
+     "text": "The Duke and Duchess of Cambridge married there."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Text 5</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "",
+   "stem_html": "Why did the Vikings come to Georgia?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> To support Liparit Bagvashi.</span>",
+     "text": "To support Liparit Bagvashi."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> To fight against King Bagrat IV.</span>",
+     "text": "To fight against King Bagrat IV."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> To support King Bagrat IV.</span>",
+     "text": "To support King Bagrat IV."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "",
+   "stem_html": "What do we learn about the Vikings from the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> 3000 of them participated in the final battle.</span>",
+     "text": "3000 of them participated in the final battle."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> They lost the battle against the enemy.</span>",
+     "text": "They lost the battle against the enemy."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> They fought together with Meskhi warriors.</span>",
+     "text": "They fought together with Meskhi warriors."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 2: You are going to listen to one text with eight questions. Mark the correct answer A, B or C. You now have 30 seconds to look through the task. You will then hear the recording twice. (8 points)</h2>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 1,
+   "heading": "",
+   "stem_html": "What do we learn about the speaker from the start?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He was born outside America.</span>",
+     "text": "He was born outside America."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He dislikes New York City.</span>",
+     "text": "He dislikes New York City."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> His favourite place is Central Park.</span>",
+     "text": "His favourite place is Central Park."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 2,
+   "heading": "",
+   "stem_html": "What is called ‘the Heart of the World’?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Broadway.</span>",
+     "text": "Broadway."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Times Square.</span>",
+     "text": "Times Square."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> The 7th Avenue.</span>",
+     "text": "The 7th Avenue."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 3,
+   "heading": "",
+   "stem_html": "How many seats do ‘off Broadway’ theatres have?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> More than 500.</span>",
+     "text": "More than 500."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Less than 100.</span>",
+     "text": "Less than 100."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> From 100 to 500.</span>",
+     "text": "From 100 to 500."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 4,
+   "heading": "",
+   "stem_html": "Which Broadway theatre has the most number of seats?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Hayas theatre.</span>",
+     "text": "Hayas theatre."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Lyceum theatre.</span>",
+     "text": "Lyceum theatre."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Gershwin theatre.</span>",
+     "text": "Gershwin theatre."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 5,
+   "heading": "",
+   "stem_html": "The Lyceum theatre is the speaker’s favourite because",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> It’s on Broadway.</span>",
+     "text": "It’s on Broadway."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> A funny fact is connected to it.</span>",
+     "text": "A funny fact is connected to it."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> A well-known actress was acting there.</span>",
+     "text": "A well-known actress was acting there."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 6,
+   "heading": "",
+   "stem_html": "What helped New York City to become the cultural capital of the world?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Broadway musical shows in general.</span>",
+     "text": "Broadway musical shows in general."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> That 14 million people attended the Broadway shows.</span>",
+     "text": "That 14 million people attended the Broadway shows."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> That the income from the Broadway shows was 3 million USD.</span>",
+     "text": "That the income from the Broadway shows was 3 million USD."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 7,
+   "heading": "",
+   "stem_html": "What does the speaker say about the musical The Lion King?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> It has been most successful commercially.</span>",
+     "text": "It has been most successful commercially."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> It is Broadway’s first longest running musical.</span>",
+     "text": "It is Broadway’s first longest running musical."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> An American composer wrote the music for it.</span>",
+     "text": "An American composer wrote the music for it."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 8,
+   "heading": "",
+   "stem_html": "The speaker mentions ‘one billion dollars’ in connection to",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> The number of tickets sold for The Lion King.</span>",
+     "text": "The number of tickets sold for The Lion King."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> The number of people who have seen The Lion King.</span>",
+     "text": "The number of people who have seen The Lion King."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> The amount of money earned from The Lion King.</span>",
+     "text": "The amount of money earned from The Lion King."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 3: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>(8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Which paragraph</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> 1. explains how Harrods attracted rich customers? <br/> 2. mentions a cultural event which had a positive effect on Harrods? <br/> 3. states how customers should dress when going to Harrods? <br/> 4. gives the date when the Harrods building was totally destroyed? <br/> 5. gives the number of people currently employed by Harrods? <br/> 6. mentions the staircase built to carry people between the floors? <br/> 7. could have the title: ‘How it all started’? <br/> 8. could have the title: ‘An extraordinary pet shop’? </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2> History of a famous department store </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>A.</b>Harrods department store is one of the most famous shops in London with millions of people visiting each year. In the beginning, though, Harrods was just a small shop in a single room in Stepney, East London. The shop sold only tea and groceries. A young tea merchant, Charles Henry Harrod opened it in 1824 when he was only 25 years old. Besides himself, Charles Henry Harrod employed two assistants and a messenger boy*. In 1849 the store moved to the Knightsbridge area of London and expanded. Just two years later, the Great Exhibition of 1851 brought many visitors to Knightsbridge. This was a great change because, as a result, Harrods attracted more customers and enjoyed great success. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>B.</b> Harrods steadily grew, and by 1873 the name ‘Harrod’s Store’ appeared at the front of the shop. Over several years the shop got bigger and started selling fruit, vegetables and furniture. By 1883 Harrods had grown to six departments across five floors, with over 200 assistants. It started to offer its customers everything from medicines and perfumes to clothing and food. The department store became well known for its high-quality products and excellent personalised service. This way it managed to reach out to wealthy customers who were willing to spend more money for better quality. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>C.</b> Then, on the night of December 7, 1883, the store unexpectedly caught fire. The entire building burnt down to the ground. But instead of closing down, the store moved across the street and an architect was hired to build a newer, grander building. Despite the tragedy, all Christmas orders were fulfilled and the store’s reputation was not only saved but also improved. The store reopened the following year. In 1898, Harrods installed England’s first ‘moving stairs’ that we now call an escalator. The first escalator was considered a frightening experience, so nervous customers were offered brandy - an alcoholic drink - at the top floor to calm them down. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>D.</b> Ever since Harrods opened, its motto* has been ‘Omnia Omnibus Ubique’. This is a Latin phrase which means ‘All things, for all people, everywhere.’ The motto reflects the store’s goal to provide everything a customer could want. Today, the store has 330 departments and customers can get everything from expensive jewellery and furniture, to paper and pens. On an average day, approximately 100,000 people come to shop at Harrods. On peak days, especially during the Christmas season, this number can jump up to 300,000. Harrods still has a strict dress code which means that the doorman won’t let people in if they are wearing the wrong kind of clothes like torn jeans or beach shorts. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>E.</b> Harrods sells everything you can possibly imagine. The store even used to have a pet department, which first opened in 1917. Harrods’ Pet Kingdom sold all kinds of animals – from domestic to exotic pets. In fact, it was the place where, if your wallet and your home were large enough, you could buy an elephant, a tiger, a lion, a panther or even a camel as a household pet. In the 1970s, former US president Ronald Reagan bought a baby elephant called Gartie there. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>F.</b> Today, more than 5,000 people from over 50 different countries work for this luxury department store. However, the staff are not just shop assistants. Harrods has its own hairdresser’s, doctor’s, bank, fire brigade, café, restaurants and more. A huge team of people clean and look after the store. At night, Harrods is lit up by 12,000 light bulbs on the outside of the building and 300 bulbs have to be changed every day. Now the Harrods name means the best of British quality, service and style. And if the founder of the department store, Charles Henry Harrod, walked into the store today, he would be welcomed with a cup of tea – the very thing that started it all. </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<p> * a messenger boy: კურიერი <br/>* motto: დევიზი </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ვ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "content",
+   "html": "<h2> Task 4: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D) (8 points)</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><i>This is a true story told by a British-South African environmental activist, Lewis Pugh. </i><br/> Lewis Pugh is a British-South African environmentalist who works hard to protect the oceans of the world. One way he does this is by swimming! He goes on difficult swims in different parts of the world. People from various countries read about Lewis Pugh and watch him swim. Pugh swam at the North Pole to warn people that some of the Arctic Sea ice was disappearing. Another time he swam in a lake on Mount Everest to warn the governments about the effect of climate change in the Himalayas. This is what Lewis Pugh says: ‘Ocean water covers 70% of the earth. But human behaviour is having negative effects on the oceans. Ocean water is becoming dirty and polluted. Many kinds of fish and sea animals are dying off. The Ross Sea in Antarctica is different, it’s completely free of pollution. It contains many different animals and fish such as the Antarctic Toothfish, the Colossal Squid* and the Emperor Penguin. Many of these animals and fish cannot be found anywhere else on the planet. I want to gain global support for the Ross Sea so that it becomes a Protected Area. Because of that I decided to go on five symbolic swims in Antarctica. My first Antarctic swim was near Campbell Island in New Zealand. I started to swim in the freezing water. But after 200 metres, a sea lion attacked me. I had to stop swimming. And my team pulled me out of the water to save me. My next swim was around Cape Adare. I completed a swim of 500 metres. The swim lasted ten minutes. As the water temperature was minus 1.7 degrees, I was extremely cold when I got out of the sea. I had to take a hot shower for 50 minutes to get warm. It was a particularly hard swim, because I had to be careful with sharp ice. Needle-sharp ice was cutting my fingers. I was in extreme pain after having swum about 300 metres. I have never felt pain like that before. Nevertheless, my second swim was a great success. As to my third swim, I had to cancel it because the wind was too strong. Then I travelled to the Bay of Whales in the Ross Sea for my fourth swim. In this swim I was very proud of myself as no one had swum so far south before, but it was very frightening. This area had many dangerous killer whales. But I successfully swam 350 metres in the freezing sea. I remember my crew going out to see that there were no killer whales where I was going to swim. The water was so freezing that it was extremely difficult to breathe. I had to concentrate and swim as quickly as possible. Four days later I had my fifth and final swim. I swam 500 metres near the lonely Peter I Island, 450 kilometres from Antarctica. As I finished, two humpback whales came to the surface of the water near me. This made me joyful. And it reminded me of the reason for my dangerous swims. I have finished my swims, but I have not yet reached my goal. I will now travel around the world to persuade the leaders of different countries to make the Ross Sea a Protected Area.’ <br/> <br/> * Colossal Squid - უზარმაზარი კალმარი </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 1,
+   "heading": "",
+   "stem_html": "What is the story about?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> An Arctic scientist.</span>",
+     "text": "An Arctic scientist."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> An environmentalist.</span>",
+     "text": "An environmentalist."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> A swimming champion.</span>",
+     "text": "A swimming champion."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> A person interested in oceanology.</span>",
+     "text": "A person interested in oceanology."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 2,
+   "heading": "",
+   "stem_html": "The author swam at the North Pole to warn people about",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> The problems on Mount Everest.</span>",
+     "text": "The problems on Mount Everest."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> The climate change in the Himalayas.</span>",
+     "text": "The climate change in the Himalayas."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> The disappearance of some of the ice on the Arctic Sea.</span>",
+     "text": "The disappearance of some of the ice on the Arctic Sea."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> What the government does to keep oceans clean.</span>",
+     "text": "What the government does to keep oceans clean."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 3,
+   "heading": "",
+   "stem_html": "What makes the Ross Sea in Antarctica special?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> It is absolutely clean.</span>",
+     "text": "It is absolutely clean."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Its water is the dirtiest in the world.</span>",
+     "text": "Its water is the dirtiest in the world."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> There are very few sea animals there.</span>",
+     "text": "There are very few sea animals there."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> The only fish found there is Toothfish.</span>",
+     "text": "The only fish found there is Toothfish."
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 4,
+   "heading": "",
+   "stem_html": "Why wasn’t the author able to finish his first Antarctic swim?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> The water was too cold.</span>",
+     "text": "The water was too cold."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> 200 meters was too hard to cover.</span>",
+     "text": "200 meters was too hard to cover."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> His team thought he was drowning.</span>",
+     "text": "His team thought he was drowning."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> A sea animal hit him aggressively.</span>",
+     "text": "A sea animal hit him aggressively."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 5,
+   "heading": "",
+   "stem_html": "The author considered his swim around Cape Adare especially hard because",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> He had to cover a long distance.</span>",
+     "text": "He had to cover a long distance."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> He suffered from terrible pain.</span>",
+     "text": "He suffered from terrible pain."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> He had to stay in the water for a long time.</span>",
+     "text": "He had to stay in the water for a long time."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> No hot water could warm him after the swim.</span>",
+     "text": "No hot water could warm him after the swim."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 6,
+   "heading": "",
+   "stem_html": "The author was happy with his achievement in swimming very far south in his",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Second swim.</span>",
+     "text": "Second swim."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Third swim.</span>",
+     "text": "Third swim."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Fourth swim.</span>",
+     "text": "Fourth swim."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> Fifth swim.</span>",
+     "text": "Fifth swim."
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 7,
+   "heading": "",
+   "stem_html": "How did the author feel when he saw two whales very close to him?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Scared.</span>",
+     "text": "Scared."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> Cheerful.</span>",
+     "text": "Cheerful."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Worried.</span>",
+     "text": "Worried."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> Disappointed.</span>",
+     "text": "Disappointed."
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 8,
+   "heading": "",
+   "stem_html": "Which of the following would be the best title for the text?",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span><b>A.</b> Pollution-free areas.</span>",
+     "text": "Pollution-free areas."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span><b>B.</b> How to save ocean animals.</span>",
+     "text": "How to save ocean animals."
+    },
+    {
+     "letter": "გ",
+     "html": "<span><b>C.</b> Sportsmen against climate change.</span>",
+     "text": "Sportsmen against climate change."
+    },
+    {
+     "letter": "დ",
+     "html": "<span><b>D.</b> Symbolic swims to protect the environment.</span>",
+     "text": "Symbolic swims to protect the environment."
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>Task 5: Read the text and fill the gaps with the words given. Use each word only once. Two words are extra. (12 points) </h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>called (A) citizens (B) communicate (C) consists (D) drinks (E) guide (F) islands (G) landscapes (H) language (I) location (J) poorest (K) popular (L) warm (M) worry (N) </p>"
+  },
+  {
+   "kind": "content",
+   "html": "<h2>The Islands of Maldives</h2>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>One of the world’s most geographically isolated countries, the Republic of Maldives, also called the Maldives, is situated in the north-central Indian Ocean. It …… (1) of a group of about 1,200 small …… (2) and sandy beaches. The people who live in the Maldives are often …… (3) Maldivians or Maldive Islanders. Due to its geographic …… (4) near the equator, the Maldives enjoys exceptionally …… (5) temperatures practically throughout the whole year. The Maldives has the smallest population in Asia. More than one-quarter of Maldivians live in the city Male. The official …… (6) of the Maldives is Dhivehi, which is believed to originate from the Sri Lankan language Sinhala. Although Maldivians use Dhivehi for most of their daily communications, the English language is becoming more and more …… (7) as the most common second language. The official religion of the Maldives is Sunni Islam, and according to the Maldivian Constitution, only Muslims may be …… (8) of the country. In the early 1980s, the Maldives was one of the world's 20 …… (9) countries because of its low-income; nowadays, it is a middle-income country where only tourism and fishing are the major industries. Tourist agencies bring tourists to the country and take them directly to resorts and private beaches. The tourists do not …… (10) with the local population who dislike alcoholic …… (11) and immodest clothing. Scientists …… (12) that because of the global warming, the sea levels may rise and the islands may disappear completely. <br/> <br/> </p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 1,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "დ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 2,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ზ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 3,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ა"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 4,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "კ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 5,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ნ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 6,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ი"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 7,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "მ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q42",
+   "number": 8,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ბ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q43",
+   "number": 9,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ლ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q44",
+   "number": 10,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "გ"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q45",
+   "number": 11,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ე"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q46",
+   "number": 12,
+   "heading": "",
+   "stem_html": "",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>A</span>",
+     "text": "A"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>B</span>",
+     "text": "B"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>C</span>",
+     "text": "C"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>D</span>",
+     "text": "D"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>E</span>",
+     "text": "E"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>F</span>",
+     "text": "F"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>G</span>",
+     "text": "G"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>H</span>",
+     "text": "H"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>I</span>",
+     "text": "I"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>J</span>",
+     "text": "J"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>K</span>",
+     "text": "K"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>L</span>",
+     "text": "L"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>M</span>",
+     "text": "M"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>N</span>",
+     "text": "N"
+    }
+   ],
+   "correct": "ო"
+  }
+ ]
+}

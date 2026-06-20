@@ -1,0 +1,1744 @@
+{
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<h3>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points)</h3>"
+  },
+  {
+   "kind": "wordbank",
+   "mode": "words",
+   "words": [
+    {
+     "letter": "A",
+     "text": "anything"
+    },
+    {
+     "letter": "B",
+     "text": "boat"
+    },
+    {
+     "letter": "C",
+     "text": "depth"
+    },
+    {
+     "letter": "D",
+     "text": "drowns"
+    },
+    {
+     "letter": "E",
+     "text": "gave"
+    },
+    {
+     "letter": "F",
+     "text": "grab"
+    },
+    {
+     "letter": "G",
+     "text": "gratitude"
+    },
+    {
+     "letter": "H",
+     "text": "hit"
+    },
+    {
+     "letter": "I",
+     "text": "net"
+    },
+    {
+     "letter": "J",
+     "text": "realised"
+    },
+    {
+     "letter": "K",
+     "text": "role"
+    },
+    {
+     "letter": "L",
+     "text": "something"
+    },
+    {
+     "letter": "M",
+     "text": "surface"
+    },
+    {
+     "letter": "N",
+     "text": "surprise"
+    }
+   ]
+  },
+  {
+   "kind": "content",
+   "html": "<p>Once the famous Italian freediver Enzo Mallorca jumped from a boat into the sea of Syracuse, a historic city in Italy. Meanwhile, his daughter Rossana stayed on the <b>(1)</b>. Ready to go deep into the water, Enzo felt that something slightly <b>(2)</b> his back. He turned and saw a dolphin. Then he <b>(3)</b> that the dolphin did not want to play but tried to communicate <b>(4)</b>. The animal dove into the sea and Enzo followed it. At a <b>(5)</b> of about 12 meters, trapped in an abandoned net, there was another dolphin. Enzo quickly asked his daughter to <b>(6)</b> the diving knives. Soon, the two of them managed to free the dolphin. While they were helping it to swim up, the other dolphin suddenly leaped out of the water and <b>(7)</b> an ‘almost human cry’. A dolphin can stay underwater for up to 10 minutes, otherwise it <b>(8)</b>. Enzo, Rossana and the second dolphin helped the rescued one reach the <b>(9)</b> to take a breath. That’s when the <b>(10)</b> came. They noticed that the freed dolphin was expecting a baby! The male dolphin circled them and then stopped in front of Enzo, touched his cheek, like a kiss, in a gesture of <b>(11)</b> and then they both swam off. After this incident Enzo Mallorca said: ‘Until man learns to respect and speak to the animal world, he can never know his true <b>(12)</b> on Earth.’</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 1,
+   "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 2,
+   "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "H"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 3,
+   "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "J"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 4,
+   "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "L"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 5,
+   "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 6,
+   "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "F"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 7,
+   "stem_html": "<span class=\"gap-label\">Gap 7</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "E"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 8,
+   "stem_html": "<span class=\"gap-label\">Gap 8</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 9,
+   "stem_html": "<span class=\"gap-label\">Gap 9</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "M"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 10,
+   "stem_html": "<span class=\"gap-label\">Gap 10</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "N"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 11,
+   "stem_html": "<span class=\"gap-label\">Gap 11</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "G"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 12,
+   "stem_html": "<span class=\"gap-label\">Gap 12</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "anything",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "boat",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "depth",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "drowns",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "gave",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "grab",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "gratitude",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "hit",
+     "html": ""
+    },
+    {
+     "letter": "I",
+     "text": "net",
+     "html": ""
+    },
+    {
+     "letter": "J",
+     "text": "realised",
+     "html": ""
+    },
+    {
+     "letter": "K",
+     "text": "role",
+     "html": ""
+    },
+    {
+     "letter": "L",
+     "text": "something",
+     "html": ""
+    },
+    {
+     "letter": "M",
+     "text": "surface",
+     "html": ""
+    },
+    {
+     "letter": "N",
+     "text": "surprise",
+     "html": ""
+    }
+   ],
+   "correct": "K"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>The youngest football player</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p>Lamine Yamal is a rising football star from Spain. He was born on July 13th, 2007. Yamal joined Barcelona’s famous youth academy, La Masia, in 2014. He mostly plays as a right winger and is known <b>(1)</b> his strong left foot. Yamal’s ability to cut inside from the right makes him particularly effective <b>(2)</b> attacking situations. In his youth career, he has also played on the left wing <b>(3)</b> a center-forward. His decision-making skill on the field is considered exceptionally well-developed <b>(4)</b> his age. Yamal made history by debuting for Barcelona’s first team <b>(5)</b> just 15 years, 9 months and 16 days old, <b>(6)</b> makes him the youngest player ever to do so. On the international stage, Yamal has represented Spain for various youth levels. In September 2023, <b>(7)</b> the age of 16, Yamal made his main debut for Spain, becoming the youngest player <b>(8)</b> goal scorer in the national team’s history. He scored his first goal <b>(9)</b> the 8th of September in 2023, during a match against Georgia and set more records as <b>(10)</b> youngest scorer in both La Liga and European Championship history. Lamine Yamal is widely known as one of the brightest young talents <b>(11)</b> football today. With his exceptional skills and early achievements, he is expected to have a promising future <b>(12)</b> both the club and international levels.</p>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 1,
+   "stem_html": "<p>Gap 1</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "by",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "with",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "for",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "according to",
+     "html": ""
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 2,
+   "stem_html": "<p>Gap 2</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "in",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "at",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "outside",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "inside",
+     "html": ""
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 3,
+   "stem_html": "<p>Gap 3</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "like",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "as",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "besides",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "with",
+     "html": ""
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 4,
+   "stem_html": "<p>Gap 4</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "in",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "of",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "from",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "for",
+     "html": ""
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 5,
+   "stem_html": "<p>Gap 5</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "under",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "at",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "from",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "about",
+     "html": ""
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 6,
+   "stem_html": "<p>Gap 6</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "what",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "this",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "who",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "which",
+     "html": ""
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 7,
+   "stem_html": "<p>Gap 7</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "at",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "in",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "for",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "during",
+     "html": ""
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 8,
+   "stem_html": "<p>Gap 8</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "or",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "but",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "and",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "still",
+     "html": ""
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 9,
+   "stem_html": "<p>Gap 9</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "from",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "at",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "on",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "in",
+     "html": ""
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 10,
+   "stem_html": "<p>Gap 10</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "this",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "the",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "that",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "a",
+     "html": ""
+    }
+   ],
+   "correct": "B"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 11,
+   "stem_html": "<p>Gap 11</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "in",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "about",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "around",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "among",
+     "html": ""
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "number": 12,
+   "stem_html": "<p>Gap 12</p>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "on",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "in",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "for",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "at",
+     "html": ""
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. Two sentences are extra. (6 points)</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<h3>Students talking about the exams</h3>"
+  },
+  {
+   "kind": "content",
+   "html": "<p><b>Daniel:</b> Hi Lucy. How are things with your exams? Is there anything in particular I can help you with?<br/><b>Lucy:</b> <b>(1)</b><br/><b>Daniel:</b> Have you tried breaking each topic down into smaller sections and concentrating on major things only?<br/><b>Lucy:</b> <b>(2)</b><br/><b>Daniel:</b> What about having a short rest? Like, step away for a while, clear your head, then come back.<br/><b>Lucy:</b> <b>(3)</b><br/><b>Daniel:</b> An hour’s rest won’t make you fall behind. Sometimes when I feel overtired, I go play the guitar and when I come back, the problem doesn’t seem as bad.<br/><b>Lucy:</b> <b>(4)</b><br/><b>Daniel:</b> Even that might help. The point is to reset. Your brain needs some rest, too.<br/><b>Lucy:</b> <b>(5)</b><br/><b>Daniel:</b> You’re one of the smartest people I know. Just don’t overwork yourself. You’ll pass that exam, no doubt.<br/><b>Lucy:</b> <b>(6)</b><br/><b>Daniel:</b> Thank YOU for taking my advice. It helps to be encouraged, believe me.</p>"
+  },
+  {
+   "kind": "wordbank",
+   "mode": "sentences",
+   "words": [
+    {
+     "letter": "A",
+     "text": "I wish I could play the guitar. I prefer to just scroll through my phone if I take a break."
+    },
+    {
+     "letter": "B",
+     "text": "Thanks for offering me your help. I’ll let you know if I have some problem."
+    },
+    {
+     "letter": "C",
+     "text": "Everybody’s brain needs that, actually. You’re right, Daniel. Psychologists give the same advice."
+    },
+    {
+     "letter": "D",
+     "text": "I haven’t really thought of having a short rest while studying. I just don’t want to fall behind."
+    },
+    {
+     "letter": "E",
+     "text": "Thanks a lot, Daniel. I’m really worried about my economics exam. I feel like I don’t understand some topics fully."
+    },
+    {
+     "letter": "F",
+     "text": "I hope I will. Thank you for encouraging me."
+    },
+    {
+     "letter": "G",
+     "text": "This is actually a nice way to relax and restart yourself."
+    },
+    {
+     "letter": "H",
+     "text": "Yes, I’ve been doing that. I make flashcards for the key questions and try to connect them, but then I get lost in all the details. It’s frustrating."
+    }
+   ]
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 1,
+   "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "I wish I could play the guitar. I prefer to just scroll through my phone if I take a break.",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "Thanks for offering me your help. I’ll let you know if I have some problem.",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "Everybody’s brain needs that, actually. You’re right, Daniel. Psychologists give the same advice.",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "I haven’t really thought of having a short rest while studying. I just don’t want to fall behind.",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "Thanks a lot, Daniel. I’m really worried about my economics exam. I feel like I don’t understand some topics fully.",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "I hope I will. Thank you for encouraging me.",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "This is actually a nice way to relax and restart yourself.",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "Yes, I’ve been doing that. I make flashcards for the key questions and try to connect them, but then I get lost in all the details. It’s frustrating.",
+     "html": ""
+    }
+   ],
+   "correct": "E"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 2,
+   "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "I wish I could play the guitar. I prefer to just scroll through my phone if I take a break.",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "Thanks for offering me your help. I’ll let you know if I have some problem.",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "Everybody’s brain needs that, actually. You’re right, Daniel. Psychologists give the same advice.",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "I haven’t really thought of having a short rest while studying. I just don’t want to fall behind.",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "Thanks a lot, Daniel. I’m really worried about my economics exam. I feel like I don’t understand some topics fully.",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "I hope I will. Thank you for encouraging me.",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "This is actually a nice way to relax and restart yourself.",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "Yes, I’ve been doing that. I make flashcards for the key questions and try to connect them, but then I get lost in all the details. It’s frustrating.",
+     "html": ""
+    }
+   ],
+   "correct": "H"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 3,
+   "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "I wish I could play the guitar. I prefer to just scroll through my phone if I take a break.",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "Thanks for offering me your help. I’ll let you know if I have some problem.",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "Everybody’s brain needs that, actually. You’re right, Daniel. Psychologists give the same advice.",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "I haven’t really thought of having a short rest while studying. I just don’t want to fall behind.",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "Thanks a lot, Daniel. I’m really worried about my economics exam. I feel like I don’t understand some topics fully.",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "I hope I will. Thank you for encouraging me.",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "This is actually a nice way to relax and restart yourself.",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "Yes, I’ve been doing that. I make flashcards for the key questions and try to connect them, but then I get lost in all the details. It’s frustrating.",
+     "html": ""
+    }
+   ],
+   "correct": "D"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 4,
+   "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "I wish I could play the guitar. I prefer to just scroll through my phone if I take a break.",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "Thanks for offering me your help. I’ll let you know if I have some problem.",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "Everybody’s brain needs that, actually. You’re right, Daniel. Psychologists give the same advice.",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "I haven’t really thought of having a short rest while studying. I just don’t want to fall behind.",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "Thanks a lot, Daniel. I’m really worried about my economics exam. I feel like I don’t understand some topics fully.",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "I hope I will. Thank you for encouraging me.",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "This is actually a nice way to relax and restart yourself.",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "Yes, I’ve been doing that. I make flashcards for the key questions and try to connect them, but then I get lost in all the details. It’s frustrating.",
+     "html": ""
+    }
+   ],
+   "correct": "A"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 5,
+   "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "I wish I could play the guitar. I prefer to just scroll through my phone if I take a break.",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "Thanks for offering me your help. I’ll let you know if I have some problem.",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "Everybody’s brain needs that, actually. You’re right, Daniel. Psychologists give the same advice.",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "I haven’t really thought of having a short rest while studying. I just don’t want to fall behind.",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "Thanks a lot, Daniel. I’m really worried about my economics exam. I feel like I don’t understand some topics fully.",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "I hope I will. Thank you for encouraging me.",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "This is actually a nice way to relax and restart yourself.",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "Yes, I’ve been doing that. I make flashcards for the key questions and try to connect them, but then I get lost in all the details. It’s frustrating.",
+     "html": ""
+    }
+   ],
+   "correct": "C"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "gap": true,
+   "number": 6,
+   "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+   "options": [
+    {
+     "letter": "A",
+     "text": "I wish I could play the guitar. I prefer to just scroll through my phone if I take a break.",
+     "html": ""
+    },
+    {
+     "letter": "B",
+     "text": "Thanks for offering me your help. I’ll let you know if I have some problem.",
+     "html": ""
+    },
+    {
+     "letter": "C",
+     "text": "Everybody’s brain needs that, actually. You’re right, Daniel. Psychologists give the same advice.",
+     "html": ""
+    },
+    {
+     "letter": "D",
+     "text": "I haven’t really thought of having a short rest while studying. I just don’t want to fall behind.",
+     "html": ""
+    },
+    {
+     "letter": "E",
+     "text": "Thanks a lot, Daniel. I’m really worried about my economics exam. I feel like I don’t understand some topics fully.",
+     "html": ""
+    },
+    {
+     "letter": "F",
+     "text": "I hope I will. Thank you for encouraging me.",
+     "html": ""
+    },
+    {
+     "letter": "G",
+     "text": "This is actually a nice way to relax and restart yourself.",
+     "html": ""
+    },
+    {
+     "letter": "H",
+     "text": "Yes, I’ve been doing that. I make flashcards for the key questions and try to connect them, but then I get lost in all the details. It’s frustrating.",
+     "html": ""
+    }
+   ],
+   "correct": "F"
+  }
+ ]
+}

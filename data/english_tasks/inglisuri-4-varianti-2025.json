@@ -1,0 +1,1740 @@
+{
+  "blocks": [
+    {
+      "kind": "content",
+      "html": "<h3>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points)</h3>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "words",
+      "words": [
+        {
+          "letter": "A",
+          "text": "ability"
+        },
+        {
+          "letter": "B",
+          "text": "achieve"
+        },
+        {
+          "letter": "C",
+          "text": "citizens"
+        },
+        {
+          "letter": "D",
+          "text": "creating"
+        },
+        {
+          "letter": "E",
+          "text": "discovered"
+        },
+        {
+          "letter": "F",
+          "text": "draw"
+        },
+        {
+          "letter": "G",
+          "text": "drawings"
+        },
+        {
+          "letter": "H",
+          "text": "encourages"
+        },
+        {
+          "letter": "I",
+          "text": "famous"
+        },
+        {
+          "letter": "J",
+          "text": "generations"
+        },
+        {
+          "letter": "K",
+          "text": "manner"
+        },
+        {
+          "letter": "L",
+          "text": "memory"
+        },
+        {
+          "letter": "M",
+          "text": "unusual"
+        },
+        {
+          "letter": "N",
+          "text": "worldwide"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "html": "<p>The strongest memory in the world</p>"
+    },
+    {
+      "kind": "content",
+      "html": "<p>Stephen Wiltshire is an amazing artist. He was born in London, England. Stephen is gifted with an extraordinary mental and physical <b>(1)</b> for drawing. He is <b>(2)</b> for his excellent pictures of sights of the cities. He can <b>(3)</b> entire cities from memory. His work is admired around the world and he has been called ‘The Human Camera’ due to his remarkable photographic memory. Stephen Wiltshire has painted cities like New York and London in an unbelievably detailed and accurate <b>(4)</b>. Stephen’s story is very <b>(5)</b>. He was still very young, when doctors <b>(6)</b> that he had autism. Despite great challenges, Stephen managed to shape his character. As a result, he became a famous and extremely talented artist who created complicated works and became popular <b>(7)</b>. Stephen’s art is admired all over the world. People visit his exhibitions to see a variety of his magnificent <b>(8)</b>. His most famous works are fifteen city panoramas drawn from his <b>(9)</b>. Drawing street life and modern architecture have been Stephen’s interest for as long as he can remember. Stephen’s work shows that anyone can <b>(10)</b> their goals with hard work and dedication. His achievement truly <b>(11)</b> many people, especially those having similar difficulties. Stephen Wilshire’s artwork will continue to amaze future <b>(12)</b>. His story shows the power of hard work and creativity in overcoming challenges.</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "I"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "F"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "K"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "M"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 7,
+      "stem_html": "<span class=\"gap-label\">Gap 7</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "N"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 8,
+      "stem_html": "<span class=\"gap-label\">Gap 8</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "G"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 9,
+      "stem_html": "<span class=\"gap-label\">Gap 9</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "L"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 10,
+      "stem_html": "<span class=\"gap-label\">Gap 10</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 11,
+      "stem_html": "<span class=\"gap-label\">Gap 11</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "H"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 12,
+      "stem_html": "<span class=\"gap-label\">Gap 12</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ability",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "achieve",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "citizens",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "creating",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "discovered",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "draw",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "drawings",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "encourages",
+          "html": ""
+        },
+        {
+          "letter": "I",
+          "text": "famous",
+          "html": ""
+        },
+        {
+          "letter": "J",
+          "text": "generations",
+          "html": ""
+        },
+        {
+          "letter": "K",
+          "text": "manner",
+          "html": ""
+        },
+        {
+          "letter": "L",
+          "text": "memory",
+          "html": ""
+        },
+        {
+          "letter": "M",
+          "text": "unusual",
+          "html": ""
+        },
+        {
+          "letter": "N",
+          "text": "worldwide",
+          "html": ""
+        }
+      ],
+      "correct": "J"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p>The story of the Nike logo. In 1970 Nike, now the world’s largest athletic footwear and clothing company, was in need of a unique logo. The company wanted a symbol that would represent movement, speed <b>(1)</b> excellence. In 1971 Nike’s co-founder Phil Knight asked Carolyn Davidson, a young art student at Portland State University, to design the logo. Within <b>(2)</b> week, Davidson created a symbol that would become one of the most recognisable logos in history. The inspiration for the logo’s shape came <b>(3)</b> the wings of the Greek goddess Nike, who symbolised victory and inspired countless ancient warriors. According <b>(4)</b> Greek mythology, Nike was believed to bring victory in battle and her name became associated <b>(5)</b> success and glory. It is said that victorious Greeks would exclaim ‘This is Nike!’ to celebrate their victory in her name. Carolyn Davidson was paid only 35 dollars for designing the logo, which she created <b>(6)</b> exploring different shapes and ideas to show motion, speed and achievement. After trying several designs, Davidson came up with a shape like a stylised tick, which we now recognise <b>(7)</b> the Swoosh - Nike’s famous logo. As time went <b>(8)</b>, Davidson’s simple design became a key element in Nike’s success and global recognition. Some might think <b>(9)</b> Carolyn Davidson was underpaid for the work, but in 1983 Nike’s co-founder Phil Knight decided to thank her <b>(10)</b> creating the iconic logo. He invited her <b>(11)</b> lunch, which turned out to be a surprise party in her honour. At the party, Knight gave Davidson a gold ring with the Swoosh and a diamond, along <b>(12)</b> 500 shares* of the company. *shares: აქციები</p>"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 1,
+      "stem_html": "<p>Gap 1</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "but",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "and",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "nor",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "until",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 2,
+      "stem_html": "<p>Gap 2</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "an",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "those",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 3,
+      "stem_html": "<p>Gap 3</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "out",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "from",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "over",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 4,
+      "stem_html": "<p>Gap 4</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "with",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 5,
+      "stem_html": "<p>Gap 5</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "with",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "in",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 6,
+      "stem_html": "<p>Gap 6</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "with",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "of",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 7,
+      "stem_html": "<p>Gap 7</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "so",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "such",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "like",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "as",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 8,
+      "stem_html": "<p>Gap 8</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "off",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "of",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "for",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 9,
+      "stem_html": "<p>Gap 9</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "what",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "this",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 10,
+      "stem_html": "<p>Gap 10</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "for",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "with",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 11,
+      "stem_html": "<p>Gap 11</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "to",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "with",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "on",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "number": 12,
+      "stem_html": "<p>Gap 12</p>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "by",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "under",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "with",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "content",
+      "html": "<h3>Task 6: Complete the conversation. For questions 1-6 mark the correct letter A-H. Two sentences are extra. (6 points)</h3>"
+    },
+    {
+      "kind": "content",
+      "html": "<p>At the university<br>Katie: Oh look, Sam! The professor is posting the exam results on the noticeboard. But I’m too nervous to go and see them.<br>Sam: What are you worried about? You studied hard, didn’t you?<br>Katie: <b>(1)</b><br>Sam: Well, we won’t know our marks unless we check the results ourselves.<br>Katie: <b>(2)</b><br>Sam: All right, stay here; I’ll go and check.<br>Katie: <b>(3)</b><br>Sam: Cheer up, Katie! I’ve got great news for you - there’s really no need to panic. It looks like our exam preparation plan has worked for both of us.<br>Katie: <b>(4)</b><br>Sam: Yes, we did!<br>Katie: <b>(5)</b><br>Sam: So was I, and it’s definitely more than just a pass! How would you feel about being top of the class with 96%?<br>Katie: <b>(6)</b><br>Sam: That’s exactly what you got! You’re first in the class and I’m right behind you! I’m so happy for both of us!</p>"
+    },
+    {
+      "kind": "wordbank",
+      "mode": "sentences",
+      "words": [
+        {
+          "letter": "A",
+          "text": "So Sam, is it too bad?"
+        },
+        {
+          "letter": "B",
+          "text": "That would be amazing! I couldn’t dream of a better result!"
+        },
+        {
+          "letter": "C",
+          "text": "I did. In fact, I really did my best, but you never know."
+        },
+        {
+          "letter": "D",
+          "text": "So, you mean we passed?"
+        },
+        {
+          "letter": "E",
+          "text": "Yes, it’s the hardest exam I’ve ever taken."
+        },
+        {
+          "letter": "F",
+          "text": "I know, but I’m too nervous. Why don’t YOU go and find out how we did?"
+        },
+        {
+          "letter": "G",
+          "text": "That’s great, but I was hoping for more than just a pass."
+        },
+        {
+          "letter": "H",
+          "text": "Sure, I’m so happy I got the highest score on the exam!"
+        }
+      ]
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 1,
+      "stem_html": "<span class=\"gap-label\">Gap 1</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "So Sam, is it too bad?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That would be amazing! I couldn’t dream of a better result!",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I did. In fact, I really did my best, but you never know.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "So, you mean we passed?",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Yes, it’s the hardest exam I’ve ever taken.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I know, but I’m too nervous. Why don’t YOU go and find out how we did?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "That’s great, but I was hoping for more than just a pass.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Sure, I’m so happy I got the highest score on the exam!",
+          "html": ""
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 2,
+      "stem_html": "<span class=\"gap-label\">Gap 2</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "So Sam, is it too bad?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That would be amazing! I couldn’t dream of a better result!",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I did. In fact, I really did my best, but you never know.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "So, you mean we passed?",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Yes, it’s the hardest exam I’ve ever taken.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I know, but I’m too nervous. Why don’t YOU go and find out how we did?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "That’s great, but I was hoping for more than just a pass.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Sure, I’m so happy I got the highest score on the exam!",
+          "html": ""
+        }
+      ],
+      "correct": "F"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 3,
+      "stem_html": "<span class=\"gap-label\">Gap 3</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "So Sam, is it too bad?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That would be amazing! I couldn’t dream of a better result!",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I did. In fact, I really did my best, but you never know.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "So, you mean we passed?",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Yes, it’s the hardest exam I’ve ever taken.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I know, but I’m too nervous. Why don’t YOU go and find out how we did?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "That’s great, but I was hoping for more than just a pass.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Sure, I’m so happy I got the highest score on the exam!",
+          "html": ""
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 4,
+      "stem_html": "<span class=\"gap-label\">Gap 4</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "So Sam, is it too bad?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That would be amazing! I couldn’t dream of a better result!",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I did. In fact, I really did my best, but you never know.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "So, you mean we passed?",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Yes, it’s the hardest exam I’ve ever taken.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I know, but I’m too nervous. Why don’t YOU go and find out how we did?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "That’s great, but I was hoping for more than just a pass.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Sure, I’m so happy I got the highest score on the exam!",
+          "html": ""
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 5,
+      "stem_html": "<span class=\"gap-label\">Gap 5</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "So Sam, is it too bad?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That would be amazing! I couldn’t dream of a better result!",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I did. In fact, I really did my best, but you never know.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "So, you mean we passed?",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Yes, it’s the hardest exam I’ve ever taken.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I know, but I’m too nervous. Why don’t YOU go and find out how we did?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "That’s great, but I was hoping for more than just a pass.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Sure, I’m so happy I got the highest score on the exam!",
+          "html": ""
+        }
+      ],
+      "correct": "G"
+    },
+    {
+      "kind": "question",
+      "type": "mcq",
+      "gap": true,
+      "number": 6,
+      "stem_html": "<span class=\"gap-label\">Gap 6</span>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "So Sam, is it too bad?",
+          "html": ""
+        },
+        {
+          "letter": "B",
+          "text": "That would be amazing! I couldn’t dream of a better result!",
+          "html": ""
+        },
+        {
+          "letter": "C",
+          "text": "I did. In fact, I really did my best, but you never know.",
+          "html": ""
+        },
+        {
+          "letter": "D",
+          "text": "So, you mean we passed?",
+          "html": ""
+        },
+        {
+          "letter": "E",
+          "text": "Yes, it’s the hardest exam I’ve ever taken.",
+          "html": ""
+        },
+        {
+          "letter": "F",
+          "text": "I know, but I’m too nervous. Why don’t YOU go and find out how we did?",
+          "html": ""
+        },
+        {
+          "letter": "G",
+          "text": "That’s great, but I was hoping for more than just a pass.",
+          "html": ""
+        },
+        {
+          "letter": "H",
+          "text": "Sure, I’m so happy I got the highest score on the exam!",
+          "html": ""
+        }
+      ],
+      "correct": "B"
+    }
+  ]
+}
