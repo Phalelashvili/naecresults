@@ -16,6 +16,18 @@ export function fixMediaHtml(html) {
     .replace(/<img /g, '<img loading="lazy" ')
 }
 
+// Inside $…$ / $$…$$ math, a raw "<" (e.g. $0 \le r < b$) is parsed by the
+// browser as an HTML tag start ("<b") before KaTeX runs, breaking the formula.
+// Escape "<"/">" to entities *only within* math spans: the browser then keeps
+// them as text and KaTeX (which reads decoded textContent) still sees < and >.
+export function escapeMathAngles(html) {
+  if (!html) return ''
+  const esc = (m) => m.replace(/</g, '&lt;').replace(/>/g, '&gt;')
+  return html
+    .replace(/\$\$[\s\S]*?\$\$/g, esc)
+    .replace(/\$[^$]*\$/g, esc)
+}
+
 export const LETTERS = ['ა', 'ბ', 'გ', 'დ', 'ე', 'ვ', 'ზ', 'თ', 'ი', 'კ', 'ლ', 'მ', 'ნ', 'ო', 'პ', 'ჟ', 'რ', 'ს', 'ტ', 'უ']
 
 export function letterIndex(letter) {

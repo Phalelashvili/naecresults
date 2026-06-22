@@ -28,3 +28,17 @@ export function loadTest(slug) {
 export function loadBank() {
   return getJSON('data/bank.json')
 }
+
+// Theory tab (math): a tree index + one file of full content per section.
+export function loadTheoryIndex() {
+  return getJSON('data/theory/index.json')
+}
+
+export function loadTheorySection(id) {
+  return getJSON(`data/theory/${id}.json`)
+}
+
+// { topicId: [compact NAEC question] } — related questions per theory topic.
+export function loadTheoryRelated() {
+  return getJSON('data/theory/related.json')
+}

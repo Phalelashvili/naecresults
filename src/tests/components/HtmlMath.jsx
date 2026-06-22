@@ -1,6 +1,6 @@
 import { useLayoutEffect, useRef } from 'react'
 import { renderMath } from '../lib/math.js'
-import { fixMediaHtml } from '../lib/format.js'
+import { fixMediaHtml, escapeMathAngles } from '../lib/format.js'
 
 // Renders scraped HTML (with media + LaTeX) safely-ish and typesets math.
 export default function HtmlMath({ html, className, tag = 'div' }) {
@@ -13,7 +13,7 @@ export default function HtmlMath({ html, className, tag = 'div' }) {
     <Tag
       ref={ref}
       className={className}
-      dangerouslySetInnerHTML={{ __html: fixMediaHtml(html || '') }}
+      dangerouslySetInnerHTML={{ __html: escapeMathAngles(fixMediaHtml(html || '')) }}
     />
   )
 }

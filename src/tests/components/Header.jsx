@@ -68,6 +68,9 @@ export default function Header() {
           <NavLink to="/tests" className={({ isActive }) => (isActive ? 'active' : '')}>
             ტესტები
           </NavLink>
+          <NavLink to="/theory" className={({ isActive }) => (isActive ? 'active' : '')}>
+            თეორია
+          </NavLink>
           <NavLink to="/results" className={({ isActive }) => (isActive ? 'active' : '')}>
             ჩარიცხვები
           </NavLink>
@@ -78,8 +81,11 @@ export default function Header() {
         </nav>
       </div>
       <div className="site-disclaimer">
-        ⚠️ არაოფიციალური, ექსპერიმენტული საიტი — მონაცემები შესაძლოა შეიცავდეს უზუსტობებს;
-        გადაამოწმეთ ოფიციალურ წყაროებთან.
+        <span className="disc-full">
+          ⚠️ არაოფიციალური, ექსპერიმენტული საიტი — მონაცემები შესაძლოა შეიცავდეს უზუსტობებს;
+          გადაამოწმეთ ოფიციალურ წყაროებთან.
+        </span>
+        <span className="disc-short">⚠️ არაოფიციალური, ექსპერიმენტული საიტი</span>
       </div>
     </header>
   )
