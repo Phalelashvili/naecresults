@@ -13,6 +13,31 @@
         "კვადრატული სამწევრი"
       ],
       "difficulty": "მაღალი"
+    },
+    {
+      "id": "klasi-bichi-shesveneba",
+      "slug": "albatoba-orive-shesvenebaze-bichi",
+      "title": "ალბათობა — გოგონები ბიჭებზე ორჯერ მეტია",
+      "statementTex": "g = 2b \\;\\Rightarrow\\; P=\\,?",
+      "tags": [
+        "ალბათობა",
+        "კლასიკური ალბათობა",
+        "დამოუკიდებელი მოვლენები"
+      ],
+      "difficulty": "საშუალო"
+    },
+    {
+      "id": "monakveti-wertili-albatoba",
+      "slug": "geometriuli-albatoba-monakvetze-wertili",
+      "num": "9(1)",
+      "title": "გეომეტრიული ალბათობა — წერტილი მონაკვეთზე",
+      "statementTex": "AB=15,\\quad \\max(AC,\\,CB)\\ge 12",
+      "tags": [
+        "ალბათობა",
+        "გეომეტრიული ალბათობა",
+        "მონაკვეთი"
+      ],
+      "difficulty": "საშუალო"
     }
   ]
 }

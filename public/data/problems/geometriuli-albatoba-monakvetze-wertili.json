@@ -1,0 +1,145 @@
+{
+  "id": "monakveti-wertili-albatoba",
+  "slug": "geometriuli-albatoba-monakvetze-wertili",
+  "num": "9(1)",
+  "title": "გეომეტრიული ალბათობა — წერტილი მონაკვეთზე",
+  "statementTex": "AB=15,\\quad \\max(AC,\\,CB)\\ge 12",
+  "prompt": "15 სმ სიგრძის $AB$ მონაკვეთზე შემთხვევით აირჩევა $C$ წერტილი. იპოვეთ ალბათობა იმისა, რომ მიღებული $AC$ და $CB$ მონაკვეთებიდან უდიდესი არ იქნება 12 სმ-ზე ნაკლები.",
+  "tags": [
+    "ალბათობა",
+    "გეომეტრიული ალბათობა",
+    "მონაკვეთი"
+  ],
+  "difficulty": "საშუალო",
+  "source": "ამოცანათა კრებული",
+  "answerTex": "P=\\dfrac{6}{15}=\\dfrac{2}{5}",
+  "chain": [
+    {
+      "tex": "x=AC\\in[0;15]",
+      "title": "მოდელი",
+      "explain": "$C$ შემთხვევითია; $x=AC$ თანაბრად განაწილებული $[0;15]$-ზე.",
+      "step": 0
+    },
+    {
+      "tex": "\\Longrightarrow",
+      "op": true
+    },
+    {
+      "tex": "CB=15-x",
+      "title": "მეორე ნაწილი",
+      "explain": "დარჩენილი მონაკვეთის სიგრძე.",
+      "step": 0
+    },
+    {
+      "tex": "\\Longrightarrow",
+      "op": true
+    },
+    {
+      "tex": "\\max(x,\\,15-x)\\ge 12",
+      "title": "პირობა",
+      "explain": "ორ ნაწილს შორის უდიდესი არ უნდა იყოს 12-ზე ნაკლები.",
+      "step": 1
+    },
+    {
+      "tex": "\\iff",
+      "op": true
+    },
+    {
+      "tex": "x\\le 3",
+      "title": "CB ≥ 12",
+      "explain": "$15-x\\ge 12 \\Rightarrow x\\le 3$.",
+      "step": 1
+    },
+    {
+      "tex": "\\lor",
+      "op": true
+    },
+    {
+      "tex": "x\\ge 12",
+      "title": "AC ≥ 12",
+      "explain": "$AC=x\\ge 12$.",
+      "step": 1
+    },
+    {
+      "tex": "\\Longrightarrow",
+      "op": true
+    },
+    {
+      "tex": "x\\in[0;3]\\cup[12;15]",
+      "title": "ხელსაყრელი არე",
+      "explain": "ხელსაყრელი მნიშვნელობების სიმრავლე.",
+      "step": 1
+    },
+    {
+      "tex": "\\Longrightarrow",
+      "op": true
+    },
+    {
+      "tex": "P=\\dfrac{3+3}{15}=\\dfrac{2}{5}",
+      "title": "პასუხი",
+      "explain": "ხელსაყრელი სიგრძე გაყოფილი სრულზე (პასუხი: გ).",
+      "step": 2,
+      "tone": "answer"
+    }
+  ],
+  "steps": [
+    {
+      "id": "model",
+      "title": "მოდელი: წერტილი მონაკვეთზე",
+      "blocks": [
+        {
+          "type": "concept",
+          "html": "<p>$C$ წერტილი თანაბრად ნაწილდება $AB$-ზე. ავღნიშნოთ $x=AC$, მაშინ $CB=15-x$, სადაც $x\\in[0;15]$.</p>"
+        },
+        {
+          "type": "concept",
+          "html": "<p>გეომეტრიულ ალბათობაში მოვლენის ალბათობა ხელსაყრელი უბნის სიგრძის შეფარდებაა მთელ სიგრძესთან:</p>"
+        },
+        {
+          "type": "formula",
+          "tex": "P=\\dfrac{\\ell_{\\text{fav}}}{\\ell_{AB}}=\\dfrac{\\ell_{\\text{fav}}}{15}",
+          "caption": "$\\ell_{\\text{fav}}$ — ხელსაყრელი $x$-ების სიგრძე."
+        }
+      ]
+    },
+    {
+      "id": "condition",
+      "title": "პირობა: უდიდესი ნაწილი ≥ 12",
+      "blocks": [
+        {
+          "type": "concept",
+          "html": "<p>გვინდა, რომ $AC$ და $CB$-დან <b>უდიდესი</b> იყოს $\\ge 12$. ეს ხდება, თუ ერთ-ერთი ნაწილი მაინც აღწევს 12-ს:</p>"
+        },
+        {
+          "type": "formula",
+          "tex": "\\max(x,\\,15-x)\\ge 12 \\iff x\\le 3 \\ \\lor\\ x\\ge 12"
+        },
+        {
+          "type": "concept",
+          "html": "<p>ანუ ხელსაყრელია $x\\in[0;3]\\cup[12;15]$. გადაათრიე $C$ ქვემოთ და დააკვირდი:</p>"
+        },
+        {
+          "type": "widget",
+          "kind": "segmentProb",
+          "spec": "segMax15"
+        }
+      ]
+    },
+    {
+      "id": "answer",
+      "title": "ალბათობა",
+      "tone": "answer",
+      "blocks": [
+        {
+          "type": "concept",
+          "html": "<p>ხელსაყრელი უბნის სიგრძეა $3+3=6$, სრული სიგრძე კი $15$:</p>"
+        },
+        {
+          "type": "formula",
+          "tex": "\\boxed{\\,P=\\dfrac{3+3}{15}=\\dfrac{6}{15}=\\dfrac{2}{5}\\,}",
+          "caption": "სწორი პასუხია <b>გ)</b> $\\tfrac{2}{5}$."
+        }
+      ]
+    }
+  ]
+}
