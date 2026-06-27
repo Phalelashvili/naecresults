@@ -1,0 +1,18 @@
+{
+  "problems": [
+    {
+      "id": "abs-frac-param",
+      "slug": "modulit-tsiladi-gantoleba-parametrit",
+      "num": "41(4)",
+      "title": "პარამეტრიანი წილადი განტოლება მოდულით",
+      "statementTex": "\\dfrac{|x|-2a-3}{3x^{2}-4ax+a^{2}}=0",
+      "tags": [
+        "პარამეტრი",
+        "მოდული",
+        "წილადი განტოლება",
+        "კვადრატული სამწევრი"
+      ],
+      "difficulty": "მაღალი"
+    }
+  ]
+}

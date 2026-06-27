@@ -42,3 +42,13 @@ export function loadTheorySection(id) {
 export function loadTheoryRelated() {
   return getJSON('data/theory/related.json')
 }
+
+// Additional problems (დამატებითი ამოცანები): a list + one file per problem,
+// each carrying a fully worked, step-by-step solution.
+export function loadProblemsIndex() {
+  return getJSON('data/problems/index.json')
+}
+
+export function loadProblem(slug) {
+  return getJSON(`data/problems/${slug}.json`)
+}

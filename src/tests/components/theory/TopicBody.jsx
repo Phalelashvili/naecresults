@@ -30,7 +30,9 @@ function Table({ head, rows }) {
   )
 }
 
-function block(b, i) {
+// Renders a single content block. Exported so other surfaces (e.g. worked
+// problems) can reuse the exact same block vocabulary and styling.
+export function renderBlock(b, i) {
   switch (b.type) {
     case 'concept':
     case 'text':
@@ -98,5 +100,5 @@ function block(b, i) {
 }
 
 export default function TopicBody({ blocks }) {
-  return <div className="th-body">{(blocks || []).map((b, i) => block(b, i))}</div>
+  return <div className="th-body">{(blocks || []).map((b, i) => renderBlock(b, i))}</div>
 }

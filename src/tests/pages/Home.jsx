@@ -83,6 +83,15 @@ export default function Home() {
         <span className="random-cta-btn">აწყობა →</span>
       </Link>
 
+      <Link to="/tests/extra" className="extra-cta">
+        <span className="extra-cta-ico">🧩</span>
+        <span className="extra-cta-text">
+          <strong>დამატებითი ამოცანები</strong>
+          <small>ამოცანათა კრებულის ამოცანები — ნაბიჯ-ნაბიჯ, ინტერაქტიული ახსნით</small>
+        </span>
+        <span className="extra-cta-arr">→</span>
+      </Link>
+
       <SavedStrip />
 
       <div className="home-toolbar">
