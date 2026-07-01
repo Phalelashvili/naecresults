@@ -1,0 +1,2571 @@
+{
+ "slug": "inglisuri-5-varianti-2025",
+ "url": "https://naec.ge/uploads/postData/20-25/%E1%83%90%E1%83%91%E1%83%98%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98%E1%83%94%E1%83%9C%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%20-%20%E1%83%92%E1%83%90%E1%83%9B%E1%83%9D%E1%83%A7%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98%20%E1%83%A2%E1%83%94%E1%83%A1%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%202025/%E1%83%A3%E1%83%AA%E1%83%AE%E1%83%9D%E1%83%A3%E1%83%A0%E1%83%98%20%E1%83%94%E1%83%9C%E1%83%90/%E1%83%98%E1%83%9C%E1%83%92%E1%83%9A%E1%83%98%E1%83%A1%E1%83%A3%E1%83%A0%E1%83%98%20-%20%E1%83%93%E1%83%90%E1%83%9B%E1%83%90%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%97%E1%83%98%20%E1%83%A1%E1%83%94%E1%83%A1%E1%83%98%E1%83%90.pdf",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2025,
+ "variant": 5,
+ "kind": "test",
+ "title": "ინგლისური ენა — 2025 წელი, ვარიანტი 5",
+ "num_questions": 54,
+ "num_content_blocks": 0,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 1</h3><p>Task 1: Listen to the text and for each question mark the correct answer A, B, C or D. You now have 40 seconds to look through the task. You will then hear the recording twice. (8 points)</p></div>"
+  },
+  {
+   "kind": "content",
+   "html": "<div><audio src=\"listening.mp3\"></audio></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "<p>What do we learn about the speaker from the start?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) He worked at Eton College 40 years ago.</span>",
+     "text": "He worked at Eton College 40 years ago."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) He has a long history of working at Eton.</span>",
+     "text": "He has a long history of working at Eton."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) He is a former student of Eton.</span>",
+     "text": "He is a former student of Eton."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) He has recently joined Eton.</span>",
+     "text": "He has recently joined Eton."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "",
+   "stem_html": "<p>What was the original purpose of Eton when it was founded in 1440?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) To offer free education to poor boys.</span>",
+     "text": "To offer free education to poor boys."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) To educate royal family members.</span>",
+     "text": "To educate royal family members."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) To educate boys from wealthy families.</span>",
+     "text": "To educate boys from wealthy families."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) To give free education to boys and girls.</span>",
+     "text": "To give free education to boys and girls."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "",
+   "stem_html": "<p>Which of the following is true about Eton today?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) It now admits both boys and girls.</span>",
+     "text": "It now admits both boys and girls."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) It offers financial assistance to all students.</span>",
+     "text": "It offers financial assistance to all students."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) It requires students to pass an exam to join.</span>",
+     "text": "It requires students to pass an exam to join."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) It is only for students from rich families.</span>",
+     "text": "It is only for students from rich families."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "",
+   "stem_html": "<p>What does the speaker say about Prince William?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) He left Eton College at the age of 17.</span>",
+     "text": "He left Eton College at the age of 17."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) He finished Eton College successfully.</span>",
+     "text": "He finished Eton College successfully."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) He completed Eton College with poor grades.</span>",
+     "text": "He completed Eton College with poor grades."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) He joined the military after leaving Eton College.</span>",
+     "text": "He joined the military after leaving Eton College."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "",
+   "stem_html": "<p>How many of Britain’s Prime Ministers were educated at Eton?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Two.</span>",
+     "text": "Two."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Three.</span>",
+     "text": "Three."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Twenty.</span>",
+     "text": "Twenty."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) Fifty-seven.</span>",
+     "text": "Fifty-seven."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "",
+   "stem_html": "<p>What do Eton students wear?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Black shirts and blue jeans.</span>",
+     "text": "Black shirts and blue jeans."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) White shirts and green tailcoats.</span>",
+     "text": "White shirts and green tailcoats."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Brown leather shoes and black top hats.</span>",
+     "text": "Brown leather shoes and black top hats."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) Black tailcoats and striped trousers.</span>",
+     "text": "Black tailcoats and striped trousers."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "",
+   "stem_html": "<p>What does the speaker say about the sports at Eton?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) They are only for professional sportspeople.</span>",
+     "text": "They are only for professional sportspeople."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) They are an important part of student life.</span>",
+     "text": "They are an important part of student life."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) They are the only focus of the school.</span>",
+     "text": "They are the only focus of the school."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) They are taught by senior students.</span>",
+     "text": "They are taught by senior students."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "",
+   "stem_html": "<p>The main goal of Eton is to ensure that its students</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) acquire important life skills.</span>",
+     "text": "acquire important life skills."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) continue the school’s traditions.</span>",
+     "text": "continue the school’s traditions."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) achieve top scores in their exams.</span>",
+     "text": "achieve top scores in their exams."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) focus only on academic achievement.</span>",
+     "text": "focus only on academic achievement."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 2</h3><p>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. (8 points)</p><h4>The tragic hero of the Georgian art</h4><p><strong>A)</strong> Niko Pirosmanashvili, better known as Pirosmani, is considered one of the greatest Georgian painters of the 20th century. Because so little is known about Pirosmani’s life, his story seems almost mythical. What is known is that he was born in 1862 in Mirzaani, a small village in Eastern Georgia, to a family of poor farmers. He lost his parents at a young age and was brought up in Tbilisi by the Kalantarovs, a rich Armenian merchant family, who treated the boy as their own son. They taught him how to read and write and encouraged his interest in paintings. As a young boy, Pirosmani was often taken to the theatre, where he developed his love for arts. He spent hours reading newspapers and magazines from the family library and listened to discussions about politics, art and literature when guests visited.</p><p><strong>B)</strong> Pirosmani taught himself to paint as a child and despite his simple background, he developed a unique artistic style that blended folk art, ‘naive art’* and modernist elements. Despite his talent, Pirosmani faced financial struggles his entire life. At first, he had basic jobs, including shepherding, railroad work and painting walls and buildings. Later, he began creating signs, banners, portraits and landscapes for shopkeepers and tavern owners in Tbilisi and spent most of his life as a homeless man, painting in exchange for food and shelter.</p><p><strong>C)</strong> Pirosmani lived in poverty and often had no place to stay, which forced him to paint fast to earn money just to survive. Always short of money, he used the cheapest canvases and paints he could find, yet somehow managed to skillfully highlight their best qualities. Pirosmani often created works to decorate taverns and shops. However, he also had greater artistic ambitions, experimenting with colour, technique and materials. His unique signature technique was painting directly on black oilcloth, which gave his work a unique, glowing quality. Many of his portraits were completed in just half an hour, without time to prepare the canvas. As people recalled, ‘He’d give us a look, take a drink, make quick brushstrokes, take another drink and the picture was ready.’</p><p><strong>D)</strong> Pirosmani painted scenes from his world – feasts, celebrations and everyday Georgian life – using bright colours and deep emotion. In his works you also find scenes inspired by his love of nature and animals, both native to Georgia and exotic. Art critics note that it is only in Pirosmani’s animal portraits that the eyes look alive, appearing incredibly real and expressive. Pirosmani’s love for theatre, poetry and storytelling deeply influenced his work. The theatrical elements he admired found their way into his paintings, with his figures often appearing like actors frozen in a moment of performance.</p><p><strong>E)</strong> Pirosmani gained some local recognition only in the final years of his life. On May 5, 1916, Kirill Zdanevich’s studio in Tbilisi hosted a one-day exhibition of his work. It was quite a success and so, later that year, Pirosmani was invited to join the Georgian Artists’ Society. However, not long after, one of the members drew a caricature of Pirosmani, which was later published in a newspaper. Deeply offended, Pirosmani cut all ties with the society and started to focused even more on his work. Because Pirosmani was a self-taught artist with no formal training, many of his peers looked down on him and did not take him seriously. Yet, Pirosmani’s story serves as a powerful reminder that true artistic talent can come from anywhere, even from the most unexpected places.</p><p><strong>F)</strong> Sadly, Pirosmani did not live to see his work achieve success. When he died alone in a cold, damp basement in Tbilisi in 1918, nobody took any notice of this fact and no one mourned* him. To this day, his burial place remains unknown. However, soon after his death, Pirosmani became an absolute hero in Georgia and his works started attracting attention in Europe, with exhibitions opening in France, Germany and Austria. Today, his paintings are regarded as a Georgian national treasure. A Georgian writer, Grigol Robakidze, expressed this well when he wrote: ‘A nameless Egyptian fresco, an African sculpture or a vase from Crete: we should view Pirosmani’s art alongside them. Only in this way can we truly appreciate it. You see Pirosmani – you believe in Georgia.’\n*naive art: ნაივური/გულუბრყვილო ხელოვნება; *mourn: გლოვა</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "",
+   "stem_html": "<p>Which paragraph mentions that Pirosmani found artistic inspiration in wildlife?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "",
+   "stem_html": "<p>Which paragraph explains why Pirosmani had to create his works quickly?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "",
+   "stem_html": "<p>Which paragraph states that Pirosmani was given food instead of money for his paintings?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "",
+   "stem_html": "<p>Which paragraph says that Pirosmani gained worldwide recognition?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "",
+   "stem_html": "<p>Which paragraph describes the environment in which Pirosmani was raised?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "",
+   "stem_html": "<p>Which paragraph states that Pirosmani couldn’t afford expensive art materials?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "",
+   "stem_html": "<p>Which paragraph could have the title: ‘Fame after death’?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "",
+   "stem_html": "<p>Which paragraph could have the title: ‘The insulted artist’?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 3</h3><p>Task 3: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). (8 points)</p><h4>This is a true story told by a legendary American swimmer, Michael Phelps.</h4><p>My name is Michael Phelps and I’m a retired professional swimmer. I competed internationally for over 20 years and had the honour of proudly representing the United States in five Olympic Games and six world championships. I was born on June 30, 1985, in Baltimore, USA, and was raised in the Rodgers Forge neighborhood by my single mother along with my two elder sisters. As a child, I found school difficult. I had ADHD*, which made it hard for me to sit still and focus. I was a hyperactive kid, always in the middle of everything and often getting into trouble. One of my teachers even told me I would never be successful because of my inability to focus. Both of my sisters swam at the Baltimore Swim Club and my mom thought swimming could help me too. She believed it would improve my focus at school, help me behave well at home and relax me enough so I could sleep well at night. So, at age seven, she signed me up for swimming lessons. At first, I hated water. I’d make excuses, telling my teachers I had a stomachache, headache or earache - anything to stay out of the pool. When I finally got in, I was afraid to put my head under the water. But after a few sessions, I realised that getting my face wet wasn’t so bad and I started to enjoy it. Once I learned to swim, I felt a sense of freedom and control that I’d never experienced before. The more time I spent in the pool, the more relaxed I became. Soon, dreams of becoming a great swimmer filled my mind. I wanted to be the best, so I made a decision to work as hard as I could to make those dreams a reality. At school I had friends, but I wasn’t very social. My schoolfriends often made fun of me because I had big ears and did things differently. So, I focused all my energy on swimming. I noticed that the kids who worked the hardest got the best results, so I made it my goal to push myself as much as possible.</p><p>At 11 I met my lifelong coach Bob Bowman, who saw my potential from the very beginning. His belief in me gave me the confidence I needed, and I truly don’t know where I’d be today without his support. Under his guidance, I made my Olympic debut at the 2000 Sydney Games at just 15 years old. Though I didn’t win a medal that year, the experience taught me valuable lessons and prepared me for the Athens 2004 Olympics, where I won six gold and two bronze medals. The 2008 Olympics in Beijing were even better. I had trained harder than ever and set a goal to win eight gold medals. Many thought it was impossible, that no one could achieve something like that. But I believed in myself and I did it. I won all eight gold medals, setting a world record for the most golds ever won by a single athlete in one Olympics. That record, often called the ‘Michael Phelps record,’ still stands today. However, with so many talented swimmers out there, I know it’s only a matter of time before someone comes along and breaks it. After Beijing, I competed in the 2012 London Olympics, winning four gold and two silver medals. Finally, at the 2016 Rio de Janeiro Olympics, I added five gold medals and one silver to my collection. This brought my total Olympic medal count to 28, including a record-breaking 23 golds, the most number of gold medals ever won by any athlete in Olympic history. You might wonder how such an achievement was possible. The answer is simple: I found what I enjoyed the most and never gave up. I pushed myself beyond my limits, and each challenge made me stronger. Now, I hope to inspire others to find their passion and follow it, just as I did.</p><p>*ADHD: ყურადღების დეფიციტის ჰიპერაქტიურობის აშლილობა</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 17,
+   "heading": "",
+   "stem_html": "<p>What do we learn about Michael Phelps from the start?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) He took part in six Olympic Games.</span>",
+     "text": "He took part in six Olympic Games."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) He started swimming when he was twenty.</span>",
+     "text": "He started swimming when he was twenty."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) He was the firstborn child in the family.</span>",
+     "text": "He was the firstborn child in the family."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) He grew up in a single-parent family.</span>",
+     "text": "He grew up in a single-parent family."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 18,
+   "heading": "",
+   "stem_html": "<p>How does Michael Phelps remember his time at school?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) He was a well-behaved pupil.</span>",
+     "text": "He was a well-behaved pupil."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) He was his teachers’ favourite student.</span>",
+     "text": "He was his teachers’ favourite student."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) He often had problems at school.</span>",
+     "text": "He often had problems at school."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) He was always praised by his teachers.</span>",
+     "text": "He was always praised by his teachers."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 19,
+   "heading": "",
+   "stem_html": "<p>Michael’s mother enrolled him in swimming lessons so that he could</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) make new friends.</span>",
+     "text": "make new friends."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) become a great swimmer.</span>",
+     "text": "become a great swimmer."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) overcome his fear of water.</span>",
+     "text": "overcome his fear of water."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) improve his concentration.</span>",
+     "text": "improve his concentration."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 20,
+   "heading": "",
+   "stem_html": "<p>How did Michael initially react to swimming lessons?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) He tried to avoid the pool.</span>",
+     "text": "He tried to avoid the pool."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) He loved the water from the start.</span>",
+     "text": "He loved the water from the start."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) He enjoyed swimming underwater.</span>",
+     "text": "He enjoyed swimming underwater."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) He disliked his teachers there.</span>",
+     "text": "He disliked his teachers there."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 21,
+   "heading": "",
+   "stem_html": "<p>Other students at school laughed at Michael Phelps because</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) he had big ears.</span>",
+     "text": "he had big ears."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) he had no friends.</span>",
+     "text": "he had no friends."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) he was unsociable.</span>",
+     "text": "he was unsociable."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) he was like everyone else.</span>",
+     "text": "he was like everyone else."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 22,
+   "heading": "",
+   "stem_html": "<p>Michael Phelps’ coach Bob Bowman</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) had no influence on Michael’s life.</span>",
+     "text": "had no influence on Michael’s life."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) trained Michael for 11 years.</span>",
+     "text": "trained Michael for 11 years."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) ignored Michael’s talent and abilities.</span>",
+     "text": "ignored Michael’s talent and abilities."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) played an important role in Michael’s life.</span>",
+     "text": "played an important role in Michael’s life."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 23,
+   "heading": "",
+   "stem_html": "<p>What does Michael Phelps think is the secret to his success?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) His natural talent.</span>",
+     "text": "His natural talent."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) His wish to break records.</span>",
+     "text": "His wish to break records."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) His love for swimming.</span>",
+     "text": "His love for swimming."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) His team’s support.</span>",
+     "text": "His team’s support."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 24,
+   "heading": "",
+   "stem_html": "<p>Which of the following would be the best title for the text?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) A journey through the history of the Olympics</span>",
+     "text": "A journey through the history of the Olympics"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) A swimmer’s triumph over challenges</span>",
+     "text": "A swimmer’s triumph over challenges"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) A day in the life of a professional swimmer</span>",
+     "text": "A day in the life of a professional swimmer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) A swimmer with 28 gold medals</span>",
+     "text": "A swimmer with 28 gold medals"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 4</h3><p>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points)</p><h4>Protecting dolphins</h4><p>Can you imagine the ocean without dolphins? Neither can we. Dolphins are well-known for their playful …… (1), which makes them favourite among wildlife watchers. Many will …… (2) vertically out of the water to view their surroundings and follow ships, often synchronising their movements with one another. But today, dolphins are in …… (3) and we should do our best to help make their world safer and healthier. Environmental …… (4) also work to protect animals’ rights. They criticise Japanese fishermen for using very violent methods to …… (5) dolphins. One of the groups showed a videotape that demonstrated how cruelly the animals are killed, after which the water …… (6) red from their blood. The killing of dolphins is not officially allowed by international …… (7), but in some parts of Japan it’s a part of the fishermen’s life. The Sea Conservation Society has criticised the …… (8) of dolphin hunting used in one of the western Japanese towns. ‘It’s a cruel killing, which makes animals …… (9), said Nick Hensey, an activist from the Sea Conservation Society. ‘It’s a sight that one will never …… (10).’ Town officials did not …… (11) but an official from the local fishermen’s union noted that dolphin hunting has been part of the local culture for almost four hundred years. The videotape showed that the fishermen specifically caused waves on the water, which confused the animals’ …… (12) of direction. After this the fishermen made the dolphins swim into small bays where they were easily killed.</p><p class='eng-bank'><strong>A)</strong> behaviour, <strong>B)</strong> comment, <strong>C)</strong> danger, <strong>D)</strong> forget, <strong>E)</strong> groups, <strong>F)</strong> hunt, <strong>G)</strong> jump, <strong>H)</strong> law, <strong>I)</strong> method, <strong>J)</strong> protection, <strong>K)</strong> sense, <strong>L)</strong> set, <strong>M)</strong> suffer, <strong>N)</strong> turns</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 25,
+   "heading": "",
+   "stem_html": "<p><b>Gap 1</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 26,
+   "heading": "",
+   "stem_html": "<p><b>Gap 2</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 27,
+   "heading": "",
+   "stem_html": "<p><b>Gap 3</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 28,
+   "heading": "",
+   "stem_html": "<p><b>Gap 4</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 29,
+   "heading": "",
+   "stem_html": "<p><b>Gap 5</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 30,
+   "heading": "",
+   "stem_html": "<p><b>Gap 6</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 31,
+   "heading": "",
+   "stem_html": "<p><b>Gap 7</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 32,
+   "heading": "",
+   "stem_html": "<p><b>Gap 8</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 33,
+   "heading": "",
+   "stem_html": "<p><b>Gap 9</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 34,
+   "heading": "",
+   "stem_html": "<p><b>Gap 10</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 35,
+   "heading": "",
+   "stem_html": "<p><b>Gap 11</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 36,
+   "heading": "",
+   "stem_html": "<p><b>Gap 12</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) behaviour</span>",
+     "text": "behaviour"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) comment</span>",
+     "text": "comment"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) danger</span>",
+     "text": "danger"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) forget</span>",
+     "text": "forget"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) groups</span>",
+     "text": "groups"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) hunt</span>",
+     "text": "hunt"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) jump</span>",
+     "text": "jump"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) law</span>",
+     "text": "law"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) method</span>",
+     "text": "method"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) protection</span>",
+     "text": "protection"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) sense</span>",
+     "text": "sense"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) set</span>",
+     "text": "set"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) suffer</span>",
+     "text": "suffer"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) turns</span>",
+     "text": "turns"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 5</h3><p>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</p><h4>Green sea turtles</h4><p>The green sea turtle is a large reptile that can grow to 1.5 metres …… (1) length and can weigh up to 200 kilograms. It lives in warm coastal seas worldwide. Florida, the Caribbean, Hawaii and Borneo have …… (2) highest populations. Turtle populations are …… (3) risk in Florida and Mexico. Scientists estimate that fewer than 200,000 adult female green sea turtles are currently alive. There are several reasons …… (4) sea turtle numbers have dropped. Since ancient times, people have been eating the meat of the green sea turtle worldwide. Hunters collect eggs buried …… (5) female turtles on sandy beaches. Though many countries have banned hunting green sea turtles, people still do it illegally. Over 10,000 sea turtles are caught …… (6) fishing nets annually. Unable to breathe, turtles die. Many turtle deaths might be avoided …… (7) fishermen made minor changes to their equipment that would let turtles escape. Many fishermen refuse to do this, even though the law demands it. Garbage in the waters can also kill turtles. Turtles can starve to death …… (8) they swallow plastic, which blocks …… (9) digestive systems. Tourists also destroy more turtle breeding beaches each year. This means that some female turtles may not nest …… (10) they have no familiar spot to lay their eggs. Even if turtles do manage to nest, their eggs are at risk, as tourists may accidentally crush them. Newborn turtles are often disoriented …… (11) bright lights and they cannot find their way …… (12) the sea and safety.</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 37,
+   "heading": "",
+   "stem_html": "<p><b>Gap 1</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) of</span>",
+     "text": "of"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) by</span>",
+     "text": "by"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) at</span>",
+     "text": "at"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 38,
+   "heading": "",
+   "stem_html": "<p><b>Gap 2</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) a</span>",
+     "text": "a"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) an</span>",
+     "text": "an"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) the</span>",
+     "text": "the"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) these</span>",
+     "text": "these"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 39,
+   "heading": "",
+   "stem_html": "<p><b>Gap 3</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) for</span>",
+     "text": "for"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) at</span>",
+     "text": "at"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) on</span>",
+     "text": "on"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) of</span>",
+     "text": "of"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 40,
+   "heading": "",
+   "stem_html": "<p><b>Gap 4</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) which</span>",
+     "text": "which"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) because</span>",
+     "text": "because"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) why</span>",
+     "text": "why"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) whose</span>",
+     "text": "whose"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 41,
+   "heading": "",
+   "stem_html": "<p><b>Gap 5</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) with</span>",
+     "text": "with"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) by</span>",
+     "text": "by"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) from</span>",
+     "text": "from"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) of</span>",
+     "text": "of"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q42",
+   "number": 42,
+   "heading": "",
+   "stem_html": "<p><b>Gap 6</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) at</span>",
+     "text": "at"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) on</span>",
+     "text": "on"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) to</span>",
+     "text": "to"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) in</span>",
+     "text": "in"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q43",
+   "number": 43,
+   "heading": "",
+   "stem_html": "<p><b>Gap 7</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) if</span>",
+     "text": "if"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) when</span>",
+     "text": "when"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) while</span>",
+     "text": "while"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) until</span>",
+     "text": "until"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q44",
+   "number": 44,
+   "heading": "",
+   "stem_html": "<p><b>Gap 8</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) though</span>",
+     "text": "though"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) till</span>",
+     "text": "till"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) unless</span>",
+     "text": "unless"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) if</span>",
+     "text": "if"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q45",
+   "number": 45,
+   "heading": "",
+   "stem_html": "<p><b>Gap 9</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) their</span>",
+     "text": "their"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) theirs</span>",
+     "text": "theirs"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) its</span>",
+     "text": "its"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) his</span>",
+     "text": "his"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q46",
+   "number": 46,
+   "heading": "",
+   "stem_html": "<p><b>Gap 10</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) but</span>",
+     "text": "but"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) then</span>",
+     "text": "then"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) as</span>",
+     "text": "as"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) so</span>",
+     "text": "so"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q47",
+   "number": 47,
+   "heading": "",
+   "stem_html": "<p><b>Gap 11</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) by</span>",
+     "text": "by"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) off</span>",
+     "text": "off"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) on</span>",
+     "text": "on"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) at</span>",
+     "text": "at"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q48",
+   "number": 48,
+   "heading": "",
+   "stem_html": "<p><b>Gap 12</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) over</span>",
+     "text": "over"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) at</span>",
+     "text": "at"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) away</span>",
+     "text": "away"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) to</span>",
+     "text": "to"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 6</h3><p>Task 6: Complete the conversation. For questions 1-6, mark the correct letter A-H. Two sentences are extra. (6 points)</p><h4>At the shop</h4><p><strong>Shop assistant:</strong> Good morning, madam. How can I help you?</p><p><strong>Helen:</strong> …… (1)</p><p><strong>Shop assistant:</strong> I’m sure we can help you with that, madam. Is the gift for a gentleman or a lady?</p><p><strong>Helen:</strong> …… (2)</p><p><strong>Shop assistant:</strong> Absolutely! Let me show you these chain bracelets and we also have some lovely tie clips.</p><p><strong>Helen:</strong> …… (3)</p><p><strong>Shop assistant:</strong> Yes, they are. However, we don’t have the latest model in stock at the moment. I suppose you’d prefer the newest model, wouldn’t you, madam?</p><p><strong>Helen:</strong> …… (4)</p><p><strong>Shop assistant:</strong> That’s very true, madam. Timeless pieces never go out of style.</p><p><strong>Helen:</strong> …… (5)</p><p><strong>Shop assistant:</strong> Excellent choice, madam! I’ll have it gift-wrapped for you right away.</p><p><strong>Helen:</strong> …… (6)</p><p><strong>Shop assistant:</strong> You’re very welcome, madam. I’m sure the gentleman will be delighted with your choice.</p><div class='eng-bank'><p><strong>A)</strong> Not necessarily. I believe style is more important than fashion.</p><p><strong>B)</strong> We can offer you an excellent discount on this watch.</p><p><strong>C)</strong> Thank you so much for your help. This is exactly what I was looking for.</p><p><strong>D)</strong> I’m looking for a very special gift for a very special person.</p><p><strong>E)</strong> Yes, I’d prefer to buy something from your latest collection.</p><p><strong>F)</strong> I see. They’re beautiful indeed, but those watches over there are quite nice as well.</p><p><strong>G)</strong> A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?</p><p><strong>H)</strong> Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift.</p></div></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q49",
+   "number": 49,
+   "heading": "",
+   "stem_html": "<p><b>Gap 1</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Not necessarily. I believe style is more important than fashion.</span>",
+     "text": "Not necessarily. I believe style is more important than fashion."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) We can offer you an excellent discount on this watch.</span>",
+     "text": "We can offer you an excellent discount on this watch."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Thank you so much for your help. This is exactly what I was looking for.</span>",
+     "text": "Thank you so much for your help. This is exactly what I was looking for."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’m looking for a very special gift for a very special person.</span>",
+     "text": "I’m looking for a very special gift for a very special person."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Yes, I’d prefer to buy something from your latest collection.</span>",
+     "text": "Yes, I’d prefer to buy something from your latest collection."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) I see. They’re beautiful indeed, but those watches over there are quite nice as well.</span>",
+     "text": "I see. They’re beautiful indeed, but those watches over there are quite nice as well."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?</span>",
+     "text": "A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift.</span>",
+     "text": "Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q50",
+   "number": 50,
+   "heading": "",
+   "stem_html": "<p><b>Gap 2</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Not necessarily. I believe style is more important than fashion.</span>",
+     "text": "Not necessarily. I believe style is more important than fashion."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) We can offer you an excellent discount on this watch.</span>",
+     "text": "We can offer you an excellent discount on this watch."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Thank you so much for your help. This is exactly what I was looking for.</span>",
+     "text": "Thank you so much for your help. This is exactly what I was looking for."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’m looking for a very special gift for a very special person.</span>",
+     "text": "I’m looking for a very special gift for a very special person."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Yes, I’d prefer to buy something from your latest collection.</span>",
+     "text": "Yes, I’d prefer to buy something from your latest collection."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) I see. They’re beautiful indeed, but those watches over there are quite nice as well.</span>",
+     "text": "I see. They’re beautiful indeed, but those watches over there are quite nice as well."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?</span>",
+     "text": "A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift.</span>",
+     "text": "Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q51",
+   "number": 51,
+   "heading": "",
+   "stem_html": "<p><b>Gap 3</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Not necessarily. I believe style is more important than fashion.</span>",
+     "text": "Not necessarily. I believe style is more important than fashion."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) We can offer you an excellent discount on this watch.</span>",
+     "text": "We can offer you an excellent discount on this watch."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Thank you so much for your help. This is exactly what I was looking for.</span>",
+     "text": "Thank you so much for your help. This is exactly what I was looking for."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’m looking for a very special gift for a very special person.</span>",
+     "text": "I’m looking for a very special gift for a very special person."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Yes, I’d prefer to buy something from your latest collection.</span>",
+     "text": "Yes, I’d prefer to buy something from your latest collection."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) I see. They’re beautiful indeed, but those watches over there are quite nice as well.</span>",
+     "text": "I see. They’re beautiful indeed, but those watches over there are quite nice as well."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?</span>",
+     "text": "A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift.</span>",
+     "text": "Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q52",
+   "number": 52,
+   "heading": "",
+   "stem_html": "<p><b>Gap 4</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Not necessarily. I believe style is more important than fashion.</span>",
+     "text": "Not necessarily. I believe style is more important than fashion."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) We can offer you an excellent discount on this watch.</span>",
+     "text": "We can offer you an excellent discount on this watch."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Thank you so much for your help. This is exactly what I was looking for.</span>",
+     "text": "Thank you so much for your help. This is exactly what I was looking for."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’m looking for a very special gift for a very special person.</span>",
+     "text": "I’m looking for a very special gift for a very special person."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Yes, I’d prefer to buy something from your latest collection.</span>",
+     "text": "Yes, I’d prefer to buy something from your latest collection."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) I see. They’re beautiful indeed, but those watches over there are quite nice as well.</span>",
+     "text": "I see. They’re beautiful indeed, but those watches over there are quite nice as well."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?</span>",
+     "text": "A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift.</span>",
+     "text": "Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q53",
+   "number": 53,
+   "heading": "",
+   "stem_html": "<p><b>Gap 5</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Not necessarily. I believe style is more important than fashion.</span>",
+     "text": "Not necessarily. I believe style is more important than fashion."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) We can offer you an excellent discount on this watch.</span>",
+     "text": "We can offer you an excellent discount on this watch."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Thank you so much for your help. This is exactly what I was looking for.</span>",
+     "text": "Thank you so much for your help. This is exactly what I was looking for."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’m looking for a very special gift for a very special person.</span>",
+     "text": "I’m looking for a very special gift for a very special person."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Yes, I’d prefer to buy something from your latest collection.</span>",
+     "text": "Yes, I’d prefer to buy something from your latest collection."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) I see. They’re beautiful indeed, but those watches over there are quite nice as well.</span>",
+     "text": "I see. They’re beautiful indeed, but those watches over there are quite nice as well."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?</span>",
+     "text": "A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift.</span>",
+     "text": "Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q54",
+   "number": 54,
+   "heading": "",
+   "stem_html": "<p><b>Gap 6</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Not necessarily. I believe style is more important than fashion.</span>",
+     "text": "Not necessarily. I believe style is more important than fashion."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) We can offer you an excellent discount on this watch.</span>",
+     "text": "We can offer you an excellent discount on this watch."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Thank you so much for your help. This is exactly what I was looking for.</span>",
+     "text": "Thank you so much for your help. This is exactly what I was looking for."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’m looking for a very special gift for a very special person.</span>",
+     "text": "I’m looking for a very special gift for a very special person."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Yes, I’d prefer to buy something from your latest collection.</span>",
+     "text": "Yes, I’d prefer to buy something from your latest collection."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) I see. They’re beautiful indeed, but those watches over there are quite nice as well.</span>",
+     "text": "I see. They’re beautiful indeed, but those watches over there are quite nice as well."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?</span>",
+     "text": "A gentleman. Fine jewellery looks so elegant on a man, don’t you agree?"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift.</span>",
+     "text": "Indeed! I like this silver watch and the price is just right too. I think I’ve found the perfect gift."
+    }
+   ],
+   "correct": ""
+  }
+ ]
+}

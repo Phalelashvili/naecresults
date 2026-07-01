@@ -13,7 +13,7 @@ import {
   decodeShareUrl, encodeShareUrl, genId,
 } from "./types";
 
-const AVAILABLE_YEARS = ["2025"];
+const AVAILABLE_YEARS = ["2025", "2024", "2023", "2022", "2021", "2020"];
 const GITHUB_URL = "https://github.com/phalelashvili/naecresults";
 
 const GithubIcon = () => (
@@ -491,7 +491,7 @@ export default function App() {
   return (
     <div className="results-root flex flex-col overflow-hidden">
       {/* Results page toolbar — controls live in the page, not the global nav */}
-      <div className="results-toolbar flex items-center gap-3 shrink-0">
+      <div className="results-toolbar flex flex-wrap items-center gap-2 sm:gap-3 shrink-0">
         {AVAILABLE_YEARS.length > 1 && (
           <select value={year} onChange={(e) => setYear(e.target.value)} className="border border-gray-200 rounded-md px-2 py-1 text-sm">
             {AVAILABLE_YEARS.map((y) => <option key={y} value={y}>{y}</option>)}
@@ -499,8 +499,8 @@ export default function App() {
         )}
 
         <span className="text-sm font-semibold text-gray-700 whitespace-nowrap">ჩარიცხვები {year}</span>
-        <div className="flex-1" />
 
+        <div className="flex flex-wrap items-center gap-1.5 sm:gap-2 ml-auto">
         <div className="flex items-center gap-1 border border-gray-200 rounded-lg p-0.5">
           <button
             className={`px-2.5 py-1 rounded-md text-xs font-medium transition-colors ${activeView === "all" ? "bg-gray-100 text-gray-800" : "text-gray-500 hover:bg-gray-50"}`}
@@ -541,6 +541,7 @@ export default function App() {
         <button className={`btn ${showListPanel ? "btn-primary" : "btn-ghost"} text-xs`} onClick={() => setShowListPanel(!showListPanel)}>
           &#x1F4CB; სიები
         </button>
+        </div>
       </div>
 
       {/* Shared state banner */}

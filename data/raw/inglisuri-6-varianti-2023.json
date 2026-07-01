@@ -1,0 +1,2571 @@
+{
+ "slug": "inglisuri-6-varianti-2023",
+ "url": "https://naec.ge/uploads/postData/20-23/%E1%83%94%E1%83%A0%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%98%20%E1%83%94%E1%83%A0%E1%83%9D%E1%83%95%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98%20%E1%83%92%E1%83%90%E1%83%9B%E1%83%9D%E1%83%AA%E1%83%93%E1%83%94%E1%83%91%E1%83%98%20-%20%E1%83%A2%E1%83%94%E1%83%A1%E1%83%A2%E1%83%94%E1%83%91%E1%83%98/%E1%83%93%E1%83%90%E1%83%9B%E1%83%90%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%97%E1%83%94%E1%83%91%E1%83%98%20%E1%83%93%E1%83%90%20%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A0%E1%83%90%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%90/%E1%83%98%E1%83%9C%E1%83%92.%20%E1%83%90%E1%83%91%E1%83%98%E1%83%A2.%20%20%E1%83%93%E1%83%90%E1%83%9B%E1%83%90%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%97%E1%83%98.pdf",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2023,
+ "variant": 6,
+ "kind": "test",
+ "title": "ინგლისური ენა — 2023 წელი, ვარიანტი 6",
+ "num_questions": 54,
+ "num_content_blocks": 0,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 1</h3><p>Listen to the text and for each question mark the correct answer A, B, C or D. You now have 40 seconds to look through the task. You will then hear the recording twice. (8 points)</p></div>"
+  },
+  {
+   "kind": "content",
+   "html": "<div><audio src=\"listening.mp3\"></audio></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "<p>The speaker says that Billerton House was</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) built in the fifteenth century.</span>",
+     "text": "built in the fifteenth century."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) located in the centre of the city.</span>",
+     "text": "located in the centre of the city."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) often visited by celebrities.</span>",
+     "text": "often visited by celebrities."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) reconstructed by Sir Edward Talbot.</span>",
+     "text": "reconstructed by Sir Edward Talbot."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "",
+   "stem_html": "<p>What happened in the 1660s in Billerton House?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) They changed the big hall.</span>",
+     "text": "They changed the big hall."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) They organised horse races there.</span>",
+     "text": "They organised horse races there."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) King Charles II attended a literary party.</span>",
+     "text": "King Charles II attended a literary party."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) They invited foreign poets and novelists.</span>",
+     "text": "They invited foreign poets and novelists."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "",
+   "stem_html": "<p>What does the speaker say about the staircase?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) It's made of stone.</span>",
+     "text": "It's made of stone."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) It has a spiral form.</span>",
+     "text": "It has a spiral form."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) It's closed to visitors.</span>",
+     "text": "It's closed to visitors."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) It's completely covered with a cloth.</span>",
+     "text": "It's completely covered with a cloth."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "",
+   "stem_html": "<p>What does the speaker say about the Adamson fashion collection?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) It has thousands of fashion items.</span>",
+     "text": "It has thousands of fashion items."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) It hasn't grown since 1978.</span>",
+     "text": "It hasn't grown since 1978."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) It displays only a few items.</span>",
+     "text": "It displays only a few items."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) It's a temporary collection.</span>",
+     "text": "It's a temporary collection."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "",
+   "stem_html": "<p>Which of the following is closed to visitors?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) The garden with roses.</span>",
+     "text": "The garden with roses."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) The gallery of local artists.</span>",
+     "text": "The gallery of local artists."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) The orchard with plum trees.</span>",
+     "text": "The orchard with plum trees."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) The garden with aromatic herbs.</span>",
+     "text": "The garden with aromatic herbs."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "",
+   "stem_html": "<p>At Billerton Gallery people can</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) take art classes.</span>",
+     "text": "take art classes."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) attend talks by artists.</span>",
+     "text": "attend talks by artists."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) meet Sharon Winston.</span>",
+     "text": "meet Sharon Winston."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) enjoy the riverside view.</span>",
+     "text": "enjoy the riverside view."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "",
+   "stem_html": "<p>What is Rackham Row?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) The name of the river.</span>",
+     "text": "The name of the river."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Cottages for potters.</span>",
+     "text": "Cottages for potters."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Objects made of clay.</span>",
+     "text": "Objects made of clay."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) The name of the bridge.</span>",
+     "text": "The name of the bridge."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "",
+   "stem_html": "<p>Today the old water mill is used</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) for keeping modern tools.</span>",
+     "text": "for keeping modern tools."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) for keeping water.</span>",
+     "text": "for keeping water."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) as an exhibition space.</span>",
+     "text": "as an exhibition space."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) as a fish farm.</span>",
+     "text": "as a fish farm."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 2</h3><p>Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. (8 points)</p><h4>The Mozart Effect</h4><p><strong>A)</strong> Music is not just entertainment. It is a universal language of emotional expression and no matter where we come from, each of us has experienced the power of music. That's because music has a strong effect on the human mind. We have all felt it before. It helps us relax, it improves our mood and heals our broken hearts, it stimulates our creativity and brings inspiration. But what's the science behind all of this? One of the most popular scientific theories surrounding music is the Mozart Effect - the idea that listening to Wolfgang Amadeus Mozart's music can increase your general intelligence or IQ - a standard score that assesses human intelligence.</p><p><strong>B)</strong> The idea of the Mozart Effect began in 1993 with a study conducted by a group of scientists at the University of California. They claimed that teenagers, who listened to Mozart's Sonata for Two Pianos in D Major for 10 minutes, performed better in some tests than other young people who listened to some other music or no music at all. At the time, however, the study caused serious disagreement. Many scientists were skeptical about the results because only 36 college students took part in the study and it was impossible to repeat it successfully. There was very little information suggesting that listening to Mozart actually could make you smarter.</p><p><strong>C)</strong> This didn't stop the media making the Mozart Effect a big news story and soon the Mozart Effect became a great public sensation. It wasn't long before American parents were playing Mozart's Sonata to their children, believing that they would become more intelligent adults. Back in 1998, the Governor of the US state of Georgia was so enthusiastic that he even started a programme to distribute a free Mozart CD to every newborn baby in his state and in Florida a law made it compulsory to play classical music in child day-care centres.</p><p><strong>D)</strong> However, researchers at the University of Vienna have now published the results of another study of the so-called Mozart Effect in the US journal called Intelligence. In this new study they looked at the results of more than 3,000 individuals in 40 other studies from around the world. The results are very clear. There is no evidence that listening to Mozart's Sonata increases the ability to perform specific tasks. Jakob Pietschnig, who led the new study, found that the young people who listened to music performed better than the group who worked in silence because people generally perform better if they are doing something they enjoy at the same time.</p><p><strong>E)</strong> According to the study, the effect of music is determined by the kind of music we like and not specifically by Mozart's music. In fact, any type of your favourite music, such as jazz, blues or even rock music, may produce similar results, because when we feel good, we all perform better. The research showed that listening to music activates your entire brain and even though there aren't many activities that make your whole brain light up, listening to music is definitely one of them. When you listen to music, there's not a single part of your brain that isn't activated. So, if you want a full brain workout, simply put on your favourite song.</p><p><strong>F)</strong> It's good to know that we can benefit from listening to different types of music. Life would be very boring if we could only listen to Mozart's Sonata for Two Pianos in D Major 24 hours a day. But hold on, there is still one way Mozart could make a big difference to your brain power. What you need to do is to learn to play his piano compositions and not just listen to his music. According to a Canadian scientist Jessica Grahn's study, a year of piano classes in Mozart's sonatas, combined with regular practice, could increase your IQ by as much as three points. So, music does increase intelligence, but unfortunately it takes quite a bit more effort than simply listening to Mozart.</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "",
+   "stem_html": "<p>Which paragraph says that the Mozart Effect gained great popularity in the USA?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "",
+   "stem_html": "<p>Which paragraph mentions when the Mozart Effect started?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "",
+   "stem_html": "<p>Which paragraph mentions the types of music which can positively affect the listener?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "",
+   "stem_html": "<p>Which paragraph explains the reason why many scientists didn't trust the research findings?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "",
+   "stem_html": "<p>Which paragraph lists several benefits that listening to music brings to listeners?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "",
+   "stem_html": "<p>Which paragraph states that learning to play Mozart's music can make you smarter?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "",
+   "stem_html": "<p>Which paragraph could have the title: 'The reliable results of the new study'?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "",
+   "stem_html": "<p>Which paragraph could have the title: 'Music stimulates all areas of the brain'?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 3</h3><p>Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). (8 points)</p><h4>This is a true story told by Cristiano Ronaldo, one of the greatest football players of all time.</h4><p>'I was born on February 5th, 1985 in Santo António on the island of Madeira - a small but beautiful Portuguese island. My father was a city gardener and my mother was a cook. We lived in a tiny flat with no electricity, where I shared a room with my elder brother Hugo and two elder sisters, Elma and Katia. The family had nothing, I grew up with nothing and we were very poor. I had no toys and no Christmas presents. So I quickly began using football as an escape. I made friends and played football with them in the street. I was completely happy doing that every day but my father kept encouraging me to go and play for Andorinha youth club. I knew it would make him really proud, so at the age of seven I joined the club. On the first day there were a lot of rules that I didn't understand but I loved it. Soon I got addicted to the game and the feeling of winning. But that happy time of my life turned out to be short. Football gave me everything but it also took me far away from home before I was ready for it.</p><p>At the age of eleven I left Madeira and moved to Lisbon, the capital of Portugal, to join Sporting Youth Academy. It was very traumatic to leave my family, but it was my only opportunity to make my dream of becoming a footballer come true. This was the start of a long road full of challenges. I was still in Portugal but it was like moving to another country with a completely different culture. The other boys in the academy made fun of my Madeiran accent. I felt lonely and missed my family so much that I cried almost every day. But no matter how bad things got, football kept me going. I knew I was doing things on the field that the other kids at the Academy couldn't do. Everybody noticed my talent but they also said that I was very small and skinny. And it was true, I was skinny. I had no muscle. So at eleven I decided that I was going to work harder than everybody. I was going to stop playing like a kid. I was going to stop acting like a kid. I was going to train like I could be the best in the world. I started going to the gym late at night, so that nobody knew about it. Soon I got bigger, stronger and faster. Then, while I was playing for Sporting Lisbon, at the age of fifteen, my career almost ended before it began. Doctors discovered that I had a heart condition that unfortunately made my heart beat too fast even when I was not running or playing. There was a risk that I'd have to give up playing football. I had to undergo heart surgery that successfully fixed the problem and just a few days later I returned to training.</p><p>I started playing professionally at seventeen. I had big dreams - I wanted to play for the national team and I wanted to play for Manchester United - one of England's most successful football clubs ever. So when I became a player for Manchester United, it was a very proud moment for me. I believed in myself and I knew I would succeed. I spent six amazing seasons at Manchester United and then I went on to play for Real Madrid and later for Juventus. Over the past 20 years I've achieved a lot. But I'll never forget that before the glory, before the money, before the goals and the awards my early life was filled with struggles. I did, however, prove to the entire world that despite your origins or your social class it's possible to make your dreams come true.'</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 17,
+   "heading": "",
+   "stem_html": "<p>What is the text mostly about?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) A promising young footballer.</span>",
+     "text": "A promising young footballer."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) The most successful football clubs.</span>",
+     "text": "The most successful football clubs."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) A man who made his dream a reality.</span>",
+     "text": "A man who made his dream a reality."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) A football player's health problems.</span>",
+     "text": "A football player's health problems."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 18,
+   "heading": "",
+   "stem_html": "<p>Which is true about Cristiano Ronaldo?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) He grew up in poverty.</span>",
+     "text": "He grew up in poverty."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) His father made him play football.</span>",
+     "text": "His father made him play football."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) He was the eldest child in the family.</span>",
+     "text": "He was the eldest child in the family."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) He joined Andorinha youth club at eleven.</span>",
+     "text": "He joined Andorinha youth club at eleven."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 19,
+   "heading": "",
+   "stem_html": "<p>Ronaldo thinks that leaving his home at age eleven was</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) the wrong decision.</span>",
+     "text": "the wrong decision."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) the easiest thing to do.</span>",
+     "text": "the easiest thing to do."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) his chance to follow his dream.</span>",
+     "text": "his chance to follow his dream."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) a great opportunity to move to Lisbon.</span>",
+     "text": "a great opportunity to move to Lisbon."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 20,
+   "heading": "",
+   "stem_html": "<p>At Sporting Youth Academy Ronaldo had a hard time because</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) he missed his family.</span>",
+     "text": "he missed his family."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) he was in a foreign country.</span>",
+     "text": "he was in a foreign country."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) everybody made fun of his family.</span>",
+     "text": "everybody made fun of his family."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) he was not as good as the other kids.</span>",
+     "text": "he was not as good as the other kids."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 21,
+   "heading": "",
+   "stem_html": "<p>The text says that doctors</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) failed to fix Ronaldo's health problem.</span>",
+     "text": "failed to fix Ronaldo's health problem."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) diagnosed Ronaldo with a heart problem.</span>",
+     "text": "diagnosed Ronaldo with a heart problem."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) made Ronaldo give up playing football.</span>",
+     "text": "made Ronaldo give up playing football."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) put an end to Ronaldo's successful career.</span>",
+     "text": "put an end to Ronaldo's successful career."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 22,
+   "heading": "",
+   "stem_html": "<p>When Ronaldo joined Manchester United he felt</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) generous.</span>",
+     "text": "generous."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) shocked.</span>",
+     "text": "shocked."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) nervous.</span>",
+     "text": "nervous."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) confident.</span>",
+     "text": "confident."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 23,
+   "heading": "",
+   "stem_html": "<p>Ronaldo showed the world that you can achieve success</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) only after twenty years of experience.</span>",
+     "text": "only after twenty years of experience."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) no matter where you come from.</span>",
+     "text": "no matter where you come from."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) only if you are born into a rich family.</span>",
+     "text": "only if you are born into a rich family."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) when you play for famous football clubs.</span>",
+     "text": "when you play for famous football clubs."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 24,
+   "heading": "",
+   "stem_html": "<p>Which of the following would be the best title for the text?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Unfulfilled dreams of a football star</span>",
+     "text": "Unfulfilled dreams of a football star"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Football career opportunities</span>",
+     "text": "Football career opportunities"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Sad memories</span>",
+     "text": "Sad memories"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) An inspiring life story</span>",
+     "text": "An inspiring life story"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 4</h3><p>Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points)</p><h4>Thames Town</h4><p>Thames Town is a new residential district 30 km from central Shanghai, Hong Kong. It was built by the building company Hong Kong Housing. Thames Town was planned so that its (1) wouldn't be more than 15 million people. This suburb (2) from other parts of Shanghai. Thames Town is a little piece of England. The manager of Hong Kong Housing said that many people in this (3) of China wanted to buy an English house and live in an English town. 'This town is like Bristol or Chester. There is an English square and there are (4) to feed like in Trafalgar Square, London. There are four English-style (5), where you can buy English beer to drink. There is a canal and you can (6) a boat there, like in Cambridge.' If you ask if there are any cricket fields there, the answer is 'No', as nobody in Shanghai knows how to play this (7). But there is a football stadium (8) those in England. And the thing the developers are very (9) of is the shopping street. There are several shops where you can buy traditional English (10), like fish and chips or Christmas Pudding. The rich Shanghai businessman can even do some gardening. Thames Town has an English lawn in front of every house, and gardens with ponds and tall bushes. Sadly, only Shanghai's elite can (11) a house in this part of town as it's very (12). And that's the problem!</p><p class='eng-bank'><strong>A)</strong> afford, <strong>B)</strong> area, <strong>C)</strong> canal, <strong>D)</strong> differs, <strong>E)</strong> expensive, <strong>F)</strong> food, <strong>G)</strong> game, <strong>H)</strong> like, <strong>I)</strong> pigeons, <strong>J)</strong> population, <strong>K)</strong> proud, <strong>L)</strong> pubs, <strong>M)</strong> row, <strong>N)</strong> station</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 25,
+   "heading": "",
+   "stem_html": "<p><b>Gap 1</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 26,
+   "heading": "",
+   "stem_html": "<p><b>Gap 2</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 27,
+   "heading": "",
+   "stem_html": "<p><b>Gap 3</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 28,
+   "heading": "",
+   "stem_html": "<p><b>Gap 4</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 29,
+   "heading": "",
+   "stem_html": "<p><b>Gap 5</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 30,
+   "heading": "",
+   "stem_html": "<p><b>Gap 6</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 31,
+   "heading": "",
+   "stem_html": "<p><b>Gap 7</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 32,
+   "heading": "",
+   "stem_html": "<p><b>Gap 8</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 33,
+   "heading": "",
+   "stem_html": "<p><b>Gap 9</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 34,
+   "heading": "",
+   "stem_html": "<p><b>Gap 10</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 35,
+   "heading": "",
+   "stem_html": "<p><b>Gap 11</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 36,
+   "heading": "",
+   "stem_html": "<p><b>Gap 12</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) afford</span>",
+     "text": "afford"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) area</span>",
+     "text": "area"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) canal</span>",
+     "text": "canal"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) differs</span>",
+     "text": "differs"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) expensive</span>",
+     "text": "expensive"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) food</span>",
+     "text": "food"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) game</span>",
+     "text": "game"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) like</span>",
+     "text": "like"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) pigeons</span>",
+     "text": "pigeons"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) population</span>",
+     "text": "population"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) proud</span>",
+     "text": "proud"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) pubs</span>",
+     "text": "pubs"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) row</span>",
+     "text": "row"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) station</span>",
+     "text": "station"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 5</h3><p>Read the text and mark the correct choice A, B, C or D. (12 points)</p><h4>Dolphins</h4><p>Dolphins are the friendliest creatures of the sea. Stories, in (1) dolphins help drowning sailors, have been common (2) Roman times. Dolphins are incredibly social animals. They live in groups and cooperate with each other to get food and raise (3) baby-dolphins. Dolphins are extremely playful (4) curious animals. They play not only with seaweed (5) also with one another. Scientists have found evidence that dolphins' community is more complex (6) it was previously thought. Dolphins are extremely social mammals that look (7) the old, sick and injured (8) their community. Some scientists think (9) dolphins have a language but it is much more probable that they communicate with each other without words. Dolphins rest motionless (10) the surface of the water, breathing regularly. While resting, dolphins keep an eye open to watch out (11) danger. To find food and choose correct direction dolphins use (12) technique called 'echolocation'. In this case echolocation acts as a natural version of radar. It also allows dolphins to hunt, identify friends and enemies.</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 37,
+   "heading": "",
+   "stem_html": "<p><b>Gap 1</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) why</span>",
+     "text": "why"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) which</span>",
+     "text": "which"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) where</span>",
+     "text": "where"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) whose</span>",
+     "text": "whose"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 38,
+   "heading": "",
+   "stem_html": "<p><b>Gap 2</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) because</span>",
+     "text": "because"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) as</span>",
+     "text": "as"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) since</span>",
+     "text": "since"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) for</span>",
+     "text": "for"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 39,
+   "heading": "",
+   "stem_html": "<p><b>Gap 3</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) their</span>",
+     "text": "their"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) its</span>",
+     "text": "its"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) theirs</span>",
+     "text": "theirs"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) this</span>",
+     "text": "this"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 40,
+   "heading": "",
+   "stem_html": "<p><b>Gap 4</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) or</span>",
+     "text": "or"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) and</span>",
+     "text": "and"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) either</span>",
+     "text": "either"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) neither</span>",
+     "text": "neither"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 41,
+   "heading": "",
+   "stem_html": "<p><b>Gap 5</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) to</span>",
+     "text": "to"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) or</span>",
+     "text": "or"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) and</span>",
+     "text": "and"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) but</span>",
+     "text": "but"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q42",
+   "number": 42,
+   "heading": "",
+   "stem_html": "<p><b>Gap 6</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) then</span>",
+     "text": "then"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) than</span>",
+     "text": "than"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) that</span>",
+     "text": "that"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) though</span>",
+     "text": "though"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q43",
+   "number": 43,
+   "heading": "",
+   "stem_html": "<p><b>Gap 7</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) at</span>",
+     "text": "at"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) for</span>",
+     "text": "for"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) into</span>",
+     "text": "into"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) after</span>",
+     "text": "after"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q44",
+   "number": 44,
+   "heading": "",
+   "stem_html": "<p><b>Gap 8</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) with</span>",
+     "text": "with"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) at</span>",
+     "text": "at"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) on</span>",
+     "text": "on"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q45",
+   "number": 45,
+   "heading": "",
+   "stem_html": "<p><b>Gap 9</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) which</span>",
+     "text": "which"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) that</span>",
+     "text": "that"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) what</span>",
+     "text": "what"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) then</span>",
+     "text": "then"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q46",
+   "number": 46,
+   "heading": "",
+   "stem_html": "<p><b>Gap 10</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) on</span>",
+     "text": "on"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) to</span>",
+     "text": "to"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) with</span>",
+     "text": "with"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q47",
+   "number": 47,
+   "heading": "",
+   "stem_html": "<p><b>Gap 11</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) on</span>",
+     "text": "on"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) at</span>",
+     "text": "at"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) for</span>",
+     "text": "for"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) to</span>",
+     "text": "to"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q48",
+   "number": 48,
+   "heading": "",
+   "stem_html": "<p><b>Gap 12</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) a</span>",
+     "text": "a"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) an</span>",
+     "text": "an"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) that</span>",
+     "text": "that"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) its</span>",
+     "text": "its"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 6</h3><p>Complete the conversation. For questions 1-6, mark the correct letter A-H. Two sentences are extra. (6 points)</p><h4>Friends talking</h4><p><strong>Meg:</strong> Hi Paula! You look so tired. Why? Have you been ill?</p><p><strong>Paula:</strong> No, not that. It's just that trip to Paris. It was a nightmare!</p><p><strong>Meg:</strong> (1)</p><p><strong>Paula:</strong> No wonder I was so excited myself. Now I wish we'd just stayed at home.</p><p><strong>Meg:</strong> (2)</p><p><strong>Paula:</strong> Absolutely everything! To start with, in Dover it turned out that the ferry terminal workers had gone on strike and we had to wait over eight hours before we could board a ferry.</p><p><strong>Meg:</strong> (3)</p><p><strong>Paula:</strong> Of course, it was very frustrating. But that's not all! During the passage the weather turned stormy and I was terribly seasick all the way across the Channel.</p><p><strong>Meg:</strong> (4)</p><p><strong>Paula:</strong> Me too. But to make matters worse, our hotel room in Paris turned out to be terribly noisy. It was pouring with rain most of the time and some of the galleries I wanted to visit were closed.</p><p><strong>Meg:</strong> (5)</p><p><strong>Paula:</strong> We decided to shorten our stay and left after just two days.</p><p><strong>Meg:</strong> (6)</p><p><strong>Paula:</strong> Thanks.</p><div class='eng-bank'><p><strong>A)</strong> What was so bad about it?</p><p><strong>B)</strong> Unbelievable! So, what did you do then?</p><p><strong>C)</strong> Of course, I do! You should have stayed at home!</p><p><strong>D)</strong> So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!</p><p><strong>E)</strong> Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it.</p><p><strong>F)</strong> Really? You must be joking! When you told me you were going there, I was green with envy.</p><p><strong>G)</strong> That sounds awful! I don't like going to galleries either.</p><p><strong>H)</strong> Oh no! Such a long delay must have been very annoying!</p></div></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q49",
+   "number": 49,
+   "heading": "",
+   "stem_html": "<p><b>Gap 1</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) What was so bad about it?</span>",
+     "text": "What was so bad about it?"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Unbelievable! So, what did you do then?</span>",
+     "text": "Unbelievable! So, what did you do then?"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Of course, I do! You should have stayed at home!</span>",
+     "text": "Of course, I do! You should have stayed at home!"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!</span>",
+     "text": "So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it.</span>",
+     "text": "Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Really? You must be joking! When you told me you were going there, I was green with envy.</span>",
+     "text": "Really? You must be joking! When you told me you were going there, I was green with envy."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) That sounds awful! I don't like going to galleries either.</span>",
+     "text": "That sounds awful! I don't like going to galleries either."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Oh no! Such a long delay must have been very annoying!</span>",
+     "text": "Oh no! Such a long delay must have been very annoying!"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q50",
+   "number": 50,
+   "heading": "",
+   "stem_html": "<p><b>Gap 2</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) What was so bad about it?</span>",
+     "text": "What was so bad about it?"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Unbelievable! So, what did you do then?</span>",
+     "text": "Unbelievable! So, what did you do then?"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Of course, I do! You should have stayed at home!</span>",
+     "text": "Of course, I do! You should have stayed at home!"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!</span>",
+     "text": "So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it.</span>",
+     "text": "Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Really? You must be joking! When you told me you were going there, I was green with envy.</span>",
+     "text": "Really? You must be joking! When you told me you were going there, I was green with envy."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) That sounds awful! I don't like going to galleries either.</span>",
+     "text": "That sounds awful! I don't like going to galleries either."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Oh no! Such a long delay must have been very annoying!</span>",
+     "text": "Oh no! Such a long delay must have been very annoying!"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q51",
+   "number": 51,
+   "heading": "",
+   "stem_html": "<p><b>Gap 3</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) What was so bad about it?</span>",
+     "text": "What was so bad about it?"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Unbelievable! So, what did you do then?</span>",
+     "text": "Unbelievable! So, what did you do then?"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Of course, I do! You should have stayed at home!</span>",
+     "text": "Of course, I do! You should have stayed at home!"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!</span>",
+     "text": "So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it.</span>",
+     "text": "Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Really? You must be joking! When you told me you were going there, I was green with envy.</span>",
+     "text": "Really? You must be joking! When you told me you were going there, I was green with envy."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) That sounds awful! I don't like going to galleries either.</span>",
+     "text": "That sounds awful! I don't like going to galleries either."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Oh no! Such a long delay must have been very annoying!</span>",
+     "text": "Oh no! Such a long delay must have been very annoying!"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q52",
+   "number": 52,
+   "heading": "",
+   "stem_html": "<p><b>Gap 4</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) What was so bad about it?</span>",
+     "text": "What was so bad about it?"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Unbelievable! So, what did you do then?</span>",
+     "text": "Unbelievable! So, what did you do then?"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Of course, I do! You should have stayed at home!</span>",
+     "text": "Of course, I do! You should have stayed at home!"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!</span>",
+     "text": "So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it.</span>",
+     "text": "Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Really? You must be joking! When you told me you were going there, I was green with envy.</span>",
+     "text": "Really? You must be joking! When you told me you were going there, I was green with envy."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) That sounds awful! I don't like going to galleries either.</span>",
+     "text": "That sounds awful! I don't like going to galleries either."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Oh no! Such a long delay must have been very annoying!</span>",
+     "text": "Oh no! Such a long delay must have been very annoying!"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q53",
+   "number": 53,
+   "heading": "",
+   "stem_html": "<p><b>Gap 5</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) What was so bad about it?</span>",
+     "text": "What was so bad about it?"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Unbelievable! So, what did you do then?</span>",
+     "text": "Unbelievable! So, what did you do then?"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Of course, I do! You should have stayed at home!</span>",
+     "text": "Of course, I do! You should have stayed at home!"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!</span>",
+     "text": "So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it.</span>",
+     "text": "Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Really? You must be joking! When you told me you were going there, I was green with envy.</span>",
+     "text": "Really? You must be joking! When you told me you were going there, I was green with envy."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) That sounds awful! I don't like going to galleries either.</span>",
+     "text": "That sounds awful! I don't like going to galleries either."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Oh no! Such a long delay must have been very annoying!</span>",
+     "text": "Oh no! Such a long delay must have been very annoying!"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q54",
+   "number": 54,
+   "heading": "",
+   "stem_html": "<p><b>Gap 6</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) What was so bad about it?</span>",
+     "text": "What was so bad about it?"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Unbelievable! So, what did you do then?</span>",
+     "text": "Unbelievable! So, what did you do then?"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Of course, I do! You should have stayed at home!</span>",
+     "text": "Of course, I do! You should have stayed at home!"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!</span>",
+     "text": "So soon? Well, it's no surprise you're so disappointed with your holiday. Better luck next time!"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it.</span>",
+     "text": "Poor you! I know it's a terrible feeling. I've experienced it many times at sea. I hate it."
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Really? You must be joking! When you told me you were going there, I was green with envy.</span>",
+     "text": "Really? You must be joking! When you told me you were going there, I was green with envy."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) That sounds awful! I don't like going to galleries either.</span>",
+     "text": "That sounds awful! I don't like going to galleries either."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) Oh no! Such a long delay must have been very annoying!</span>",
+     "text": "Oh no! Such a long delay must have been very annoying!"
+    }
+   ],
+   "correct": ""
+  }
+ ]
+}

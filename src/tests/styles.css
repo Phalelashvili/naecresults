@@ -429,6 +429,9 @@ h1, h2, h3 { line-height: 1.25; margin: 0 0 .5em; font-weight: 700; }
 .q-stem p { margin: 0 0 .5em; }
 .q-figure { max-width: 100%; height: auto; display: block; margin: 12px 0; border-radius: 10px; border: 1px solid var(--border); background: #fff; }
 
+/* English reading-task word/sentence banks (Task 4 / Task 6) */
+.eng-bank { margin: 10px 0; padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface-2, rgba(0,0,0,0.02)); font-size: 0.95em; line-height: 1.7; }
+
 .q-options { display: grid; gap: 10px; }
 .opt {
   display: flex; align-items: center; gap: 12px; text-align: left;
@@ -671,6 +674,22 @@ h1, h2, h3 { line-height: 1.25; margin: 0 0 .5em; font-weight: 700; }
 .pb-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
 .pb-chip { text-align: left; border: 1px solid var(--border); background: var(--surface-2); border-radius: 10px; padding: 7px 11px; font: inherit; font-size: .9rem; color: var(--text); cursor: pointer; transition: all .12s ease; }
 .pb-chip:hover { border-color: #7c3aed; background: #faf8ff; transform: translateY(-1px); }
+
+/* rating scheme (per-test scoring breakdown) */
+.rating-scheme { border: 1px solid var(--border); border-radius: 12px; background: var(--surface); margin: 14px 0; overflow: hidden; }
+.rating-scheme > summary { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 12px 14px; cursor: pointer; font-weight: 700; list-style: none; background: var(--surface-2); }
+.rating-scheme > summary::-webkit-details-marker { display: none; }
+.rating-scheme[open] > summary { border-bottom: 1px solid var(--border); }
+.rs-total { flex: none; color: var(--accent); font-size: .9rem; background: var(--accent-weak); padding: 3px 11px; border-radius: 999px; }
+.rs-table { width: 100%; border-collapse: collapse; }
+.rs-table td { padding: 10px 14px; border-bottom: 1px solid var(--border); vertical-align: top; }
+.rs-name { font-weight: 600; font-size: .92rem; }
+.rs-note { font-weight: 400; font-size: .82rem; color: var(--muted); margin-top: 3px; line-height: 1.5; }
+.rs-pts { text-align: right; white-space: nowrap; font-weight: 700; color: var(--accent); }
+.rs-sum td { font-weight: 800; border-bottom: none; background: var(--surface-2); }
+.rs-foot { padding: 10px 14px; font-size: .82rem; color: var(--muted); line-height: 1.55; border-bottom: 1px solid var(--border); }
+.rs-pdf { display: inline-block; margin: 11px 14px; font-size: .86rem; color: var(--accent); text-decoration: none; }
+.rs-pdf:hover { text-decoration: underline; }
 
 /* rubric */
 .rubric-top { display: flex; align-items: baseline; justify-content: space-between; font-weight: 700; margin-bottom: 10px; }

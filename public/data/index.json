@@ -24,6 +24,18 @@
 "hasAudio": false
 },
 {
+"slug": "matematika-3-varianti-2025",
+"subject": "math",
+"subjectKa": "მათემატიკა",
+"year": 2025,
+"variant": 3,
+"kind": "test",
+"title": "მათემატიკა — 2025 წელი, ვარიანტი 3",
+"numQuestions": 41,
+"numOpen": 4,
+"hasAudio": false
+},
+{
 "slug": "matematika-1-varianti-2024",
 "subject": "math",
 "subjectKa": "მათემატიკა",
@@ -48,6 +60,18 @@
 "hasAudio": false
 },
 {
+"slug": "matematika-3-varianti-2024",
+"subject": "math",
+"subjectKa": "მათემატიკა",
+"year": 2024,
+"variant": 3,
+"kind": "test",
+"title": "მათემატიკა — 2024 წელი, ვარიანტი 3",
+"numQuestions": 41,
+"numOpen": 4,
+"hasAudio": false
+},
+{
 "slug": "matematika-1-varianti-2023",
 "subject": "math",
 "subjectKa": "მათემატიკა",
@@ -67,6 +91,18 @@
 "variant": 2,
 "kind": "test",
 "title": "მათემატიკა — 2023 წელი, ვარიანტი 2",
+"numQuestions": 41,
+"numOpen": 4,
+"hasAudio": false
+},
+{
+"slug": "matematika-3-varianti-2023",
+"subject": "math",
+"subjectKa": "მათემატიკა",
+"year": 2023,
+"variant": 3,
+"kind": "test",
+"title": "მათემატიკა — 2023 წელი, ვარიანტი 3",
 "numQuestions": 41,
 "numOpen": 4,
 "hasAudio": false
@@ -216,6 +252,18 @@
 "hasAudio": false
 },
 {
+"slug": "qartuli-2025-5-varianti",
+"subject": "georgian",
+"subjectKa": "ქართული ენა და ლიტერატურა",
+"year": 2025,
+"variant": 5,
+"kind": "test",
+"title": "ქართული ენა და ლიტერატურა — 2025 წელი, ვარიანტი 5",
+"numQuestions": 22,
+"numOpen": 2,
+"hasAudio": false
+},
+{
 "slug": "qartuli-2024-1-varianti",
 "subject": "georgian",
 "subjectKa": "ქართული ენა და ლიტერატურა",
@@ -264,6 +312,30 @@
 "hasAudio": false
 },
 {
+"slug": "qartuli-2024-5-varianti",
+"subject": "georgian",
+"subjectKa": "ქართული ენა და ლიტერატურა",
+"year": 2024,
+"variant": 5,
+"kind": "test",
+"title": "ქართული ენა და ლიტერატურა — 2024 წელი, ვარიანტი 5",
+"numQuestions": 22,
+"numOpen": 2,
+"hasAudio": false
+},
+{
+"slug": "qartuli-2024-6-varianti",
+"subject": "georgian",
+"subjectKa": "ქართული ენა და ლიტერატურა",
+"year": 2024,
+"variant": 6,
+"kind": "test",
+"title": "ქართული ენა და ლიტერატურა — 2024 წელი, ვარიანტი 6",
+"numQuestions": 22,
+"numOpen": 2,
+"hasAudio": false
+},
+{
 "slug": "qartuli-2023-1-varianti",
 "subject": "georgian",
 "subjectKa": "ქართული ენა და ლიტერატურა",
@@ -307,6 +379,30 @@
 "variant": 4,
 "kind": "test",
 "title": "ქართული ენა და ლიტერატურა — 2023 წელი, ვარიანტი 4",
+"numQuestions": 22,
+"numOpen": 2,
+"hasAudio": false
+},
+{
+"slug": "qartuli-2023-5-varianti",
+"subject": "georgian",
+"subjectKa": "ქართული ენა და ლიტერატურა",
+"year": 2023,
+"variant": 5,
+"kind": "test",
+"title": "ქართული ენა და ლიტერატურა — 2023 წელი, ვარიანტი 5",
+"numQuestions": 22,
+"numOpen": 2,
+"hasAudio": false
+},
+{
+"slug": "qartuli-2023-6-varianti",
+"subject": "georgian",
+"subjectKa": "ქართული ენა და ლიტერატურა",
+"year": 2023,
+"variant": 6,
+"kind": "test",
+"title": "ქართული ენა და ლიტერატურა — 2023 წელი, ვარიანტი 6",
 "numQuestions": 22,
 "numOpen": 2,
 "hasAudio": false
@@ -432,6 +528,18 @@
 "hasAudio": true
 },
 {
+"slug": "inglisuri-5-varianti-2025",
+"subject": "english",
+"subjectKa": "ინგლისური ენა",
+"year": 2025,
+"variant": 5,
+"kind": "test",
+"title": "ინგლისური ენა — 2025 წელი, ვარიანტი 5",
+"numQuestions": 55,
+"numOpen": 1,
+"hasAudio": true
+},
+{
 "slug": "inglisuri-1-varianti-2024",
 "subject": "english",
 "subjectKa": "ინგლისური ენა",
@@ -492,6 +600,18 @@
 "hasAudio": true
 },
 {
+"slug": "inglisuri-6-varianti-2024",
+"subject": "english",
+"subjectKa": "ინგლისური ენა",
+"year": 2024,
+"variant": 6,
+"kind": "test",
+"title": "ინგლისური ენა — 2024 წელი, ვარიანტი 6",
+"numQuestions": 55,
+"numOpen": 1,
+"hasAudio": true
+},
+{
 "slug": "inglisuri-1-varianti-2023",
 "subject": "english",
 "subjectKa": "ინგლისური ენა",
@@ -547,6 +667,18 @@
 "variant": 5,
 "kind": "test",
 "title": "ინგლისური ენა — 2023 წელი, ვარიანტი 5",
+"numQuestions": 55,
+"numOpen": 1,
+"hasAudio": true
+},
+{
+"slug": "inglisuri-6-varianti-2023",
+"subject": "english",
+"subjectKa": "ინგლისური ენა",
+"year": 2023,
+"variant": 6,
+"kind": "test",
+"title": "ინგლისური ენა — 2023 წელი, ვარიანტი 6",
 "numQuestions": 55,
 "numOpen": 1,
 "hasAudio": true

@@ -5,8 +5,8 @@
   "short": "მათ",
   "order": 1,
   "colour": "#4f46e5",
-  "tests": 14,
-  "questions": 536
+  "tests": 17,
+  "questions": 659
  },
  {
   "id": "georgian",
@@ -14,8 +14,8 @@
   "short": "ქართ",
   "order": 2,
   "colour": "#dc2626",
-  "tests": 18,
-  "questions": 392
+  "tests": 23,
+  "questions": 502
  },
  {
   "id": "english",
@@ -23,7 +23,7 @@
   "short": "ინგლ",
   "order": 3,
   "colour": "#0891b2",
-  "tests": 23,
-  "questions": 1193
+  "tests": 26,
+  "questions": 1358
  }
 ]

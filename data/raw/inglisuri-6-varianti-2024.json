@@ -1,0 +1,2571 @@
+{
+ "slug": "inglisuri-6-varianti-2024",
+ "url": "https://naec.ge/uploads/postData/20-24/%E1%83%90%E1%83%91%E1%83%98%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98%E1%83%94%E1%83%9C%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%202024%20-%20%E1%83%A2%E1%83%94%E1%83%A1%E1%83%A2%E1%83%94%E1%83%91%E1%83%98/%E1%83%98%E1%83%9C%E1%83%92%E1%83%9A%E1%83%98%E1%83%A1%E1%83%A3%E1%83%A0%E1%83%98%20%E1%83%94%E1%83%9C%E1%83%90%20%28%E1%83%93%E1%83%90%E1%83%9B%E1%83%90%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%97%E1%83%98%20%E1%83%A1%E1%83%94%E1%83%A1%E1%83%98%E1%83%90%29.pdf",
+ "subject": "english",
+ "subject_ka": "ინგლისური ენა",
+ "year": 2024,
+ "variant": 6,
+ "kind": "test",
+ "title": "ინგლისური ენა — 2024 წელი, ვარიანტი 6",
+ "num_questions": 54,
+ "num_content_blocks": 0,
+ "has_audio": true,
+ "blocks": [
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 1</h3><p>Task 1: Listen to the text and for each question mark the correct answer A, B, C or D. You now have 40 seconds to look through the task. You will then hear the recording twice. (8 points)</p></div>"
+  },
+  {
+   "kind": "content",
+   "html": "<div><audio src=\"listening.mp3\"></audio></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q1",
+   "number": 1,
+   "heading": "",
+   "stem_html": "<p>What do we learn about Pictou from the start?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) The speaker lives there.</span>",
+     "text": "The speaker lives there."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) It is a busy shipping port.</span>",
+     "text": "It is a busy shipping port."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) It is visited by many tourists.</span>",
+     "text": "It is visited by many tourists."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) There is a university there.</span>",
+     "text": "There is a university there."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q2",
+   "number": 2,
+   "heading": "",
+   "stem_html": "<p>The speaker mentions Jane to say that she</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) enjoys fishing.</span>",
+     "text": "enjoys fishing."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) finds history exciting.</span>",
+     "text": "finds history exciting."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) loves swimming.</span>",
+     "text": "loves swimming."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) knows Pictou’s culture well.</span>",
+     "text": "knows Pictou’s culture well."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q3",
+   "number": 3,
+   "heading": "",
+   "stem_html": "<p>Why is ‘The Birthplace of New Scotland’ the slogan for Pictou?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) The first ship was built here.</span>",
+     "text": "The first ship was built here."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) The first stone house was built here.</span>",
+     "text": "The first stone house was built here."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) The first immigrant baby was born here.</span>",
+     "text": "The first immigrant baby was born here."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) The first Scottish settlement was founded here.</span>",
+     "text": "The first Scottish settlement was founded here."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q4",
+   "number": 4,
+   "heading": "",
+   "stem_html": "<p>What does the Hector Festival celebrate?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Pictou’s Scottish roots.</span>",
+     "text": "Pictou’s Scottish roots."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) The day of Canadian art.</span>",
+     "text": "The day of Canadian art."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) The end of the ship construction.</span>",
+     "text": "The end of the ship construction."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) The beginnings of traditional music.</span>",
+     "text": "The beginnings of traditional music."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q5",
+   "number": 5,
+   "heading": "",
+   "stem_html": "<p>When did the Hector Festival start?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) In 1773.</span>",
+     "text": "In 1773."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) In 1930.</span>",
+     "text": "In 1930."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) In 1987.</span>",
+     "text": "In 1987."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) In 2016.</span>",
+     "text": "In 2016."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q6",
+   "number": 6,
+   "heading": "",
+   "stem_html": "<p>Which of the following was reconstructed in 2022?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) The copy of the ship Hector.</span>",
+     "text": "The copy of the ship Hector."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) The original ship Hector.</span>",
+     "text": "The original ship Hector."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) The Lighthouse Museum.</span>",
+     "text": "The Lighthouse Museum."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) The Fisheries Museum.</span>",
+     "text": "The Fisheries Museum."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q7",
+   "number": 7,
+   "heading": "",
+   "stem_html": "<p>The Lobster Carnival is dedicated to the end of</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) the hunting season.</span>",
+     "text": "the hunting season."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) the theatrical season.</span>",
+     "text": "the theatrical season."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) the summer season.</span>",
+     "text": "the summer season."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) the fishing season.</span>",
+     "text": "the fishing season."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q8",
+   "number": 8,
+   "heading": "",
+   "stem_html": "<p>What is true about Grohmann Knives factory?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) It is owned by the government.</span>",
+     "text": "It is owned by the government."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) It offers free factory tours.</span>",
+     "text": "It offers free factory tours."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) It is one of the two knife factories.</span>",
+     "text": "It is one of the two knife factories."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) Thirty employees work there.</span>",
+     "text": "Thirty employees work there."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 2</h3><p>Task 2: Read the questions (1-8) and find the answers to them in the paragraphs (A-F) of the text. Some paragraphs correspond to more than one question. (8 points)</p><h4>The myth of Jason and the Argonauts</h4><p><strong>A)</strong> The epic poem the Argonautica was written in the 3rd century BC by a Greek poet Apollonius. The well-known myth tells the story of the Greek mythological hero Jason who set sail in a ship with a group of 50 heroes. Their ship was the largest ship ever built, ‘the finest of all ships that braved the sea with oars’. The legendary ship was the first ship in recorded history to have a name - it was called Argo and the crew were known as ‘Argonauts’ or ‘Sailors of Argo’. Jason and his Argonauts set out on a sea voyage full of danger to the faraway land of Colchis in search of ‘the Golden Fleece’*. Their two-year journey led Jason and the Argonauts from present-day Greece all the way to Georgia. It was there, in the ancient Georgian Kingdom of Colchis, that Jason found not only ‘the Golden Fleece’ but also his bride – the beautiful princess of Colchis, Medea.</p><p><strong>B)</strong> For Greeks, the land of Colchis – present-day Georgia – was a fabulous land of gold and magic. Apollonius compares it to a paradise with blooming gardens, delicious fruit and fountains from which the wine flowed in streams. But is this all a myth or is it based on real events? Most scholars considered the Argonauts’ story to be only a myth, but the well-known British explorer, writer and historian Tim Severin believed that the legend of Jason and the Argonauts was based on a true story. So he decided to investigate the story of Jason. He studied principles of ship building for three years. And then according to the technology described in old historical sources, Tim Severin built the ship named Argo without a single metal nail.</p><p><strong>C)</strong> According to the epic poem of Apollonius, Jason’s Argo had 50 oars, but Severin’s Argo had only 20, making the ship much smaller and more economical to construct and operate. Severin felt that if a ship with 20 oars could complete the voyage, that would more than demonstrate that the legendary journey was possible. The new Argonauts, led by Captain Tim Severin, began their journey on May 3, 1984. The crew of the new Argo consisted of 12 Englishmen and Irish members – students from Oxford and Cambridge universities. The main crew of oarsmen were joined by Greek, Turkish and Georgian volunteers as they passed through each country’s territorial waters.</p><p><strong>D)</strong> Tim Severin and his Argonauts followed the same route which Jason and his crew covered 3000 years ago. Along the way they identified many of the sights visited by Jason and his Argonauts and found a likely explanation for the legend of ‘the Golden Fleece’: The people of Georgia have been extracting and processing gold for many thousands of years. Georgia is even home to the oldest known gold mine* in the world. The goldsmithing traditions* of Georgia continued to flourish during antiquity and the ancient Georgian Kingdom of Colchis was well-known for both its wealth of gold and its skilled goldsmiths.</p><p><strong>E)</strong> While in some countries ‘the Golden Fleece’ was a symbol of power and wealth, in the Caucasus the term ‘the Golden Fleece’ referred to a great amount of gold. According to Greek mythology and historical sources the ancient Georgian Kingdom of Colchis was rich in gold sands and the natives collected this metal from the rivers, using special wooden containers and sheepskins. So it was more than possible that Jason sailed to Colchis for gold. Various geological data, ancient artifacts and historical sources also support the theory that the myth about the expedition of Argonauts to the Kingdom of Colchis was a real event and that the main purpose of Jason’s mission was to get gold, as well as learn the technique of gold mining by means of sheepskin or fleece.</p><p><strong>F)</strong> Severin’s Argonauts safely reached their destination after a two-month journey of 2400 kilometers. When the expedition hero, Tim Severin was asked in Batumi whether he had found his Golden Fleece, he answered: ‘Yes, I have found it. I’ll always keep it in my heart. Impressive and unforgettable meetings with Georgians are my Golden Fleece and I hope I will someday come back to this beautiful country.’ Thus, Tim Severin together with his crew recreated the expedition of the first epic adventurers and helped us better understand the past and appreciate the significance of those early explorations.\n\n* Golden Fleece: ოქროს საწმისი   * goldsmithing tradition: საოქრომჭედლო ტრადიცია   * mine: მაღარო   * gold mining - ოქროს მოპოვება</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q9",
+   "number": 9,
+   "heading": "",
+   "stem_html": "<p>Which paragraph describes the ancient technology of gold mining?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q10",
+   "number": 10,
+   "heading": "",
+   "stem_html": "<p>Which paragraph states the duration of Jason and his Argonauts’ journey?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q11",
+   "number": 11,
+   "heading": "",
+   "stem_html": "<p>Which paragraph says that Severin’s crew could recognise the places the Argonauts had visited?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q12",
+   "number": 12,
+   "heading": "",
+   "stem_html": "<p>Which paragraph mentions two goals of Jason’s sea voyage?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q13",
+   "number": 13,
+   "heading": "",
+   "stem_html": "<p>Which paragraph says that Severin’s view of the myth differed from the accepted opinion?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q14",
+   "number": 14,
+   "heading": "",
+   "stem_html": "<p>Which paragraph suggests that a smaller ship could be used to prove Severin’s theory?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q15",
+   "number": 15,
+   "heading": "",
+   "stem_html": "<p>Which paragraph could have the title: ‘The first ship with a name’?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q16",
+   "number": 16,
+   "heading": "",
+   "stem_html": "<p>Which paragraph could have the title: ‘In love with Georgia’?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე)</span>",
+     "text": ""
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ)</span>",
+     "text": ""
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 3</h3><p>Task 3: Read the text and the questions which follow. For each question mark the correct answer (A, B, C or D). (8 points)</p><h4>This is a true story of Yūichirō Miura, a great alpinist, skier and explorer.</h4><p>This is a true story of Yūichirō Miura, a great alpinist, skier and explorer.</p><p>‘I was born on October 12, 1932, in Japan. I was very young when I learnt skiing and fell in love with the mountains. And it isn’t surprising since my father, Keizo Miura, was a skier and a mountain photographer. He set a world speed record in skiing in 1964. My father stayed fit and did extreme sports even when he was quite old. So I followed in his footsteps. I was very young when I started to explore the Japanese Alps; and already then, I knew that my heart belonged to the mountains and extreme sports. As the years passed, my passion for the adventures only grew stronger and I decided to dedicate my life to becoming an alpinist and adventurer. In 1970, at the age of 37, I had a significant achievement that brought me international recognition. I became the first person to ski down the most dangerous slope of Mount Everest. I had no idea that it would be the beginning of a series of ambitious challenges I would undertake.</p><p>During my career, I came across a lot of challenges and failures, but I refused to let them scare me. You have to be courageous if you want to achieve your dreams. In 2003, at the age of 70, I faced a severe accident during a skiing expedition in the Japanese Alps. I was badly hurt and many people thought that I would never be able to climb mountains again. But I was determined not to let my dreams fade away. Through absolute determination and strong willpower, I started a long journey of recovery and intense physical therapy. Although it seemed impossible, I managed to make an extraordinary comeback, proving to the world that I would not be defeated.</p><p>One of the most significant achievements in my life came in 2013 when, at the age of 80, I reached the summit of Mount Everest and became the oldest person to do so. It was a moment of triumph. My achievement was shared by everyone who thought that age shouldn't stop people from following their dreams. Beyond Everest, my passion for the mountains and adventure never declined. I continued to challenge other peaks, always seeking to push my own limits and inspire others to do the same. My adventures became a symbol of determination and dedication to lifelong interests. But I wasn’t just an alpinist; I was also a family man. I shared my love for adventure with my son, Gota Miura, who often accompanied me on expeditions. Together, we shared unforgettable memories and strengthened our bond through shared experiences in the mountains. On January 21, 2019, my extraordinary journey as an adventurer and alpinist came to an end at the age of 86. While I may not be physically present, I hope that my story will encourage many people to take risks, embrace adventure and live life to the fullest, no matter their age or circumstances. The mountains have shaped and transformed me, and I believe they hold the power to change others’ lives as well.’</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q17",
+   "number": 17,
+   "heading": "",
+   "stem_html": "<p>What motivated the author’s love for skiing?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) The landscapes of Japan.</span>",
+     "text": "The landscapes of Japan."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) His attraction to adventure.</span>",
+     "text": "His attraction to adventure."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) His father’s love for extreme sports.</span>",
+     "text": "His father’s love for extreme sports."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) The mountain photos taken by his father.</span>",
+     "text": "The mountain photos taken by his father."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q18",
+   "number": 18,
+   "heading": "",
+   "stem_html": "<p>What did the author do in 1970 to achieve worldwide recognition?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) He set a speed record for downhill skiing.</span>",
+     "text": "He set a speed record for downhill skiing."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) He came down the riskiest slope of Everest.</span>",
+     "text": "He came down the riskiest slope of Everest."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) He became a famous photographer.</span>",
+     "text": "He became a famous photographer."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) He climbed Mount Everest.</span>",
+     "text": "He climbed Mount Everest."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q19",
+   "number": 19,
+   "heading": "",
+   "stem_html": "<p>Throughout his career the author</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) faced lots of difficulties.</span>",
+     "text": "faced lots of difficulties."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) had no problems at all.</span>",
+     "text": "had no problems at all."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) met many courageous people.</span>",
+     "text": "met many courageous people."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) was scared of taking challenges.</span>",
+     "text": "was scared of taking challenges."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q20",
+   "number": 20,
+   "heading": "",
+   "stem_html": "<p>What happened to the author after the accident in the Japanese Alps?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) He got better soon.</span>",
+     "text": "He got better soon."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) He lost motivation.</span>",
+     "text": "He lost motivation."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) He recovered slowly.</span>",
+     "text": "He recovered slowly."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) He stopped climbing mountains.</span>",
+     "text": "He stopped climbing mountains."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q21",
+   "number": 21,
+   "heading": "",
+   "stem_html": "<p>Why does the author mention 2013?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) He set a new goal for himself.</span>",
+     "text": "He set a new goal for himself."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) He reached the summit for the eighth time.</span>",
+     "text": "He reached the summit for the eighth time."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) He shared triumph with other elderly people.</span>",
+     "text": "He shared triumph with other elderly people."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) He achieved one of his greatest successes.</span>",
+     "text": "He achieved one of his greatest successes."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q22",
+   "number": 22,
+   "heading": "",
+   "stem_html": "<p>The author continued to conquer other peaks</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) to have fun.</span>",
+     "text": "to have fun."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) to motivate others.</span>",
+     "text": "to motivate others."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) to entertain people.</span>",
+     "text": "to entertain people."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) to prove his superiority.</span>",
+     "text": "to prove his superiority."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q23",
+   "number": 23,
+   "heading": "",
+   "stem_html": "<p>Who frequently accompanied the author on expeditions?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) A family member.</span>",
+     "text": "A family member."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) A professional guide.</span>",
+     "text": "A professional guide."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) A famous mountaineer.</span>",
+     "text": "A famous mountaineer."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) A close friend.</span>",
+     "text": "A close friend."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q24",
+   "number": 24,
+   "heading": "",
+   "stem_html": "<p>What message did the author send to the world with his story?</p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Mountaineering is a passion.</span>",
+     "text": "Mountaineering is a passion."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) Extreme sports should be avoided.</span>",
+     "text": "Extreme sports should be avoided."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Everest is the only peak worth climbing.</span>",
+     "text": "Everest is the only peak worth climbing."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) Age is no barrier to follow one’s dreams.</span>",
+     "text": "Age is no barrier to follow one’s dreams."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 4</h3><p>Task 4: Read the text and fill the gaps with the words given (A-N). Use each word only once. Two words are extra. (12 points)</p><h4>The first skyscrapers</h4><p>A skyscraper, generally built in cities, is a very tall high-rise building, usually more than 152 metres in height. Initially the term ‘skyscraper’ (1) either an ornament on the top of a building, or a high-flying bird. In the late nineteenth century, the term was used in regard to buildings that had more than ten stories. Later, a lift was used to take people up to the higher floors, as in the most (2) skyscraper of the USA, the Empire State Building. During the middle (3), the people who lived in the cities of northern Europe, began to build great (4). In order to make these structures stand out even more, several tall structures were added to them to make them higher and bring them (5) to God. In the nineteenth century the price of land (6). New businesses were starting and to make space for offices on a small piece of land, it was (7) to build higher buildings. But in order to build a stone building of such (8), the walls on the ground floor need to be more than two metres (9). This would support the weight of the building. So, some other material was required to make it possible to construct skyscrapers. About the same time, three architectural structures were put up that used iron or steel as structural elements to (10) great weight of the structures. They were the Crystal Palace in London, the Eiffel Tower in Paris and the Brooklyn Bridge in New York. Following that, architects began (11) with steel-framed buildings. Today, the tallest skyscrapers have a hundred floors or more (12) to the first 10-storey skyscrapers, which seem so small today.</p><p class='eng-bank'><strong>A)</strong> ages, <strong>B)</strong> cathedrals, <strong>C)</strong> closer, <strong>D)</strong> compared, <strong>E)</strong> experimenting, <strong>F)</strong> famous, <strong>G)</strong> first, <strong>H)</strong> grew, <strong>I)</strong> height, <strong>J)</strong> meant, <strong>K)</strong> necessary, <strong>L)</strong> steel, <strong>M)</strong> support, <strong>N)</strong> thick</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q25",
+   "number": 25,
+   "heading": "",
+   "stem_html": "<p><b>Gap 1</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q26",
+   "number": 26,
+   "heading": "",
+   "stem_html": "<p><b>Gap 2</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q27",
+   "number": 27,
+   "heading": "",
+   "stem_html": "<p><b>Gap 3</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q28",
+   "number": 28,
+   "heading": "",
+   "stem_html": "<p><b>Gap 4</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q29",
+   "number": 29,
+   "heading": "",
+   "stem_html": "<p><b>Gap 5</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q30",
+   "number": 30,
+   "heading": "",
+   "stem_html": "<p><b>Gap 6</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q31",
+   "number": 31,
+   "heading": "",
+   "stem_html": "<p><b>Gap 7</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q32",
+   "number": 32,
+   "heading": "",
+   "stem_html": "<p><b>Gap 8</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q33",
+   "number": 33,
+   "heading": "",
+   "stem_html": "<p><b>Gap 9</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q34",
+   "number": 34,
+   "heading": "",
+   "stem_html": "<p><b>Gap 10</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q35",
+   "number": 35,
+   "heading": "",
+   "stem_html": "<p><b>Gap 11</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q36",
+   "number": 36,
+   "heading": "",
+   "stem_html": "<p><b>Gap 12</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) ages</span>",
+     "text": "ages"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) cathedrals</span>",
+     "text": "cathedrals"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) closer</span>",
+     "text": "closer"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) compared</span>",
+     "text": "compared"
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) experimenting</span>",
+     "text": "experimenting"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) famous</span>",
+     "text": "famous"
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) first</span>",
+     "text": "first"
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) grew</span>",
+     "text": "grew"
+    },
+    {
+     "letter": "ი",
+     "html": "<span>ი) height</span>",
+     "text": "height"
+    },
+    {
+     "letter": "კ",
+     "html": "<span>კ) meant</span>",
+     "text": "meant"
+    },
+    {
+     "letter": "ლ",
+     "html": "<span>ლ) necessary</span>",
+     "text": "necessary"
+    },
+    {
+     "letter": "მ",
+     "html": "<span>მ) steel</span>",
+     "text": "steel"
+    },
+    {
+     "letter": "ნ",
+     "html": "<span>ნ) support</span>",
+     "text": "support"
+    },
+    {
+     "letter": "ო",
+     "html": "<span>ო) thick</span>",
+     "text": "thick"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 5</h3><p>Task 5: Read the text and mark the correct choice A, B, C or D. (12 points)</p><h4>An endangered species</h4><p>Among all the sea turtles with hard shells, the green sea turtle is the largest. It can grow to 1.5 meter (1) length and weigh up to 200 kilograms. They differ (2) other sea turtles in that they are herbivores, eating mostly seagrass. This diet is what gives (3) fat a greenish color, which is where their name comes (4). Although green turtles can be found in warm coastal areas (5) the world, Florida and Hawaii now have the biggest populations. In all these areas the turtles are (6) risk, with populations in Florida and Mexico officially described (7) endangered. Sea turtles are not fast swimmers. Usually they travel at around 1.4 to 9.3 km an hour, but have been found to swim up to 35 km an hour (8) frightened. People in many parts of the world have used the meat of the green sea turtle for food (9) ancient times and it is the main ingredient (10) turtle soup. The eggs, which the female turtles bury on sandy beaches, are also collected by hunters. Although laws banning the hunting have been passed in many countries, people carry (11) collecting them. In recent years, a new disease has been affecting green sea turtle populations. Scientists think that (12) disease is caused by a virus or parasite, but the exact cause is not yet known.</p></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q37",
+   "number": 37,
+   "heading": "",
+   "stem_html": "<p><b>Gap 1</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) of</span>",
+     "text": "of"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) from</span>",
+     "text": "from"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) on</span>",
+     "text": "on"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q38",
+   "number": 38,
+   "heading": "",
+   "stem_html": "<p><b>Gap 2</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) of</span>",
+     "text": "of"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) from</span>",
+     "text": "from"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) with</span>",
+     "text": "with"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q39",
+   "number": 39,
+   "heading": "",
+   "stem_html": "<p><b>Gap 3</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) his</span>",
+     "text": "his"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) her</span>",
+     "text": "her"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) their</span>",
+     "text": "their"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) theirs</span>",
+     "text": "theirs"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q40",
+   "number": 40,
+   "heading": "",
+   "stem_html": "<p><b>Gap 4</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) about</span>",
+     "text": "about"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) from</span>",
+     "text": "from"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) on</span>",
+     "text": "on"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) in</span>",
+     "text": "in"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q41",
+   "number": 41,
+   "heading": "",
+   "stem_html": "<p><b>Gap 5</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) off</span>",
+     "text": "off"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) about</span>",
+     "text": "about"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) above</span>",
+     "text": "above"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) around</span>",
+     "text": "around"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q42",
+   "number": 42,
+   "heading": "",
+   "stem_html": "<p><b>Gap 6</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) at</span>",
+     "text": "at"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) for</span>",
+     "text": "for"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) of</span>",
+     "text": "of"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q43",
+   "number": 43,
+   "heading": "",
+   "stem_html": "<p><b>Gap 7</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) about</span>",
+     "text": "about"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) as</span>",
+     "text": "as"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) so</span>",
+     "text": "so"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q44",
+   "number": 44,
+   "heading": "",
+   "stem_html": "<p><b>Gap 8</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) since</span>",
+     "text": "since"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) when</span>",
+     "text": "when"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) which</span>",
+     "text": "which"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) how</span>",
+     "text": "how"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q45",
+   "number": 45,
+   "heading": "",
+   "stem_html": "<p><b>Gap 9</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) but</span>",
+     "text": "but"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) as</span>",
+     "text": "as"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) because</span>",
+     "text": "because"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) since</span>",
+     "text": "since"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q46",
+   "number": 46,
+   "heading": "",
+   "stem_html": "<p><b>Gap 10</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) at</span>",
+     "text": "at"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) off</span>",
+     "text": "off"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) of</span>",
+     "text": "of"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) on</span>",
+     "text": "on"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q47",
+   "number": 47,
+   "heading": "",
+   "stem_html": "<p><b>Gap 11</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) on</span>",
+     "text": "on"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) up</span>",
+     "text": "up"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) in</span>",
+     "text": "in"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) off</span>",
+     "text": "off"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q48",
+   "number": 48,
+   "heading": "",
+   "stem_html": "<p><b>Gap 12</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) a</span>",
+     "text": "a"
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) an</span>",
+     "text": "an"
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) these</span>",
+     "text": "these"
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) the</span>",
+     "text": "the"
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "content",
+   "html": "<div><h3>Task 6</h3><p>Task 6: Complete the conversation. For questions 1-6, mark the correct letter A-H. Two sentences are extra. (6 points)</p><h4>At the hotel</h4><p><strong>Receptionist:</strong> Hello, welcome to the Holiday Inn Hotel. How can I help you?</p><p><strong>Guest:</strong> (1)</p><p><strong>Receptionist:</strong> Would you like a single, or a double room?</p><p><strong>Guest:</strong> (2)</p><p><strong>Receptionist:</strong> Sure, it’s going to be 55 dollars per night. Can I have your card, please?</p><p><strong>Guest:</strong> (3)</p><p><strong>Receptionist:</strong> It doesn’t matter. Either will do.</p><p><strong>Guest.</strong> (4)</p><p><strong>Receptionist:</strong> Thank you. Your room number is 276. It’s a single queen-size bed, spacious and nonsmoking. Is that suitable?</p><p><strong>Guest:</strong> (5)</p><p><strong>Receptionist:</strong> Great. Here’s your key.</p><p><strong>Guest:</strong> Which floor is it?</p><p><strong>Receptionist:</strong> (6)</p><p><strong>Guest:</strong> Thank you for your help.</p><p><strong>Receptionist:</strong> My pleasure. Enjoy your stay!</p><div class='eng-bank'><p><strong>A)</strong> Yes, it sounds just like what I have expected.</p><p><strong>B)</strong> I’m looking for a friend who must be staying at your hotel.</p><p><strong>C)</strong> Single, please, with a view on the ocean, if it isn’t very expensive, of course.</p><p><strong>D)</strong> I’d like a room for three nights.</p><p><strong>E)</strong> All right. Which card do you accept: Visa or Mastercard?</p><p><strong>F)</strong> Perfect, here you are.</p><p><strong>G)</strong> It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9.</p><p><strong>H)</strong> The rooms in this hotel are at reasonable prices.</p></div></div>"
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q49",
+   "number": 49,
+   "heading": "",
+   "stem_html": "<p><b>Gap 1</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Yes, it sounds just like what I have expected.</span>",
+     "text": "Yes, it sounds just like what I have expected."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) I’m looking for a friend who must be staying at your hotel.</span>",
+     "text": "I’m looking for a friend who must be staying at your hotel."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Single, please, with a view on the ocean, if it isn’t very expensive, of course.</span>",
+     "text": "Single, please, with a view on the ocean, if it isn’t very expensive, of course."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’d like a room for three nights.</span>",
+     "text": "I’d like a room for three nights."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) All right. Which card do you accept: Visa or Mastercard?</span>",
+     "text": "All right. Which card do you accept: Visa or Mastercard?"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Perfect, here you are.</span>",
+     "text": "Perfect, here you are."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9.</span>",
+     "text": "It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) The rooms in this hotel are at reasonable prices.</span>",
+     "text": "The rooms in this hotel are at reasonable prices."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q50",
+   "number": 50,
+   "heading": "",
+   "stem_html": "<p><b>Gap 2</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Yes, it sounds just like what I have expected.</span>",
+     "text": "Yes, it sounds just like what I have expected."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) I’m looking for a friend who must be staying at your hotel.</span>",
+     "text": "I’m looking for a friend who must be staying at your hotel."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Single, please, with a view on the ocean, if it isn’t very expensive, of course.</span>",
+     "text": "Single, please, with a view on the ocean, if it isn’t very expensive, of course."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’d like a room for three nights.</span>",
+     "text": "I’d like a room for three nights."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) All right. Which card do you accept: Visa or Mastercard?</span>",
+     "text": "All right. Which card do you accept: Visa or Mastercard?"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Perfect, here you are.</span>",
+     "text": "Perfect, here you are."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9.</span>",
+     "text": "It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) The rooms in this hotel are at reasonable prices.</span>",
+     "text": "The rooms in this hotel are at reasonable prices."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q51",
+   "number": 51,
+   "heading": "",
+   "stem_html": "<p><b>Gap 3</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Yes, it sounds just like what I have expected.</span>",
+     "text": "Yes, it sounds just like what I have expected."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) I’m looking for a friend who must be staying at your hotel.</span>",
+     "text": "I’m looking for a friend who must be staying at your hotel."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Single, please, with a view on the ocean, if it isn’t very expensive, of course.</span>",
+     "text": "Single, please, with a view on the ocean, if it isn’t very expensive, of course."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’d like a room for three nights.</span>",
+     "text": "I’d like a room for three nights."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) All right. Which card do you accept: Visa or Mastercard?</span>",
+     "text": "All right. Which card do you accept: Visa or Mastercard?"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Perfect, here you are.</span>",
+     "text": "Perfect, here you are."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9.</span>",
+     "text": "It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) The rooms in this hotel are at reasonable prices.</span>",
+     "text": "The rooms in this hotel are at reasonable prices."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q52",
+   "number": 52,
+   "heading": "",
+   "stem_html": "<p><b>Gap 4</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Yes, it sounds just like what I have expected.</span>",
+     "text": "Yes, it sounds just like what I have expected."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) I’m looking for a friend who must be staying at your hotel.</span>",
+     "text": "I’m looking for a friend who must be staying at your hotel."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Single, please, with a view on the ocean, if it isn’t very expensive, of course.</span>",
+     "text": "Single, please, with a view on the ocean, if it isn’t very expensive, of course."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’d like a room for three nights.</span>",
+     "text": "I’d like a room for three nights."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) All right. Which card do you accept: Visa or Mastercard?</span>",
+     "text": "All right. Which card do you accept: Visa or Mastercard?"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Perfect, here you are.</span>",
+     "text": "Perfect, here you are."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9.</span>",
+     "text": "It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) The rooms in this hotel are at reasonable prices.</span>",
+     "text": "The rooms in this hotel are at reasonable prices."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q53",
+   "number": 53,
+   "heading": "",
+   "stem_html": "<p><b>Gap 5</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Yes, it sounds just like what I have expected.</span>",
+     "text": "Yes, it sounds just like what I have expected."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) I’m looking for a friend who must be staying at your hotel.</span>",
+     "text": "I’m looking for a friend who must be staying at your hotel."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Single, please, with a view on the ocean, if it isn’t very expensive, of course.</span>",
+     "text": "Single, please, with a view on the ocean, if it isn’t very expensive, of course."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’d like a room for three nights.</span>",
+     "text": "I’d like a room for three nights."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) All right. Which card do you accept: Visa or Mastercard?</span>",
+     "text": "All right. Which card do you accept: Visa or Mastercard?"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Perfect, here you are.</span>",
+     "text": "Perfect, here you are."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9.</span>",
+     "text": "It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) The rooms in this hotel are at reasonable prices.</span>",
+     "text": "The rooms in this hotel are at reasonable prices."
+    }
+   ],
+   "correct": ""
+  },
+  {
+   "kind": "question",
+   "type": "mcq",
+   "id": "q54",
+   "number": 54,
+   "heading": "",
+   "stem_html": "<p><b>Gap 6</b></p>",
+   "figures": [],
+   "options": [
+    {
+     "letter": "ა",
+     "html": "<span>ა) Yes, it sounds just like what I have expected.</span>",
+     "text": "Yes, it sounds just like what I have expected."
+    },
+    {
+     "letter": "ბ",
+     "html": "<span>ბ) I’m looking for a friend who must be staying at your hotel.</span>",
+     "text": "I’m looking for a friend who must be staying at your hotel."
+    },
+    {
+     "letter": "გ",
+     "html": "<span>გ) Single, please, with a view on the ocean, if it isn’t very expensive, of course.</span>",
+     "text": "Single, please, with a view on the ocean, if it isn’t very expensive, of course."
+    },
+    {
+     "letter": "დ",
+     "html": "<span>დ) I’d like a room for three nights.</span>",
+     "text": "I’d like a room for three nights."
+    },
+    {
+     "letter": "ე",
+     "html": "<span>ე) All right. Which card do you accept: Visa or Mastercard?</span>",
+     "text": "All right. Which card do you accept: Visa or Mastercard?"
+    },
+    {
+     "letter": "ვ",
+     "html": "<span>ვ) Perfect, here you are.</span>",
+     "text": "Perfect, here you are."
+    },
+    {
+     "letter": "ზ",
+     "html": "<span>ზ) It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9.</span>",
+     "text": "It’s on the 2nd floor, you can take the elevator. If you need anything, just dial 9."
+    },
+    {
+     "letter": "თ",
+     "html": "<span>თ) The rooms in this hotel are at reasonable prices.</span>",
+     "text": "The rooms in this hotel are at reasonable prices."
+    }
+   ],
+   "correct": ""
+  }
+ ]
+}

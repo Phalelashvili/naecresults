@@ -4,6 +4,7 @@ import { loadTest } from '../lib/data.js'
 import { testToSession } from '../lib/session.js'
 import Runner from '../components/Runner.jsx'
 import PdfLinks from '../components/PdfLinks.jsx'
+import RatingScheme from '../components/RatingScheme.jsx'
 
 function Intro({ session, onPick }) {
   return (
@@ -17,6 +18,7 @@ function Intro({ session, onPick }) {
         {session.hasAudio && <span>🎧 მოსასმენი ნაწილით</span>}
       </div>
       <PdfLinks source={session} />
+      <RatingScheme subject={session.subject} pdf={session.pdf} />
       <h2 className="intro-h2">აირჩიე რეჟიმი</h2>
       <div className="mode-cards">
         <button className="mode-card" onClick={() => onPick('instant')}>

@@ -113,5 +113,20 @@
   "prompt_html": "<p>Many young people nowadays make friends through internet sites and different applications. What do YOU think about this? Give your own opinion and support it with arguments.</p>",
   "words": "120-170",
   "points": 16
+ },
+ "inglisuri-6-varianti-2023": {
+  "prompt_html": "<p>Some people think that autumn is the best season of the year. Do you agree or disagree with this opinion? State your opinion and support it with reasons and examples.</p>",
+  "words": "120-170",
+  "points": 16
+ },
+ "inglisuri-6-varianti-2024": {
+  "prompt_html": "<p>It is important that every person knows the history of his or her country. What do YOU think about this? Give your own opinion and support it with arguments.</p>",
+  "words": "120-170",
+  "points": 16
+ },
+ "inglisuri-5-varianti-2025": {
+  "prompt_html": "<p>Public transport should be free for elderly people. What do YOU think about this? Give your own opinion and support it with arguments.</p>",
+  "words": "120-170",
+  "points": 16
  }
 }
